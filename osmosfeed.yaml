@@ -9,4 +9,11 @@ cacheMaxDays: 30
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://web3cave.github.io/flat-data-template/data.xml
+  # 链求君 
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw
+  # FreeCodeCamp
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ
+  # Dev DAO 
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g
+  # Chico Crypto 
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw

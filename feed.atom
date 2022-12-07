@@ -1,8 +1,197 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T10:06:14.576Z</id>
+    <id>urn:2022-12-07T10:07:32.787Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-07T10:06:14.576Z</updated>
+    <updated>2022-12-07T10:07:32.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Satoshi Nakamoto Returns & Is ALIVE!!!!!!! We Have 100% Proof They’re Still Out There!]]></title>
+        <id>https://www.youtube.com/watch?v=F6USltJKuk4</id>
+        <link href="https://www.youtube.com/watch?v=F6USltJKuk4"/>
+        <updated>2022-12-06T20:41:49.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python GUI Development Using PySide6 and Qt – Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=Z1N9JzNax2k</id>
+        <link href="https://www.youtube.com/watch?v=Z1N9JzNax2k"/>
+        <updated>2022-12-05T15:42:34.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 3 "Get Rich" Crypto Airdrops of 2023!!!! The Biggest & Most Lucrative of ALL TIME!!?]]></title>
+        <id>https://www.youtube.com/watch?v=zbXKyJHTflQ</id>
+        <link href="https://www.youtube.com/watch?v=zbXKyJHTflQ"/>
+        <updated>2022-12-01T20:05:50.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB Crash Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=7f50sQYjNRA</id>
+        <link href="https://www.youtube.com/watch?v=7f50sQYjNRA"/>
+        <updated>2022-11-30T14:08:35.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Lens for Developers]]></title>
+        <id>https://www.youtube.com/watch?v=M_CeggIzrzw</id>
+        <link href="https://www.youtube.com/watch?v=M_CeggIzrzw"/>
+        <updated>2022-11-29T00:46:32.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django REST Framework Course – Build Web APIs with Python]]></title>
+        <id>https://www.youtube.com/watch?v=tujhGdn1EMI</id>
+        <link href="https://www.youtube.com/watch?v=tujhGdn1EMI"/>
+        <updated>2022-11-28T15:11:35.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何发现最新的Web3产品? 发现早期黑马项目!  项目方如何高效推广自己的项目?   两个Web3 发现网站推荐!]]></title>
+        <id>https://www.youtube.com/watch?v=bA_Dpt6FiWU</id>
+        <link href="https://www.youtube.com/watch?v=bA_Dpt6FiWU"/>
+        <updated>2022-11-28T08:46:45.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个平台通过区块链让你预测体育赛事?   世界杯竞猜:  无需KYC的体育比赛Web3彩票平台.   Overtime Markets !]]></title>
+        <id>https://www.youtube.com/watch?v=QRnEV7LtXAI</id>
+        <link href="https://www.youtube.com/watch?v=QRnEV7LtXAI"/>
+        <updated>2022-11-26T05:09:20.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BINANCE IS NEXT!! We Have *100% PROOF* They Run On Fractional Reserves!!!??]]></title>
+        <id>https://www.youtube.com/watch?v=b1HMkunLsDA</id>
+        <link href="https://www.youtube.com/watch?v=b1HMkunLsDA"/>
+        <updated>2022-11-23T19:56:30.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python & PyGame Tutorial – Code a Duck Hunt Game]]></title>
+        <id>https://www.youtube.com/watch?v=T2pd3KRSoHI</id>
+        <link href="https://www.youtube.com/watch?v=T2pd3KRSoHI"/>
+        <updated>2022-11-22T14:34:42.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evidence FTX & Sam Bankman Are Part of The "Deep State" Sent to Destroy Crypto!!]]></title>
+        <id>https://www.youtube.com/watch?v=krxnsJzREjk</id>
+        <link href="https://www.youtube.com/watch?v=krxnsJzREjk"/>
+        <updated>2022-11-17T20:55:17.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a WordPress Blog and Website – Tutorial for Beginners 2022]]></title>
+        <id>https://www.youtube.com/watch?v=9VPq1JxMfkA</id>
+        <link href="https://www.youtube.com/watch?v=9VPq1JxMfkA"/>
+        <updated>2022-11-17T15:16:10.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step Aside Bitcoin….This Altcoin Could Become #1 (Microsoft & Shell Partner)]]></title>
+        <id>https://www.youtube.com/watch?v=hWXFjsUcipk</id>
+        <link href="https://www.youtube.com/watch?v=hWXFjsUcipk"/>
+        <updated>2022-11-16T20:23:23.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React State Management – Intermediate JavaScript Course]]></title>
+        <id>https://www.youtube.com/watch?v=-bEzt5ISACA</id>
+        <link href="https://www.youtube.com/watch?v=-bEzt5ISACA"/>
+        <updated>2022-11-15T15:00:28.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Full Stack Permanent Applications with Arweave, Smartweave, and Next.js]]></title>
+        <id>https://www.youtube.com/watch?v=cGLMN5A2C4E</id>
+        <link href="https://www.youtube.com/watch?v=cGLMN5A2C4E"/>
+        <updated>2022-11-11T16:54:59.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX 崩盘之后, 创始人SBF一筹莫展, 但他的朋友们为他提供了最坦诚的建议.]]></title>
+        <id>https://www.youtube.com/watch?v=D7e-yeRn7U4</id>
+        <link href="https://www.youtube.com/watch?v=D7e-yeRn7U4"/>
+        <updated>2022-11-11T13:46:12.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DARK Agenda of FTX & Sam Bankman! Binance, The CFTC & Destroying Crypto!!]]></title>
+        <id>https://www.youtube.com/watch?v=fuhWHpPNtZg</id>
+        <link href="https://www.youtube.com/watch?v=fuhWHpPNtZg"/>
+        <updated>2022-11-10T19:35:14.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript – Full Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=30LWjhZzg50</id>
+        <link href="https://www.youtube.com/watch?v=30LWjhZzg50"/>
+        <updated>2022-11-10T16:03:31.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lens GraphQL API in 90 Seconds]]></title>
+        <id>https://www.youtube.com/watch?v=mIJKa2-2p8w</id>
+        <link href="https://www.youtube.com/watch?v=mIJKa2-2p8w"/>
+        <updated>2022-11-09T20:39:30.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Command Line Hacking – Over The Wire Bandit Walkthrough (CTF Wargame)]]></title>
+        <id>https://www.youtube.com/watch?v=9ReSHQihuZw</id>
+        <link href="https://www.youtube.com/watch?v=9ReSHQihuZw"/>
+        <updated>2022-11-09T15:40:01.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microservice Architecture and System Design with Python & Kubernetes – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=hmkF77F9TLw</id>
+        <link href="https://www.youtube.com/watch?v=hmkF77F9TLw"/>
+        <updated>2022-11-08T14:53:48.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
 </feed>

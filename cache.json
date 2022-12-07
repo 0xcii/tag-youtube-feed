@@ -1,10 +1,242 @@
 {
   "sources": [
     {
-      "title": "Dao Tools RSS",
-      "feedUrl": "https://web3cave.github.io/flat-data-template/data.xml",
-      "siteUrl": "https://web3cave.github.io/flat-data-template/data.xml",
-      "articles": []
+      "title": "链求君",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=bA_Dpt6FiWU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bA_Dpt6FiWU",
+          "publishedOn": "2022-11-28T08:46:45.000Z",
+          "wordCount": null,
+          "title": "如何发现最新的Web3产品? 发现早期黑马项目!  项目方如何高效推广自己的项目?   两个Web3 发现网站推荐!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QRnEV7LtXAI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QRnEV7LtXAI",
+          "publishedOn": "2022-11-26T05:09:20.000Z",
+          "wordCount": null,
+          "title": "这个平台通过区块链让你预测体育赛事?   世界杯竞猜:  无需KYC的体育比赛Web3彩票平台.   Overtime Markets !",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D7e-yeRn7U4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D7e-yeRn7U4",
+          "publishedOn": "2022-11-11T13:46:12.000Z",
+          "wordCount": null,
+          "title": "FTX 崩盘之后, 创始人SBF一筹莫展, 但他的朋友们为他提供了最坦诚的建议.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Z1N9JzNax2k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z1N9JzNax2k",
+          "publishedOn": "2022-12-05T15:42:34.000Z",
+          "wordCount": null,
+          "title": "Python GUI Development Using PySide6 and Qt – Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7f50sQYjNRA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7f50sQYjNRA",
+          "publishedOn": "2022-11-30T14:08:35.000Z",
+          "wordCount": null,
+          "title": "MATLAB Crash Course for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tujhGdn1EMI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tujhGdn1EMI",
+          "publishedOn": "2022-11-28T15:11:35.000Z",
+          "wordCount": null,
+          "title": "Django REST Framework Course – Build Web APIs with Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T2pd3KRSoHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T2pd3KRSoHI",
+          "publishedOn": "2022-11-22T14:34:42.000Z",
+          "wordCount": null,
+          "title": "Python & PyGame Tutorial – Code a Duck Hunt Game",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9VPq1JxMfkA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9VPq1JxMfkA",
+          "publishedOn": "2022-11-17T15:16:10.000Z",
+          "wordCount": null,
+          "title": "How to Make a WordPress Blog and Website – Tutorial for Beginners 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-bEzt5ISACA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-bEzt5ISACA",
+          "publishedOn": "2022-11-15T15:00:28.000Z",
+          "wordCount": null,
+          "title": "React State Management – Intermediate JavaScript Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=30LWjhZzg50",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=30LWjhZzg50",
+          "publishedOn": "2022-11-10T16:03:31.000Z",
+          "wordCount": null,
+          "title": "Learn TypeScript – Full Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9ReSHQihuZw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9ReSHQihuZw",
+          "publishedOn": "2022-11-09T15:40:01.000Z",
+          "wordCount": null,
+          "title": "Command Line Hacking – Over The Wire Bandit Walkthrough (CTF Wargame)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hmkF77F9TLw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hmkF77F9TLw",
+          "publishedOn": "2022-11-08T14:53:48.000Z",
+          "wordCount": null,
+          "title": "Microservice Architecture and System Design with Python & Kubernetes – Full Course",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=M_CeggIzrzw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M_CeggIzrzw",
+          "publishedOn": "2022-11-29T00:46:32.000Z",
+          "wordCount": null,
+          "title": "Introduction to Lens for Developers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cGLMN5A2C4E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cGLMN5A2C4E",
+          "publishedOn": "2022-11-11T16:54:59.000Z",
+          "wordCount": null,
+          "title": "Building Full Stack Permanent Applications with Arweave, Smartweave, and Next.js",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mIJKa2-2p8w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mIJKa2-2p8w",
+          "publishedOn": "2022-11-09T20:39:30.000Z",
+          "wordCount": null,
+          "title": "The Lens GraphQL API in 90 Seconds",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F6USltJKuk4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F6USltJKuk4",
+          "publishedOn": "2022-12-06T20:41:49.000Z",
+          "wordCount": null,
+          "title": "Satoshi Nakamoto Returns & Is ALIVE!!!!!!! We Have 100% Proof They’re Still Out There!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zbXKyJHTflQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zbXKyJHTflQ",
+          "publishedOn": "2022-12-01T20:05:50.000Z",
+          "wordCount": null,
+          "title": "TOP 3 \"Get Rich\" Crypto Airdrops of 2023!!!! The Biggest & Most Lucrative of ALL TIME!!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=b1HMkunLsDA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b1HMkunLsDA",
+          "publishedOn": "2022-11-23T19:56:30.000Z",
+          "wordCount": null,
+          "title": "BINANCE IS NEXT!! We Have *100% PROOF* They Run On Fractional Reserves!!!??",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=krxnsJzREjk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=krxnsJzREjk",
+          "publishedOn": "2022-11-17T20:55:17.000Z",
+          "wordCount": null,
+          "title": "Evidence FTX & Sam Bankman Are Part of The \"Deep State\" Sent to Destroy Crypto!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hWXFjsUcipk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hWXFjsUcipk",
+          "publishedOn": "2022-11-16T20:23:23.000Z",
+          "wordCount": null,
+          "title": "Step Aside Bitcoin….This Altcoin Could Become #1 (Microsoft & Shell Partner)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fuhWHpPNtZg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fuhWHpPNtZg",
+          "publishedOn": "2022-11-10T19:35:14.000Z",
+          "wordCount": null,
+          "title": "The DARK Agenda of FTX & Sam Bankman! Binance, The CFTC & Destroying Crypto!!",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

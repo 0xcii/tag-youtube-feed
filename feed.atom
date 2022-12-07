@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T14:03:16.345Z</id>
+    <id>urn:2022-12-07T15:04:35.007Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-07T14:03:16.345Z</updated>
+    <updated>2022-12-07T15:04:35.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto NOW Getting Rekt.]]></title>
+        <id>https://www.youtube.com/watch?v=eOFGOMsDdP8</id>
+        <link href="https://www.youtube.com/watch?v=eOFGOMsDdP8"/>
+        <updated>2022-12-07T14:00:25.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeSo MetaMask Integration (Decentralised Social Media)]]></title>
         <id>https://www.youtube.com/watch?v=WLCA4PDNlMk</id>
@@ -361,15 +370,6 @@
         <id>https://www.youtube.com/watch?v=ebE3rnAAGD4</id>
         <link href="https://www.youtube.com/watch?v=ebE3rnAAGD4"/>
         <updated>2022-11-27T16:00:31.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Trust Wallet (Trust Wallet App & Browser Tutorial)]]></title>
-        <id>https://www.youtube.com/watch?v=2O-IvAC1g78</id>
-        <link href="https://www.youtube.com/watch?v=2O-IvAC1g78"/>
-        <updated>2022-11-27T14:00:01.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

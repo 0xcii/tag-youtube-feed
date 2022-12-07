@@ -237,6 +237,467 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1de7eaVQLc4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1de7eaVQLc4",
+          "publishedOn": "2022-12-06T14:00:01.000Z",
+          "wordCount": null,
+          "title": "The Huge Crypto Reset | Happening NOW",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=igJlQtcPaqE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=igJlQtcPaqE",
+          "publishedOn": "2022-12-05T14:00:19.000Z",
+          "wordCount": null,
+          "title": "Curve Finance Tutorial (Curve Swaps & Curve Yield Farming)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9ojPRXlu1rc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9ojPRXlu1rc",
+          "publishedOn": "2022-12-04T14:00:08.000Z",
+          "wordCount": null,
+          "title": "How to Use Ledger Crypto Wallets #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=75ZUY54AEzY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=75ZUY54AEzY",
+          "publishedOn": "2022-12-04T13:00:06.000Z",
+          "wordCount": null,
+          "title": "Ethereum Staking Tutorial (How to Stake ETH)!! #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GVxOuCMHGv0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GVxOuCMHGv0",
+          "publishedOn": "2022-12-03T16:00:06.000Z",
+          "wordCount": null,
+          "title": "How to Use Binance for Beginners! #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=W3_5LS2TLCw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W3_5LS2TLCw",
+          "publishedOn": "2022-12-03T14:30:13.000Z",
+          "wordCount": null,
+          "title": "Cardano ADA HUGE Updates 2023 #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RJ_VXJ9mQjo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RJ_VXJ9mQjo",
+          "publishedOn": "2022-12-02T14:00:11.000Z",
+          "wordCount": null,
+          "title": "Crypto Just Flipped *Again* | The Coming Fed Bailout",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pVIvmUGlddg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pVIvmUGlddg",
+          "publishedOn": "2022-12-01T14:00:31.000Z",
+          "wordCount": null,
+          "title": "Crypto Chart Analysis for Beginners (How to Read Crypto Charts)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HNBr8Xc9q1g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HNBr8Xc9q1g",
+          "publishedOn": "2022-11-30T17:00:14.000Z",
+          "wordCount": null,
+          "title": "Crypto Trading Strategies for Beginners! #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cGiadQC9PNc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cGiadQC9PNc",
+          "publishedOn": "2022-11-30T14:00:16.000Z",
+          "wordCount": null,
+          "title": "Ethereum Staking Tutorial for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rJI5WbpAh5I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rJI5WbpAh5I",
+          "publishedOn": "2022-11-29T14:00:20.000Z",
+          "wordCount": null,
+          "title": "Urgent Crypto Warning for Investors!!  [Plans Revealed]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zAQdvyPOiRA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zAQdvyPOiRA",
+          "publishedOn": "2022-11-28T14:00:37.000Z",
+          "wordCount": null,
+          "title": "$1,000 to $10,000 Crypto Day Trading Strategy Anyone Can Follow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PPPsDRWrIXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PPPsDRWrIXk",
+          "publishedOn": "2022-11-27T18:00:10.000Z",
+          "wordCount": null,
+          "title": "Crypto Day Trading for Beginners!! #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ebE3rnAAGD4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ebE3rnAAGD4",
+          "publishedOn": "2022-11-27T16:00:31.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Enters Bear Market Bottom Zone! #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2O-IvAC1g78",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2O-IvAC1g78",
+          "publishedOn": "2022-11-27T14:00:01.000Z",
+          "wordCount": null,
+          "title": "How to Use Trust Wallet (Trust Wallet App & Browser Tutorial)",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WLCA4PDNlMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WLCA4PDNlMk",
+          "publishedOn": "2022-12-07T12:00:26.000Z",
+          "wordCount": null,
+          "title": "DeSo MetaMask Integration (Decentralised Social Media)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TKF3icoIDfc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TKF3icoIDfc",
+          "publishedOn": "2022-12-06T13:55:31.000Z",
+          "wordCount": null,
+          "title": "The biggest crypto conference in Taiwan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sHUT3VZ6yRU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sHUT3VZ6yRU",
+          "publishedOn": "2022-12-06T12:00:26.000Z",
+          "wordCount": null,
+          "title": "Prettier Solidity Code (VS Code,  Plugin, Auto Format)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LsQ7eV8-O68",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LsQ7eV8-O68",
+          "publishedOn": "2022-12-06T12:00:11.000Z",
+          "wordCount": null,
+          "title": "The Truth About Using Assembly In Solidity! #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FPoLTkNMzf8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FPoLTkNMzf8",
+          "publishedOn": "2022-12-05T12:00:11.000Z",
+          "wordCount": null,
+          "title": "A Rogue Developer’s Critical Take on Dorsey’s Web5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0t8aRLqPXko",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0t8aRLqPXko",
+          "publishedOn": "2022-12-03T12:00:02.000Z",
+          "wordCount": null,
+          "title": "The BIGGEST Attack Types On The Blockchain 😳 #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=g0yB5GgmgRo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g0yB5GgmgRo",
+          "publishedOn": "2022-12-01T12:00:19.000Z",
+          "wordCount": null,
+          "title": "What are Trees and why are they so important? (Computer Science, Blockchain)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9xGKiUnExlE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9xGKiUnExlE",
+          "publishedOn": "2022-12-01T12:00:05.000Z",
+          "wordCount": null,
+          "title": "What Exactly Is Gas On ETH??  🤔 #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0yeLHdqYxnE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0yeLHdqYxnE",
+          "publishedOn": "2022-11-30T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Vyper in less than 1min #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=szG5iGtCmg8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=szG5iGtCmg8",
+          "publishedOn": "2022-11-30T12:00:34.000Z",
+          "wordCount": null,
+          "title": "Ethers.js Overview & Installation - Interacting with the Ethereum Blockchain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZS_LBw1B9VM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZS_LBw1B9VM",
+          "publishedOn": "2022-11-30T06:33:40.000Z",
+          "wordCount": null,
+          "title": "5 VS Code Extensions for Web3 Devs #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=euCLF-9TBqY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=euCLF-9TBqY",
+          "publishedOn": "2022-11-29T12:00:31.000Z",
+          "wordCount": null,
+          "title": "Hashes explained as fast as possible",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2fZ8MouDfJ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2fZ8MouDfJ0",
+          "publishedOn": "2022-11-29T12:00:01.000Z",
+          "wordCount": null,
+          "title": "Guilt.xyz: How To Use It For Your Community #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5LzqW79M9Ug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5LzqW79M9Ug",
+          "publishedOn": "2022-11-28T12:00:06.000Z",
+          "wordCount": null,
+          "title": "How to Make a Web3 Enabled Backend (Ether.JS x Express)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9iXkq09_bwc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9iXkq09_bwc",
+          "publishedOn": "2022-11-26T12:30:03.000Z",
+          "wordCount": null,
+          "title": "How to Calculate the Price of ETH? (Uniswap V3, sqrtPriceX96)",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Ze1ZnbsBqRk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ze1ZnbsBqRk",
+          "publishedOn": "2022-12-05T20:00:12.000Z",
+          "wordCount": null,
+          "title": "How much can you ACTUALLY make as a Web 3.0 dev in 2023?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qA6TUpxsAqU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qA6TUpxsAqU",
+          "publishedOn": "2022-12-05T17:39:51.000Z",
+          "wordCount": null,
+          "title": "🔴New Central Bank rollout looks BAD for crypto!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=thZvidgpeKo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=thZvidgpeKo",
+          "publishedOn": "2022-12-02T20:00:14.000Z",
+          "wordCount": null,
+          "title": "How to hack smart contracts with block.timestamp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=c1j_lloC54E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c1j_lloC54E",
+          "publishedOn": "2022-11-30T20:00:18.000Z",
+          "wordCount": null,
+          "title": "Blockchain will DESTROY the ticket industry!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gbWLKkpfihw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gbWLKkpfihw",
+          "publishedOn": "2022-11-28T20:00:12.000Z",
+          "wordCount": null,
+          "title": "7 Tips for landing your DREAM JOB in Web 3.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=d4Nwl4VTV0c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d4Nwl4VTV0c",
+          "publishedOn": "2022-11-25T15:00:24.000Z",
+          "wordCount": null,
+          "title": "How to land a highly paid Web 3.0 job in 2023!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XlP69e0U_8I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XlP69e0U_8I",
+          "publishedOn": "2022-11-23T20:00:10.000Z",
+          "wordCount": null,
+          "title": "Instagram getting into Web 3.0 - What You Must Know!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ByFTHMeVMvQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ByFTHMeVMvQ",
+          "publishedOn": "2022-11-21T21:30:00.000Z",
+          "wordCount": null,
+          "title": "The TRUTH about the current state of Crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uEIaXv490_Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uEIaXv490_Y",
+          "publishedOn": "2022-11-21T17:11:31.000Z",
+          "wordCount": null,
+          "title": "🔴Multi-Million $$$ Opportunities for Blockchain Devs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SW835Opvmjo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SW835Opvmjo",
+          "publishedOn": "2022-11-18T20:00:12.000Z",
+          "wordCount": null,
+          "title": "Critical Solution for Web 3.0 Mass Adoption is coming!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Y9Wn6gDcjxA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y9Wn6gDcjxA",
+          "publishedOn": "2022-11-16T21:45:00.000Z",
+          "wordCount": null,
+          "title": "Code a PASSIVE INCOME Web 3.0 domain marketplace step-by-step (Solidity, Hardhat, Javascript)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OQCDbIzEoWQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OQCDbIzEoWQ",
+          "publishedOn": "2022-11-14T17:11:20.000Z",
+          "wordCount": null,
+          "title": "🔴$500M Hacked from FTX - Developer Explains",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UB9ssMp_klY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UB9ssMp_klY",
+          "publishedOn": "2022-11-11T20:00:09.000Z",
+          "wordCount": null,
+          "title": "Top Reasons People FAIL to Become Web 3.0 Devs | DON’T DO THIS!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RRzWtvZS6Yw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RRzWtvZS6Yw",
+          "publishedOn": "2022-11-09T16:05:53.000Z",
+          "wordCount": null,
+          "title": "🔴WARNING: The Crypto Market is in Major Trouble!",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

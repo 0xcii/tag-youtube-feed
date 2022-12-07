@@ -49,7 +49,7 @@
           "link": "https://www.youtube.com/watch?v=8Xg7E9shq0U",
           "publishedOn": "2022-12-07T16:01:04.000Z",
           "wordCount": null,
-          "title": "Swift Programming – Full Course for Beginners",
+          "title": "Code an iPhone App with Swift – Full Course on iOS Swift Programming for Beginners",
           "imageUrl": null
         },
         {
@@ -59,7 +59,7 @@
           "link": "https://www.youtube.com/watch?v=Z1N9JzNax2k",
           "publishedOn": "2022-12-05T15:42:34.000Z",
           "wordCount": null,
-          "title": "Python GUI Development Using PySide6 and Qt – Tutorial",
+          "title": "Learn Python GUI Development for Desktop – PySide6 and Qt Tutorial",
           "imageUrl": null
         },
         {
@@ -254,6 +254,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HQJFbC4hTDA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HQJFbC4hTDA",
+          "publishedOn": "2022-12-07T17:00:09.000Z",
+          "wordCount": null,
+          "title": "How to Trade Cryptocurrency (Best Tips!!) #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eOFGOMsDdP8",
           "author": null,
           "description": "",
@@ -391,16 +401,6 @@
           "publishedOn": "2022-11-27T18:00:10.000Z",
           "wordCount": null,
           "title": "Crypto Day Trading for Beginners!! #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ebE3rnAAGD4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ebE3rnAAGD4",
-          "publishedOn": "2022-11-27T16:00:31.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Enters Bear Market Bottom Zone! #shorts",
           "imageUrl": null
         }
       ]

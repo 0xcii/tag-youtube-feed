@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T14:03:03.169Z</id>
+    <id>urn:2022-12-08T15:04:23.489Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-08T14:03:03.169Z</updated>
+    <updated>2022-12-08T15:04:23.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make Money with Cryptocurrency]]></title>
+        <id>https://www.youtube.com/watch?v=nTe1jzKa1FM</id>
+        <link href="https://www.youtube.com/watch?v=nTe1jzKa1FM"/>
+        <updated>2022-12-08T14:00:21.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Tips For Solidity Data Location 🤯 #shorts]]></title>
         <id>https://www.youtube.com/watch?v=wgQKBqDINec</id>
@@ -399,15 +408,6 @@
         <updated>2022-11-28T08:46:45.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Day Trading for Beginners!! #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=PPPsDRWrIXk</id>
-        <link href="https://www.youtube.com/watch?v=PPPsDRWrIXk"/>
-        <updated>2022-11-27T18:00:10.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

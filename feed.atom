@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T03:09:10.377Z</id>
+    <id>urn:2022-12-09T04:06:58.672Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T03:09:10.377Z</updated>
+    <updated>2022-12-09T04:06:58.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -588,24 +588,6 @@
         <updated>2022-11-09T20:39:30.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴WARNING: The Crypto Market is in Major Trouble!]]></title>
-        <id>https://www.youtube.com/watch?v=RRzWtvZS6Yw</id>
-        <link href="https://www.youtube.com/watch?v=RRzWtvZS6Yw"/>
-        <updated>2022-11-09T16:05:53.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command Line Hacking – Over The Wire Bandit Walkthrough (CTF Wargame)]]></title>
-        <id>https://www.youtube.com/watch?v=9ReSHQihuZw</id>
-        <link href="https://www.youtube.com/watch?v=9ReSHQihuZw"/>
-        <updated>2022-11-09T15:40:01.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

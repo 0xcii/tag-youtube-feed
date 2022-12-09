@@ -548,6 +548,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bz5c78Oc8T0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bz5c78Oc8T0",
+          "publishedOn": "2022-12-09T20:00:22.000Z",
+          "wordCount": null,
+          "title": "How to Code Web 3.0 Apps with ChatGPT A.I. Step-by-Step",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vDnHYm2g8is",
           "author": null,
           "description": "",

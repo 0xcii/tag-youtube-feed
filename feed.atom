@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-10T02:06:41.650Z</id>
+    <id>urn:2022-12-10T03:04:34.069Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-10T02:06:41.650Z</updated>
+    <updated>2022-12-10T03:04:34.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Staking Rewards (Defi)]]></title>
+        <id>https://www.youtube.com/watch?v=fOdKGqKITOw</id>
+        <link href="https://www.youtube.com/watch?v=fOdKGqKITOw"/>
+        <updated>2022-12-10T02:30:21.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Code Web 3.0 Apps with ChatGPT A.I. Step-by-Step]]></title>
         <id>https://www.youtube.com/watch?v=bz5c78Oc8T0</id>
@@ -370,15 +379,6 @@
         <id>https://www.youtube.com/watch?v=euCLF-9TBqY</id>
         <link href="https://www.youtube.com/watch?v=euCLF-9TBqY"/>
         <updated>2022-11-29T12:00:31.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guilt.xyz: How To Use It For Your Community #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=2fZ8MouDfJ0</id>
-        <link href="https://www.youtube.com/watch?v=2fZ8MouDfJ0"/>
-        <updated>2022-11-29T12:00:01.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

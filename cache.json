@@ -118,16 +118,6 @@
           "wordCount": null,
           "title": "Introduction to Lens for Developers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cGLMN5A2C4E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cGLMN5A2C4E",
-          "publishedOn": "2022-11-11T16:54:59.000Z",
-          "wordCount": null,
-          "title": "Building Full Stack Permanent Applications with Arweave, Smartweave, and Next.js",
-          "imageUrl": null
         }
       ]
     },

@@ -518,6 +518,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nfAk2XLJMac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nfAk2XLJMac",
+          "publishedOn": "2022-12-12T17:44:27.000Z",
+          "wordCount": null,
+          "title": "🔴Another major crypto exchange in trouble!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bz5c78Oc8T0",
           "author": null,
           "description": "",

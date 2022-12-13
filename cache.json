@@ -204,6 +204,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YEVOyS2I78k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YEVOyS2I78k",
+          "publishedOn": "2022-12-13T06:15:00.000Z",
+          "wordCount": null,
+          "title": "SAM BANKMAN-FRIED ARRESTED",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LzOQ87b-iyo",
           "author": null,
           "description": "",
@@ -341,16 +351,6 @@
           "publishedOn": "2022-12-01T14:00:31.000Z",
           "wordCount": null,
           "title": "Crypto Chart Analysis for Beginners (How to Read Crypto Charts)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HNBr8Xc9q1g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HNBr8Xc9q1g",
-          "publishedOn": "2022-11-30T17:00:14.000Z",
-          "wordCount": null,
-          "title": "Crypto Trading Strategies for Beginners! #shorts",
           "imageUrl": null
         }
       ]

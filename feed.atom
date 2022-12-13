@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-13T14:03:30.218Z</id>
+    <id>urn:2022-12-13T15:04:42.380Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-13T14:03:30.218Z</updated>
+    <updated>2022-12-13T15:04:42.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto: HUGE Divergence Now!]]></title>
+        <id>https://www.youtube.com/watch?v=r9mgF0vNn78</id>
+        <link href="https://www.youtube.com/watch?v=r9mgF0vNn78"/>
+        <updated>2022-12-13T14:30:25.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SAM BANKMAN-FRIED ARRESTED]]></title>
         <id>https://www.youtube.com/watch?v=YEVOyS2I78k</id>
@@ -327,15 +336,6 @@
         <updated>2022-12-01T20:05:50.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Chart Analysis for Beginners (How to Read Crypto Charts)]]></title>
-        <id>https://www.youtube.com/watch?v=pVIvmUGlddg</id>
-        <link href="https://www.youtube.com/watch?v=pVIvmUGlddg"/>
-        <updated>2022-12-01T14:00:31.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

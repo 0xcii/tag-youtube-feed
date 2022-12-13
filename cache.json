@@ -204,6 +204,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r9mgF0vNn78",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r9mgF0vNn78",
+          "publishedOn": "2022-12-13T14:30:25.000Z",
+          "wordCount": null,
+          "title": "Crypto: HUGE Divergence Now!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YEVOyS2I78k",
           "author": null,
           "description": "",
@@ -341,16 +351,6 @@
           "publishedOn": "2022-12-02T14:00:11.000Z",
           "wordCount": null,
           "title": "Crypto Just Flipped *Again* | The Coming Fed Bailout",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pVIvmUGlddg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pVIvmUGlddg",
-          "publishedOn": "2022-12-01T14:00:31.000Z",
-          "wordCount": null,
-          "title": "Crypto Chart Analysis for Beginners (How to Read Crypto Charts)",
           "imageUrl": null
         }
       ]

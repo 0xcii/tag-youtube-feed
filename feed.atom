@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-14T14:03:05.312Z</id>
+    <id>urn:2022-12-14T15:03:54.349Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-14T14:03:05.312Z</updated>
+    <updated>2022-12-14T15:03:54.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Buy & Sell Crypto Safely (Deposit, Trade, Withdraw)]]></title>
+        <id>https://www.youtube.com/watch?v=tgCG-_lvvkA</id>
+        <link href="https://www.youtube.com/watch?v=tgCG-_lvvkA"/>
+        <updated>2022-12-14T14:00:26.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto: HUGE Divergence Now!]]></title>
         <id>https://www.youtube.com/watch?v=r9mgF0vNn78</id>
@@ -318,15 +327,6 @@
         <updated>2022-12-02T20:00:14.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Just Flipped *Again* | The Coming Fed Bailout]]></title>
-        <id>https://www.youtube.com/watch?v=RJ_VXJ9mQjo</id>
-        <link href="https://www.youtube.com/watch?v=RJ_VXJ9mQjo"/>
-        <updated>2022-12-02T14:00:11.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

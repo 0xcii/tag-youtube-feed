@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T14:03:46.192Z</id>
+    <id>urn:2022-12-15T15:04:55.992Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-15T14:03:46.192Z</updated>
+    <updated>2022-12-15T15:04:55.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best Binance Futures Trading Strategy ($1,000 per month)]]></title>
+        <id>https://www.youtube.com/watch?v=45xw8WSLiz0</id>
+        <link href="https://www.youtube.com/watch?v=45xw8WSLiz0"/>
+        <updated>2022-12-15T14:00:02.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Hashing In Under 1 Minute!🤯]]></title>
         <id>https://www.youtube.com/watch?v=Mt9ISHlR3XE</id>
@@ -334,15 +343,6 @@
         <id>https://www.youtube.com/watch?v=GVxOuCMHGv0</id>
         <link href="https://www.youtube.com/watch?v=GVxOuCMHGv0"/>
         <updated>2022-12-03T16:00:06.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano ADA HUGE Updates 2023 #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=W3_5LS2TLCw</id>
-        <link href="https://www.youtube.com/watch?v=W3_5LS2TLCw"/>
-        <updated>2022-12-03T14:30:13.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

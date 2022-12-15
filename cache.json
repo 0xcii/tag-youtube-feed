@@ -214,6 +214,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=45xw8WSLiz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=45xw8WSLiz0",
+          "publishedOn": "2022-12-15T14:00:02.000Z",
+          "wordCount": null,
+          "title": "Best Binance Futures Trading Strategy ($1,000 per month)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tgCG-_lvvkA",
           "author": null,
           "description": "",
@@ -351,16 +361,6 @@
           "publishedOn": "2022-12-03T16:00:06.000Z",
           "wordCount": null,
           "title": "How to Use Binance for Beginners! #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W3_5LS2TLCw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W3_5LS2TLCw",
-          "publishedOn": "2022-12-03T14:30:13.000Z",
-          "wordCount": null,
-          "title": "Cardano ADA HUGE Updates 2023 #shorts",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T11:02:35.530Z</id>
+    <id>urn:2022-12-15T12:10:25.596Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-15T11:02:35.530Z</updated>
+    <updated>2022-12-15T12:10:25.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Hashing In Under 1 Minute!🤯]]></title>
+        <id>https://www.youtube.com/watch?v=Mt9ISHlR3XE</id>
+        <link href="https://www.youtube.com/watch?v=Mt9ISHlR3XE"/>
+        <updated>2022-12-15T12:00:11.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Is The #1 BIGGEST Opportunity In Crypto For 2023!!! Don Not Miss This ALPHA!!!!]]></title>
         <id>https://www.youtube.com/watch?v=PidzEXxJ6jg</id>
@@ -424,15 +433,6 @@
         <id>https://www.youtube.com/watch?v=ZS_LBw1B9VM</id>
         <link href="https://www.youtube.com/watch?v=ZS_LBw1B9VM"/>
         <updated>2022-11-30T06:33:40.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hashes explained as fast as possible]]></title>
-        <id>https://www.youtube.com/watch?v=euCLF-9TBqY</id>
-        <link href="https://www.youtube.com/watch?v=euCLF-9TBqY"/>
-        <updated>2022-11-29T12:00:31.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

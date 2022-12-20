@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-20T11:02:27.968Z</id>
+    <id>urn:2022-12-20T12:09:53.684Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-20T11:02:27.968Z</updated>
+    <updated>2022-12-20T12:09:53.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Are Dapps Actually Decentralized?? 🤔 #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=JC056unGfcM</id>
+        <link href="https://www.youtube.com/watch?v=JC056unGfcM"/>
+        <updated>2022-12-20T12:00:16.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100X Ethereum upgrade coming in 2023 (Sharding)]]></title>
         <id>https://www.youtube.com/watch?v=c_lPgJnqAp0</id>
@@ -460,15 +469,6 @@
         <id>https://www.youtube.com/watch?v=szG5iGtCmg8</id>
         <link href="https://www.youtube.com/watch?v=szG5iGtCmg8"/>
         <updated>2022-11-30T12:00:34.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 VS Code Extensions for Web3 Devs #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=ZS_LBw1B9VM</id>
-        <link href="https://www.youtube.com/watch?v=ZS_LBw1B9VM"/>
-        <updated>2022-11-30T06:33:40.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

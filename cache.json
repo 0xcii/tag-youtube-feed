@@ -361,6 +361,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yG8H7wsow08",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yG8H7wsow08",
+          "publishedOn": "2022-12-22T12:00:37.000Z",
+          "wordCount": null,
+          "title": "Use AI To Code Smart Contract FASTER! 🤯 #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JC056unGfcM",
           "author": null,
           "description": "",
@@ -498,16 +508,6 @@
           "publishedOn": "2022-11-30T18:00:00.000Z",
           "wordCount": null,
           "title": "Vyper in less than 1min #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=szG5iGtCmg8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=szG5iGtCmg8",
-          "publishedOn": "2022-11-30T12:00:34.000Z",
-          "wordCount": null,
-          "title": "Ethers.js Overview & Installation - Interacting with the Ethereum Blockchain",
           "imageUrl": null
         }
       ]

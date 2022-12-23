@@ -528,6 +528,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fln_HPA2uOM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fln_HPA2uOM",
+          "publishedOn": "2022-12-23T20:00:18.000Z",
+          "wordCount": null,
+          "title": "How to Hack Smart Contracts With Slither & Echinda",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qqtEWXnILK4",
           "author": null,
           "description": "",
@@ -665,16 +675,6 @@
           "publishedOn": "2022-11-28T20:00:12.000Z",
           "wordCount": null,
           "title": "7 Tips for landing your DREAM JOB in Web 3.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d4Nwl4VTV0c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d4Nwl4VTV0c",
-          "publishedOn": "2022-11-25T15:00:24.000Z",
-          "wordCount": null,
-          "title": "How to land a highly paid Web 3.0 job in 2023!",
           "imageUrl": null
         }
       ]

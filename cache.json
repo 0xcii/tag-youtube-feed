@@ -4,18 +4,7 @@
       "title": "链求君",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=bA_Dpt6FiWU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bA_Dpt6FiWU",
-          "publishedOn": "2022-11-28T08:46:45.000Z",
-          "wordCount": null,
-          "title": "如何发现最新的Web3产品? 发现早期黑马项目!  项目方如何高效推广自己的项目?   两个Web3 发现网站推荐!",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "freeCodeCamp.org",

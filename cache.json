@@ -204,6 +204,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O7M0ZcBCPa8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O7M0ZcBCPa8",
+          "publishedOn": "2022-12-27T14:00:09.000Z",
+          "wordCount": null,
+          "title": "How to Dollar Cost Average Crypto (Crypto DCA Strategy)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YKw9_DHC_lA",
           "author": null,
           "description": "",
@@ -341,16 +351,6 @@
           "publishedOn": "2022-12-09T14:00:24.000Z",
           "wordCount": null,
           "title": "Crypto Alert! It's Happening Now!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nTe1jzKa1FM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nTe1jzKa1FM",
-          "publishedOn": "2022-12-08T14:00:21.000Z",
-          "wordCount": null,
-          "title": "How to Make Money with Cryptocurrency",
           "imageUrl": null
         }
       ]

@@ -330,6 +330,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k3HpVFZITl8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k3HpVFZITl8",
+          "publishedOn": "2022-12-31T12:00:23.000Z",
+          "wordCount": null,
+          "title": "1min Tutorial On Solidity Data Location! ⏰ #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sJHsQhOYKo4",
           "author": null,
           "description": "",

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-02T19:02:18.648Z</id>
+    <id>urn:2023-01-02T20:03:34.281Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-02T19:02:18.648Z</updated>
+    <updated>2023-01-02T20:03:34.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Dev Makes $10,000 EVERY DAY with Trading Bot!]]></title>
+        <id>https://www.youtube.com/watch?v=NNWbL07HuCA</id>
+        <link href="https://www.youtube.com/watch?v=NNWbL07HuCA"/>
+        <updated>2023-01-02T20:00:05.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴2023 will be a MASSIVE year for crypto!]]></title>
         <id>https://www.youtube.com/watch?v=5_zbVeXEXbw</id>
@@ -496,15 +505,6 @@
         <id>https://www.youtube.com/watch?v=Ze1ZnbsBqRk</id>
         <link href="https://www.youtube.com/watch?v=Ze1ZnbsBqRk"/>
         <updated>2022-12-05T20:00:12.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴New Central Bank rollout looks BAD for crypto!]]></title>
-        <id>https://www.youtube.com/watch?v=qA6TUpxsAqU</id>
-        <link href="https://www.youtube.com/watch?v=qA6TUpxsAqU"/>
-        <updated>2022-12-05T17:39:51.000Z</updated>
         <author>
             <name>Dapp University</name>
         </author>

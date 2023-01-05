@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T23:03:21.306Z</id>
+    <id>urn:2023-01-05T00:31:09.678Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-04T23:03:21.306Z</updated>
+    <updated>2023-01-05T00:31:09.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -523,24 +523,6 @@
         <id>https://www.youtube.com/watch?v=TKF3icoIDfc</id>
         <link href="https://www.youtube.com/watch?v=TKF3icoIDfc"/>
         <updated>2022-12-06T13:55:31.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prettier Solidity Code (VS Code,  Plugin, Auto Format)]]></title>
-        <id>https://www.youtube.com/watch?v=sHUT3VZ6yRU</id>
-        <link href="https://www.youtube.com/watch?v=sHUT3VZ6yRU"/>
-        <updated>2022-12-06T12:00:26.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Truth About Using Assembly In Solidity! #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=LsQ7eV8-O68</id>
-        <link href="https://www.youtube.com/watch?v=LsQ7eV8-O68"/>
-        <updated>2022-12-06T12:00:11.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

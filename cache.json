@@ -468,26 +468,6 @@
           "wordCount": null,
           "title": "The biggest crypto conference in Taiwan",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sHUT3VZ6yRU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sHUT3VZ6yRU",
-          "publishedOn": "2022-12-06T12:00:26.000Z",
-          "wordCount": null,
-          "title": "Prettier Solidity Code (VS Code,  Plugin, Auto Format)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LsQ7eV8-O68",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LsQ7eV8-O68",
-          "publishedOn": "2022-12-06T12:00:11.000Z",
-          "wordCount": null,
-          "title": "The Truth About Using Assembly In Solidity! #shorts",
-          "imageUrl": null
         }
       ]
     },

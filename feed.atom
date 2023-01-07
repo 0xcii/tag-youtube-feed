@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-07T14:02:05.334Z</id>
+    <id>urn:2023-01-07T15:02:34.388Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-07T14:02:05.334Z</updated>
+    <updated>2023-01-07T15:02:34.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -498,15 +498,6 @@
         <updated>2022-12-09T20:00:22.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity: How to Encode Call Data?]]></title>
-        <id>https://www.youtube.com/watch?v=_VrKvnB8plA</id>
-        <link href="https://www.youtube.com/watch?v=_VrKvnB8plA"/>
-        <updated>2022-12-09T02:25:38.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

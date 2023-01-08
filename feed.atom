@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-08T19:02:10.396Z</id>
+    <id>urn:2023-01-08T20:03:24.095Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-08T19:02:10.396Z</updated>
+    <updated>2023-01-08T20:03:24.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[如何使用Web3建立的去中心化加密电子邮箱?  使用Web3钱包建立安全的点对通信!  Web3推荐的安全点对点隐私通信方式 !]]></title>
+        <id>https://www.youtube.com/watch?v=XeuBhg6Kt3Y</id>
+        <link href="https://www.youtube.com/watch?v=XeuBhg6Kt3Y"/>
+        <updated>2023-01-08T20:00:08.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best FREE Crypto Research Tools!! #shorts]]></title>
         <id>https://www.youtube.com/watch?v=kOkmR4Vudcw</id>

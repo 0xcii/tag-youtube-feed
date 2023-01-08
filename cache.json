@@ -4,7 +4,18 @@
       "title": "链求君",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Jysb7gvj_pc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jysb7gvj_pc",
+          "publishedOn": "2023-01-08T05:14:13.000Z",
+          "wordCount": null,
+          "title": "Web3工具神器揭秘：使用这些实用小工具轻松获得收益!  推荐教学超实用的Web3网站, 节省时间、提高效率、获得收益. 地址监控?  NFT扫描?  水龙头?  靓号生成?  批量空投?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "freeCodeCamp.org",

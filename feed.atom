@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T17:02:45.738Z</id>
+    <id>urn:2023-01-13T18:06:54.900Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-13T17:02:45.738Z</updated>
+    <updated>2023-01-13T18:06:54.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[区块链构建的Web3版本的Notion：去中心化协作工具+代币经济激励自治治理的完美结合!  通过代币经济激励实现高效、帮助去中心化团队实现自治的治理.]]></title>
+        <id>https://www.youtube.com/watch?v=ukb3wc7jYuo</id>
+        <link href="https://www.youtube.com/watch?v=ukb3wc7jYuo"/>
+        <updated>2023-01-13T18:00:20.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO - THIS IS CRAZY (HOPE)]]></title>
         <id>https://www.youtube.com/watch?v=djGs_CDv9Y0</id>

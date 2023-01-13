@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T08:07:59.905Z</id>
+    <id>urn:2023-01-13T09:06:59.484Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-13T08:07:59.905Z</updated>
+    <updated>2023-01-13T09:06:59.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -543,15 +543,6 @@
         <updated>2022-12-15T12:00:11.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is The #1 BIGGEST Opportunity In Crypto For 2023!!! Don Not Miss This ALPHA!!!!]]></title>
-        <id>https://www.youtube.com/watch?v=PidzEXxJ6jg</id>
-        <link href="https://www.youtube.com/watch?v=PidzEXxJ6jg"/>
-        <updated>2022-12-14T20:55:17.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

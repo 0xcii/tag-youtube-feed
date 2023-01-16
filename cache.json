@@ -518,6 +518,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=X1ahXNYkpL8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X1ahXNYkpL8",
+          "publishedOn": "2023-01-16T20:00:14.000Z",
+          "wordCount": null,
+          "title": "Code a Web 3.0 Amazon Clone Step-By-Step with Solidity, Ethers.js, React & Hardhat",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=o-vA92-RQDo",
           "author": null,
           "description": "",

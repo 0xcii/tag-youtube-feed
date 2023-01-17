@@ -284,6 +284,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=g1TQpE6Y-Pw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g1TQpE6Y-Pw",
+          "publishedOn": "2023-01-17T14:00:19.000Z",
+          "wordCount": null,
+          "title": "How to Set a Stop Loss & Take Profit with Crypto (Binance, Bybit)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xbsPKsuSFtA",
           "author": null,
           "description": "",
@@ -421,16 +431,6 @@
           "publishedOn": "2022-12-30T14:00:06.000Z",
           "wordCount": null,
           "title": "Binance Liquid Swap Tutorial (Liquidity Farming)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zWtlIpiX-Qg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zWtlIpiX-Qg",
-          "publishedOn": "2022-12-29T14:00:30.000Z",
-          "wordCount": null,
-          "title": "Crypto Holders WATCH OUT!! (Crypto Outlook 2023)",
           "imageUrl": null
         }
       ]

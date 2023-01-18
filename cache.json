@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=98bGwOYoEGg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=98bGwOYoEGg",
+          "publishedOn": "2023-01-18T15:57:33.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Clone – OpenAI API and React Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ft30zcMlFao",
           "author": null,
           "description": "",

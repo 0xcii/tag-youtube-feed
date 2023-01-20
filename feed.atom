@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T13:14:15.301Z</id>
+    <id>urn:2023-01-20T14:03:33.186Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-20T13:14:15.301Z</updated>
+    <updated>2023-01-20T14:03:33.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TradingView Tutorial 2023 (Step-by-Step Guide for Beginners)]]></title>
+        <id>https://www.youtube.com/watch?v=TzWN7f8Khb4</id>
+        <link href="https://www.youtube.com/watch?v=TzWN7f8Khb4"/>
+        <updated>2023-01-20T14:00:15.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will my prediction actualize? Will the twitter token ride in on the next bull?!]]></title>
         <id>https://www.youtube.com/watch?v=i_XY9FI34G8</id>
@@ -435,15 +444,6 @@
         <updated>2023-01-03T15:59:11.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Airdrops 2023! (Best FREE Airdrop Crypto Guide)]]></title>
-        <id>https://www.youtube.com/watch?v=1Ei48nTESpQ</id>
-        <link href="https://www.youtube.com/watch?v=1Ei48nTESpQ"/>
-        <updated>2023-01-03T14:00:00.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -314,6 +314,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TzWN7f8Khb4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TzWN7f8Khb4",
+          "publishedOn": "2023-01-20T14:00:15.000Z",
+          "wordCount": null,
+          "title": "TradingView Tutorial 2023 (Step-by-Step Guide for Beginners)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uVdLLwRDvG0",
           "author": null,
           "description": "",
@@ -451,16 +461,6 @@
           "publishedOn": "2023-01-04T14:00:06.000Z",
           "wordCount": null,
           "title": "Crypto Emergency!! (Don't Believe It)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1Ei48nTESpQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1Ei48nTESpQ",
-          "publishedOn": "2023-01-03T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Crypto Airdrops 2023! (Best FREE Airdrop Crypto Guide)",
           "imageUrl": null
         }
       ]

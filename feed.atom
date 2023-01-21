@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T07:02:39.358Z</id>
+    <id>urn:2023-01-21T08:06:46.462Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T07:02:39.358Z</updated>
+    <updated>2023-01-21T08:06:46.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -552,15 +552,6 @@
         <updated>2022-12-23T20:00:18.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEEP STATE Crypto Cartel Wants to Destroy BITCOIN!! Digital Currency Group EXPOSED!!]]></title>
-        <id>https://www.youtube.com/watch?v=P2Kr7O-_SJ8</id>
-        <link href="https://www.youtube.com/watch?v=P2Kr7O-_SJ8"/>
-        <updated>2022-12-22T19:42:27.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

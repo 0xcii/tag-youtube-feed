@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-22T07:02:22.916Z</id>
+    <id>urn:2023-01-22T08:07:09.818Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-22T07:02:22.916Z</updated>
+    <updated>2023-01-22T08:07:09.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -541,15 +541,6 @@
         <id>https://www.youtube.com/watch?v=0_fDiwCTJwc</id>
         <link href="https://www.youtube.com/watch?v=0_fDiwCTJwc"/>
         <updated>2022-12-26T16:00:00.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Hack Smart Contracts With Slither & Echinda]]></title>
-        <id>https://www.youtube.com/watch?v=fln_HPA2uOM</id>
-        <link href="https://www.youtube.com/watch?v=fln_HPA2uOM"/>
-        <updated>2022-12-23T20:00:18.000Z</updated>
         <author>
             <name>Dapp University</name>
         </author>

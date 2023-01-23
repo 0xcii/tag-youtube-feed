@@ -548,6 +548,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8qL8Zbl_0cY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8qL8Zbl_0cY",
+          "publishedOn": "2023-01-23T20:15:00.000Z",
+          "wordCount": null,
+          "title": "How to become a 6-figure Web 3.0 dev in 6 months!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qXf5x0MBO7k",
           "author": null,
           "description": "",

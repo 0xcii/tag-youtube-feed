@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-26T23:04:36.999Z</id>
+    <id>urn:2023-01-27T00:32:29.286Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-26T23:04:37.000Z</updated>
+    <updated>2023-01-27T00:32:29.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[He'll take the crypto.. Link in description]]></title>
+        <id>https://www.youtube.com/watch?v=-TF0B75J_kc</id>
+        <link href="https://www.youtube.com/watch?v=-TF0B75J_kc"/>
+        <updated>2023-01-26T23:09:16.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome Dinosaur Game Tricks #shorts]]></title>
         <id>https://www.youtube.com/watch?v=DIJN32qPS6Y</id>
@@ -606,15 +615,6 @@
         <updated>2022-12-28T19:36:51.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secrets To Web3 Modal To Save Time! ⏰ #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=sJHsQhOYKo4</id>
-        <link href="https://www.youtube.com/watch?v=sJHsQhOYKo4"/>
-        <updated>2022-12-28T12:00:29.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

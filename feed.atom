@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-28T16:05:12.151Z</id>
+    <id>urn:2023-01-28T17:01:51.028Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-28T16:05:12.151Z</updated>
+    <updated>2023-01-28T17:01:51.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Permanent, Immutable, and Stateful Serverless Functions with EXM and Arweave]]></title>
+        <id>https://www.youtube.com/watch?v=lXkAx7XqR6A</id>
+        <link href="https://www.youtube.com/watch?v=lXkAx7XqR6A"/>
+        <updated>2023-01-28T16:16:55.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who wants to be a Bitcoin Hodler?!]]></title>
         <id>https://www.youtube.com/watch?v=WJ6XBUOoy1Y</id>

@@ -228,16 +228,6 @@
           "wordCount": null,
           "title": "Building Permanent, Immutable, and Stateful Serverless Functions with EXM and Arweave",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qBPoVs66CxE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qBPoVs66CxE",
-          "publishedOn": "2023-01-01T20:06:35.000Z",
-          "wordCount": null,
-          "title": "Web3 Social Login and Account Abstraction with Next.js and Biconomy",
-          "imageUrl": null
         }
       ]
     },

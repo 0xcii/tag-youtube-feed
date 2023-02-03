@@ -394,6 +394,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b1657EkbfP8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b1657EkbfP8",
+          "publishedOn": "2023-02-03T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Binance Tutorial for Beginners 2023 (Trade Crypto on Binance)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mVHNWJjaVNA",
           "author": null,
           "description": "",
@@ -531,16 +541,6 @@
           "publishedOn": "2023-01-17T14:00:19.000Z",
           "wordCount": null,
           "title": "How to Set a Stop Loss & Take Profit with Crypto (Binance, Bybit)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xbsPKsuSFtA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xbsPKsuSFtA",
-          "publishedOn": "2023-01-16T14:00:38.000Z",
-          "wordCount": null,
-          "title": "Crypto Holders!! Do NOT Invest Until You See This [Data]",
           "imageUrl": null
         }
       ]

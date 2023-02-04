@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T07:02:22.579Z</id>
+    <id>urn:2023-02-04T08:06:51.795Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-04T07:02:22.579Z</updated>
+    <updated>2023-02-04T08:06:51.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -622,15 +622,6 @@
         <id>https://www.youtube.com/watch?v=c0sHjCuh2aU</id>
         <link href="https://www.youtube.com/watch?v=c0sHjCuh2aU"/>
         <updated>2023-01-06T16:55:00.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I AM BACK]]></title>
-        <id>https://www.youtube.com/watch?v=jMHY9wJAORw</id>
-        <link href="https://www.youtube.com/watch?v=jMHY9wJAORw"/>
-        <updated>2023-01-05T19:25:32.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

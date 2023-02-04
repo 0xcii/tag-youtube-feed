@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T17:02:11.318Z</id>
+    <id>urn:2023-02-04T18:05:19.698Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-04T17:02:11.318Z</updated>
+    <updated>2023-02-04T18:05:19.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BITCOIN IN 2023?? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=WVatlOh8QNY</id>
+        <link href="https://www.youtube.com/watch?v=WVatlOh8QNY"/>
+        <updated>2023-02-04T17:45:01.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Act Fast!! Supplies aren't running out!!]]></title>
         <id>https://www.youtube.com/watch?v=hHjX3aRnF0I</id>
@@ -480,15 +489,6 @@
         <updated>2023-01-17T16:18:02.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set a Stop Loss & Take Profit with Crypto (Binance, Bybit)]]></title>
-        <id>https://www.youtube.com/watch?v=g1TQpE6Y-Pw</id>
-        <link href="https://www.youtube.com/watch?v=g1TQpE6Y-Pw"/>
-        <updated>2023-01-17T14:00:19.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

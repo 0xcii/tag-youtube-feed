@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T07:02:35.528Z</id>
+    <id>urn:2023-02-05T08:06:49.016Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-05T07:02:35.528Z</updated>
+    <updated>2023-02-05T08:06:49.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -606,15 +606,6 @@
         <updated>2023-01-08T05:14:13.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Web 3.0 Portfolio Ideas that Will land you the job instantly in 2023]]></title>
-        <id>https://www.youtube.com/watch?v=t3tCsiGeN2I</id>
-        <link href="https://www.youtube.com/watch?v=t3tCsiGeN2I"/>
-        <updated>2023-01-06T20:00:13.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

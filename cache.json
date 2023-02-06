@@ -394,6 +394,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sbZo4m1qhqU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sbZo4m1qhqU",
+          "publishedOn": "2023-02-06T14:00:34.000Z",
+          "wordCount": null,
+          "title": "CRYPTO URGENT ALERT!! (Fidelity Report!)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SoNrTqhz47U",
           "author": null,
           "description": "",
@@ -531,16 +541,6 @@
           "publishedOn": "2023-01-20T14:00:15.000Z",
           "wordCount": null,
           "title": "TradingView Tutorial 2023 (Step-by-Step Guide for Beginners)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uVdLLwRDvG0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uVdLLwRDvG0",
-          "publishedOn": "2023-01-19T14:00:36.000Z",
-          "wordCount": null,
-          "title": "Crypto Breaking DOWN | Do This Now",
           "imageUrl": null
         }
       ]

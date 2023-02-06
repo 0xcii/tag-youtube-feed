@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-06T19:01:59.614Z</id>
+    <id>urn:2023-02-06T20:06:18.537Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-06T19:01:59.614Z</updated>
+    <updated>2023-02-06T20:06:18.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Dev Makes $173K with Flash Loans!]]></title>
+        <id>https://www.youtube.com/watch?v=YHkpYXBvlxA</id>
+        <link href="https://www.youtube.com/watch?v=YHkpYXBvlxA"/>
+        <updated>2023-02-06T20:00:11.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stand by it! The $MASK drop is coming!]]></title>
+        <id>https://www.youtube.com/watch?v=djf7ElTSgAk</id>
+        <link href="https://www.youtube.com/watch?v=djf7ElTSgAk"/>
+        <updated>2023-02-06T19:58:54.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APIs for Beginners 2023 - How to use an API (Full Course / Tutorial)]]></title>
         <id>https://www.youtube.com/watch?v=WXsD0ZgxjRw</id>
@@ -534,15 +552,6 @@
         <updated>2023-01-13T18:00:20.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The FTX, Binance & Tether Conspiracy!!!!?? This Will Be “THE SCANDAL” of the Century!!]]></title>
-        <id>https://www.youtube.com/watch?v=qhzjQyEaVXQ</id>
-        <link href="https://www.youtube.com/watch?v=qhzjQyEaVXQ"/>
-        <updated>2023-01-12T19:54:57.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

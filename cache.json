@@ -227,6 +227,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=djf7ElTSgAk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=djf7ElTSgAk",
+          "publishedOn": "2023-02-06T19:58:54.000Z",
+          "wordCount": null,
+          "title": "I stand by it! The $MASK drop is coming!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hHjX3aRnF0I",
           "author": null,
           "description": "",
@@ -364,16 +374,6 @@
           "publishedOn": "2023-01-13T21:08:19.000Z",
           "wordCount": null,
           "title": "Chico Crypto is Back LIVE STREAMING!!!! My 2023 “Undervalued” Altcoins Are!!!??",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qhzjQyEaVXQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qhzjQyEaVXQ",
-          "publishedOn": "2023-01-12T19:54:57.000Z",
-          "wordCount": null,
-          "title": "The FTX, Binance & Tether Conspiracy!!!!?? This Will Be “THE SCANDAL” of the Century!!",
           "imageUrl": null
         }
       ]
@@ -597,6 +597,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YHkpYXBvlxA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YHkpYXBvlxA",
+          "publishedOn": "2023-02-06T20:00:11.000Z",
+          "wordCount": null,
+          "title": "Blockchain Dev Makes $173K with Flash Loans!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=myascjqPnFc",
           "author": null,

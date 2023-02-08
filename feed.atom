@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T16:07:10.237Z</id>
+    <id>urn:2023-02-08T17:03:25.451Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T16:07:10.237Z</updated>
+    <updated>2023-02-08T17:03:25.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3 Ways to Code a BuzzFeed Clone (JavaScript + TypeScript + JSONServer + Database + API + Node.js)]]></title>
+        <id>https://www.youtube.com/watch?v=qkQr42DmaEE</id>
+        <link href="https://www.youtube.com/watch?v=qkQr42DmaEE"/>
+        <updated>2023-02-08T16:42:50.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10X Best Altcoins 2023 (Last Chance)]]></title>
         <id>https://www.youtube.com/watch?v=lG4gd9ZJ_0c</id>
@@ -516,15 +525,6 @@
         <updated>2023-01-18T20:16:31.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Clone – OpenAI API and React Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=98bGwOYoEGg</id>
-        <link href="https://www.youtube.com/watch?v=98bGwOYoEGg"/>
-        <updated>2023-01-18T15:57:33.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

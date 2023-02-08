@@ -531,6 +531,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xIIyeT9rs5o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xIIyeT9rs5o",
+          "publishedOn": "2023-02-08T19:06:34.000Z",
+          "wordCount": null,
+          "title": "Create Your First Ethereum Smart Contract",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rbdNib865vk",
           "author": null,
           "description": "",
@@ -597,6 +607,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=d4vYoQ6EbVY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d4vYoQ6EbVY",
+          "publishedOn": "2023-02-08T20:00:11.000Z",
+          "wordCount": null,
+          "title": "Amazon Getting into Crypto -  What you must know!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=YHkpYXBvlxA",
           "author": null,

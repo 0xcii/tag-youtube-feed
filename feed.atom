@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T13:16:18.279Z</id>
+    <id>urn:2023-02-09T14:04:23.004Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T13:16:18.279Z</updated>
+    <updated>2023-02-09T14:04:23.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Break Imminent!! (Huge FUD)]]></title>
+        <id>https://www.youtube.com/watch?v=J-Q3KLpgisc</id>
+        <link href="https://www.youtube.com/watch?v=J-Q3KLpgisc"/>
+        <updated>2023-02-09T14:00:10.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Getting into Crypto -  What you must know!]]></title>
         <id>https://www.youtube.com/watch?v=d4vYoQ6EbVY</id>
@@ -480,15 +489,6 @@
         <updated>2023-01-23T16:24:32.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KuCoin Tutorial for Beginners 2023 (Trade, Deposit, Withdraw)]]></title>
-        <id>https://www.youtube.com/watch?v=5Bvv8x3Mbqw</id>
-        <link href="https://www.youtube.com/watch?v=5Bvv8x3Mbqw"/>
-        <updated>2023-01-23T14:30:03.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

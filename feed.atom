@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T17:03:28.301Z</id>
+    <id>urn:2023-02-09T18:07:14.484Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T17:03:28.301Z</updated>
+    <updated>2023-02-09T18:07:14.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Will Solidity stay the dominant smart contract language?]]></title>
+        <id>https://www.youtube.com/watch?v=QgKWicypw-g</id>
+        <link href="https://www.youtube.com/watch?v=QgKWicypw-g"/>
+        <updated>2023-02-09T18:00:17.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔴 Crypto / Web3 News]]></title>
+        <id>https://www.youtube.com/watch?v=IKNXWy_oR20</id>
+        <link href="https://www.youtube.com/watch?v=IKNXWy_oR20"/>
+        <updated>2023-02-09T17:14:22.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How do loops work in Python?]]></title>
         <id>https://www.youtube.com/watch?v=WYLjcXpxFOQ</id>

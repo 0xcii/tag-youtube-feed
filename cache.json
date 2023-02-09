@@ -521,6 +521,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QgKWicypw-g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QgKWicypw-g",
+          "publishedOn": "2023-02-09T18:00:17.000Z",
+          "wordCount": null,
+          "title": "Will Solidity stay the dominant smart contract language?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IKNXWy_oR20",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IKNXWy_oR20",
+          "publishedOn": "2023-02-09T17:14:22.000Z",
+          "wordCount": null,
+          "title": "🔴 Crypto / Web3 News",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xIIyeT9rs5o",
           "author": null,
           "description": "",

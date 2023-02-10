@@ -618,6 +618,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=n8QLvrMXbLA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n8QLvrMXbLA",
+          "publishedOn": "2023-02-10T20:00:24.000Z",
+          "wordCount": null,
+          "title": "Next Ethereum Upgrade Could Cause Price to DUMP - Developer Explains",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=d4vYoQ6EbVY",
           "author": null,
           "description": "",

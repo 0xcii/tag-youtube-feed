@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T17:03:34.273Z</id>
+    <id>urn:2023-02-10T18:07:10.798Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-10T17:03:34.273Z</updated>
+    <updated>2023-02-10T18:07:10.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Web3 Employers in 2023 (that are still hiring in the bear market)]]></title>
+        <id>https://www.youtube.com/watch?v=qW5OEJ5hEBc</id>
+        <link href="https://www.youtube.com/watch?v=qW5OEJ5hEBc"/>
+        <updated>2023-02-10T18:00:32.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO UNDER ATTACK (Bad News)]]></title>
         <id>https://www.youtube.com/watch?v=jcR8Z2HTc8I</id>

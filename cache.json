@@ -705,16 +705,6 @@
           "wordCount": null,
           "title": "50+ Tools Every Blockchain Developer Must Know in 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X1ahXNYkpL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X1ahXNYkpL8",
-          "publishedOn": "2023-01-16T20:00:14.000Z",
-          "wordCount": null,
-          "title": "Code a Web 3.0 Amazon Clone Step-By-Step with Solidity, Ethers.js, React & Hardhat",
-          "imageUrl": null
         }
       ]
     }

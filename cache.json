@@ -500,6 +500,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bCwFX0vu8Ps",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bCwFX0vu8Ps",
+          "publishedOn": "2023-02-15T18:56:05.000Z",
+          "wordCount": null,
+          "title": "Junior vs Senior Web3 developers",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IKNXWy_oR20",
           "author": null,
           "description": "",
@@ -596,6 +606,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=o8k6FD4_aE8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o8k6FD4_aE8",
+          "publishedOn": "2023-02-15T20:00:28.000Z",
+          "wordCount": null,
+          "title": "20+ Resources you need to become a highly paid smart contact hacker",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BzTKoEWe428",
           "author": null,

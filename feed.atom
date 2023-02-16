@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T20:06:31.898Z</id>
+    <id>urn:2023-02-16T21:03:30.367Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-16T20:06:31.898Z</updated>
+    <updated>2023-02-16T21:03:30.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Many of the AI Coins WILL FAIL!!! But These AI Cryptos WILL MOON!!! (Top 2 AI Altcoins)]]></title>
+        <id>https://www.youtube.com/watch?v=NlaR5iVeZGY</id>
+        <link href="https://www.youtube.com/watch?v=NlaR5iVeZGY"/>
+        <updated>2023-02-16T20:08:29.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO BREAKING UPWARDS]]></title>
         <id>https://www.youtube.com/watch?v=VvfQt6F43NY</id>
@@ -552,15 +561,6 @@
         <updated>2023-01-25T22:30:03.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This video is a must watch! 👀 link in description]]></title>
-        <id>https://www.youtube.com/watch?v=bZODbDuvmg8</id>
-        <link href="https://www.youtube.com/watch?v=bZODbDuvmg8"/>
-        <updated>2023-01-25T16:10:01.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

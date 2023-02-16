@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T04:07:07.310Z</id>
+    <id>urn:2023-02-16T05:04:51.666Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-16T04:07:07.310Z</updated>
+    <updated>2023-02-16T05:04:51.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -606,15 +606,6 @@
         <updated>2023-01-19T20:00:17.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Tether BAN, Crypto market HUGE RALLY]]></title>
-        <id>https://www.youtube.com/watch?v=0_GiyHllW1U</id>
-        <link href="https://www.youtube.com/watch?v=0_GiyHllW1U"/>
-        <updated>2023-01-17T16:18:02.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T09:05:03.542Z</id>
+    <id>urn:2023-02-17T10:06:31.245Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T09:05:03.542Z</updated>
+    <updated>2023-02-17T10:06:31.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The 3 HOTTEST Trends for Web3 in 2023]]></title>
+        <id>https://www.youtube.com/watch?v=-Y2_U0thQJU</id>
+        <link href="https://www.youtube.com/watch?v=-Y2_U0thQJU"/>
+        <updated>2023-02-17T09:51:18.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Many of the AI Coins WILL FAIL!!! But These AI Cryptos WILL MOON!!! (Top 2 AI Altcoins)]]></title>
         <id>https://www.youtube.com/watch?v=NlaR5iVeZGY</id>

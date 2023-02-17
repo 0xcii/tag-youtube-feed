@@ -186,6 +186,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xNhsEGzX6IQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xNhsEGzX6IQ",
+          "publishedOn": "2023-02-17T20:13:24.000Z",
+          "wordCount": null,
+          "title": "This is the #1 Altcoin Opportunity of 2023!! I’m Going “ALL IN”...Here’s WHY!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NlaR5iVeZGY",
           "author": null,
           "description": "",
@@ -323,16 +333,6 @@
           "publishedOn": "2023-01-28T03:10:18.000Z",
           "wordCount": null,
           "title": "Who wants to be a Bitcoin Hodler?!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-TF0B75J_kc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-TF0B75J_kc",
-          "publishedOn": "2023-01-26T23:09:16.000Z",
-          "wordCount": null,
-          "title": "He'll take the crypto.. Link in description",
           "imageUrl": null
         }
       ]
@@ -606,6 +606,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0nMXpK4_5Ro",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0nMXpK4_5Ro",
+          "publishedOn": "2023-02-17T20:00:01.000Z",
+          "wordCount": null,
+          "title": "How Ethereum Can Realistically Reach $15,000 | Developer Explains",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=o8k6FD4_aE8",
           "author": null,

@@ -4,7 +4,18 @@
       "title": "链求君",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rD3oDFy1_iQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rD3oDFy1_iQ",
+          "publishedOn": "2023-02-19T10:00:25.000Z",
+          "wordCount": null,
+          "title": "【空投】如何100％获得这个价值1000$的空投？ 全链资金管理项目Nested 使用教程 (实用价值更胜于空投)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "freeCodeCamp.org",

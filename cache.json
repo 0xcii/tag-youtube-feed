@@ -648,6 +648,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WJQ8gvMAsYk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WJQ8gvMAsYk",
+          "publishedOn": "2023-02-20T20:00:10.000Z",
+          "wordCount": null,
+          "title": "How Blockchain Devs can make Passive Income with Canto",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0nMXpK4_5Ro",
           "author": null,
           "description": "",

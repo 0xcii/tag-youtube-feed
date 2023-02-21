@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T12:10:30.140Z</id>
+    <id>urn:2023-02-21T13:15:19.567Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-21T12:10:30.140Z</updated>
+    <updated>2023-02-21T13:15:19.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[如何有效地利用委托加密货币交易赚取可观利润？ STFX:  Crypto 交易员的天堂]]></title>
+        <id>https://www.youtube.com/watch?v=4VhqrMuJzKY</id>
+        <link href="https://www.youtube.com/watch?v=4VhqrMuJzKY"/>
+        <updated>2023-02-21T13:00:04.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 Crypto / Web3 News]]></title>
         <id>https://www.youtube.com/watch?v=uvZ0HGawqNM</id>

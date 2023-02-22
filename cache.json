@@ -678,6 +678,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cpMCPOlIs90",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cpMCPOlIs90",
+          "publishedOn": "2023-02-22T21:30:05.000Z",
+          "wordCount": null,
+          "title": "How to trade $1,000,000 in crypto step-by-step",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WJQ8gvMAsYk",
           "author": null,
           "description": "",

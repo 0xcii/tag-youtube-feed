@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T05:05:12.675Z</id>
+    <id>urn:2023-02-22T06:08:23.995Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T05:05:12.675Z</updated>
+    <updated>2023-02-22T06:08:23.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My TOP AI PICKS!!! full vid in description..]]></title>
+        <id>https://www.youtube.com/watch?v=CeBp1xnXbGM</id>
+        <link href="https://www.youtube.com/watch?v=CeBp1xnXbGM"/>
+        <updated>2023-02-22T05:16:00.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML & Coding Introduction – Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=GDGejH3SDNQ</id>
@@ -606,15 +615,6 @@
         <updated>2023-01-28T16:16:55.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who wants to be a Bitcoin Hodler?!]]></title>
-        <id>https://www.youtube.com/watch?v=WJ6XBUOoy1Y</id>
-        <link href="https://www.youtube.com/watch?v=WJ6XBUOoy1Y"/>
-        <updated>2023-01-28T03:10:18.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

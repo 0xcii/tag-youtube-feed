@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T20:06:22.198Z</id>
+    <id>urn:2023-02-22T21:03:31.834Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T20:06:22.198Z</updated>
+    <updated>2023-02-22T21:03:31.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solidity explained to Javascript developers]]></title>
+        <id>https://www.youtube.com/watch?v=Q5fn8fwL5_g</id>
+        <link href="https://www.youtube.com/watch?v=Q5fn8fwL5_g"/>
+        <updated>2023-02-22T20:02:50.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO FLIPPING TO REJECTION]]></title>
         <id>https://www.youtube.com/watch?v=CeYL4FQHoYc</id>

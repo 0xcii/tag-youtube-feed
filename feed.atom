@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T13:16:21.350Z</id>
+    <id>urn:2023-02-22T14:03:36.341Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T13:16:21.350Z</updated>
+    <updated>2023-02-22T14:03:36.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO FLIPPING TO REJECTION]]></title>
+        <id>https://www.youtube.com/watch?v=CeYL4FQHoYc</id>
+        <link href="https://www.youtube.com/watch?v=CeYL4FQHoYc"/>
+        <updated>2023-02-22T14:00:10.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My TOP AI PICKS!!! full vid in description..]]></title>
         <id>https://www.youtube.com/watch?v=CeBp1xnXbGM</id>
@@ -451,15 +460,6 @@
         <id>https://www.youtube.com/watch?v=SoNrTqhz47U</id>
         <link href="https://www.youtube.com/watch?v=SoNrTqhz47U"/>
         <updated>2023-02-05T16:30:04.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BITCOIN IN 2023?? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=WVatlOh8QNY</id>
-        <link href="https://www.youtube.com/watch?v=WVatlOh8QNY"/>
-        <updated>2023-02-04T17:45:01.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

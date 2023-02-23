@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sWbUDq4S6Y8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sWbUDq4S6Y8",
+          "publishedOn": "2023-02-23T13:49:01.000Z",
+          "wordCount": null,
+          "title": "Introduction to Linux – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GDGejH3SDNQ",
           "author": null,
           "description": "",
@@ -180,16 +190,6 @@
           "publishedOn": "2023-01-26T15:29:14.000Z",
           "wordCount": null,
           "title": "Chrome Dinosaur Game Tricks #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rCm5RVYKWVg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rCm5RVYKWVg",
-          "publishedOn": "2023-01-25T15:07:30.000Z",
-          "wordCount": null,
-          "title": "Code a Reddit Clone with React, Next.js, Firebase v9, Chakra UI – Full Course",
           "imageUrl": null
         }
       ]
@@ -374,6 +374,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=e54CJCdtSjY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e54CJCdtSjY",
+          "publishedOn": "2023-02-23T14:00:18.000Z",
+          "wordCount": null,
+          "title": "How to Read Candlestick Charts (10 Minute Expert)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CeYL4FQHoYc",
           "author": null,
           "description": "",
@@ -511,16 +521,6 @@
           "publishedOn": "2023-02-06T14:00:34.000Z",
           "wordCount": null,
           "title": "CRYPTO URGENT ALERT!! (Fidelity Report!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SoNrTqhz47U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SoNrTqhz47U",
-          "publishedOn": "2023-02-05T16:30:04.000Z",
-          "wordCount": null,
-          "title": "BEST FREE CRYPTO TOOLS!!! #shorts",
           "imageUrl": null
         }
       ]

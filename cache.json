@@ -227,6 +227,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pNX3KXMbgIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pNX3KXMbgIU",
+          "publishedOn": "2023-02-24T19:54:48.000Z",
+          "wordCount": null,
+          "title": "​​Coinbase’s SECRET Altcoin Helping Base Chain Scale to TRILLIONS!! (Blackrock Involved!?)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZKz8QoREGrE",
           "author": null,
           "description": "",
@@ -364,16 +374,6 @@
           "publishedOn": "2023-02-01T07:04:24.000Z",
           "wordCount": null,
           "title": "What do you say Charlie, wanna get choked for charity?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1h6OS_yhHsc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1h6OS_yhHsc",
-          "publishedOn": "2023-01-30T20:52:07.000Z",
-          "wordCount": null,
-          "title": "Will the shade catch up to Binance?",
           "imageUrl": null
         }
       ]
@@ -687,6 +687,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZBiLojVfol0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZBiLojVfol0",
+          "publishedOn": "2023-02-24T20:00:21.000Z",
+          "wordCount": null,
+          "title": "Will AI Replace Blockchain Developers?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cpMCPOlIs90",
           "author": null,

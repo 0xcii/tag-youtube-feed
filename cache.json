@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=asv0WtMBgAQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=asv0WtMBgAQ",
+          "publishedOn": "2023-02-25T06:30:01.000Z",
+          "wordCount": null,
+          "title": "如何学习使用ChatGPT ?  掌握AI技能，提升效率，提高技能！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=opGN7UMqAHA",
           "author": null,
           "description": "",

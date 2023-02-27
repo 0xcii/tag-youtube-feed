@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T22:05:02.565Z</id>
+    <id>urn:2023-02-27T23:05:12.871Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-27T22:05:02.565Z</updated>
+    <updated>2023-02-27T23:05:12.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🚀Watch the latest video before you're too late!!! 🚀]]></title>
+        <id>https://www.youtube.com/watch?v=8OdEVTPgqlM</id>
+        <link href="https://www.youtube.com/watch?v=8OdEVTPgqlM"/>
+        <updated>2023-02-27T22:14:05.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Ways Blockchain Devs Can Make $$$ With MEV Bots (Miner Extractable Value)]]></title>
         <id>https://www.youtube.com/watch?v=J8syixcGjvc</id>
@@ -678,15 +687,6 @@
         <updated>2023-02-01T15:15:57.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do you say Charlie, wanna get choked for charity?]]></title>
-        <id>https://www.youtube.com/watch?v=hdH_Asy1VwE</id>
-        <link href="https://www.youtube.com/watch?v=hdH_Asy1VwE"/>
-        <updated>2023-02-01T07:04:24.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

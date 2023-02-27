@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ULSgElI1sLQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ULSgElI1sLQ",
+          "publishedOn": "2023-02-27T16:00:25.000Z",
+          "wordCount": null,
+          "title": "如何给网站开发数字货币USDT 支付功能? Depay 支付网关让你的网站及服务可以通过 USDT 付费.  适用于 Web3 电商网站构建、会员订阅制度、付费社区搭建.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lSrIUSzBdRY",
           "author": null,
           "description": "",

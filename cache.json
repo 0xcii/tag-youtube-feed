@@ -93,6 +93,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wuSQpLinRB4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wuSQpLinRB4",
+          "publishedOn": "2023-02-28T16:03:47.000Z",
+          "wordCount": null,
+          "title": "AlphaZero from Scratch – Machine Learning Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OGHE5LlAmq0",
           "author": null,
           "description": "",
@@ -564,9 +574,9 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=2T989nBHE70",
-          "publishedOn": "2023-02-28T10:39:31.000Z",
+          "publishedOn": "2023-02-28T16:22:17.000Z",
           "wordCount": null,
-          "title": "🔴 Web3 News",
+          "title": "🔴 Coinbase launched its own Blockchain | Web3 News",
           "imageUrl": null
         },
         {

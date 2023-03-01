@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T19:02:45.132Z</id>
+    <id>urn:2023-03-01T20:06:34.201Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T19:02:45.132Z</updated>
+    <updated>2023-03-01T20:06:34.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Code a Crypto Airdrop Hunter Bot Step-by-Step (Ethers.js, Solidity, Node)]]></title>
+        <id>https://www.youtube.com/watch?v=Wecy7pvpZi8</id>
+        <link href="https://www.youtube.com/watch?v=Wecy7pvpZi8"/>
+        <updated>2023-03-01T20:00:09.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A day in the life of a Web3 developer]]></title>
         <id>https://www.youtube.com/watch?v=FJCqdviSgPE</id>

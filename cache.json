@@ -570,6 +570,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FJCqdviSgPE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FJCqdviSgPE",
+          "publishedOn": "2023-03-01T17:39:51.000Z",
+          "wordCount": null,
+          "title": "A day in the life of a Web3 developer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2T989nBHE70",
           "author": null,
           "description": "",
@@ -707,16 +717,6 @@
           "publishedOn": "2023-02-07T16:28:49.000Z",
           "wordCount": null,
           "title": "🔴 Crypto / Web3 News",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oQgqAE_FGo8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oQgqAE_FGo8",
-          "publishedOn": "2023-02-03T17:06:53.000Z",
-          "wordCount": null,
-          "title": "Top 50 questions for Solidity job interviews",
           "imageUrl": null
         }
       ]

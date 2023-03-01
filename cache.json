@@ -403,6 +403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=G4VmmVnD6kM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G4VmmVnD6kM",
+          "publishedOn": "2023-03-01T14:00:16.000Z",
+          "wordCount": null,
+          "title": "GMX Tutorial (Trade on GMX Arbitrum DeX)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wzPH5I_9lSg",
           "author": null,
           "description": "",
@@ -540,16 +550,6 @@
           "publishedOn": "2023-02-10T14:00:24.000Z",
           "wordCount": null,
           "title": "CRYPTO UNDER ATTACK (Bad News)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J-Q3KLpgisc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J-Q3KLpgisc",
-          "publishedOn": "2023-02-09T14:00:10.000Z",
-          "wordCount": null,
-          "title": "Crypto Break Imminent!! (Huge FUD)",
           "imageUrl": null
         }
       ]

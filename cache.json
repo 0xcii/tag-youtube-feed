@@ -393,6 +393,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=07JLVH0YRxg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=07JLVH0YRxg",
+          "publishedOn": "2023-03-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The Ultimate Chart Patterns Trading Course for Beginners (40 Minute Expert)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G4VmmVnD6kM",
           "author": null,
           "description": "",
@@ -530,16 +540,6 @@
           "publishedOn": "2023-02-11T14:00:10.000Z",
           "wordCount": null,
           "title": "A New Warning For Crypto Investors (Binance Research)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jcR8Z2HTc8I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jcR8Z2HTc8I",
-          "publishedOn": "2023-02-10T14:00:24.000Z",
-          "wordCount": null,
-          "title": "CRYPTO UNDER ATTACK (Bad News)",
           "imageUrl": null
         }
       ]

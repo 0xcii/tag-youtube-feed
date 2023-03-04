@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T23:03:50.503Z</id>
+    <id>urn:2023-03-04T00:31:11.907Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T23:03:50.503Z</updated>
+    <updated>2023-03-04T00:31:11.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[If you don't know.. YOU SHOULD! 👀 Link in description]]></title>
+        <id>https://www.youtube.com/watch?v=ZFk5-ShgUh0</id>
+        <link href="https://www.youtube.com/watch?v=ZFk5-ShgUh0"/>
+        <updated>2023-03-03T23:57:14.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Launch a Profitable Blockchain App (Make sure you do this...)]]></title>
         <id>https://www.youtube.com/watch?v=PlI6Auvnhq0</id>
@@ -678,15 +687,6 @@
         <updated>2023-02-06T15:53:28.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Act Fast!! Supplies aren't running out!!]]></title>
-        <id>https://www.youtube.com/watch?v=hHjX3aRnF0I</id>
-        <link href="https://www.youtube.com/watch?v=hHjX3aRnF0I"/>
-        <updated>2023-02-04T02:55:17.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T20:06:26.611Z</id>
+    <id>urn:2023-03-06T21:03:25.473Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-06T20:06:26.611Z</updated>
+    <updated>2023-03-06T21:03:25.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Have you seen THIS!? 👀Link in description]]></title>
+        <id>https://www.youtube.com/watch?v=NbFrzy8UuWs</id>
+        <link href="https://www.youtube.com/watch?v=NbFrzy8UuWs"/>
+        <updated>2023-03-06T20:23:00.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code a Web 3.0 Discord Clone Step-By-Step with Solidity, Ethers.js, React & Hardhat]]></title>
         <id>https://www.youtube.com/watch?v=GRhO5wdLDMI</id>
@@ -687,15 +696,6 @@
         <updated>2023-02-06T20:00:11.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I stand by it! The $MASK drop is coming!]]></title>
-        <id>https://www.youtube.com/watch?v=djf7ElTSgAk</id>
-        <link href="https://www.youtube.com/watch?v=djf7ElTSgAk"/>
-        <updated>2023-02-06T19:58:54.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

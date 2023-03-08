@@ -211,16 +211,6 @@
           "wordCount": null,
           "title": "Can I ask you a question?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
-          "publishedOn": "2023-02-06T15:53:28.000Z",
-          "wordCount": null,
-          "title": "APIs for Beginners 2023 - How to use an API (Full Course / Tutorial)",
-          "imageUrl": null
         }
       ]
     },

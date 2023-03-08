@@ -226,6 +226,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZnBy3ZJH-RI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZnBy3ZJH-RI",
+          "publishedOn": "2023-03-08T05:05:51.000Z",
+          "wordCount": null,
+          "title": "Looking to buy?! Maybe give the full video a 👀 first.. link in description",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NbFrzy8UuWs",
           "author": null,
           "description": "",
@@ -363,16 +373,6 @@
           "publishedOn": "2023-02-09T21:14:05.000Z",
           "wordCount": null,
           "title": "Crypto Adoption is GROWING!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qk8VojjTS50",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qk8VojjTS50",
-          "publishedOn": "2023-02-07T22:29:58.000Z",
-          "wordCount": null,
-          "title": "The Perfect Portfolio...",
           "imageUrl": null
         }
       ]

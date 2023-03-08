@@ -550,6 +550,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b4Br6xufCAo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b4Br6xufCAo",
+          "publishedOn": "2023-03-08T18:57:26.000Z",
+          "wordCount": null,
+          "title": "Should we ABANDON Web3 for AI?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=z84FemX4J_4",
           "author": null,
           "description": "",
@@ -687,16 +697,6 @@
           "publishedOn": "2023-02-14T16:19:38.000Z",
           "wordCount": null,
           "title": "🔴 Crypto / Web3 News",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qW5OEJ5hEBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qW5OEJ5hEBc",
-          "publishedOn": "2023-02-10T18:00:32.000Z",
-          "wordCount": null,
-          "title": "Top 5 Web3 Employers in 2023 (that are still hiring in the bear market)",
           "imageUrl": null
         }
       ]

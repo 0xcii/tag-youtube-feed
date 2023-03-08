@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-08T18:07:55.110Z</id>
+    <id>urn:2023-03-08T19:02:38.994Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-08T18:07:55.110Z</updated>
+    <updated>2023-03-08T19:02:38.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Should we ABANDON Web3 for AI?]]></title>
+        <id>https://www.youtube.com/watch?v=b4Br6xufCAo</id>
+        <link href="https://www.youtube.com/watch?v=b4Br6xufCAo"/>
+        <updated>2023-03-08T18:57:26.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harvard CS50’s Web Programming with Python and JavaScript – Full University Course]]></title>
         <id>https://www.youtube.com/watch?v=vzGllw18DkA</id>
@@ -651,15 +660,6 @@
         <updated>2023-02-10T20:00:24.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Web3 Employers in 2023 (that are still hiring in the bear market)]]></title>
-        <id>https://www.youtube.com/watch?v=qW5OEJ5hEBc</id>
-        <link href="https://www.youtube.com/watch?v=qW5OEJ5hEBc"/>
-        <updated>2023-02-10T18:00:32.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

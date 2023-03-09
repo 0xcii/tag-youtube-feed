@@ -226,6 +226,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=A3PvjvPrbcg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A3PvjvPrbcg",
+          "publishedOn": "2023-03-09T20:02:40.000Z",
+          "wordCount": null,
+          "title": "BREAKING!! Amazon Will Go “ALL IN” For Crypto SOON!!! Which Altcoins Will PUMP!!??",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZnBy3ZJH-RI",
           "author": null,
           "description": "",
@@ -363,16 +373,6 @@
           "publishedOn": "2023-02-10T21:03:27.000Z",
           "wordCount": null,
           "title": "Binance & CZ Will CRUMBLE NEXT!! We Have 100% PROOF of Massive Criminal FRAUD!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dYqR-rZsbOc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dYqR-rZsbOc",
-          "publishedOn": "2023-02-09T21:14:05.000Z",
-          "wordCount": null,
-          "title": "Crypto Adoption is GROWING!",
           "imageUrl": null
         }
       ]
@@ -696,6 +696,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HGIaMy2kCpw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HGIaMy2kCpw",
+          "publishedOn": "2023-03-09T21:00:12.000Z",
+          "wordCount": null,
+          "title": "HUGE opportunity for Web 3.0 Devs to make $$$ building cool stuff!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GRhO5wdLDMI",
           "author": null,

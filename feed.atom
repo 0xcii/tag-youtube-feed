@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T07:02:58.673Z</id>
+    <id>urn:2023-03-12T08:07:01.058Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-12T07:02:58.673Z</updated>
+    <updated>2023-03-12T08:07:01.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -667,15 +667,6 @@
         <id>https://www.youtube.com/watch?v=BzTKoEWe428</id>
         <link href="https://www.youtube.com/watch?v=BzTKoEWe428"/>
         <updated>2023-02-13T20:00:04.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Ethereum Upgrade Could Cause Price to DUMP - Developer Explains]]></title>
-        <id>https://www.youtube.com/watch?v=n8QLvrMXbLA</id>
-        <link href="https://www.youtube.com/watch?v=n8QLvrMXbLA"/>
-        <updated>2023-02-10T20:00:24.000Z</updated>
         <author>
             <name>Dapp University</name>
         </author>

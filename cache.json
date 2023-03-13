@@ -520,6 +520,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7k_Je87JRHA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7k_Je87JRHA",
+          "publishedOn": "2023-03-13T06:02:12.000Z",
+          "wordCount": null,
+          "title": "🔴 Web3 News",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1icpQIGUuWA",
           "author": null,
           "description": "",
@@ -657,16 +667,6 @@
           "publishedOn": "2023-02-17T09:51:18.000Z",
           "wordCount": null,
           "title": "The 3 HOTTEST Trends for Web3 in 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bCwFX0vu8Ps",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bCwFX0vu8Ps",
-          "publishedOn": "2023-02-15T18:56:05.000Z",
-          "wordCount": null,
-          "title": "Junior vs Senior Web3 developers",
           "imageUrl": null
         }
       ]

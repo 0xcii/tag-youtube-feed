@@ -216,6 +216,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tj5k0YPkofM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tj5k0YPkofM",
+          "publishedOn": "2023-03-13T16:47:40.000Z",
+          "wordCount": null,
+          "title": "NEW VIDEO! Could Amazon turn the tide?! 👀🚀 link in description",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pMF8NXUL6K8",
           "author": null,
           "description": "",
@@ -353,16 +363,6 @@
           "publishedOn": "2023-02-15T05:35:31.000Z",
           "wordCount": null,
           "title": "This \"Black Mirror\" episode is REAL!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vyjMPVJSqBA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vyjMPVJSqBA",
-          "publishedOn": "2023-02-13T22:07:51.000Z",
-          "wordCount": null,
-          "title": "The curtain gets pulled back once again in the newest video...",
           "imageUrl": null
         }
       ]
@@ -686,6 +686,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Av8TuyerbNM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Av8TuyerbNM",
+          "publishedOn": "2023-03-13T16:42:51.000Z",
+          "wordCount": null,
+          "title": "🔴WARNING: Biggest Banking Crisis since 2008 happening right now!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HGIaMy2kCpw",
           "author": null,

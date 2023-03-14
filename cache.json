@@ -373,6 +373,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yjvX5gPlc2U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yjvX5gPlc2U",
+          "publishedOn": "2023-03-14T14:00:37.000Z",
+          "wordCount": null,
+          "title": "How to Buy Bitcoin 2023 Tutorial (6 Steps)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rBxrL4nWpuU",
           "author": null,
           "description": "",
@@ -510,16 +520,6 @@
           "publishedOn": "2023-02-22T14:00:10.000Z",
           "wordCount": null,
           "title": "CRYPTO FLIPPING TO REJECTION",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kE-atXHNeV8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kE-atXHNeV8",
-          "publishedOn": "2023-02-21T14:00:32.000Z",
-          "wordCount": null,
-          "title": "BNB Smart Chain Tutorial (Trust Wallet, MetaMask, Staking, Trading)",
           "imageUrl": null
         }
       ]

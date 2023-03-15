@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T14:03:43.112Z</id>
+    <id>urn:2023-03-15T15:04:35.679Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T14:03:43.112Z</updated>
+    <updated>2023-03-15T15:04:35.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn React 18 with Redux Toolkit – Full Tutorial for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=2-crBg6wpp0</id>
+        <link href="https://www.youtube.com/watch?v=2-crBg6wpp0"/>
+        <updated>2023-03-15T14:35:53.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Volume Indicator for Day Trading Crypto]]></title>
+        <id>https://www.youtube.com/watch?v=BC-aAQukNSE</id>
+        <link href="https://www.youtube.com/watch?v=BC-aAQukNSE"/>
+        <updated>2023-03-15T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Not Your Keys, Not Your Coins... 👀 link in description]]></title>
         <id>https://www.youtube.com/watch?v=z-kQ_B9oLGI</id>
@@ -534,15 +552,6 @@
         <updated>2023-02-22T20:02:50.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO FLIPPING TO REJECTION]]></title>
-        <id>https://www.youtube.com/watch?v=CeYL4FQHoYc</id>
-        <link href="https://www.youtube.com/watch?v=CeYL4FQHoYc"/>
-        <updated>2023-02-22T14:00:10.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

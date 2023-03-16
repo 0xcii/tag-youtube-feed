@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T19:02:27.991Z</id>
+    <id>urn:2023-03-16T20:05:26.437Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-16T19:02:27.991Z</updated>
+    <updated>2023-03-16T20:05:26.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I’ve Uncovered the “Crypto Narrative” of 2023 That Will Ignite the Mother of All BULLRUNS!!]]></title>
+        <id>https://www.youtube.com/watch?v=AAfRVnUxz2I</id>
+        <link href="https://www.youtube.com/watch?v=AAfRVnUxz2I"/>
+        <updated>2023-03-16T19:40:23.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Database App with Windows GUI – Project Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=VX4wl7qIcbA</id>
@@ -678,15 +687,6 @@
         <updated>2023-02-17T09:51:18.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many of the AI Coins WILL FAIL!!! But These AI Cryptos WILL MOON!!! (Top 2 AI Altcoins)]]></title>
-        <id>https://www.youtube.com/watch?v=NlaR5iVeZGY</id>
-        <link href="https://www.youtube.com/watch?v=NlaR5iVeZGY"/>
-        <updated>2023-02-16T20:08:29.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

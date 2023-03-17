@@ -403,6 +403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z-apx6-S2No",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z-apx6-S2No",
+          "publishedOn": "2023-03-17T14:00:41.000Z",
+          "wordCount": null,
+          "title": "CRYPTO JUST TOTALLY FLIPPED",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BC-aAQukNSE",
           "author": null,
           "description": "",
@@ -540,16 +550,6 @@
           "publishedOn": "2023-02-24T14:00:24.000Z",
           "wordCount": null,
           "title": "How to Use Arbitrum MetaMask (Bridge, Swap, Trade, Withdraw)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e54CJCdtSjY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e54CJCdtSjY",
-          "publishedOn": "2023-02-23T14:00:18.000Z",
-          "wordCount": null,
-          "title": "How to Read Candlestick Charts (10 Minute Expert)",
           "imageUrl": null
         }
       ]

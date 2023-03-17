@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T14:03:43.345Z</id>
+    <id>urn:2023-03-17T15:04:43.698Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-17T14:03:43.345Z</updated>
+    <updated>2023-03-17T15:04:43.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO JUST TOTALLY FLIPPED]]></title>
+        <id>https://www.youtube.com/watch?v=z-apx6-S2No</id>
+        <link href="https://www.youtube.com/watch?v=z-apx6-S2No"/>
+        <updated>2023-03-17T14:00:41.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum 空投, 即将登陆 !  这波全民空投之后, 撸羊毛将会是一个考验技术和认知的内卷时期. 散户抱团、工作室合作、专业团队带人入场.]]></title>
         <id>https://www.youtube.com/watch?v=k43TM-J-iO8</id>
@@ -552,15 +561,6 @@
         <updated>2023-02-23T18:06:49.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read Candlestick Charts (10 Minute Expert)]]></title>
-        <id>https://www.youtube.com/watch?v=e54CJCdtSjY</id>
-        <link href="https://www.youtube.com/watch?v=e54CJCdtSjY"/>
-        <updated>2023-02-23T14:00:18.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -678,16 +678,6 @@
           "wordCount": null,
           "title": "Why this is the best time to get into Web3",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xRnQjvG7FXI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xRnQjvG7FXI",
-          "publishedOn": "2023-02-18T16:00:34.000Z",
-          "wordCount": null,
-          "title": "How to read Blockchain data with Javascript",
-          "imageUrl": null
         }
       ]
     },

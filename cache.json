@@ -256,6 +256,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bFTHGtGM6K4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bFTHGtGM6K4",
+          "publishedOn": "2023-03-22T19:40:45.000Z",
+          "wordCount": null,
+          "title": "My Top “GET RICH” Altcoins of 2023!!!??? Undervalued, Underrated & Ready to PUMP!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rfdAAIqgN94",
           "author": null,
           "description": "",
@@ -393,16 +403,6 @@
           "publishedOn": "2023-02-23T00:04:17.000Z",
           "wordCount": null,
           "title": "MUST WATCH! This IS going to change the world of energy!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CeBp1xnXbGM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CeBp1xnXbGM",
-          "publishedOn": "2023-02-22T05:16:00.000Z",
-          "wordCount": null,
-          "title": "My TOP AI PICKS!!! full vid in description..",
           "imageUrl": null
         }
       ]
@@ -726,6 +726,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ALIluaz62fI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ALIluaz62fI",
+          "publishedOn": "2023-03-22T19:00:08.000Z",
+          "wordCount": null,
+          "title": "Land your first Web 3.0 Job with this secret strategy!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xaNn7GvfqfM",
           "author": null,

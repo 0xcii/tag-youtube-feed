@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T19:02:12.884Z</id>
+    <id>urn:2023-03-22T20:04:31.257Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-22T19:02:12.884Z</updated>
+    <updated>2023-03-22T20:04:31.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My Top “GET RICH” Altcoins of 2023!!!??? Undervalued, Underrated & Ready to PUMP!!!]]></title>
+        <id>https://www.youtube.com/watch?v=bFTHGtGM6K4</id>
+        <link href="https://www.youtube.com/watch?v=bFTHGtGM6K4"/>
+        <updated>2023-03-22T19:40:45.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Land your first Web 3.0 Job with this secret strategy!]]></title>
+        <id>https://www.youtube.com/watch?v=ALIluaz62fI</id>
+        <link href="https://www.youtube.com/watch?v=ALIluaz62fI"/>
+        <updated>2023-03-22T19:00:08.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This smart contract could pay you $1M in the next 3 month]]></title>
         <id>https://www.youtube.com/watch?v=Dr9LvISWmbM</id>
@@ -678,15 +696,6 @@
         <updated>2023-02-22T20:02:50.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My TOP AI PICKS!!! full vid in description..]]></title>
-        <id>https://www.youtube.com/watch?v=CeBp1xnXbGM</id>
-        <link href="https://www.youtube.com/watch?v=CeBp1xnXbGM"/>
-        <updated>2023-02-22T05:16:00.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

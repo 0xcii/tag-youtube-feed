@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T14:03:48.466Z</id>
+    <id>urn:2023-03-23T15:05:52.702Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-23T14:03:48.466Z</updated>
+    <updated>2023-03-23T15:05:52.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Emergency!! (The Fed Just Blinked)]]></title>
+        <id>https://www.youtube.com/watch?v=hcHitv1Qy5k</id>
+        <link href="https://www.youtube.com/watch?v=hcHitv1Qy5k"/>
+        <updated>2023-03-23T14:00:32.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Vite – Frontend Build Tool Course]]></title>
         <id>https://www.youtube.com/watch?v=VAeRhmpcWEQ</id>
@@ -525,15 +534,6 @@
         <updated>2023-03-01T15:53:31.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GMX Tutorial (Trade on GMX Arbitrum DeX)]]></title>
-        <id>https://www.youtube.com/watch?v=G4VmmVnD6kM</id>
-        <link href="https://www.youtube.com/watch?v=G4VmmVnD6kM"/>
-        <updated>2023-03-01T14:00:16.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

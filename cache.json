@@ -403,6 +403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hcHitv1Qy5k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hcHitv1Qy5k",
+          "publishedOn": "2023-03-23T14:00:32.000Z",
+          "wordCount": null,
+          "title": "Crypto Emergency!! (The Fed Just Blinked)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Es4InK3lq5c",
           "author": null,
           "description": "",
@@ -540,16 +550,6 @@
           "publishedOn": "2023-03-03T14:00:00.000Z",
           "wordCount": null,
           "title": "The Ultimate Chart Patterns Trading Course for Beginners (40 Minute Expert)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G4VmmVnD6kM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G4VmmVnD6kM",
-          "publishedOn": "2023-03-01T14:00:16.000Z",
-          "wordCount": null,
-          "title": "GMX Tutorial (Trade on GMX Arbitrum DeX)",
           "imageUrl": null
         }
       ]

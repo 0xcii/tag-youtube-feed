@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T10:02:59.972Z</id>
+    <id>urn:2023-03-26T11:02:17.695Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-26T10:02:59.972Z</updated>
+    <updated>2023-03-26T11:02:17.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$LUNA 创世认被捕现场视频]]></title>
+        <id>https://www.youtube.com/watch?v=TxlHWpk0bQ8</id>
+        <link href="https://www.youtube.com/watch?v=TxlHWpk0bQ8"/>
+        <updated>2023-03-26T10:57:45.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terra $LUNA和$UST的创造者Do Kwon就是这样被捕的，他在加密社区和世界经济中留下了一个坑🔥]]></title>
         <id>https://www.youtube.com/watch?v=fyT0NCFXql0</id>

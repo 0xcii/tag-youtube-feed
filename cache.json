@@ -434,6 +434,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rEUyOzwcdZc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rEUyOzwcdZc",
+          "publishedOn": "2023-03-27T14:00:35.000Z",
+          "wordCount": null,
+          "title": "Bitget Copy Trading Tutorial (Spot Copy Trading)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h2Uqs68ZDnQ",
           "author": null,
           "description": "",
@@ -571,16 +581,6 @@
           "publishedOn": "2023-03-07T14:00:06.000Z",
           "wordCount": null,
           "title": "Bybit Copy Trading Tutorial 2023 (How to Copy Trade on Bybit)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LkHi5DzxWy8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LkHi5DzxWy8",
-          "publishedOn": "2023-03-06T14:00:24.000Z",
-          "wordCount": null,
-          "title": "How to Add Networks to MetaMask (Polygon, Arbitrum, BNB Chain etc)",
           "imageUrl": null
         }
       ]

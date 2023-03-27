@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T12:11:36.648Z</id>
+    <id>urn:2023-03-27T14:03:17.911Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-27T12:11:36.648Z</updated>
+    <updated>2023-03-27T14:03:17.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitget Copy Trading Tutorial (Spot Copy Trading)]]></title>
+        <id>https://www.youtube.com/watch?v=rEUyOzwcdZc</id>
+        <link href="https://www.youtube.com/watch?v=rEUyOzwcdZc"/>
+        <updated>2023-03-27T14:00:35.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何采用 Web3全栈解决方案 Fleek ?  一个产品好用到就等发空投的项目. Web3基础设施Fleek, 开中心化之路开启.]]></title>
         <id>https://www.youtube.com/watch?v=PjVCnYZGiN0</id>
@@ -543,15 +552,6 @@
         <updated>2023-03-06T14:51:27.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Networks to MetaMask (Polygon, Arbitrum, BNB Chain etc)]]></title>
-        <id>https://www.youtube.com/watch?v=LkHi5DzxWy8</id>
-        <link href="https://www.youtube.com/watch?v=LkHi5DzxWy8"/>
-        <updated>2023-03-06T14:00:24.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

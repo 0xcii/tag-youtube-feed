@@ -836,16 +836,6 @@
           "wordCount": null,
           "title": "Code a Crypto Airdrop Hunter Bot Step-by-Step (Ethers.js, Solidity, Node)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J8syixcGjvc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J8syixcGjvc",
-          "publishedOn": "2023-02-27T20:00:04.000Z",
-          "wordCount": null,
-          "title": "5 Ways Blockchain Devs Can Make $$$ With MEV Bots (Miner Extractable Value)",
-          "imageUrl": null
         }
       ]
     }

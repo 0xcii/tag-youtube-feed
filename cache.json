@@ -287,6 +287,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oBx6bLJ8V_A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oBx6bLJ8V_A",
+          "publishedOn": "2023-03-29T19:59:07.000Z",
+          "wordCount": null,
+          "title": "hate to say it but... I TOLD YOU!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1S5uhQGFgdY",
           "author": null,
           "description": "",
@@ -424,16 +434,6 @@
           "publishedOn": "2023-03-03T23:57:14.000Z",
           "wordCount": null,
           "title": "If you don't know.. YOU SHOULD! 👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3Av-oinqWI4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3Av-oinqWI4",
-          "publishedOn": "2023-03-01T23:29:14.000Z",
-          "wordCount": null,
-          "title": "Babes love BTC... #BadassTinyCars",
           "imageUrl": null
         }
       ]
@@ -601,6 +601,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ACBVsrH6dUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ACBVsrH6dUY",
+          "publishedOn": "2023-03-29T19:15:00.000Z",
+          "wordCount": null,
+          "title": "9 FATAL Mistakes that will make you FAIL",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PMXJABa5Tvg",
           "author": null,
           "description": "",
@@ -737,6 +747,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XutmPGvOTy4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XutmPGvOTy4",
+          "publishedOn": "2023-03-29T19:00:20.000Z",
+          "wordCount": null,
+          "title": "TOP SECRET PLAN TO DESTROY THE CRYPTOCURRENCY INDUSTRY!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cG5fIpT_qnc",
           "author": null,

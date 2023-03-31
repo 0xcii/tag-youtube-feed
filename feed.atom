@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T19:01:36.735Z</id>
+    <id>urn:2023-03-31T20:03:08.169Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-31T19:01:36.735Z</updated>
+    <updated>2023-03-31T20:03:08.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[*THIS* Is The Next BIG Crypto Narrative!!! These (2) Altcoins Will Explode In 2 Weeks!!]]></title>
+        <id>https://www.youtube.com/watch?v=zkNLG1dj8D0</id>
+        <link href="https://www.youtube.com/watch?v=zkNLG1dj8D0"/>
+        <updated>2023-03-31T19:34:23.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨ALERT: MAJOR BLOCKCHAIN APP PEOPLE WILL *ACTUALLY* USE!!!]]></title>
+        <id>https://www.youtube.com/watch?v=fFsc87THP3o</id>
+        <link href="https://www.youtube.com/watch?v=fFsc87THP3o"/>
+        <updated>2023-03-31T19:00:23.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trezor Model T Tutorial (How to Setup Trezor Model T & Trezor Suit)]]></title>
         <id>https://www.youtube.com/watch?v=HDqT1pnyZmA</id>
@@ -678,15 +696,6 @@
         <updated>2023-03-06T14:51:27.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you don't know.. YOU SHOULD! 👀]]></title>
-        <id>https://www.youtube.com/watch?v=ZFk5-ShgUh0</id>
-        <link href="https://www.youtube.com/watch?v=ZFk5-ShgUh0"/>
-        <updated>2023-03-03T23:57:14.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

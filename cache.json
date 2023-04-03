@@ -718,6 +718,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=d-YwnkUAHqE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d-YwnkUAHqE",
+          "publishedOn": "2023-04-03T19:00:14.000Z",
+          "wordCount": null,
+          "title": "Blockchain devs made $12M with trading bots last month!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fFsc87THP3o",
           "author": null,
           "description": "",

@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OcTPaUfay5I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OcTPaUfay5I",
+          "publishedOn": "2023-04-05T14:01:59.000Z",
+          "wordCount": null,
+          "title": "Personal Website Tutorial with Next.js 13, Sanity.io, TailwindCSS, and TypeScript",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MsnQ5uepIaE",
           "author": null,
           "description": "",
@@ -260,16 +270,6 @@
           "publishedOn": "2023-03-13T14:00:57.000Z",
           "wordCount": null,
           "title": "Data Science Job Interview – Full Mock Interview",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vzGllw18DkA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vzGllw18DkA",
-          "publishedOn": "2023-03-08T14:20:12.000Z",
-          "wordCount": null,
-          "title": "Harvard CS50’s Web Programming with Python and JavaScript – Full University Course",
           "imageUrl": null
         }
       ]
@@ -454,6 +454,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UvjeNa7hPZk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UvjeNa7hPZk",
+          "publishedOn": "2023-04-05T14:00:16.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: THE TIME HAS COME!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5zCCRx6IudY",
           "author": null,
           "description": "",
@@ -591,16 +601,6 @@
           "publishedOn": "2023-03-15T14:00:06.000Z",
           "wordCount": null,
           "title": "Best Volume Indicator for Day Trading Crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yjvX5gPlc2U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yjvX5gPlc2U",
-          "publishedOn": "2023-03-14T14:00:37.000Z",
-          "wordCount": null,
-          "title": "How to Buy Bitcoin 2023 Tutorial (6 Steps)",
           "imageUrl": null
         }
       ]

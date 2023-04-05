@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=B-hrBPLLdVA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B-hrBPLLdVA",
+          "publishedOn": "2023-04-05T19:41:45.000Z",
+          "wordCount": null,
+          "title": "My *BRAND NEW* Crypto Picks for 2023!! I’m Buying Them RIGHT NOW!!! Before It’s Too LATE!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IMGt-TRELAc",
           "author": null,
           "description": "",
@@ -434,16 +444,6 @@
           "publishedOn": "2023-03-09T20:02:40.000Z",
           "wordCount": null,
           "title": "BREAKING!! Amazon Will Go “ALL IN” For Crypto SOON!!! Which Altcoins Will PUMP!!??",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZnBy3ZJH-RI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZnBy3ZJH-RI",
-          "publishedOn": "2023-03-08T05:05:51.000Z",
-          "wordCount": null,
-          "title": "Looking to buy?! Maybe give the full video a 👀 first..",
           "imageUrl": null
         }
       ]
@@ -727,6 +727,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZhM8-SndBe8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZhM8-SndBe8",
+          "publishedOn": "2023-04-05T19:30:02.000Z",
+          "wordCount": null,
+          "title": "SOMETHING MAJOR HAPPENING TO ETHEREUM NEXT WEEK!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=d-YwnkUAHqE",
           "author": null,

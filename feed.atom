@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T05:03:01.469Z</id>
+    <id>urn:2023-04-05T06:07:46.851Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-05T05:03:01.469Z</updated>
+    <updated>2023-04-05T06:07:46.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,33 +12,6 @@
         <updated>2023-04-04T16:05:02.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido ETH Staking Tutorial (Lido Finance stETH)]]></title>
-        <id>https://www.youtube.com/watch?v=5zCCRx6IudY</id>
-        <link href="https://www.youtube.com/watch?v=5zCCRx6IudY"/>
-        <updated>2023-04-04T14:00:03.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「推荐新手」大陆免KYC,  出入金顺畅的交易所Bitget:  球王梅西全力推荐的数字货币交易平台.  拥有带单功能,让散户也可以赚钱.]]></title>
-        <id>https://www.youtube.com/watch?v=GfmUPtbNYlY</id>
-        <link href="https://www.youtube.com/watch?v=GfmUPtbNYlY"/>
-        <updated>2023-04-04T04:00:07.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DON'T WAIT!! Shanghai is just around the corner! 🚀🚀]]></title>
-        <id>https://www.youtube.com/watch?v=IMGt-TRELAc</id>
-        <link href="https://www.youtube.com/watch?v=IMGt-TRELAc"/>
-        <updated>2023-04-03T19:44:52.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>
@@ -60,33 +33,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Crypto Portfolio Tracker Apps 2023!! (Crypto Trade & Wallet  Tracking)]]></title>
-        <id>https://www.youtube.com/watch?v=3CUuxdP8TWM</id>
-        <link href="https://www.youtube.com/watch?v=3CUuxdP8TWM"/>
-        <updated>2023-04-03T14:00:03.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I quit Ethereum for Bitcoin #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=dBlezRCDgo0</id>
-        <link href="https://www.youtube.com/watch?v=dBlezRCDgo0"/>
-        <updated>2023-04-01T12:02:10.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*THIS* Is The Next BIG Crypto Narrative!!! These (2) Altcoins Will Explode In 2 Weeks!!]]></title>
-        <id>https://www.youtube.com/watch?v=zkNLG1dj8D0</id>
-        <link href="https://www.youtube.com/watch?v=zkNLG1dj8D0"/>
-        <updated>2023-03-31T19:34:23.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🚨ALERT: MAJOR BLOCKCHAIN APP PEOPLE WILL *ACTUALLY* USE!!!]]></title>
         <id>https://www.youtube.com/watch?v=fFsc87THP3o</id>
         <link href="https://www.youtube.com/watch?v=fFsc87THP3o"/>
@@ -96,48 +42,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trezor Model T Tutorial (How to Setup Trezor Model T & Trezor Suite)]]></title>
-        <id>https://www.youtube.com/watch?v=HDqT1pnyZmA</id>
-        <link href="https://www.youtube.com/watch?v=HDqT1pnyZmA"/>
-        <updated>2023-03-31T14:00:10.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ApeX Exchange Tutorial (How to Trade Crypto on ApeX DeX)]]></title>
-        <id>https://www.youtube.com/watch?v=o4qFIiT7cCQ</id>
-        <link href="https://www.youtube.com/watch?v=o4qFIiT7cCQ"/>
-        <updated>2023-03-30T14:30:14.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Use ChatGPT to Build a RegEx Generator – OpenAI API Low Code Course]]></title>
         <id>https://www.youtube.com/watch?v=D6Xj_W4leu8</id>
         <link href="https://www.youtube.com/watch?v=D6Xj_W4leu8"/>
         <updated>2023-03-30T13:32:31.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hate to say it but... I TOLD YOU!!!]]></title>
-        <id>https://www.youtube.com/watch?v=oBx6bLJ8V_A</id>
-        <link href="https://www.youtube.com/watch?v=oBx6bLJ8V_A"/>
-        <updated>2023-03-29T19:59:07.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 FATAL Mistakes that will make you FAIL]]></title>
-        <id>https://www.youtube.com/watch?v=ACBVsrH6dUY</id>
-        <link href="https://www.youtube.com/watch?v=ACBVsrH6dUY"/>
-        <updated>2023-03-29T19:15:00.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>
@@ -159,66 +69,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MAJOR CRYPTO SIGNALS ARE FLASHING!!]]></title>
-        <id>https://www.youtube.com/watch?v=sND2EL71JFw</id>
-        <link href="https://www.youtube.com/watch?v=sND2EL71JFw"/>
-        <updated>2023-03-29T14:00:38.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币遇到小额跨链交易怎么办? 使用这个工具可低成本的在多链之间转移小额资金.有效抵抗撸羊毛女巫溯源]]></title>
-        <id>https://www.youtube.com/watch?v=fg3-AlVAXVU</id>
-        <link href="https://www.youtube.com/watch?v=fg3-AlVAXVU"/>
-        <updated>2023-03-29T09:00:33.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*THIS* Is Just the Beginning for Binance!! Criminal Charges for CZ Are Coming SOON!!!]]></title>
-        <id>https://www.youtube.com/watch?v=1S5uhQGFgdY</id>
-        <link href="https://www.youtube.com/watch?v=1S5uhQGFgdY"/>
-        <updated>2023-03-28T19:20:58.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Flutter App Development Course – Build a Twitter Clone with Appwrite and Riverpod]]></title>
         <id>https://www.youtube.com/watch?v=njLEDvoDjtk</id>
         <link href="https://www.youtube.com/watch?v=njLEDvoDjtk"/>
         <updated>2023-03-28T16:44:46.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ALERT! Ether considered a commodity soon? | Web3 News]]></title>
-        <id>https://www.youtube.com/watch?v=PMXJABa5Tvg</id>
-        <link href="https://www.youtube.com/watch?v=PMXJABa5Tvg"/>
-        <updated>2023-03-28T16:16:09.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Polygon Networks to MetaMask (zkEVM, PoS, Polygon Bridge)]]></title>
-        <id>https://www.youtube.com/watch?v=RY2HcTfZITc</id>
-        <link href="https://www.youtube.com/watch?v=RY2HcTfZITc"/>
-        <updated>2023-03-28T14:00:30.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何识别风险网站? 假空投、钓鱼网站、授权诈骗各种各样的骗局稍有不慎就容易中招.  这个神器已经报告了17万风险网站,让你钱包更加安全.]]></title>
-        <id>https://www.youtube.com/watch?v=s7J6rvvWrvk</id>
-        <link href="https://www.youtube.com/watch?v=s7J6rvvWrvk"/>
-        <updated>2023-03-28T13:45:09.000Z</updated>
-        <author>
-            <name>链求君</name>
         </author>
     </entry>
     <entry>
@@ -231,84 +87,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get ready!! The next airdrop is coming!!]]></title>
-        <id>https://www.youtube.com/watch?v=EMUrk72pIFQ</id>
-        <link href="https://www.youtube.com/watch?v=EMUrk72pIFQ"/>
-        <updated>2023-03-27T19:45:08.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React 3D Animation Website Tutorial with ThreeJS (WebGi) & GSAP]]></title>
         <id>https://www.youtube.com/watch?v=IyBhFma4H1A</id>
         <link href="https://www.youtube.com/watch?v=IyBhFma4H1A"/>
         <updated>2023-03-27T15:43:16.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justbet测试网撸空投：即将开始空投代币！]]></title>
-        <id>https://www.youtube.com/watch?v=U8uWoPiaSPU</id>
-        <link href="https://www.youtube.com/watch?v=U8uWoPiaSPU"/>
-        <updated>2023-03-27T14:19:40.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget Copy Trading Tutorial (Spot Copy Trading)]]></title>
-        <id>https://www.youtube.com/watch?v=rEUyOzwcdZc</id>
-        <link href="https://www.youtube.com/watch?v=rEUyOzwcdZc"/>
-        <updated>2023-03-27T14:00:35.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何采用 Web3全栈解决方案 Fleek ?  一个产品好用到就等发空投的项目. Web3基础设施Fleek, 开中心化之路开启.]]></title>
-        <id>https://www.youtube.com/watch?v=PjVCnYZGiN0</id>
-        <link href="https://www.youtube.com/watch?v=PjVCnYZGiN0"/>
-        <updated>2023-03-26T17:00:12.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$LUNA 创世认被捕现场视频]]></title>
-        <id>https://www.youtube.com/watch?v=TxlHWpk0bQ8</id>
-        <link href="https://www.youtube.com/watch?v=TxlHWpk0bQ8"/>
-        <updated>2023-03-26T10:57:45.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terra $LUNA和$UST的创造者Do Kwon就是这样被捕的，他在加密社区和世界经济中留下了一个坑🔥]]></title>
-        <id>https://www.youtube.com/watch?v=fyT0NCFXql0</id>
-        <link href="https://www.youtube.com/watch?v=fyT0NCFXql0"/>
-        <updated>2023-03-25T15:52:19.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何领取Arbitrum空投并成为每日获得100美元挖矿奖励的受益者?  ARB空投+流动性挖矿=双重福利！抓住市场热度，享受空投之后的回报！]]></title>
-        <id>https://www.youtube.com/watch?v=ct53tmnVaYQ</id>
-        <link href="https://www.youtube.com/watch?v=ct53tmnVaYQ"/>
-        <updated>2023-03-25T00:00:20.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GET READY!! An Airdrop Bigger Than Arbitrum Will Mint *NEW* Millionaires!!]]></title>
-        <id>https://www.youtube.com/watch?v=aoYuUxTUdUg</id>
-        <link href="https://www.youtube.com/watch?v=aoYuUxTUdUg"/>
-        <updated>2023-03-24T19:48:29.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>
@@ -321,75 +105,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deploy & mint an NFT collection in 5 mins (Quick & Easy)]]></title>
-        <id>https://www.youtube.com/watch?v=Y_SvzblTRwc</id>
-        <link href="https://www.youtube.com/watch?v=Y_SvzblTRwc"/>
-        <updated>2023-03-24T18:25:42.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-tuning GPT from Scratch in 15 Minutes with JavaScript]]></title>
-        <id>https://www.youtube.com/watch?v=Sb7U32kXMB0</id>
-        <link href="https://www.youtube.com/watch?v=Sb7U32kXMB0"/>
-        <updated>2023-03-24T15:49:14.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为何 Arbitrum 空投中泄漏的钱包是黑客提款机?  价值百万的扫荡机器人是如何做到的?  做钱包被盗后的守护神 | 扫地机器人套利 | 私钥泄漏骗局揭秘 | 挽救泄漏钱包的最后方法]]></title>
-        <id>https://www.youtube.com/watch?v=MREmquuodjY</id>
-        <link href="https://www.youtube.com/watch?v=MREmquuodjY"/>
-        <updated>2023-03-24T15:25:15.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Withdraw from Binance to Bank Account]]></title>
-        <id>https://www.youtube.com/watch?v=h2Uqs68ZDnQ</id>
-        <link href="https://www.youtube.com/watch?v=h2Uqs68ZDnQ"/>
-        <updated>2023-03-24T14:00:24.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GET RICH ALTCOINS of 2023!!!🚀🚀🚀]]></title>
-        <id>https://www.youtube.com/watch?v=Cpyj4hxkxuU</id>
-        <link href="https://www.youtube.com/watch?v=Cpyj4hxkxuU"/>
-        <updated>2023-03-23T19:16:08.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Emergency!! (The Fed Just Blinked)]]></title>
-        <id>https://www.youtube.com/watch?v=hcHitv1Qy5k</id>
-        <link href="https://www.youtube.com/watch?v=hcHitv1Qy5k"/>
-        <updated>2023-03-23T14:00:32.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learn Vite – Frontend Build Tool Course]]></title>
         <id>https://www.youtube.com/watch?v=VAeRhmpcWEQ</id>
         <link href="https://www.youtube.com/watch?v=VAeRhmpcWEQ"/>
         <updated>2023-03-23T13:06:12.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Top “GET RICH” Altcoins of 2023!!!??? Undervalued, Underrated & Ready to PUMP!!!]]></title>
-        <id>https://www.youtube.com/watch?v=bFTHGtGM6K4</id>
-        <link href="https://www.youtube.com/watch?v=bFTHGtGM6K4"/>
-        <updated>2023-03-22T19:40:45.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>
@@ -402,24 +123,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This smart contract could pay you $1M in the next 3 month]]></title>
-        <id>https://www.youtube.com/watch?v=Dr9LvISWmbM</id>
-        <link href="https://www.youtube.com/watch?v=Dr9LvISWmbM"/>
-        <updated>2023-03-22T18:30:18.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wallet of Satoshi Tutorial (Bitcoin Lightning Network Payments)]]></title>
-        <id>https://www.youtube.com/watch?v=Es4InK3lq5c</id>
-        <link href="https://www.youtube.com/watch?v=Es4InK3lq5c"/>
-        <updated>2023-03-22T14:00:08.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Django Project – Code a CRM App Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=t10QcFx7d5k</id>
         <link href="https://www.youtube.com/watch?v=t10QcFx7d5k"/>
@@ -429,48 +132,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The dominos are falling... What will rise from the chaos??👀]]></title>
-        <id>https://www.youtube.com/watch?v=rfdAAIqgN94</id>
-        <link href="https://www.youtube.com/watch?v=rfdAAIqgN94"/>
-        <updated>2023-03-21T19:48:38.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Bull market back? Web3 News]]></title>
-        <id>https://www.youtube.com/watch?v=bCROB_rq80M</id>
-        <link href="https://www.youtube.com/watch?v=bCROB_rq80M"/>
-        <updated>2023-03-21T16:23:32.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Python Reinforcement Learning using Gymnasium – Full Course]]></title>
         <id>https://www.youtube.com/watch?v=vufTSJbzKGU</id>
         <link href="https://www.youtube.com/watch?v=vufTSJbzKGU"/>
         <updated>2023-03-21T14:04:20.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 3 BEST Crypto Day Trading Indicators for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=-HBd7h5kEa8</id>
-        <link href="https://www.youtube.com/watch?v=-HBd7h5kEa8"/>
-        <updated>2023-03-21T14:00:00.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马上到来的Arbitrum空投, 领取$ARB 空投时候如何通过脚本批量Claim? 如何解救泄漏私钥的钱包中的 $ARB 代币?]]></title>
-        <id>https://www.youtube.com/watch?v=uCkslboQU2s</id>
-        <link href="https://www.youtube.com/watch?v=uCkslboQU2s"/>
-        <updated>2023-03-21T12:19:41.000Z</updated>
-        <author>
-            <name>链求君</name>
         </author>
     </entry>
     <entry>
@@ -492,57 +159,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exodus Wallet Tutorial 2023 (Exodus Desktop Crypto Wallet)]]></title>
-        <id>https://www.youtube.com/watch?v=p4zBX5Bgp8o</id>
-        <link href="https://www.youtube.com/watch?v=p4zBX5Bgp8o"/>
-        <updated>2023-03-20T14:00:34.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[$200M CRYPTO HACK - DID YOU GET HIT!?]]></title>
         <id>https://www.youtube.com/watch?v=pd1uj9RxNd8</id>
         <link href="https://www.youtube.com/watch?v=pd1uj9RxNd8"/>
         <updated>2023-03-17T19:00:32.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO JUST TOTALLY FLIPPED]]></title>
-        <id>https://www.youtube.com/watch?v=z-apx6-S2No</id>
-        <link href="https://www.youtube.com/watch?v=z-apx6-S2No"/>
-        <updated>2023-03-17T14:00:41.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum 空投, 即将登陆 !  这波全民空投之后, 撸羊毛将会是一个考验技术和认知的内卷时期. 散户抱团、工作室合作、专业团队带人入场.]]></title>
-        <id>https://www.youtube.com/watch?v=k43TM-J-iO8</id>
-        <link href="https://www.youtube.com/watch?v=k43TM-J-iO8"/>
-        <updated>2023-03-17T09:47:12.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The BEST tools for Web3 development in 2023]]></title>
-        <id>https://www.youtube.com/watch?v=S7eHiIGbDGE</id>
-        <link href="https://www.youtube.com/watch?v=S7eHiIGbDGE"/>
-        <updated>2023-03-17T08:27:55.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’ve Uncovered the “Crypto Narrative” of 2023 That Will Ignite the Mother of All BULLRUNS!!]]></title>
-        <id>https://www.youtube.com/watch?v=AAfRVnUxz2I</id>
-        <link href="https://www.youtube.com/watch?v=AAfRVnUxz2I"/>
-        <updated>2023-03-16T19:40:23.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>
@@ -573,57 +195,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Volume Indicator for Day Trading Crypto]]></title>
-        <id>https://www.youtube.com/watch?v=BC-aAQukNSE</id>
-        <link href="https://www.youtube.com/watch?v=BC-aAQukNSE"/>
-        <updated>2023-03-15T14:00:06.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not Your Keys, Not Your Coins... 👀]]></title>
-        <id>https://www.youtube.com/watch?v=z-kQ_B9oLGI</id>
-        <link href="https://www.youtube.com/watch?v=z-kQ_B9oLGI"/>
-        <updated>2023-03-14T17:33:01.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is Python used for?]]></title>
         <id>https://www.youtube.com/watch?v=VrSJhTGMM90</id>
         <link href="https://www.youtube.com/watch?v=VrSJhTGMM90"/>
         <updated>2023-03-14T16:33:52.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 The whole USDC / SVB crisis explained, and what it means for crypto | Web3 News]]></title>
-        <id>https://www.youtube.com/watch?v=7k_Je87JRHA</id>
-        <link href="https://www.youtube.com/watch?v=7k_Je87JRHA"/>
-        <updated>2023-03-14T16:29:58.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Buy Bitcoin 2023 Tutorial (6 Steps)]]></title>
-        <id>https://www.youtube.com/watch?v=yjvX5gPlc2U</id>
-        <link href="https://www.youtube.com/watch?v=yjvX5gPlc2U"/>
-        <updated>2023-03-14T14:00:37.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW VIDEO! Could Amazon turn the tide?! 👀🚀]]></title>
-        <id>https://www.youtube.com/watch?v=tj5k0YPkofM</id>
-        <link href="https://www.youtube.com/watch?v=tj5k0YPkofM"/>
-        <updated>2023-03-13T16:47:40.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>
@@ -645,24 +222,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State of Solidity in 2023]]></title>
-        <id>https://www.youtube.com/watch?v=1icpQIGUuWA</id>
-        <link href="https://www.youtube.com/watch?v=1icpQIGUuWA"/>
-        <updated>2023-03-10T20:12:09.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WARNING! Binance Will “IMPLODE” in 2023!! And Will Be Replaced by These ALTCOINS!!]]></title>
-        <id>https://www.youtube.com/watch?v=pMF8NXUL6K8</id>
-        <link href="https://www.youtube.com/watch?v=pMF8NXUL6K8"/>
-        <updated>2023-03-10T20:01:51.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HUGE opportunity for Web 3.0 Devs to make $$$ building cool stuff!]]></title>
         <id>https://www.youtube.com/watch?v=HGIaMy2kCpw</id>
         <link href="https://www.youtube.com/watch?v=HGIaMy2kCpw"/>
@@ -672,48 +231,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BREAKING!! Amazon Will Go “ALL IN” For Crypto SOON!!! Which Altcoins Will PUMP!!??]]></title>
-        <id>https://www.youtube.com/watch?v=A3PvjvPrbcg</id>
-        <link href="https://www.youtube.com/watch?v=A3PvjvPrbcg"/>
-        <updated>2023-03-09T20:02:40.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should we ABANDON Web3 for AI?]]></title>
-        <id>https://www.youtube.com/watch?v=b4Br6xufCAo</id>
-        <link href="https://www.youtube.com/watch?v=b4Br6xufCAo"/>
-        <updated>2023-03-08T18:57:26.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Harvard CS50’s Web Programming with Python and JavaScript – Full University Course]]></title>
         <id>https://www.youtube.com/watch?v=vzGllw18DkA</id>
         <link href="https://www.youtube.com/watch?v=vzGllw18DkA"/>
         <updated>2023-03-08T14:20:12.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking to buy?! Maybe give the full video a 👀 first..]]></title>
-        <id>https://www.youtube.com/watch?v=ZnBy3ZJH-RI</id>
-        <link href="https://www.youtube.com/watch?v=ZnBy3ZJH-RI"/>
-        <updated>2023-03-08T05:05:51.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Big crypto bank into hot waters | Web3 News]]></title>
-        <id>https://www.youtube.com/watch?v=z84FemX4J_4</id>
-        <link href="https://www.youtube.com/watch?v=z84FemX4J_4"/>
-        <updated>2023-03-07T16:16:37.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

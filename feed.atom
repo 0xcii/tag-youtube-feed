@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T14:02:29.935Z</id>
+    <id>urn:2023-04-06T15:03:01.812Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T14:02:29.935Z</updated>
+    <updated>2023-04-06T15:03:01.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced C# – LINQ Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=5l2qA3Pc83M</id>
+        <link href="https://www.youtube.com/watch?v=5l2qA3Pc83M"/>
+        <updated>2023-04-06T14:26:34.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEXC Global Futures Trading Tutorial for Beginners (Step-by-Step)]]></title>
+        <id>https://www.youtube.com/watch?v=qO10We5vDrg</id>
+        <link href="https://www.youtube.com/watch?v=qO10We5vDrg"/>
+        <updated>2023-04-06T14:00:37.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My *BRAND NEW* Crypto Picks for 2023!! I’m Buying Them RIGHT NOW!!! Before It’s Too LATE!!!]]></title>
         <id>https://www.youtube.com/watch?v=B-hrBPLLdVA</id>
@@ -609,15 +627,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Volume Indicator for Day Trading Crypto]]></title>
-        <id>https://www.youtube.com/watch?v=BC-aAQukNSE</id>
-        <link href="https://www.youtube.com/watch?v=BC-aAQukNSE"/>
-        <updated>2023-03-15T14:00:06.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Not Your Keys, Not Your Coins... 👀]]></title>
         <id>https://www.youtube.com/watch?v=z-kQ_B9oLGI</id>
         <link href="https://www.youtube.com/watch?v=z-kQ_B9oLGI"/>
@@ -660,15 +669,6 @@
         <updated>2023-03-13T16:42:51.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Job Interview – Full Mock Interview]]></title>
-        <id>https://www.youtube.com/watch?v=sD468LfeVdc</id>
-        <link href="https://www.youtube.com/watch?v=sD468LfeVdc"/>
-        <updated>2023-03-13T14:00:57.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

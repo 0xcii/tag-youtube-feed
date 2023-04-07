@@ -738,6 +738,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=26lWg6UIrKw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=26lWg6UIrKw",
+          "publishedOn": "2023-04-07T19:00:01.000Z",
+          "wordCount": null,
+          "title": "Blockchain Dev LOSES $20M instantly in insane attack!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZhM8-SndBe8",
           "author": null,
           "description": "",

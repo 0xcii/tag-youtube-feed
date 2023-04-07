@@ -474,6 +474,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0Ask4EfZ0P8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0Ask4EfZ0P8",
+          "publishedOn": "2023-04-07T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Polygon zkEVM Tutorial (MetaMask, Bridge, Swap)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qO10We5vDrg",
           "author": null,
           "description": "",
@@ -611,16 +621,6 @@
           "publishedOn": "2023-03-20T14:00:34.000Z",
           "wordCount": null,
           "title": "Exodus Wallet Tutorial 2023 (Exodus Desktop Crypto Wallet)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z-apx6-S2No",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z-apx6-S2No",
-          "publishedOn": "2023-03-17T14:00:41.000Z",
-          "wordCount": null,
-          "title": "CRYPTO JUST TOTALLY FLIPPED",
           "imageUrl": null
         }
       ]

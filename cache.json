@@ -300,6 +300,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b98UZ0Bqr7E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b98UZ0Bqr7E",
+          "publishedOn": "2023-04-10T13:51:52.000Z",
+          "wordCount": null,
+          "title": "In Bulk and On Demand Queries with Lens BigQuery",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Sb7U32kXMB0",
           "author": null,
           "description": "",

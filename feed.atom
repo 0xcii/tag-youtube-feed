@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T14:02:22.948Z</id>
+    <id>urn:2023-04-11T15:03:27.361Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-11T14:02:22.948Z</updated>
+    <updated>2023-04-11T15:03:27.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO HUGE BREAKOUT]]></title>
+        <id>https://www.youtube.com/watch?v=KQ_loAjaKhM</id>
+        <link href="https://www.youtube.com/watch?v=KQ_loAjaKhM"/>
+        <updated>2023-04-11T14:00:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secret strategy for profitable crypto trading bots]]></title>
         <id>https://www.youtube.com/watch?v=zq6GyI6gUHQ</id>
@@ -615,15 +624,6 @@
         <updated>2023-03-21T14:04:20.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 3 BEST Crypto Day Trading Indicators for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=-HBd7h5kEa8</id>
-        <link href="https://www.youtube.com/watch?v=-HBd7h5kEa8"/>
-        <updated>2023-03-21T14:00:00.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

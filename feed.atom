@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T04:06:18.136Z</id>
+    <id>urn:2023-04-12T05:02:59.380Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-12T04:06:18.136Z</updated>
+    <updated>2023-04-12T05:02:59.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -741,24 +741,6 @@
         <updated>2023-03-14T16:29:58.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW VIDEO! Could Amazon turn the tide?! 👀🚀]]></title>
-        <id>https://www.youtube.com/watch?v=tj5k0YPkofM</id>
-        <link href="https://www.youtube.com/watch?v=tj5k0YPkofM"/>
-        <updated>2023-03-13T16:47:40.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴WARNING: Biggest Banking Crisis since 2008 happening right now!]]></title>
-        <id>https://www.youtube.com/watch?v=Av8TuyerbNM</id>
-        <link href="https://www.youtube.com/watch?v=Av8TuyerbNM"/>
-        <updated>2023-03-13T16:42:51.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fqP9IfRDTvM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fqP9IfRDTvM",
+          "publishedOn": "2023-04-13T08:08:08.000Z",
+          "wordCount": null,
+          "title": "8 Ideas to use ChatGPT for Web3 development",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=co_WWoMhtik",
           "author": null,
           "description": "",

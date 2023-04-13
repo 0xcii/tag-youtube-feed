@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T05:03:17.238Z</id>
+    <id>urn:2023-04-13T06:07:16.248Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T05:03:17.238Z</updated>
+    <updated>2023-04-13T06:07:16.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -732,15 +732,6 @@
         <updated>2023-03-15T19:00:09.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not Your Keys, Not Your Coins... 👀]]></title>
-        <id>https://www.youtube.com/watch?v=z-kQ_B9oLGI</id>
-        <link href="https://www.youtube.com/watch?v=z-kQ_B9oLGI"/>
-        <updated>2023-03-14T17:33:01.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

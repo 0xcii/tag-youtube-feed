@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T10:04:09.054Z</id>
+    <id>urn:2023-04-13T11:02:19.910Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T10:04:09.054Z</updated>
+    <updated>2023-04-13T11:02:19.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[8 Ideas to use ChatGPT for Web3 development]]></title>
+        <title type="html"><![CDATA[8 ChatGPT Hacks to 10x Your Web3 Productivity!]]></title>
         <id>https://www.youtube.com/watch?v=fqP9IfRDTvM</id>
         <link href="https://www.youtube.com/watch?v=fqP9IfRDTvM"/>
         <updated>2023-04-13T08:08:08.000Z</updated>

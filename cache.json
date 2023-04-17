@@ -133,6 +133,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vDDjtwQDw2k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vDDjtwQDw2k",
+          "publishedOn": "2023-04-17T14:40:20.000Z",
+          "wordCount": null,
+          "title": "No Black Box Machine Learning Course – Learn Without Libraries",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HimR8Xtz17U",
           "author": null,
           "description": "",
@@ -270,16 +280,6 @@
           "publishedOn": "2023-03-22T13:43:35.000Z",
           "wordCount": null,
           "title": "Django Project – Code a CRM App Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vufTSJbzKGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vufTSJbzKGU",
-          "publishedOn": "2023-03-21T14:04:20.000Z",
-          "wordCount": null,
-          "title": "Python Reinforcement Learning using Gymnasium – Full Course",
           "imageUrl": null
         }
       ]
@@ -454,6 +454,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RgCA22OBqlI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RgCA22OBqlI",
+          "publishedOn": "2023-04-17T14:00:27.000Z",
+          "wordCount": null,
+          "title": "PancakeSwap Tutorial 2023 (Trust Wallet, MetaMask, Swap, Staking)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O5bupGiv0RA",
           "author": null,
           "description": "",
@@ -591,16 +601,6 @@
           "publishedOn": "2023-03-28T14:00:30.000Z",
           "wordCount": null,
           "title": "How to Add Polygon Networks to MetaMask (zkEVM, PoS, Polygon Bridge)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rEUyOzwcdZc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rEUyOzwcdZc",
-          "publishedOn": "2023-03-27T14:00:35.000Z",
-          "wordCount": null,
-          "title": "Bitget Copy Trading Tutorial (Spot Copy Trading)",
           "imageUrl": null
         }
       ]

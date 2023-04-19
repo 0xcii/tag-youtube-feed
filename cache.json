@@ -728,6 +728,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i_a9bqvqmzo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i_a9bqvqmzo",
+          "publishedOn": "2023-04-19T19:30:03.000Z",
+          "wordCount": null,
+          "title": "How to Build a FULL App With ChatGPT in 20 minutes!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m8MGV8iRMVA",
           "author": null,
           "description": "",

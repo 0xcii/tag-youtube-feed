@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T17:02:08.042Z</id>
+    <id>urn:2023-04-20T18:06:25.653Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-20T17:02:08.042Z</updated>
+    <updated>2023-04-20T18:06:25.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[THE STABLECOIN SCANDAL OF THE CENTURY!! USDT, USDC, & US TREASURY BILLS!!!]]></title>
+        <id>https://www.youtube.com/watch?v=rXUW6Byn8Ss</id>
+        <link href="https://www.youtube.com/watch?v=rXUW6Byn8Ss"/>
+        <updated>2023-04-20T16:56:55.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3 Goldmine: 7 High-Potential Business Ideas for 2023]]></title>
         <id>https://www.youtube.com/watch?v=UTgrqMdAsis</id>

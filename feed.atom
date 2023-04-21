@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T19:01:44.646Z</id>
+    <id>urn:2023-04-21T20:03:37.737Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-21T19:01:44.646Z</updated>
+    <updated>2023-04-21T20:03:37.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This is the #1 Crypto Narrative of 2023!!! I’m Going “ALL IN” For These ALTCOINS!!]]></title>
+        <id>https://www.youtube.com/watch?v=uazcC8lJF4w</id>
+        <link href="https://www.youtube.com/watch?v=uazcC8lJF4w"/>
+        <updated>2023-04-21T19:41:02.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Land a Web 3.0 Job FAST With This Simple Hack!]]></title>
+        <id>https://www.youtube.com/watch?v=rtJUhpdCgwE</id>
+        <link href="https://www.youtube.com/watch?v=rtJUhpdCgwE"/>
+        <updated>2023-04-21T19:00:32.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Connect Ledger to MetaMask (Nano X, S Plus etc)]]></title>
         <id>https://www.youtube.com/watch?v=zBfHicKmPbo</id>

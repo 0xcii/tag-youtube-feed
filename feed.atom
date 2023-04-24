@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T22:02:13.574Z</id>
+    <id>urn:2023-04-24T23:03:12.880Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-24T22:02:13.574Z</updated>
+    <updated>2023-04-24T23:03:12.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -658,15 +658,6 @@
         <id>https://www.youtube.com/watch?v=PjVCnYZGiN0</id>
         <link href="https://www.youtube.com/watch?v=PjVCnYZGiN0"/>
         <updated>2023-03-26T17:00:12.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$LUNA 创世认被捕现场视频]]></title>
-        <id>https://www.youtube.com/watch?v=TxlHWpk0bQ8</id>
-        <link href="https://www.youtube.com/watch?v=TxlHWpk0bQ8"/>
-        <updated>2023-03-26T10:57:45.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

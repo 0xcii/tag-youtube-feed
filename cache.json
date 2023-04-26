@@ -220,6 +220,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qw83M7f1LI0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qw83M7f1LI0",
+          "publishedOn": "2023-04-26T07:00:20.000Z",
+          "wordCount": null,
+          "title": "Building a Custom Module with Lens Protocol from Scratch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oedDOaqjPgo",
           "author": null,
           "description": "",
@@ -364,16 +374,6 @@
           "publishedOn": "2023-03-28T19:20:58.000Z",
           "wordCount": null,
           "title": "*THIS* Is Just the Beginning for Binance!! Criminal Charges for CZ Are Coming SOON!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EMUrk72pIFQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EMUrk72pIFQ",
-          "publishedOn": "2023-03-27T19:45:08.000Z",
-          "wordCount": null,
-          "title": "Get ready!! The next airdrop is coming!!",
           "imageUrl": null
         }
       ]
@@ -755,16 +755,6 @@
           "publishedOn": "2023-03-29T19:00:20.000Z",
           "wordCount": null,
           "title": "TOP SECRET PLAN TO DESTROY THE CRYPTOCURRENCY INDUSTRY!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cG5fIpT_qnc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cG5fIpT_qnc",
-          "publishedOn": "2023-03-27T20:00:16.000Z",
-          "wordCount": null,
-          "title": "Bitcoin to $1,000,000 in 90 Days - Developer Explains",
           "imageUrl": null
         }
       ]

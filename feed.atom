@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T07:03:11.829Z</id>
+    <id>urn:2023-04-26T08:07:17.530Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-26T07:03:11.829Z</updated>
+    <updated>2023-04-26T08:07:17.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Custom Module with Lens Protocol from Scratch]]></title>
+        <id>https://www.youtube.com/watch?v=qw83M7f1LI0</id>
+        <link href="https://www.youtube.com/watch?v=qw83M7f1LI0"/>
+        <updated>2023-04-26T07:00:20.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a ChatGPT Plugin with TypeScript and Next.js: a Step-by-Step Guide]]></title>
         <id>https://www.youtube.com/watch?v=oedDOaqjPgo</id>
@@ -633,24 +642,6 @@
         <updated>2023-03-28T13:45:09.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin to $1,000,000 in 90 Days - Developer Explains]]></title>
-        <id>https://www.youtube.com/watch?v=cG5fIpT_qnc</id>
-        <link href="https://www.youtube.com/watch?v=cG5fIpT_qnc"/>
-        <updated>2023-03-27T20:00:16.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get ready!! The next airdrop is coming!!]]></title>
-        <id>https://www.youtube.com/watch?v=EMUrk72pIFQ</id>
-        <link href="https://www.youtube.com/watch?v=EMUrk72pIFQ"/>
-        <updated>2023-03-27T19:45:08.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

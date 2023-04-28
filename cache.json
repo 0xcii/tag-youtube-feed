@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nJoLwtBKLxw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nJoLwtBKLxw",
+          "publishedOn": "2023-04-28T09:09:10.000Z",
+          "wordCount": null,
+          "title": "ChatGPT 提示工程师教程（大佬精选）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h2CMvlqma-w",
           "author": null,
           "description": "",

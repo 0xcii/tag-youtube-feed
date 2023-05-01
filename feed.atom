@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T19:01:57.926Z</id>
+    <id>urn:2023-05-01T20:03:30.964Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-01T19:01:57.926Z</updated>
+    <updated>2023-05-01T20:03:30.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Secret Formula for PASSIVE INCOME with Flash Loans]]></title>
+        <id>https://www.youtube.com/watch?v=ikcBeQskQG8</id>
+        <link href="https://www.youtube.com/watch?v=ikcBeQskQG8"/>
+        <updated>2023-05-01T19:00:30.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ledger vs Trezor: Best Crypto Wallets?]]></title>
         <id>https://www.youtube.com/watch?v=WpA1QP6yhU4</id>

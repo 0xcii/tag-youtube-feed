@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T14:02:29.225Z</id>
+    <id>urn:2023-05-04T15:03:17.725Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-04T14:02:29.225Z</updated>
+    <updated>2023-05-04T15:03:17.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: THIS WILL BREAK EVERYTHING]]></title>
+        <id>https://www.youtube.com/watch?v=wPfZbw35BdY</id>
+        <link href="https://www.youtube.com/watch?v=wPfZbw35BdY"/>
+        <updated>2023-05-04T14:00:41.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WARNING! Global “Bank Run” Soon!! Get Your Cash Out NOW!!]]></title>
         <id>https://www.youtube.com/watch?v=hN1gXC0KSoM</id>
@@ -435,15 +444,6 @@
         <updated>2023-04-12T19:00:21.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Best FREE TradingView Indicators (Buy/Sell)]]></title>
-        <id>https://www.youtube.com/watch?v=5oJAS52--ek</id>
-        <link href="https://www.youtube.com/watch?v=5oJAS52--ek"/>
-        <updated>2023-04-12T14:00:08.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

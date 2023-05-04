@@ -247,6 +247,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=URntVgER6vA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=URntVgER6vA",
+          "publishedOn": "2023-05-04T18:24:09.000Z",
+          "wordCount": null,
+          "title": "BRICS has BIG plans for BTC!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hN1gXC0KSoM",
           "author": null,
           "description": "",
@@ -500,6 +510,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yI6jFA9EyiU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yI6jFA9EyiU",
+          "publishedOn": "2023-05-04T18:13:16.000Z",
+          "wordCount": null,
+          "title": "Will I earn this $60k bug bounty? (Smart contract audit)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mditBhmmvF4",
           "author": null,

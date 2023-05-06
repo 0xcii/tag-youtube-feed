@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T18:04:31.445Z</id>
+    <id>urn:2023-05-06T19:01:54.378Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-06T18:04:31.445Z</updated>
+    <updated>2023-05-06T19:01:54.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This “Crypto Narrative” Will Make Many *BRAND NEW* Millionaires (Bitcoin DeFi & BRC20s)]]></title>
+        <id>https://www.youtube.com/watch?v=iLNvcBF7TVQ</id>
+        <link href="https://www.youtube.com/watch?v=iLNvcBF7TVQ"/>
+        <updated>2023-05-06T18:18:02.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to make $10,000 from Crypto Airdrops - Realistic Plan]]></title>
         <id>https://www.youtube.com/watch?v=fBmxs4NwxxA</id>
@@ -577,15 +586,6 @@
         <id>https://www.youtube.com/watch?v=h2CMvlqma-w</id>
         <link href="https://www.youtube.com/watch?v=h2CMvlqma-w"/>
         <updated>2023-04-07T11:00:34.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget X BitKeep 发起 SUI 空投，注册免费领取空投，支持未來兑换官方SUI代币！]]></title>
-        <id>https://www.youtube.com/watch?v=JK-Q9JX6kSw</id>
-        <link href="https://www.youtube.com/watch?v=JK-Q9JX6kSw"/>
-        <updated>2023-04-07T06:35:54.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

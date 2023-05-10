@@ -218,16 +218,6 @@
           "wordCount": null,
           "title": "Build Your First Sybil-Resistant Web App with Gitcoin Passport & Next.js: A Step-by-Step Guide",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b98UZ0Bqr7E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b98UZ0Bqr7E",
-          "publishedOn": "2023-04-10T13:51:52.000Z",
-          "wordCount": null,
-          "title": "In Bulk and On Demand Queries with Lens BigQuery",
-          "imageUrl": null
         }
       ]
     },

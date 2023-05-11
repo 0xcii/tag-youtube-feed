@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T14:02:18.855Z</id>
+    <id>urn:2023-05-11T15:03:16.315Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-11T14:02:18.855Z</updated>
+    <updated>2023-05-11T15:03:16.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[KuCoin Trading Bots Tutorial 2023 (Grids, DCA, Rebalance)]]></title>
+        <id>https://www.youtube.com/watch?v=z2nCy_WbBjc</id>
+        <link href="https://www.youtube.com/watch?v=z2nCy_WbBjc"/>
+        <updated>2023-05-11T14:00:41.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go Programming – Golang Course with Bonus Projects]]></title>
         <id>https://www.youtube.com/watch?v=un6ZyFkqFKo</id>
@@ -498,15 +507,6 @@
         <updated>2023-04-18T15:39:09.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: BIGGEST MOMENT (BITCOIN HALVING 1 YEAR)]]></title>
-        <id>https://www.youtube.com/watch?v=raEeAHEqDFQ</id>
-        <link href="https://www.youtube.com/watch?v=raEeAHEqDFQ"/>
-        <updated>2023-04-18T14:00:36.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

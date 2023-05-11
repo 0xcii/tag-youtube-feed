@@ -354,6 +354,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z2nCy_WbBjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z2nCy_WbBjc",
+          "publishedOn": "2023-05-11T14:00:41.000Z",
+          "wordCount": null,
+          "title": "KuCoin Trading Bots Tutorial 2023 (Grids, DCA, Rebalance)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HhiFkcUJzCg",
           "author": null,
           "description": "",
@@ -481,16 +491,6 @@
           "publishedOn": "2023-04-19T14:00:01.000Z",
           "wordCount": null,
           "title": "Binance Stop Limit Order Tutorial (Binance Stop Loss)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=raEeAHEqDFQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=raEeAHEqDFQ",
-          "publishedOn": "2023-04-18T14:00:36.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: BIGGEST MOMENT (BITCOIN HALVING 1 YEAR)",
           "imageUrl": null
         }
       ]

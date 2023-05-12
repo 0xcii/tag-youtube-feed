@@ -569,16 +569,6 @@
           "wordCount": null,
           "title": "Solidity Crash Course: Learn Blockchain Coding Fast in 15 Minutes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fqP9IfRDTvM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fqP9IfRDTvM",
-          "publishedOn": "2023-04-13T08:08:08.000Z",
-          "wordCount": null,
-          "title": "8 ChatGPT Hacks to 10x Your Web3 Productivity!",
-          "imageUrl": null
         }
       ]
     },
@@ -587,6 +577,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=51ZBdMPzHC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=51ZBdMPzHC4",
+          "publishedOn": "2023-05-12T20:00:01.000Z",
+          "wordCount": null,
+          "title": "Why I NEVER Use VPNs for Crypto!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tgmZ7IyIKT4",
           "author": null,

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T13:07:03.602Z</id>
+    <id>urn:2023-05-12T14:02:38.302Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-12T13:07:03.602Z</updated>
+    <updated>2023-05-12T14:02:38.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: IT'S IMPOSSIBLE NOW (Debt Ceiling)]]></title>
+        <id>https://www.youtube.com/watch?v=cZQo5vms1iM</id>
+        <link href="https://www.youtube.com/watch?v=cZQo5vms1iM"/>
+        <updated>2023-05-12T14:00:31.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Top" BRC20 Tokens” Ready to Explode!! Millions Will Be Made By Early Adopters!!!]]></title>
         <id>https://www.youtube.com/watch?v=kvD-_ic0TEM</id>
@@ -498,15 +507,6 @@
         <updated>2023-04-19T15:13:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Stop Limit Order Tutorial (Binance Stop Loss)]]></title>
-        <id>https://www.youtube.com/watch?v=1pG3pdjFGzU</id>
-        <link href="https://www.youtube.com/watch?v=1pG3pdjFGzU"/>
-        <updated>2023-04-19T14:00:01.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

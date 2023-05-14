@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-14T18:04:05.920Z</id>
+    <id>urn:2023-05-14T19:01:52.831Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-14T18:04:05.920Z</updated>
+    <updated>2023-05-14T19:01:52.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -534,6 +534,15 @@
         <updated>2023-04-19T15:13:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Stop Limit Order Tutorial (Binance Stop Loss)]]></title>
+        <id>https://www.youtube.com/watch?v=1pG3pdjFGzU</id>
+        <link href="https://www.youtube.com/watch?v=1pG3pdjFGzU"/>
+        <updated>2023-04-19T14:00:01.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

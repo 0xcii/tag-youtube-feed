@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-15T13:09:12.991Z</id>
+    <id>urn:2023-05-15T14:02:15.976Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-15T13:09:12.991Z</updated>
+    <updated>2023-05-15T14:02:15.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add BNB Smart Chain to MetaMask (Binance Smart Chain)]]></title>
+        <id>https://www.youtube.com/watch?v=x4aDoPIuTnw</id>
+        <link href="https://www.youtube.com/watch?v=x4aDoPIuTnw"/>
+        <updated>2023-05-15T14:00:37.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I built my own blockchain explorer (100% secure)]]></title>
         <id>https://www.youtube.com/watch?v=8MBcjq6z3Bs</id>
@@ -534,15 +543,6 @@
         <updated>2023-04-19T15:13:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Stop Limit Order Tutorial (Binance Stop Loss)]]></title>
-        <id>https://www.youtube.com/watch?v=1pG3pdjFGzU</id>
-        <link href="https://www.youtube.com/watch?v=1pG3pdjFGzU"/>
-        <updated>2023-04-19T14:00:01.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T19:01:59.295Z</id>
+    <id>urn:2023-05-17T20:03:07.300Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-17T19:01:59.295Z</updated>
+    <updated>2023-05-17T20:03:07.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top "Millionaire Altcoins" I'm Buying In 2023 (Before It's Too LATE)]]></title>
+        <id>https://www.youtube.com/watch?v=1ZvBylO9wMI</id>
+        <link href="https://www.youtube.com/watch?v=1ZvBylO9wMI"/>
+        <updated>2023-05-17T19:26:16.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO: IT'S HAPPENING!!!]]></title>
         <id>https://www.youtube.com/watch?v=T6aI_Szm9hw</id>
@@ -552,15 +561,6 @@
         <updated>2023-04-21T19:00:32.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE STABLECOIN SCANDAL OF THE CENTURY!! USDT, USDC, & US TREASURY BILLS!!!]]></title>
-        <id>https://www.youtube.com/watch?v=rXUW6Byn8Ss</id>
-        <link href="https://www.youtube.com/watch?v=rXUW6Byn8Ss"/>
-        <updated>2023-04-20T16:56:55.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

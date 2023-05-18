@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GizsSo-EevA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GizsSo-EevA",
+          "publishedOn": "2023-05-18T14:08:51.000Z",
+          "wordCount": null,
+          "title": "Use ChatGPT to Code a Full Stack App – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ypNKKYUJE5o",
           "author": null,
           "description": "",
@@ -374,6 +384,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lb0TA3WuwAs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lb0TA3WuwAs",
+          "publishedOn": "2023-05-18T14:00:34.000Z",
+          "wordCount": null,
+          "title": "How to Withdraw Crypto from Binance (to Wallet or Exchange)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T6aI_Szm9hw",
           "author": null,
           "description": "",
@@ -511,16 +531,6 @@
           "publishedOn": "2023-04-27T14:00:35.000Z",
           "wordCount": null,
           "title": "Muun Wallet Tutorial (Bitcoin Lightning Network Wallet)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=330BA_827jI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=330BA_827jI",
-          "publishedOn": "2023-04-26T14:00:04.000Z",
-          "wordCount": null,
-          "title": "Best Crypto Trading Bots 2023 (Crypto Bots Explained)",
           "imageUrl": null
         }
       ]

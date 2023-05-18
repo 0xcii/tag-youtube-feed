@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-18T14:02:41.708Z</id>
+    <id>urn:2023-05-18T15:03:00.504Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-18T14:02:41.708Z</updated>
+    <updated>2023-05-18T15:03:00.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Use ChatGPT to Code a Full Stack App – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=GizsSo-EevA</id>
+        <link href="https://www.youtube.com/watch?v=GizsSo-EevA"/>
+        <updated>2023-05-18T14:08:51.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Withdraw Crypto from Binance (to Wallet or Exchange)]]></title>
+        <id>https://www.youtube.com/watch?v=lb0TA3WuwAs</id>
+        <link href="https://www.youtube.com/watch?v=lb0TA3WuwAs"/>
+        <updated>2023-05-18T14:00:34.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top "Millionaire Altcoins" I'm Buying In 2023 (Before It's Too LATE)]]></title>
         <id>https://www.youtube.com/watch?v=1ZvBylO9wMI</id>
@@ -453,15 +471,6 @@
         <updated>2023-04-26T14:05:46.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Crypto Trading Bots 2023 (Crypto Bots Explained)]]></title>
-        <id>https://www.youtube.com/watch?v=330BA_827jI</id>
-        <link href="https://www.youtube.com/watch?v=330BA_827jI"/>
-        <updated>2023-04-26T14:00:04.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

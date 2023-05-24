@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qrZGfBBlXpk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qrZGfBBlXpk",
+          "publishedOn": "2023-05-24T14:53:19.000Z",
+          "wordCount": null,
+          "title": "Django ChatGPT Clone Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FRmCxj9K7II",
           "author": null,
           "description": "",

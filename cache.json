@@ -151,16 +151,6 @@
           "wordCount": null,
           "title": "Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fZPgBnL2x-Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fZPgBnL2x-Q",
-          "publishedOn": "2023-04-25T16:23:08.000Z",
-          "wordCount": null,
-          "title": "Zustand React State Management Course (Simple Redux Alternative)",
-          "imageUrl": null
         }
       ]
     },

@@ -188,16 +188,6 @@
           "wordCount": null,
           "title": "Building a Custom Module with Lens Protocol from Scratch",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oedDOaqjPgo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oedDOaqjPgo",
-          "publishedOn": "2023-04-26T01:16:36.000Z",
-          "wordCount": null,
-          "title": "Building a ChatGPT Plugin with TypeScript and Next.js: a Step-by-Step Guide",
-          "imageUrl": null
         }
       ]
     },

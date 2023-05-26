@@ -334,6 +334,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gm_dAtb76X0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gm_dAtb76X0",
+          "publishedOn": "2023-05-26T14:00:22.000Z",
+          "wordCount": null,
+          "title": "Bitget Futures Trading Tutorial for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ct9sE2MSJko",
           "author": null,
           "description": "",
@@ -471,16 +481,6 @@
           "publishedOn": "2023-05-04T14:00:41.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: THIS WILL BREAK EVERYTHING",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p2yLJtGb6LE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p2yLJtGb6LE",
-          "publishedOn": "2023-05-03T14:00:26.000Z",
-          "wordCount": null,
-          "title": "Binance Spot Trading Tutorial (How to Trade on Binance)",
           "imageUrl": null
         }
       ]

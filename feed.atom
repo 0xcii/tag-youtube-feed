@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-27T04:04:55.866Z</id>
+    <id>urn:2023-05-27T05:02:26.388Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-27T04:04:55.866Z</updated>
+    <updated>2023-05-27T05:02:26.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[通过 CandyBomb 赚取 BGB:  交易和邀请好友瓜分 60,000 BGB 奖池！]]></title>
+        <id>https://www.youtube.com/watch?v=YCG_GYpZvuc</id>
+        <link href="https://www.youtube.com/watch?v=YCG_GYpZvuc"/>
+        <updated>2023-05-27T04:39:54.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Truth about Ledger Wallet Disaster - What you must know!]]></title>
         <id>https://www.youtube.com/watch?v=PRAkYd4q7vk</id>

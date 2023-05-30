@@ -324,6 +324,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=H4zSM9_8nMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H4zSM9_8nMk",
+          "publishedOn": "2023-05-30T14:00:10.000Z",
+          "wordCount": null,
+          "title": "How to Connect Trezor to Exodus Wallet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UqURgVrHlBc",
           "author": null,
           "description": "",
@@ -461,16 +471,6 @@
           "publishedOn": "2023-05-09T14:00:13.000Z",
           "wordCount": null,
           "title": "CRYPTO: MASSIVE DANGER ZONE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=goLz9twvf3U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=goLz9twvf3U",
-          "publishedOn": "2023-05-05T14:00:33.000Z",
-          "wordCount": null,
-          "title": "Binance vs Coinbase: Best Crypto Exchange?",
           "imageUrl": null
         }
       ]

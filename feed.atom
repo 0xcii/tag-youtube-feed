@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T16:04:26.042Z</id>
+    <id>urn:2023-05-30T17:01:39.161Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-30T16:04:26.042Z</updated>
+    <updated>2023-05-30T17:01:39.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The more things change, the more they stay the same.. So strap in!🚀]]></title>
+        <id>https://www.youtube.com/watch?v=JXURauqeMco</id>
+        <link href="https://www.youtube.com/watch?v=JXURauqeMco"/>
+        <updated>2023-05-30T16:55:46.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build AI Apps with ChatGPT, DALL-E, and GPT-4 – Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=jlogLBkPZ2A</id>
@@ -505,15 +514,6 @@
         <id>https://www.youtube.com/watch?v=l81zmSrm1bk</id>
         <link href="https://www.youtube.com/watch?v=l81zmSrm1bk"/>
         <updated>2023-05-05T15:55:02.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRICS has BIG plans for BTC!!]]></title>
-        <id>https://www.youtube.com/watch?v=URntVgER6vA</id>
-        <link href="https://www.youtube.com/watch?v=URntVgER6vA"/>
-        <updated>2023-05-04T18:24:09.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

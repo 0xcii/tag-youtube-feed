@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_IgbB24scLI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_IgbB24scLI",
+          "publishedOn": "2023-06-01T14:42:30.000Z",
+          "wordCount": null,
+          "title": "Neo4j Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jlogLBkPZ2A",
           "author": null,
           "description": "",
@@ -324,6 +334,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UoL3D14FUFg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UoL3D14FUFg",
+          "publishedOn": "2023-06-01T14:00:19.000Z",
+          "wordCount": null,
+          "title": "Best Crypto Coins June 2023 (Deep Dive)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yljygFMM2GQ",
           "author": null,
           "description": "",
@@ -461,16 +481,6 @@
           "publishedOn": "2023-05-11T14:00:41.000Z",
           "wordCount": null,
           "title": "KuCoin Trading Bots Tutorial 2023 (Grids, DCA, Rebalance)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HhiFkcUJzCg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HhiFkcUJzCg",
-          "publishedOn": "2023-05-10T14:00:08.000Z",
-          "wordCount": null,
-          "title": "How to Withdraw from Trust Wallet to Bank & Exchange",
           "imageUrl": null
         }
       ]

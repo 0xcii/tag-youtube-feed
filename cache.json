@@ -558,6 +558,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_H9Qppf13GI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_H9Qppf13GI",
+          "publishedOn": "2023-06-01T19:00:13.000Z",
+          "wordCount": null,
+          "title": "Code a Web 3.0 Ticketmaster Clone Step-By-Step with Solidity, Ethers.js, React & Hardhat",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uD_X7eNCDKU",
           "author": null,
           "description": "",

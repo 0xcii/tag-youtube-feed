@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-01T18:03:56.979Z</id>
+    <id>urn:2023-06-01T19:02:05.549Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-01T18:03:56.979Z</updated>
+    <updated>2023-06-01T19:02:05.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I’m Going “ALL IN” For This Altcoin!! Why!? Billions Are Coming SOON!!!]]></title>
+        <id>https://www.youtube.com/watch?v=2xtYyHnluBE</id>
+        <link href="https://www.youtube.com/watch?v=2xtYyHnluBE"/>
+        <updated>2023-06-01T18:23:10.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neo4j Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=_IgbB24scLI</id>
@@ -516,15 +525,6 @@
         <updated>2023-05-05T19:00:25.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BINANCE IS DONE FOR!! US DOJ WILL SEIZE & SHUT DOWN THE EXCHANGE!!! WHEN!??]]></title>
-        <id>https://www.youtube.com/watch?v=l81zmSrm1bk</id>
-        <link href="https://www.youtube.com/watch?v=l81zmSrm1bk"/>
-        <updated>2023-05-05T15:55:02.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

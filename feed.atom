@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T00:33:12.224Z</id>
+    <id>urn:2023-06-02T02:16:20.919Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-02T00:33:12.224Z</updated>
+    <updated>2023-06-02T02:16:20.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -561,15 +561,6 @@
         <updated>2023-05-03T19:00:20.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Foundations Course – Regression Analysis]]></title>
-        <id>https://www.youtube.com/watch?v=2IZKK3pJQjg</id>
-        <link href="https://www.youtube.com/watch?v=2IZKK3pJQjg"/>
-        <updated>2023-05-03T13:21:02.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

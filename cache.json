@@ -481,6 +481,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=S9dEOgg4Irk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S9dEOgg4Irk",
+          "publishedOn": "2023-06-02T18:20:24.000Z",
+          "wordCount": null,
+          "title": "Ether Faucets Suck... I Am Building My Own",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xcfldWqKG6s",
           "author": null,
           "description": "",

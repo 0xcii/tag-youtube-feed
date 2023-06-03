@@ -529,16 +529,6 @@
           "wordCount": null,
           "title": "I built my own blockchain explorer (100% secure)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yI6jFA9EyiU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yI6jFA9EyiU",
-          "publishedOn": "2023-05-04T18:13:16.000Z",
-          "wordCount": null,
-          "title": "Will I earn this $60k bug bounty? (Smart contract audit)",
-          "imageUrl": null
         }
       ]
     },

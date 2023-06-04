@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-FtdFvtPVxI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-FtdFvtPVxI",
+          "publishedOn": "2023-06-04T22:00:00.000Z",
+          "wordCount": null,
+          "title": "如何参与 BitKeep 的 zkSync 空投，获得官方zksync代币？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xDyrM8xBLh4",
           "author": null,
           "description": "",

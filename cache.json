@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mE-vdlbauJE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mE-vdlbauJE",
+          "publishedOn": "2023-06-06T16:00:27.000Z",
+          "wordCount": null,
+          "title": "Safe多签钱包：如何保障加密资产安全，同时实现多人多账号管理？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3MYo6ORBSN4",
           "author": null,
           "description": "",

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-06T00:33:59.433Z</id>
+    <id>urn:2023-06-06T02:20:34.966Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-06T00:33:59.433Z</updated>
+    <updated>2023-06-06T02:20:34.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -597,15 +597,6 @@
         <updated>2023-05-08T17:01:52.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack Introduction to Fuel Network - The World's Fastest Modular Execution Layer]]></title>
-        <id>https://www.youtube.com/watch?v=S6Fln4SreeQ</id>
-        <link href="https://www.youtube.com/watch?v=S6Fln4SreeQ"/>
-        <updated>2023-05-07T13:26:55.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
         </author>
     </entry>
 </feed>

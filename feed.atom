@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-07T13:09:41.935Z</id>
+    <id>urn:2023-06-07T14:02:15.628Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-07T13:09:41.935Z</updated>
+    <updated>2023-06-07T14:02:15.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep Learning for Computer Vision with TensorFlow – Complete Course]]></title>
+        <title type="html"><![CDATA[Deep Learning for Computer Vision with Python and TensorFlow – Complete Course]]></title>
         <id>https://www.youtube.com/watch?v=IA3WxTTPXqQ</id>
         <link href="https://www.youtube.com/watch?v=IA3WxTTPXqQ"/>
         <updated>2023-06-06T14:04:19.000Z</updated>

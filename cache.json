@@ -404,6 +404,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qPLZspKquvw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qPLZspKquvw",
+          "publishedOn": "2023-06-14T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Pionex Grid Trading Bots | My Results & Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VDuAIzGbR3k",
           "author": null,
           "description": "",
@@ -541,16 +551,6 @@
           "publishedOn": "2023-05-25T14:00:08.000Z",
           "wordCount": null,
           "title": "Best TradingView Support & Resistance Indicators (For FREE)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kTzpX3ePAdE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kTzpX3ePAdE",
-          "publishedOn": "2023-05-24T14:00:32.000Z",
-          "wordCount": null,
-          "title": "How to START Crypto DAY TRADING (30 Minute Expert)",
           "imageUrl": null
         }
       ]

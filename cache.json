@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BCiqohEStRg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BCiqohEStRg",
+          "publishedOn": "2023-06-14T19:23:28.000Z",
+          "wordCount": null,
+          "title": "China is going all in!?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6WS6RY9mjgU",
           "author": null,
           "description": "",
@@ -627,6 +637,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SY7dktvsn00",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SY7dktvsn00",
+          "publishedOn": "2023-06-14T19:00:09.000Z",
+          "wordCount": null,
+          "title": "The TRUTH about the SEC Crypto Crackdown",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=L9XjtQW4IF8",
           "author": null,

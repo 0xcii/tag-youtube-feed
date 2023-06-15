@@ -394,6 +394,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yyo53rBhm2g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yyo53rBhm2g",
+          "publishedOn": "2023-06-15T14:00:42.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: PREPARE FOR THE WORST",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qPLZspKquvw",
           "author": null,
           "description": "",
@@ -531,16 +541,6 @@
           "publishedOn": "2023-05-26T14:00:22.000Z",
           "wordCount": null,
           "title": "Bitget Futures Trading Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ct9sE2MSJko",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ct9sE2MSJko",
-          "publishedOn": "2023-05-25T14:00:08.000Z",
-          "wordCount": null,
-          "title": "Best TradingView Support & Resistance Indicators (For FREE)",
           "imageUrl": null
         }
       ]

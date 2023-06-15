@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T06:07:24.135Z</id>
+    <id>urn:2023-06-15T07:03:02.756Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-15T06:07:24.135Z</updated>
+    <updated>2023-06-15T07:03:02.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[别错过了！还剩最后几个月，2023 年加密货币获得空投的最佳跨链桥，你都使用过了吗？]]></title>
+        <id>https://www.youtube.com/watch?v=fIPqlFzP37k</id>
+        <link href="https://www.youtube.com/watch?v=fIPqlFzP37k"/>
+        <updated>2023-06-15T07:00:30.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China is going all in!?]]></title>
         <id>https://www.youtube.com/watch?v=BCiqohEStRg</id>
@@ -307,15 +316,6 @@
         <id>https://www.youtube.com/watch?v=qJZaSwBkp2k</id>
         <link href="https://www.youtube.com/watch?v=qJZaSwBkp2k"/>
         <updated>2023-06-04T03:00:20.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metamask 空投教程：最新加密货币的免费投资机会!  撸空投赚$]]></title>
-        <id>https://www.youtube.com/watch?v=6MuCMSZBPtk</id>
-        <link href="https://www.youtube.com/watch?v=6MuCMSZBPtk"/>
-        <updated>2023-06-03T16:15:27.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

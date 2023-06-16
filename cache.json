@@ -608,6 +608,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vSnQtabRm5M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vSnQtabRm5M",
+          "publishedOn": "2023-06-16T19:00:34.000Z",
+          "wordCount": null,
+          "title": "Apple Vision Pro is a GAME CHANGER for Crypto!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SY7dktvsn00",
           "author": null,
           "description": "",

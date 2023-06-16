@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-16T14:02:27.156Z</id>
+    <id>urn:2023-06-16T15:02:56.762Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-16T14:02:27.156Z</updated>
+    <updated>2023-06-16T15:02:56.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance ETH Staking Tutorial (Stake Ethereum on Binance)]]></title>
+        <id>https://www.youtube.com/watch?v=VK3zDQJ9jVw</id>
+        <link href="https://www.youtube.com/watch?v=VK3zDQJ9jVw"/>
+        <updated>2023-06-16T14:00:32.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pointers in C for Absolute Beginners – Full Course]]></title>
         <id>https://www.youtube.com/watch?v=MIL2BK02X8A</id>
@@ -471,15 +480,6 @@
         <updated>2023-05-26T19:19:27.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget Futures Trading Tutorial for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=gm_dAtb76X0</id>
-        <link href="https://www.youtube.com/watch?v=gm_dAtb76X0"/>
-        <updated>2023-05-26T14:00:22.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MeirML9egwE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MeirML9egwE",
+          "publishedOn": "2023-06-16T15:33:18.000Z",
+          "wordCount": null,
+          "title": "DeFillama使用教程【二】： 加密数据分析平台（套利策略）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jGTt9zmNHYw",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-06-04T22:00:00.000Z",
           "wordCount": null,
           "title": "如何参与 BitKeep 的 zkSync 空投，获得官方zksync代币？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xDyrM8xBLh4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xDyrM8xBLh4",
-          "publishedOn": "2023-06-04T12:00:46.000Z",
-          "wordCount": null,
-          "title": "免费 AI 绘图网站：轻松获得高品质图像，从此告别绘画苦力！领略图像创作的无限可能！",
           "imageUrl": null
         }
       ]

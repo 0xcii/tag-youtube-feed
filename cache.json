@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x8aK552Jbzg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x8aK552Jbzg",
+          "publishedOn": "2023-06-17T01:00:27.000Z",
+          "wordCount": null,
+          "title": "DeFillama使用教程【三】： 加密数据分析平台 （实用工具）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MeirML9egwE",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-06-05T06:00:12.000Z",
           "wordCount": null,
           "title": "这个网站有1 万个好用的 AI 工具，让你的效率提升 1000%! ？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-FtdFvtPVxI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-FtdFvtPVxI",
-          "publishedOn": "2023-06-04T22:00:00.000Z",
-          "wordCount": null,
-          "title": "如何参与 BitKeep 的 zkSync 空投，获得官方zksync代币？",
           "imageUrl": null
         }
       ]

@@ -374,6 +374,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_hhNmKWAjE8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_hhNmKWAjE8",
+          "publishedOn": "2023-06-19T14:00:19.000Z",
+          "wordCount": null,
+          "title": "Coinbase Wallet Extension Tutorial (Setup, Receive, Send, DeFi)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VK3zDQJ9jVw",
           "author": null,
           "description": "",
@@ -511,16 +521,6 @@
           "publishedOn": "2023-05-30T14:00:10.000Z",
           "wordCount": null,
           "title": "How to Connect Trezor to Exodus Wallet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UqURgVrHlBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UqURgVrHlBc",
-          "publishedOn": "2023-05-29T14:00:16.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: EMERGENCY NEWS",
           "imageUrl": null
         }
       ]

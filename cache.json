@@ -578,6 +578,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cG94i7YaczM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cG94i7YaczM",
+          "publishedOn": "2023-06-19T19:00:15.000Z",
+          "wordCount": null,
+          "title": "Making a $100M Cryptocurrency with ChatGPT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vSnQtabRm5M",
           "author": null,
           "description": "",

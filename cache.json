@@ -163,6 +163,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dU7GwCOgvNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dU7GwCOgvNY",
+          "publishedOn": "2023-06-20T12:46:46.000Z",
+          "wordCount": null,
+          "title": "Learn Supabase (Firebase Alternative) – Full Tutorial for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MIL2BK02X8A",
           "author": null,
           "description": "",

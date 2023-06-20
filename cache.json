@@ -384,6 +384,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=F6RBVJqSfW0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F6RBVJqSfW0",
+          "publishedOn": "2023-06-20T14:00:10.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: IMMINENT BREAKOUT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_hhNmKWAjE8",
           "author": null,
           "description": "",
@@ -521,16 +531,6 @@
           "publishedOn": "2023-05-31T14:00:41.000Z",
           "wordCount": null,
           "title": "CRYPTO: THINGS ARE GETTING SCARY",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H4zSM9_8nMk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H4zSM9_8nMk",
-          "publishedOn": "2023-05-30T14:00:10.000Z",
-          "wordCount": null,
-          "title": "How to Connect Trezor to Exodus Wallet",
           "imageUrl": null
         }
       ]

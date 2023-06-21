@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-21T06:07:26.898Z</id>
+    <id>urn:2023-06-21T07:02:53.383Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-21T06:07:26.898Z</updated>
+    <updated>2023-06-21T07:02:53.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -579,15 +579,6 @@
         <updated>2023-05-22T20:00:27.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to work for me? I'm hiring a blockchain dev.]]></title>
-        <id>https://www.youtube.com/watch?v=puj15LcT6kE</id>
-        <link href="https://www.youtube.com/watch?v=puj15LcT6kE"/>
-        <updated>2023-05-22T19:00:31.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

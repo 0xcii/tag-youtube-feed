@@ -364,6 +364,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jAaW0-wNSEs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jAaW0-wNSEs",
+          "publishedOn": "2023-06-21T14:00:25.000Z",
+          "wordCount": null,
+          "title": "Bybit Stop Loss & Take Profit Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=F6RBVJqSfW0",
           "author": null,
           "description": "",
@@ -501,16 +511,6 @@
           "publishedOn": "2023-06-01T14:00:19.000Z",
           "wordCount": null,
           "title": "Best Crypto Coins June 2023 (Deep Dive)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yljygFMM2GQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yljygFMM2GQ",
-          "publishedOn": "2023-05-31T14:00:41.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: THINGS ARE GETTING SCARY",
           "imageUrl": null
         }
       ]

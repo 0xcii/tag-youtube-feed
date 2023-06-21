@@ -268,16 +268,6 @@
           "wordCount": null,
           "title": "Full Stack AI Semantic Search with Next.js, Pinecone, Langchain, & ChatGPT - Full TypeScript Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SnglWpCPVaE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SnglWpCPVaE",
-          "publishedOn": "2023-05-22T20:00:27.000Z",
-          "wordCount": null,
-          "title": "Fast and Secure Permanent File Storage on Arweave with Next.js Route Handlers and Bundlr Network",
-          "imageUrl": null
         }
       ]
     },

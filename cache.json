@@ -251,16 +251,6 @@
           "wordCount": null,
           "title": "Build and Deploy a LeetCode Clone with React, Next JS, TypeScript, Tailwind CSS, Firebase",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qrZGfBBlXpk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qrZGfBBlXpk",
-          "publishedOn": "2023-05-24T14:53:19.000Z",
-          "wordCount": null,
-          "title": "Django ChatGPT Clone Tutorial",
-          "imageUrl": null
         }
       ]
     },
@@ -363,6 +353,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=s-SN8TlS3Ps",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s-SN8TlS3Ps",
+          "publishedOn": "2023-06-23T02:33:00.000Z",
+          "wordCount": null,
+          "title": "Bikkions Flowing into Bitcoin #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=D193LMu6d1s",
           "author": null,
@@ -501,16 +501,6 @@
           "publishedOn": "2023-06-05T14:00:00.000Z",
           "wordCount": null,
           "title": "Quickswap Tutorial (Polygon Crypto Swap. Farming, Perps, MetaMask)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dUDtNbBPlGs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dUDtNbBPlGs",
-          "publishedOn": "2023-06-04T14:00:19.000Z",
-          "wordCount": null,
-          "title": "Phemex Tutorial 2023 (Phemex Spot & Leverage Trading)",
           "imageUrl": null
         }
       ]

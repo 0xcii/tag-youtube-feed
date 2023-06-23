@@ -578,6 +578,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jfY0C0lLDI8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jfY0C0lLDI8",
+          "publishedOn": "2023-06-23T19:00:19.000Z",
+          "wordCount": null,
+          "title": "This Tiny Crypto Sector is going to Explode!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tfv52bGz4ig",
           "author": null,
           "description": "",

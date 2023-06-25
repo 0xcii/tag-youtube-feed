@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-25T07:03:51.509Z</id>
+    <id>urn:2023-06-25T08:07:11.890Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-25T07:03:51.509Z</updated>
+    <updated>2023-06-25T08:07:11.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -552,24 +552,6 @@
         <updated>2023-05-28T08:09:29.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truth about Ledger Wallet Disaster - What you must know!]]></title>
-        <id>https://www.youtube.com/watch?v=PRAkYd4q7vk</id>
-        <link href="https://www.youtube.com/watch?v=PRAkYd4q7vk"/>
-        <updated>2023-05-26T19:30:02.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GET READY!! The Biggest Airdrops of 2023 Arrive SOON!! Bigger than Arbitrum!!!]]></title>
-        <id>https://www.youtube.com/watch?v=RH4ZM54nvJw</id>
-        <link href="https://www.youtube.com/watch?v=RH4ZM54nvJw"/>
-        <updated>2023-05-26T19:19:27.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

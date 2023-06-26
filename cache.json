@@ -549,16 +549,6 @@
           "wordCount": null,
           "title": "Ether Faucets Suck... I Am Building My Own",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xcfldWqKG6s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xcfldWqKG6s",
-          "publishedOn": "2023-05-28T08:09:29.000Z",
-          "wordCount": null,
-          "title": "Better Than Pepe Coin | Don’t Miss The Next Meme Coin",
-          "imageUrl": null
         }
       ]
     },
@@ -567,6 +557,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8RheeYfBZko",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8RheeYfBZko",
+          "publishedOn": "2023-06-26T20:00:06.000Z",
+          "wordCount": null,
+          "title": "This could push Bitcoin to $50k & Beyond",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jfY0C0lLDI8",
           "author": null,

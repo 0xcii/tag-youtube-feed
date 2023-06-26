@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-26T14:05:08.177Z</id>
+    <id>urn:2023-06-26T15:05:08.465Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-26T14:05:08.177Z</updated>
+    <updated>2023-06-26T15:05:08.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: BREAKING RESISTANCE]]></title>
+        <id>https://www.youtube.com/watch?v=e9t6KqVS6Fk</id>
+        <link href="https://www.youtube.com/watch?v=e9t6KqVS6Fk"/>
+        <updated>2023-06-26T14:00:33.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使用AVNU聚合协议进行Swap交易?  在Starknet网络中兑换代币? 刷新交易榜获得NFT空投资格!]]></title>
         <id>https://www.youtube.com/watch?v=I__k-P4OVR4</id>
@@ -471,15 +480,6 @@
         <updated>2023-06-05T19:00:22.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quickswap Tutorial (Polygon Crypto Swap. Farming, Perps, MetaMask)]]></title>
-        <id>https://www.youtube.com/watch?v=-QtMEI6kxj8</id>
-        <link href="https://www.youtube.com/watch?v=-QtMEI6kxj8"/>
-        <updated>2023-06-05T14:00:00.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -344,6 +344,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DX67Ah5ZeAs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DX67Ah5ZeAs",
+          "publishedOn": "2023-06-27T14:00:11.000Z",
+          "wordCount": null,
+          "title": "Exodus Wallet App Tutorial (Exodus Mobile)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=e9t6KqVS6Fk",
           "author": null,
           "description": "",
@@ -481,16 +491,6 @@
           "publishedOn": "2023-06-07T14:00:06.000Z",
           "wordCount": null,
           "title": "How to Connect Trezor to MetaMask",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ND5t28VxgKE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ND5t28VxgKE",
-          "publishedOn": "2023-06-06T14:00:18.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: A HUGE WARNING",
           "imageUrl": null
         }
       ]

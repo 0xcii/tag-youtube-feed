@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=urmBtRypI2s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=urmBtRypI2s",
+          "publishedOn": "2023-06-27T04:31:05.000Z",
+          "wordCount": null,
+          "title": "如何搭建Taiko测试网节点,获取$TTKO币?   赚取激励测试网节点代币奖励!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AsLxqFqn484",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-06-16T15:33:18.000Z",
           "wordCount": null,
           "title": "DeFillama使用教程【二】： 加密数据分析平台（套利策略）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jGTt9zmNHYw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jGTt9zmNHYw",
-          "publishedOn": "2023-06-15T13:00:28.000Z",
-          "wordCount": null,
-          "title": "DeFillama使用教程【一】： 加密数据分析平台 （DeFi数据）",
           "imageUrl": null
         }
       ]

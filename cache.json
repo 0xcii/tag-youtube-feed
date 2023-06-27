@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AsLxqFqn484",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AsLxqFqn484",
+          "publishedOn": "2023-06-27T00:02:41.000Z",
+          "wordCount": null,
+          "title": "如何免费进行Snapshot投票?  通过DAO社区治理获得Gitcoin Passport 积分?  链上投票平台获得投票治理权!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=I__k-P4OVR4",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-06-15T13:00:28.000Z",
           "wordCount": null,
           "title": "DeFillama使用教程【一】： 加密数据分析平台 （DeFi数据）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fIPqlFzP37k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fIPqlFzP37k",
-          "publishedOn": "2023-06-15T07:00:30.000Z",
-          "wordCount": null,
-          "title": "别错过了！还剩最后几个月，2023 年加密货币获得空投的最佳跨链桥，你都使用过了吗？",
           "imageUrl": null
         }
       ]

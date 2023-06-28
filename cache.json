@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4QNQgqhNMB0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4QNQgqhNMB0",
+          "publishedOn": "2023-06-28T10:10:02.000Z",
+          "wordCount": null,
+          "title": "无需托管私钥的加密货币钱包 Argent ? 用户体验丝滑, 未来将会有1亿用户使用, zksync 的好朋友 !",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=urmBtRypI2s",
           "author": null,
           "description": "",
@@ -143,16 +153,6 @@
           "publishedOn": "2023-06-17T01:00:27.000Z",
           "wordCount": null,
           "title": "DeFillama使用教程【三】： 加密数据分析平台 （实用工具）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MeirML9egwE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MeirML9egwE",
-          "publishedOn": "2023-06-16T15:33:18.000Z",
-          "wordCount": null,
-          "title": "DeFillama使用教程【二】： 加密数据分析平台（套利策略）",
           "imageUrl": null
         }
       ]

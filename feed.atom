@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T07:04:46.957Z</id>
+    <id>urn:2023-06-28T08:08:31.605Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-28T07:04:46.957Z</updated>
+    <updated>2023-06-28T08:08:31.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -561,15 +561,6 @@
         <updated>2023-05-30T15:14:01.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This legit Web 3.0 platform could DESTROY Web 2.0!]]></title>
-        <id>https://www.youtube.com/watch?v=uD_X7eNCDKU</id>
-        <link href="https://www.youtube.com/watch?v=uD_X7eNCDKU"/>
-        <updated>2023-05-29T20:00:25.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

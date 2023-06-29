@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-29T17:02:56.284Z</id>
+    <id>urn:2023-06-29T18:10:31.512Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-29T17:02:56.284Z</updated>
+    <updated>2023-06-29T18:10:31.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D RPG Action Game Dev Tutorial in Godot]]></title>
+        <title type="html"><![CDATA[Code a 3D RPG Action Game – Godot GameDev Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=F2TL525KkiM</id>
         <link href="https://www.youtube.com/watch?v=F2TL525KkiM"/>
         <updated>2023-06-29T13:43:08.000Z</updated>

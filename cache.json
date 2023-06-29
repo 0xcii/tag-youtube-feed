@@ -334,6 +334,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=v3qqpN4mAr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v3qqpN4mAr4",
+          "publishedOn": "2023-06-29T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Where To Place Stop Loss & Take Profit Trading Crypto",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DX67Ah5ZeAs",
           "author": null,
           "description": "",
@@ -471,16 +481,6 @@
           "publishedOn": "2023-06-08T14:30:16.000Z",
           "wordCount": null,
           "title": "How to Buy Crypto on Bybit (Trade on Bybit)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=67hkAEcEH1o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=67hkAEcEH1o",
-          "publishedOn": "2023-06-07T14:00:06.000Z",
-          "wordCount": null,
-          "title": "How to Connect Trezor to MetaMask",
           "imageUrl": null
         }
       ]

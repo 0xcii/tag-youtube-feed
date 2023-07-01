@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T02:27:24.883Z</id>
+    <id>urn:2023-07-01T03:26:08.860Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-01T02:27:24.883Z</updated>
+    <updated>2023-07-01T03:26:08.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -579,15 +579,6 @@
         <updated>2023-06-01T18:23:10.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neo4j Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=_IgbB24scLI</id>
-        <link href="https://www.youtube.com/watch?v=_IgbB24scLI"/>
-        <updated>2023-06-01T14:42:30.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

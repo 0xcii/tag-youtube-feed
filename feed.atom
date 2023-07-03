@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-03T13:17:00.518Z</id>
+    <id>urn:2023-07-03T14:03:28.140Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-03T13:17:00.518Z</updated>
+    <updated>2023-07-03T14:03:28.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Send BNB Coin from Binance to MetaMask]]></title>
+        <id>https://www.youtube.com/watch?v=iFn2nuPQQvE</id>
+        <link href="https://www.youtube.com/watch?v=iFn2nuPQQvE"/>
+        <updated>2023-07-03T14:00:29.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小资金 DeFi 循环借贷套利操作?  LayerZero 如何加杠杆跨链?  ARB 空投奖励 + 60 % 年化率回报 !  如何通过这些操作进行小资金套利?]]></title>
         <id>https://www.youtube.com/watch?v=JGJeCiAJBvc</id>
@@ -507,15 +516,6 @@
         <updated>2023-06-09T18:09:10.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO - THE TERRIFYING TRUTH]]></title>
-        <id>https://www.youtube.com/watch?v=dxi1WUbR0ws</id>
-        <link href="https://www.youtube.com/watch?v=dxi1WUbR0ws"/>
-        <updated>2023-06-09T14:00:24.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

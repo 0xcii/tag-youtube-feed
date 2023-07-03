@@ -248,18 +248,7 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=6_mfYPPcZ60",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6_mfYPPcZ60",
-          "publishedOn": "2023-06-03T12:54:16.000Z",
-          "wordCount": null,
-          "title": "Full Stack AI Semantic Search with Next.js, Pinecone, Langchain, & ChatGPT - Full TypeScript Course",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Chico Crypto",

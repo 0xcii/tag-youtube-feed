@@ -277,6 +277,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DRPASfgPmjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DRPASfgPmjc",
+          "publishedOn": "2023-07-05T18:56:17.000Z",
+          "wordCount": null,
+          "title": "Ethereum & “DeFi” Altcoins Will EXPLODE!! Here's Exactly WHY!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9AtJVQqoss8",
           "author": null,
           "description": "",
@@ -577,6 +587,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=x6RFPcYQpRc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x6RFPcYQpRc",
+          "publishedOn": "2023-07-05T19:00:20.000Z",
+          "wordCount": null,
+          "title": "Blockchain Devs making $150k/day with Trading Bots",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UAQWicED06k",
           "author": null,

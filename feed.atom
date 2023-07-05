@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-05T14:05:06.825Z</id>
+    <id>urn:2023-07-05T15:06:21.630Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-05T14:05:06.825Z</updated>
+    <updated>2023-07-05T15:06:21.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pheonix Wallet Tutorial (Lightning Network Wallet)]]></title>
+        <id>https://www.youtube.com/watch?v=nxcEAPoFGWk</id>
+        <link href="https://www.youtube.com/watch?v=nxcEAPoFGWk"/>
+        <updated>2023-07-05T14:00:38.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4 Functions Crash Course - Full Stack AI with Replicate AI, Next.js, and OpenAI GPT-4 Functions]]></title>
         <id>https://www.youtube.com/watch?v=fGn4U1Mqqjc</id>
@@ -507,15 +516,6 @@
         <updated>2023-06-13T18:42:31.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance to Trust Wallet Transfer Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=VDuAIzGbR3k</id>
-        <link href="https://www.youtube.com/watch?v=VDuAIzGbR3k"/>
-        <updated>2023-06-13T14:00:28.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

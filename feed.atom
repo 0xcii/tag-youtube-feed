@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-06T14:04:33.668Z</id>
+    <id>urn:2023-07-06T15:06:02.097Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-06T14:04:33.668Z</updated>
+    <updated>2023-07-06T15:06:02.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create a Programming Language and Learn Advanced Python – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=1WpKsY9LBlY</id>
+        <link href="https://www.youtube.com/watch?v=1WpKsY9LBlY"/>
+        <updated>2023-07-06T14:17:31.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: PREPARE NOW!!]]></title>
+        <id>https://www.youtube.com/watch?v=Nyq-SB3IECs</id>
+        <link href="https://www.youtube.com/watch?v=Nyq-SB3IECs"/>
+        <updated>2023-07-06T14:00:13.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain Devs making $150k/day with Trading Bots]]></title>
         <id>https://www.youtube.com/watch?v=x6RFPcYQpRc</id>
@@ -516,15 +534,6 @@
         <updated>2023-06-14T19:00:09.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pionex Grid Trading Bots | My Results & Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=qPLZspKquvw</id>
-        <link href="https://www.youtube.com/watch?v=qPLZspKquvw"/>
-        <updated>2023-06-14T14:00:36.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

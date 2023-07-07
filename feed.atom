@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T19:02:27.369Z</id>
+    <id>urn:2023-07-07T20:06:24.765Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-07T19:02:27.369Z</updated>
+    <updated>2023-07-07T20:06:24.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A.I. Unlocked ANOTHER major Crypto Use Case!]]></title>
+        <id>https://www.youtube.com/watch?v=yXAWzuQRc_8</id>
+        <link href="https://www.youtube.com/watch?v=yXAWzuQRc_8"/>
+        <updated>2023-07-07T19:30:04.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smart Contract Security Contest]]></title>
         <id>https://www.youtube.com/watch?v=bUy6MKso_rU</id>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-08T14:02:29.258Z</id>
+    <id>urn:2023-07-08T15:02:58.550Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-08T14:02:29.258Z</updated>
+    <updated>2023-07-08T15:02:58.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BEST TradingView Indicators for Day Trading!! (Free)]]></title>
+        <id>https://www.youtube.com/watch?v=Ge82FOe7Oo4</id>
+        <link href="https://www.youtube.com/watch?v=Ge82FOe7Oo4"/>
+        <updated>2023-07-08T14:00:11.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A.I. Unlocked ANOTHER major Crypto Use Case!]]></title>
         <id>https://www.youtube.com/watch?v=yXAWzuQRc_8</id>
@@ -525,15 +534,6 @@
         <updated>2023-06-15T15:06:14.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: PREPARE FOR THE WORST]]></title>
-        <id>https://www.youtube.com/watch?v=yyo53rBhm2g</id>
-        <link href="https://www.youtube.com/watch?v=yyo53rBhm2g"/>
-        <updated>2023-06-15T14:00:42.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

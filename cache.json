@@ -344,6 +344,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ge82FOe7Oo4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ge82FOe7Oo4",
+          "publishedOn": "2023-07-08T14:00:11.000Z",
+          "wordCount": null,
+          "title": "BEST TradingView Indicators for Day Trading!! (Free)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Nyq-SB3IECs",
           "author": null,
           "description": "",
@@ -481,16 +491,6 @@
           "publishedOn": "2023-06-16T14:00:32.000Z",
           "wordCount": null,
           "title": "Binance ETH Staking Tutorial (Stake Ethereum on Binance)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yyo53rBhm2g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yyo53rBhm2g",
-          "publishedOn": "2023-06-15T14:00:42.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: PREPARE FOR THE WORST",
           "imageUrl": null
         }
       ]

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-09T06:07:40.475Z</id>
+    <id>urn:2023-07-09T07:03:20.923Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-09T06:07:40.475Z</updated>
+    <updated>2023-07-09T07:03:20.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -588,15 +588,6 @@
         <updated>2023-06-12T19:00:06.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Top “SEC SAFE” Altcoins Picks!! This *BRAND NEW* Narrative Will Explode Soon!!]]></title>
-        <id>https://www.youtube.com/watch?v=6WS6RY9mjgU</id>
-        <link href="https://www.youtube.com/watch?v=6WS6RY9mjgU"/>
-        <updated>2023-06-09T18:09:10.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

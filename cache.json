@@ -344,6 +344,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4aX5kZWhsYw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4aX5kZWhsYw",
+          "publishedOn": "2023-07-09T15:00:03.000Z",
+          "wordCount": null,
+          "title": "Trezor VS Ledger Crypto Wallets #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ge82FOe7Oo4",
           "author": null,
           "description": "",
@@ -481,16 +491,6 @@
           "publishedOn": "2023-06-19T14:00:19.000Z",
           "wordCount": null,
           "title": "Coinbase Wallet Extension Tutorial (Setup, Receive, Send, DeFi)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VK3zDQJ9jVw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VK3zDQJ9jVw",
-          "publishedOn": "2023-06-16T14:00:32.000Z",
-          "wordCount": null,
-          "title": "Binance ETH Staking Tutorial (Stake Ethereum on Binance)",
           "imageUrl": null
         }
       ]

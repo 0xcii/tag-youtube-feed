@@ -578,6 +578,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eCzHSLDyiuM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eCzHSLDyiuM",
+          "publishedOn": "2023-07-10T19:00:31.000Z",
+          "wordCount": null,
+          "title": "Blockchain dev makes $162k instantly with trading bot!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yXAWzuQRc_8",
           "author": null,
           "description": "",

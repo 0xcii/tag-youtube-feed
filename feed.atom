@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T14:04:02.426Z</id>
+    <id>urn:2023-07-11T15:04:59.604Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-11T14:04:02.426Z</updated>
+    <updated>2023-07-11T15:04:59.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: DON'T GET TRAPPED NOW!!]]></title>
+        <id>https://www.youtube.com/watch?v=lUtPTl08LYc</id>
+        <link href="https://www.youtube.com/watch?v=lUtPTl08LYc"/>
+        <updated>2023-07-11T14:00:37.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Terraform with Google Cloud Platform – Infrastructure as Code Course]]></title>
         <id>https://www.youtube.com/watch?v=VCayKl82Lt8</id>
@@ -525,15 +534,6 @@
         <updated>2023-06-19T19:00:15.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Wallet Extension Tutorial (Setup, Receive, Send, DeFi)]]></title>
-        <id>https://www.youtube.com/watch?v=_hhNmKWAjE8</id>
-        <link href="https://www.youtube.com/watch?v=_hhNmKWAjE8"/>
-        <updated>2023-06-19T14:00:19.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

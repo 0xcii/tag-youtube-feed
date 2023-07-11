@@ -354,6 +354,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lUtPTl08LYc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lUtPTl08LYc",
+          "publishedOn": "2023-07-11T14:00:37.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: DON'T GET TRAPPED NOW!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4aX5kZWhsYw",
           "author": null,
           "description": "",
@@ -491,16 +501,6 @@
           "publishedOn": "2023-06-20T14:00:10.000Z",
           "wordCount": null,
           "title": "CRYPTO: IMMINENT BREAKOUT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_hhNmKWAjE8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_hhNmKWAjE8",
-          "publishedOn": "2023-06-19T14:00:19.000Z",
-          "wordCount": null,
-          "title": "Coinbase Wallet Extension Tutorial (Setup, Receive, Send, DeFi)",
           "imageUrl": null
         }
       ]

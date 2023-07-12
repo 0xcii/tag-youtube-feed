@@ -598,6 +598,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EX5sqBFvlzY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EX5sqBFvlzY",
+          "publishedOn": "2023-07-12T20:00:04.000Z",
+          "wordCount": null,
+          "title": "Steal This $1M Blockchain App Idea",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eCzHSLDyiuM",
           "author": null,
           "description": "",

@@ -354,6 +354,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lu1QBEBYE7Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lu1QBEBYE7Y",
+          "publishedOn": "2023-07-12T14:00:27.000Z",
+          "wordCount": null,
+          "title": "How to Connect Binance to TradingView",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lUtPTl08LYc",
           "author": null,
           "description": "",
@@ -491,16 +501,6 @@
           "publishedOn": "2023-06-21T14:00:25.000Z",
           "wordCount": null,
           "title": "Bybit Stop Loss & Take Profit Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F6RBVJqSfW0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F6RBVJqSfW0",
-          "publishedOn": "2023-06-20T14:00:10.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: IMMINENT BREAKOUT",
           "imageUrl": null
         }
       ]

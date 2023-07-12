@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T13:17:19.770Z</id>
+    <id>urn:2023-07-12T14:04:08.095Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T13:17:19.770Z</updated>
+    <updated>2023-07-12T14:04:08.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Binance to TradingView]]></title>
+        <id>https://www.youtube.com/watch?v=lu1QBEBYE7Y</id>
+        <link href="https://www.youtube.com/watch?v=lu1QBEBYE7Y"/>
+        <updated>2023-07-12T14:00:27.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO: DON'T GET TRAPPED NOW!!]]></title>
         <id>https://www.youtube.com/watch?v=lUtPTl08LYc</id>
@@ -507,15 +516,6 @@
         <updated>2023-06-20T17:59:40.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: IMMINENT BREAKOUT]]></title>
-        <id>https://www.youtube.com/watch?v=F6RBVJqSfW0</id>
-        <link href="https://www.youtube.com/watch?v=F6RBVJqSfW0"/>
-        <updated>2023-06-20T14:00:10.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

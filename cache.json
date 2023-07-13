@@ -354,6 +354,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5TTMpJvCjgQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5TTMpJvCjgQ",
+          "publishedOn": "2023-07-13T14:00:04.000Z",
+          "wordCount": null,
+          "title": "Easiest Crypto Trading Strategy for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lu1QBEBYE7Y",
           "author": null,
           "description": "",
@@ -491,16 +501,6 @@
           "publishedOn": "2023-06-22T14:00:07.000Z",
           "wordCount": null,
           "title": "How to Recover a MetaMask Wallet (With or Without Seed Phrase)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jAaW0-wNSEs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jAaW0-wNSEs",
-          "publishedOn": "2023-06-21T14:00:25.000Z",
-          "wordCount": null,
-          "title": "Bybit Stop Loss & Take Profit Tutorial",
           "imageUrl": null
         }
       ]

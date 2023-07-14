@@ -598,6 +598,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7zCKqqX2xyI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7zCKqqX2xyI",
+          "publishedOn": "2023-07-14T19:00:04.000Z",
+          "wordCount": null,
+          "title": "How to Land your 1st Blockchain Job with No Experience",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EX5sqBFvlzY",
           "author": null,
           "description": "",

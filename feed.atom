@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-14T14:03:57.467Z</id>
+    <id>urn:2023-07-14T15:04:54.644Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-14T14:03:57.467Z</updated>
+    <updated>2023-07-14T15:04:54.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: IT JUST HAPPENED!]]></title>
+        <id>https://www.youtube.com/watch?v=BB7133ruVK0</id>
+        <link href="https://www.youtube.com/watch?v=BB7133ruVK0"/>
+        <updated>2023-07-14T14:00:07.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Altcoins Better Than Ethereum!!??]]></title>
         <id>https://www.youtube.com/watch?v=y5LVTXEyoM4</id>
@@ -496,15 +505,6 @@
         <id>https://www.youtube.com/watch?v=s-SN8TlS3Ps</id>
         <link href="https://www.youtube.com/watch?v=s-SN8TlS3Ps"/>
         <updated>2023-06-23T02:33:00.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recover a MetaMask Wallet (With or Without Seed Phrase)]]></title>
-        <id>https://www.youtube.com/watch?v=D193LMu6d1s</id>
-        <link href="https://www.youtube.com/watch?v=D193LMu6d1s"/>
-        <updated>2023-06-22T14:00:07.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

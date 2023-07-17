@@ -144,16 +144,6 @@
           "wordCount": null,
           "title": "如何使用Orbiter跨链桥, 进行Starknet资产跨链转移?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r6WNm4nt4F0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r6WNm4nt4F0",
-          "publishedOn": "2023-06-18T01:30:18.000Z",
-          "wordCount": null,
-          "title": "解密Flashbots：如何在被盗私钥泄漏的情况下，安全转移资金？ 采用这个方法，我成功地转移了加密钱包里的资金",
-          "imageUrl": null
         }
       ]
     },

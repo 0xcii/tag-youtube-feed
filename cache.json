@@ -153,6 +153,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0tM-l_ZsxjU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0tM-l_ZsxjU",
+          "publishedOn": "2023-07-18T14:09:39.000Z",
+          "wordCount": null,
+          "title": "Python Tkinter GUI Design Using ttkbootstrap - Complete Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zp5Jh2FIpF0",
           "author": null,
           "description": "",
@@ -507,7 +517,7 @@
           "link": "https://www.youtube.com/watch?v=DzIZ3FaFJDI",
           "publishedOn": "2023-07-17T08:56:11.000Z",
           "wordCount": null,
-          "title": "Make $1 Million In Web3 In 4 Years (The Hard Way)",
+          "title": "The $1 Million Web3 Developer Roadmap (Not Easy)",
           "imageUrl": null
         },
         {

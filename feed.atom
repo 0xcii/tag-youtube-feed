@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-18T00:56:37.406Z</id>
+    <id>urn:2023-07-18T02:28:19.922Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-18T00:56:37.406Z</updated>
+    <updated>2023-07-18T02:28:19.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -597,15 +597,6 @@
         <updated>2023-06-19T19:00:15.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will This Be Enough To Survive The SEC?]]></title>
-        <id>https://www.youtube.com/watch?v=pOGvxD3oyHk</id>
-        <link href="https://www.youtube.com/watch?v=pOGvxD3oyHk"/>
-        <updated>2023-06-18T12:58:58.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

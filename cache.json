@@ -364,6 +364,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dHnAg-LQoCo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dHnAg-LQoCo",
+          "publishedOn": "2023-07-19T14:00:24.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: THEY DON'T WANT YOU TO KNOW THIS!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sJ9KH1x5d0M",
           "author": null,
           "description": "",
@@ -501,16 +511,6 @@
           "publishedOn": "2023-06-29T14:00:36.000Z",
           "wordCount": null,
           "title": "Where To Place Stop Loss & Take Profit Trading Crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DX67Ah5ZeAs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DX67Ah5ZeAs",
-          "publishedOn": "2023-06-27T14:00:11.000Z",
-          "wordCount": null,
-          "title": "Exodus Wallet App Tutorial (Exodus Mobile)",
           "imageUrl": null
         }
       ]

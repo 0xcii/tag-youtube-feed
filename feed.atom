@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T18:06:25.589Z</id>
+    <id>urn:2023-07-20T19:01:47.222Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-20T18:06:25.589Z</updated>
+    <updated>2023-07-20T19:01:47.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ALERT! Amazon Is Going  “ALL IN” For Cryptocurrency!! Which Coins Will PUMP!?]]></title>
+        <id>https://www.youtube.com/watch?v=Cp_bzl-T96E</id>
+        <link href="https://www.youtube.com/watch?v=Cp_bzl-T96E"/>
+        <updated>2023-07-20T18:13:52.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full Stack Next.js & Supabase Twitter Clone – Full Course]]></title>
         <id>https://www.youtube.com/watch?v=QdxUZhLHZiA</id>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T06:07:27.664Z</id>
+    <id>urn:2023-07-21T07:02:56.483Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-21T06:07:27.664Z</updated>
+    <updated>2023-07-21T07:02:56.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -597,15 +597,6 @@
         <updated>2023-06-22T08:08:05.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap V4 Launch: $2M+ opportunity for Blockchain Devs]]></title>
-        <id>https://www.youtube.com/watch?v=tfv52bGz4ig</id>
-        <link href="https://www.youtube.com/watch?v=tfv52bGz4ig"/>
-        <updated>2023-06-21T19:00:21.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

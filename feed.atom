@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-23T17:02:04.613Z</id>
+    <id>urn:2023-07-23T18:04:30.481Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-23T17:02:04.613Z</updated>
+    <updated>2023-07-23T18:04:30.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -559,24 +559,6 @@
         <id>https://www.youtube.com/watch?v=Cm8s6FZ4B5M</id>
         <link href="https://www.youtube.com/watch?v=Cm8s6FZ4B5M"/>
         <updated>2023-06-24T06:08:38.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用 Metamask 自带功能, 完成代币交易、资金跨链、ETH质押过程?]]></title>
-        <id>https://www.youtube.com/watch?v=NIa2jj6CzWA</id>
-        <link href="https://www.youtube.com/watch?v=NIa2jj6CzWA"/>
-        <updated>2023-06-24T05:34:53.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用Layerswap跨链桥项目, 进行L2网络之间的资产跨链转移? (注意风险)]]></title>
-        <id>https://www.youtube.com/watch?v=JSLD1KX79hk</id>
-        <link href="https://www.youtube.com/watch?v=JSLD1KX79hk"/>
-        <updated>2023-06-24T05:34:38.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

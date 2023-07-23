@@ -114,26 +114,6 @@
           "wordCount": null,
           "title": "如何使用 Starknet 官方跨链桥, 进行以太坊主网资金跨链?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NIa2jj6CzWA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NIa2jj6CzWA",
-          "publishedOn": "2023-06-24T05:34:53.000Z",
-          "wordCount": null,
-          "title": "如何使用 Metamask 自带功能, 完成代币交易、资金跨链、ETH质押过程?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JSLD1KX79hk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JSLD1KX79hk",
-          "publishedOn": "2023-06-24T05:34:38.000Z",
-          "wordCount": null,
-          "title": "如何使用Layerswap跨链桥项目, 进行L2网络之间的资产跨链转移? (注意风险)",
-          "imageUrl": null
         }
       ]
     },

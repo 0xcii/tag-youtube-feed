@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-24T14:03:30.010Z</id>
+    <id>urn:2023-07-24T15:03:28.981Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-24T14:03:30.010Z</updated>
+    <updated>2023-07-24T15:03:28.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: WTF JUST HAPPENED!!? (Binance Report)]]></title>
+        <id>https://www.youtube.com/watch?v=c8gispN3fLM</id>
+        <link href="https://www.youtube.com/watch?v=c8gispN3fLM"/>
+        <updated>2023-07-24T14:00:32.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEXT WEEK These (2) Altcoins Will EXPLODE!! Here’s Why!! (GMX v2 Launch)]]></title>
         <id>https://www.youtube.com/watch?v=2eP6jd0pvRk</id>
@@ -372,15 +381,6 @@
         <updated>2023-07-03T14:51:42.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send BNB Coin from Binance to MetaMask]]></title>
-        <id>https://www.youtube.com/watch?v=iFn2nuPQQvE</id>
-        <link href="https://www.youtube.com/watch?v=iFn2nuPQQvE"/>
-        <updated>2023-07-03T14:00:29.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

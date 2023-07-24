@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-24T18:08:44.653Z</id>
+    <id>urn:2023-07-24T19:01:56.163Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-24T18:08:44.653Z</updated>
+    <updated>2023-07-24T19:01:56.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Could Make Ethereum Explode!]]></title>
+        <id>https://www.youtube.com/watch?v=sgdGJZQfCUU</id>
+        <link href="https://www.youtube.com/watch?v=sgdGJZQfCUU"/>
+        <updated>2023-07-24T19:00:33.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO: WTF JUST HAPPENED!!? (Binance Report)]]></title>
         <id>https://www.youtube.com/watch?v=c8gispN3fLM</id>

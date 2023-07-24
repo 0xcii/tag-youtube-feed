@@ -548,6 +548,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sgdGJZQfCUU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sgdGJZQfCUU",
+          "publishedOn": "2023-07-24T19:00:33.000Z",
+          "wordCount": null,
+          "title": "This Could Make Ethereum Explode!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=o_wRXqxnccQ",
           "author": null,
           "description": "",

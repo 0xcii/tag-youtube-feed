@@ -294,6 +294,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FYV_SteK0Xc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FYV_SteK0Xc",
+          "publishedOn": "2023-07-27T14:00:18.000Z",
+          "wordCount": null,
+          "title": "Crypto INVESTORS: You MUST See What Just Happened!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BFz_uDsmQ28",
           "author": null,
           "description": "",
@@ -431,16 +441,6 @@
           "publishedOn": "2023-07-08T14:00:11.000Z",
           "wordCount": null,
           "title": "BEST TradingView Indicators for Day Trading!! (Free)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Nyq-SB3IECs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Nyq-SB3IECs",
-          "publishedOn": "2023-07-06T14:00:13.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: PREPARE NOW!!",
           "imageUrl": null
         }
       ]

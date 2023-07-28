@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-28T14:02:54.055Z</id>
+    <id>urn:2023-07-28T15:03:28.986Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-28T14:02:54.055Z</updated>
+    <updated>2023-07-28T15:03:28.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit Earn Tutorial (Bybit Staking, Savings, Dual Asset)]]></title>
+        <id>https://www.youtube.com/watch?v=NUMEC47cC3Q</id>
+        <link href="https://www.youtube.com/watch?v=NUMEC47cC3Q"/>
+        <updated>2023-07-28T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto INVESTORS: You MUST See What Just Happened!!]]></title>
         <id>https://www.youtube.com/watch?v=FYV_SteK0Xc</id>
@@ -354,15 +363,6 @@
         <updated>2023-07-09T01:41:42.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEST TradingView Indicators for Day Trading!! (Free)]]></title>
-        <id>https://www.youtube.com/watch?v=Ge82FOe7Oo4</id>
-        <link href="https://www.youtube.com/watch?v=Ge82FOe7Oo4"/>
-        <updated>2023-07-08T14:00:11.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

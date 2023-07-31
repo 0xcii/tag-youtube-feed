@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-31T19:01:43.394Z</id>
+    <id>urn:2023-07-31T20:03:32.263Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-31T19:01:43.394Z</updated>
+    <updated>2023-07-31T20:03:32.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to make $10,000+ per month as a blockchain developer (fast track)]]></title>
+        <id>https://www.youtube.com/watch?v=nJdTMBV1x0E</id>
+        <link href="https://www.youtube.com/watch?v=nJdTMBV1x0E"/>
+        <updated>2023-07-31T19:30:08.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create New MetaMask Accounts (Multiple Accounts, Same Wallet)]]></title>
         <id>https://www.youtube.com/watch?v=Pz7Dcix48n8</id>
@@ -15,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Funniest Tech Interview You Will Ever See (parody)]]></title>
+        <title type="html"><![CDATA[The Web3 Interview (parody)]]></title>
         <id>https://www.youtube.com/watch?v=NdeMIWmxaso</id>
         <link href="https://www.youtube.com/watch?v=NdeMIWmxaso"/>
         <updated>2023-07-29T04:13:43.000Z</updated>

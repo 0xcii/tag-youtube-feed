@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-01T15:03:21.673Z</id>
+    <id>urn:2023-08-01T16:05:53.358Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-01T15:03:21.673Z</updated>
+    <updated>2023-08-01T16:05:53.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -480,15 +480,6 @@
         <updated>2023-07-03T06:14:22.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't be sleeping on my predictions! #airdropking]]></title>
-        <id>https://www.youtube.com/watch?v=9AtJVQqoss8</id>
-        <link href="https://www.youtube.com/watch?v=9AtJVQqoss8"/>
-        <updated>2023-07-03T03:19:05.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

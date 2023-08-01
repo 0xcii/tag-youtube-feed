@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-01T04:06:44.231Z</id>
+    <id>urn:2023-08-01T05:03:13.226Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-01T04:06:44.231Z</updated>
+    <updated>2023-08-01T05:03:13.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Web3 Interview (parody)]]></title>
+        <title type="html"><![CDATA[The Funniest Tech Interview You Will Ever See (parody)]]></title>
         <id>https://www.youtube.com/watch?v=NdeMIWmxaso</id>
         <link href="https://www.youtube.com/watch?v=NdeMIWmxaso"/>
         <updated>2023-07-29T04:13:43.000Z</updated>

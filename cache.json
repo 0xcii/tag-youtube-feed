@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8m3LvPg8EuI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8m3LvPg8EuI",
+          "publishedOn": "2023-08-03T13:00:31.000Z",
+          "wordCount": null,
+          "title": "TensorFlow Course – Building and Evaluating Medical AI Models",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=agEPmYdbQLs",
           "author": null,
           "description": "",
@@ -244,6 +254,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7OhanPph_9w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7OhanPph_9w",
+          "publishedOn": "2023-08-03T14:00:05.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: A MASSIVE WAVE INCOMING!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XtMzY3p-HpU",
           "author": null,
           "description": "",
@@ -381,16 +401,6 @@
           "publishedOn": "2023-07-14T14:00:07.000Z",
           "wordCount": null,
           "title": "CRYPTO: IT JUST HAPPENED!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5TTMpJvCjgQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5TTMpJvCjgQ",
-          "publishedOn": "2023-07-13T14:00:04.000Z",
-          "wordCount": null,
-          "title": "Easiest Crypto Trading Strategy for Beginners",
           "imageUrl": null
         }
       ]

@@ -121,16 +121,6 @@
           "wordCount": null,
           "title": "Learn Terraform with Google Cloud Platform – Infrastructure as Code Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1WpKsY9LBlY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1WpKsY9LBlY",
-          "publishedOn": "2023-07-06T14:17:31.000Z",
-          "wordCount": null,
-          "title": "Create a Programming Language and Learn Advanced Python – Full Course",
-          "imageUrl": null
         }
       ]
     },

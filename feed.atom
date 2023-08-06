@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-06T07:02:24.048Z</id>
+    <id>urn:2023-08-06T08:05:51.079Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-06T07:02:24.048Z</updated>
+    <updated>2023-08-06T08:05:51.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -471,15 +471,6 @@
         <updated>2023-07-09T01:41:42.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.I. Unlocked ANOTHER major Crypto Use Case!]]></title>
-        <id>https://www.youtube.com/watch?v=yXAWzuQRc_8</id>
-        <link href="https://www.youtube.com/watch?v=yXAWzuQRc_8"/>
-        <updated>2023-07-07T19:30:04.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

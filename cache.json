@@ -448,16 +448,6 @@
           "wordCount": null,
           "title": "30 Solidity Tricks You Can’t Live Without",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bUy6MKso_rU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bUy6MKso_rU",
-          "publishedOn": "2023-07-07T18:27:31.000Z",
-          "wordCount": null,
-          "title": "Smart Contract Security Contest",
-          "imageUrl": null
         }
       ]
     },

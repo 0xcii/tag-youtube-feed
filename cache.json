@@ -467,6 +467,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tA6iamrSozI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tA6iamrSozI",
+          "publishedOn": "2023-08-07T19:30:05.000Z",
+          "wordCount": null,
+          "title": "Flash loan Masterclass #2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NR_QRk9xN3Q",
           "author": null,
           "description": "",

@@ -262,6 +262,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ffb9865ftHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ffb9865ftHI",
+          "publishedOn": "2023-08-09T14:00:26.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: 99% WILL LOSE OUT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ty6VaCViprw",
           "author": null,
           "description": "",
@@ -400,16 +410,6 @@
           "wordCount": null,
           "title": "CRYPTO ALERT *Watch Before 25 July*",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_6kmmr3Rgig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_6kmmr3Rgig",
-          "publishedOn": "2023-07-20T14:00:33.000Z",
-          "wordCount": null,
-          "title": "Bybit Spot Trading Tutorial for Beginners (Full Guide)",
-          "imageUrl": null
         }
       ]
     },
@@ -425,7 +425,7 @@
           "link": "https://www.youtube.com/watch?v=HIH9FsYFWvA",
           "publishedOn": "2023-08-07T15:32:29.000Z",
           "wordCount": null,
-          "title": "The 1 line of code that broke DeFi",
+          "title": "The Bug That Wasn’t Supposed To Happen",
           "imageUrl": null
         },
         {

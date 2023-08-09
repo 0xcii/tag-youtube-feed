@@ -4,24 +4,23 @@
       "title": "链求君",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=-CDz6cLDfxQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-CDz6cLDfxQ",
-          "publishedOn": "2023-07-11T01:48:35.000Z",
-          "wordCount": null,
-          "title": "Bitoz 新人无门槛注册奖励 3$ , 交易所空投福利!  限时活动注册Bitoz领取现金奖励!",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=j1laALb8OVM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j1laALb8OVM",
+          "publishedOn": "2023-08-09T13:34:30.000Z",
+          "wordCount": null,
+          "title": "JavaScript Functions Crash Course",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ft-hs2a_zno",
           "author": null,
@@ -426,7 +425,7 @@
           "link": "https://www.youtube.com/watch?v=HIH9FsYFWvA",
           "publishedOn": "2023-08-07T15:32:29.000Z",
           "wordCount": null,
-          "title": "The Bug That Wasn’t Supposed To Happen",
+          "title": "The 1 line of code that broke DeFi",
           "imageUrl": null
         },
         {

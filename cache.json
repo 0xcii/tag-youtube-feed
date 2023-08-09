@@ -435,7 +435,7 @@
           "link": "https://www.youtube.com/watch?v=HIH9FsYFWvA",
           "publishedOn": "2023-08-07T15:32:29.000Z",
           "wordCount": null,
-          "title": "The 1 line of code that broke DeFi",
+          "title": "The Bug That Wasn’t Supposed To Happen",
           "imageUrl": null
         },
         {
@@ -485,6 +485,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hUxgfBj_tmU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hUxgfBj_tmU",
+          "publishedOn": "2023-08-09T21:00:31.000Z",
+          "wordCount": null,
+          "title": "Blockchain Dev Makes $1M in a single minute",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tA6iamrSozI",
           "author": null,

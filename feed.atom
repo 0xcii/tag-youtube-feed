@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T20:04:57.996Z</id>
+    <id>urn:2023-08-09T21:02:48.951Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-09T20:04:57.996Z</updated>
+    <updated>2023-08-09T21:02:48.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Dev Makes $1M in a single minute]]></title>
+        <id>https://www.youtube.com/watch?v=hUxgfBj_tmU</id>
+        <link href="https://www.youtube.com/watch?v=hUxgfBj_tmU"/>
+        <updated>2023-08-09T21:00:31.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The “LOSER” Altcoins I’ve Picked!! Do I Still HODL!!? Or Have I SOLD!!?]]></title>
         <id>https://www.youtube.com/watch?v=6I1LPAyQm6w</id>
@@ -60,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 1 line of code that broke DeFi]]></title>
+        <title type="html"><![CDATA[The Bug That Wasn’t Supposed To Happen]]></title>
         <id>https://www.youtube.com/watch?v=HIH9FsYFWvA</id>
         <link href="https://www.youtube.com/watch?v=HIH9FsYFWvA"/>
         <updated>2023-08-07T15:32:29.000Z</updated>

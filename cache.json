@@ -426,7 +426,7 @@
           "link": "https://www.youtube.com/watch?v=HIH9FsYFWvA",
           "publishedOn": "2023-08-07T15:32:29.000Z",
           "wordCount": null,
-          "title": "The 1 line of code that broke DeFi",
+          "title": "The Bug That Wasn’t Supposed To Happen",
           "imageUrl": null
         },
         {
@@ -584,16 +584,6 @@
           "publishedOn": "2023-07-12T20:00:04.000Z",
           "wordCount": null,
           "title": "Steal This $1M Blockchain App Idea",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eCzHSLDyiuM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eCzHSLDyiuM",
-          "publishedOn": "2023-07-10T19:00:31.000Z",
-          "wordCount": null,
-          "title": "Blockchain dev makes $162k instantly with trading bot!",
           "imageUrl": null
         }
       ]

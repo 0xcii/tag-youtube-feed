@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T21:02:48.951Z</id>
+    <id>urn:2023-08-09T22:02:39.204Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-09T21:02:48.951Z</updated>
+    <updated>2023-08-09T22:02:39.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -69,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Bug That Wasn’t Supposed To Happen]]></title>
+        <title type="html"><![CDATA[The 1 line of code that broke DeFi]]></title>
         <id>https://www.youtube.com/watch?v=HIH9FsYFWvA</id>
         <link href="https://www.youtube.com/watch?v=HIH9FsYFWvA"/>
         <updated>2023-08-07T15:32:29.000Z</updated>
@@ -498,15 +498,6 @@
         <updated>2023-07-11T13:04:38.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Solidity Tricks You Can’t Live Without]]></title>
-        <id>https://www.youtube.com/watch?v=2WHy9IotKt4</id>
-        <link href="https://www.youtube.com/watch?v=2WHy9IotKt4"/>
-        <updated>2023-07-11T09:45:07.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

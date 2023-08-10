@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-10T00:32:41.638Z</id>
+    <id>urn:2023-08-10T01:58:37.531Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-10T00:32:41.638Z</updated>
+    <updated>2023-08-10T01:58:37.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -69,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 1 line of code that broke DeFi]]></title>
+        <title type="html"><![CDATA[The Bug That Wasn’t Supposed To Happen]]></title>
         <id>https://www.youtube.com/watch?v=HIH9FsYFWvA</id>
         <link href="https://www.youtube.com/watch?v=HIH9FsYFWvA"/>
         <updated>2023-08-07T15:32:29.000Z</updated>
@@ -489,15 +489,6 @@
         <updated>2023-07-12T20:00:04.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Terraform with Google Cloud Platform – Infrastructure as Code Course]]></title>
-        <id>https://www.youtube.com/watch?v=VCayKl82Lt8</id>
-        <link href="https://www.youtube.com/watch?v=VCayKl82Lt8"/>
-        <updated>2023-07-11T13:04:38.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

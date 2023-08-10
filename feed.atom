@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-10T14:03:33.805Z</id>
+    <id>urn:2023-08-10T15:03:22.373Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-10T14:03:33.805Z</updated>
+    <updated>2023-08-10T15:03:22.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50’s Artificial Intelligence with Python – Full University Course]]></title>
+        <id>https://www.youtube.com/watch?v=5NgNicANyqM</id>
+        <link href="https://www.youtube.com/watch?v=5NgNicANyqM"/>
+        <updated>2023-08-10T14:17:52.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Binance Deposit Address (Deposit Crypto to Binance)]]></title>
+        <id>https://www.youtube.com/watch?v=I-IYLoBTdEQ</id>
+        <link href="https://www.youtube.com/watch?v=I-IYLoBTdEQ"/>
+        <updated>2023-08-10T14:00:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain Dev Makes $1M in a single minute]]></title>
         <id>https://www.youtube.com/watch?v=hUxgfBj_tmU</id>
@@ -372,15 +390,6 @@
         <updated>2023-07-21T17:03:56.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT *Watch Before 25 July*]]></title>
-        <id>https://www.youtube.com/watch?v=GYstf9tl2EU</id>
-        <link href="https://www.youtube.com/watch?v=GYstf9tl2EU"/>
-        <updated>2023-07-21T14:00:18.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

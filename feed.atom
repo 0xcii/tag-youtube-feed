@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-11T18:06:22.556Z</id>
+    <id>urn:2023-08-11T19:01:35.451Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-11T18:06:22.556Z</updated>
+    <updated>2023-08-11T19:01:35.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Turning $500 into $1M off this memecoin!]]></title>
+        <id>https://www.youtube.com/watch?v=sjZqtuMCYpM</id>
+        <link href="https://www.youtube.com/watch?v=sjZqtuMCYpM"/>
+        <updated>2023-08-11T19:00:21.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$40-$200 Everyday For Watching YouTube!!? This *NEW* Narrative Will EXPLODE!!]]></title>
+        <id>https://www.youtube.com/watch?v=cIeVecNf_Eg</id>
+        <link href="https://www.youtube.com/watch?v=cIeVecNf_Eg"/>
+        <updated>2023-08-11T18:24:09.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Base Tutorial (Bridge ETH to Base, MetaMask etc)]]></title>
         <id>https://www.youtube.com/watch?v=aaOa61tdeL4</id>

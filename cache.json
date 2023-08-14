@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dMkiOex_cKU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dMkiOex_cKU",
+          "publishedOn": "2023-08-14T13:30:33.000Z",
+          "wordCount": null,
+          "title": "Stable Diffusion Crash Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cE3YzKsQvEM",
           "author": null,
           "description": "",
@@ -282,6 +292,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eJerJYj1l7I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eJerJYj1l7I",
+          "publishedOn": "2023-08-14T14:00:34.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: ALL IN NOW!!??",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6BzQ45fuSss",
           "author": null,
           "description": "",
@@ -419,16 +439,6 @@
           "publishedOn": "2023-07-27T14:00:18.000Z",
           "wordCount": null,
           "title": "Crypto INVESTORS: You MUST See What Just Happened!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BFz_uDsmQ28",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BFz_uDsmQ28",
-          "publishedOn": "2023-07-26T14:00:11.000Z",
-          "wordCount": null,
-          "title": "How to Start Crypto Trading (Strategy, Charts, Resources)",
           "imageUrl": null
         }
       ]

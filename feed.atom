@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-16T14:02:18.211Z</id>
+    <id>urn:2023-08-16T15:03:17.962Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-16T14:02:18.211Z</updated>
+    <updated>2023-08-16T15:03:17.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What are Wrapped Tokens? (Explained Simply)]]></title>
+        <id>https://www.youtube.com/watch?v=xL_1BcR4ljs</id>
+        <link href="https://www.youtube.com/watch?v=xL_1BcR4ljs"/>
+        <updated>2023-08-16T14:00:52.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 3 Cryptos to Buy in Q4 of 2023!? End This Year w/ a BIG PUMP!! (Huge Potential)]]></title>
         <id>https://www.youtube.com/watch?v=cw6KGO4SxM0</id>
@@ -42,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Developer Tear Down New Paypal Stablecoin]]></title>
+        <title type="html"><![CDATA[It’s Even Worse Than It Looks…]]></title>
         <id>https://www.youtube.com/watch?v=7RdihAjhwMs</id>
         <link href="https://www.youtube.com/watch?v=7RdihAjhwMs"/>
         <updated>2023-08-14T14:17:23.000Z</updated>
@@ -399,15 +408,6 @@
         <updated>2023-07-28T18:12:27.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit Earn Tutorial (Bybit Staking, Savings, Dual Asset)]]></title>
-        <id>https://www.youtube.com/watch?v=NUMEC47cC3Q</id>
-        <link href="https://www.youtube.com/watch?v=NUMEC47cC3Q"/>
-        <updated>2023-07-28T14:00:30.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

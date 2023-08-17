@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T06:06:54.818Z</id>
+    <id>urn:2023-08-17T07:02:25.223Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-17T06:06:54.818Z</updated>
+    <updated>2023-08-17T07:02:25.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -516,15 +516,6 @@
         <updated>2023-07-20T14:55:49.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My “ALL IN” Altcoin Picks of 2023!! Chico Live Streams Are BACK!!!!!!!]]></title>
-        <id>https://www.youtube.com/watch?v=KMyrumwWm4E</id>
-        <link href="https://www.youtube.com/watch?v=KMyrumwWm4E"/>
-        <updated>2023-07-18T18:14:54.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

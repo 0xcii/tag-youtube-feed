@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T13:06:00.078Z</id>
+    <id>urn:2023-08-17T14:02:33.431Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-17T13:06:00.078Z</updated>
+    <updated>2023-08-17T14:02:33.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp Terraform Associate Certification Course (003) - Pass the Exam!]]></title>
+        <id>https://www.youtube.com/watch?v=SPcwo0Gq9T8</id>
+        <link href="https://www.youtube.com/watch?v=SPcwo0Gq9T8"/>
+        <updated>2023-08-17T13:07:31.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major Ethereum Upgrade Incoming - What You Must Know!]]></title>
         <id>https://www.youtube.com/watch?v=UqUGdeVtS84</id>
@@ -507,15 +516,6 @@
         <updated>2023-07-20T18:13:52.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack Next.js & Supabase Twitter Clone – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=QdxUZhLHZiA</id>
-        <link href="https://www.youtube.com/watch?v=QdxUZhLHZiA"/>
-        <updated>2023-07-20T14:55:49.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-20T13:02:52.156Z</id>
+    <id>urn:2023-08-20T14:01:32.823Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-20T13:02:52.156Z</updated>
+    <updated>2023-08-20T14:01:32.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS to C Major 🎹 Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=QKKvMx_7gdA</id>
+        <link href="https://www.youtube.com/watch?v=QKKvMx_7gdA"/>
+        <updated>2023-08-20T13:00:16.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No matter what happens... #BTC gets stronger!! 🚀 #crypto #bitcoin]]></title>
         <id>https://www.youtube.com/watch?v=_ehnEiA34J0</id>
@@ -480,15 +489,6 @@
         <updated>2023-07-28T18:12:27.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project-Based Augmented Reality Course with Unity Engine and AR Foundation]]></title>
-        <id>https://www.youtube.com/watch?v=FJAO6jDYljs</id>
-        <link href="https://www.youtube.com/watch?v=FJAO6jDYljs"/>
-        <updated>2023-07-27T12:53:33.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

@@ -175,6 +175,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0OfLsjgC56A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0OfLsjgC56A",
+          "publishedOn": "2023-08-21T20:44:18.000Z",
+          "wordCount": null,
+          "title": "#Crypto Millionaires DEAD!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_ehnEiA34J0",
           "author": null,
           "description": "",
@@ -505,6 +515,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TP3cjO6auoo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TP3cjO6auoo",
+          "publishedOn": "2023-08-21T20:00:11.000Z",
+          "wordCount": null,
+          "title": "How to make $$$ with Friend tech Social Tokens",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sASHIkulF9U",
           "author": null,

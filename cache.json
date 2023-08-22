@@ -175,6 +175,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OA0bs5Iph6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OA0bs5Iph6M",
+          "publishedOn": "2023-08-22T18:47:48.000Z",
+          "wordCount": null,
+          "title": "My Secret to Making $50k in Only 48 Hours: I'm Revealing Everything!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0OfLsjgC56A",
           "author": null,
           "description": "",

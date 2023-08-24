@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KBDSJU3cGkc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KBDSJU3cGkc",
+          "publishedOn": "2023-08-24T13:43:59.000Z",
+          "wordCount": null,
+          "title": "SQL For Web Developers - Complete Database Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_DFa26ep-h4",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2023-08-08T18:51:39.000Z",
           "wordCount": null,
           "title": "Calming Web Development – Colored Markers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u8vMu7viCm8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u8vMu7viCm8",
-          "publishedOn": "2023-08-07T13:19:55.000Z",
-          "wordCount": null,
-          "title": "Testing JavaScript with Cypress – Full Course",
           "imageUrl": null
         }
       ]
@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AQwCNmZNrF0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AQwCNmZNrF0",
+          "publishedOn": "2023-08-24T14:00:12.000Z",
+          "wordCount": null,
+          "title": "AI Crypto Trading Bot Tutorial (How to Setup PionexGPT)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kgN3RDNMPKM",
           "author": null,
           "description": "",
@@ -469,16 +479,6 @@
           "publishedOn": "2023-08-05T14:00:20.000Z",
           "wordCount": null,
           "title": "Bitcoin Bull Market Price Predictions #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e6cHhv-Qxvo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e6cHhv-Qxvo",
-          "publishedOn": "2023-08-04T14:00:34.000Z",
-          "wordCount": null,
-          "title": "How to Withdraw from Bybit to Bank Account",
           "imageUrl": null
         }
       ]

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6GQAE7iLOhY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6GQAE7iLOhY",
+          "publishedOn": "2023-08-28T14:07:04.000Z",
+          "wordCount": null,
+          "title": "Foundational C# with Microsoft – Free Course and Certification",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UU1WVnMk4E8",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2023-08-10T14:17:52.000Z",
           "wordCount": null,
           "title": "Harvard CS50’s Artificial Intelligence with Python – Full University Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=j1laALb8OVM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=j1laALb8OVM",
-          "publishedOn": "2023-08-09T13:34:30.000Z",
-          "wordCount": null,
-          "title": "JavaScript Functions Crash Course",
           "imageUrl": null
         }
       ]
@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7ti5dL7Ftk8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7ti5dL7Ftk8",
+          "publishedOn": "2023-08-28T14:00:10.000Z",
+          "wordCount": null,
+          "title": "How to Use TradingView for Beginners (Charts, Indicators & Setup)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Zk_Tesg2RNc",
           "author": null,
           "description": "",
@@ -469,16 +479,6 @@
           "publishedOn": "2023-08-08T14:00:31.000Z",
           "wordCount": null,
           "title": "Best Mobile Crypto Wallets 2023!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E4f5kwUehpY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E4f5kwUehpY",
-          "publishedOn": "2023-08-07T14:00:10.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: TIME IS RUNNING OUT!!",
           "imageUrl": null
         }
       ]

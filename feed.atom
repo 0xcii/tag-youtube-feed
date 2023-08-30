@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-30T18:06:43.296Z</id>
+    <id>urn:2023-08-30T19:01:42.995Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-30T18:06:43.296Z</updated>
+    <updated>2023-08-30T19:01:42.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The REAL REASON Bitcoin Went UP!? (Here’s What Comes Next!!!??)]]></title>
+        <id>https://www.youtube.com/watch?v=mhnXTuV3dGI</id>
+        <link href="https://www.youtube.com/watch?v=mhnXTuV3dGI"/>
+        <updated>2023-08-30T18:23:01.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 4 Use Cases of Blockchain #shorts]]></title>
         <id>https://www.youtube.com/watch?v=ErDsfIH5Mag</id>
@@ -550,15 +559,6 @@
         <id>https://www.youtube.com/watch?v=JmWKrAw8bf0</id>
         <link href="https://www.youtube.com/watch?v=JmWKrAw8bf0"/>
         <updated>2023-08-04T18:40:20.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This “Crypto Narrative” Is About To Be Injected w/ TRILLIONS!! (#1 Narrative of 2023)]]></title>
-        <id>https://www.youtube.com/watch?v=NX1BBuYGaJQ</id>
-        <link href="https://www.youtube.com/watch?v=NX1BBuYGaJQ"/>
-        <updated>2023-08-03T18:40:27.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

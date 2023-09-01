@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R3z7MZZsItY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R3z7MZZsItY",
+          "publishedOn": "2023-09-01T14:00:30.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: COMPLETE DISASTER",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BU3v44I-3mI",
           "author": null,
           "description": "",
@@ -469,16 +479,6 @@
           "publishedOn": "2023-08-12T14:00:10.000Z",
           "wordCount": null,
           "title": "Best Crypto Wallet Setup for ABSOLUTE Results #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aaOa61tdeL4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aaOa61tdeL4",
-          "publishedOn": "2023-08-11T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Coinbase Base Tutorial (Bridge ETH to Base, MetaMask etc)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-01T14:02:33.731Z</id>
+    <id>urn:2023-09-01T15:03:15.192Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-01T14:02:33.731Z</updated>
+    <updated>2023-09-01T15:03:15.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: COMPLETE DISASTER]]></title>
+        <id>https://www.youtube.com/watch?v=R3z7MZZsItY</id>
+        <link href="https://www.youtube.com/watch?v=R3z7MZZsItY"/>
+        <updated>2023-09-01T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GraphQL Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=5199E50O7SI</id>
@@ -516,15 +525,6 @@
         <updated>2023-08-11T18:24:09.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Base Tutorial (Bridge ETH to Base, MetaMask etc)]]></title>
-        <id>https://www.youtube.com/watch?v=aaOa61tdeL4</id>
-        <link href="https://www.youtube.com/watch?v=aaOa61tdeL4"/>
-        <updated>2023-08-11T14:00:01.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

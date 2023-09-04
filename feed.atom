@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T14:03:18.515Z</id>
+    <id>urn:2023-09-04T15:03:22.205Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-04T14:03:18.515Z</updated>
+    <updated>2023-09-04T15:03:22.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules Crash Course]]></title>
+        <id>https://www.youtube.com/watch?v=KeBxopnhizw</id>
+        <link href="https://www.youtube.com/watch?v=KeBxopnhizw"/>
+        <updated>2023-09-04T14:41:19.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALTCOINS TO GET RICH SEPTEMBER 2023]]></title>
+        <id>https://www.youtube.com/watch?v=BTvN0UQQEps</id>
+        <link href="https://www.youtube.com/watch?v=BTvN0UQQEps"/>
+        <updated>2023-09-04T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The PAST will show you the FUTURE!  #bitcoin #crypto]]></title>
         <id>https://www.youtube.com/watch?v=BmW_VE2dfjc</id>
@@ -474,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress Performance Fundamentals for Visitor Experience – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=enb5kTJwV_s</id>
-        <link href="https://www.youtube.com/watch?v=enb5kTJwV_s"/>
-        <updated>2023-08-15T14:00:23.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Binance vs Bitget: Best Crypto Exchange?]]></title>
         <id>https://www.youtube.com/watch?v=2ozyHYFHLHU</id>
         <link href="https://www.youtube.com/watch?v=2ozyHYFHLHU"/>
@@ -514,15 +523,6 @@
         <id>https://www.youtube.com/watch?v=eJerJYj1l7I</id>
         <link href="https://www.youtube.com/watch?v=eJerJYj1l7I"/>
         <updated>2023-08-14T14:00:34.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Crypto Wallet Setup for ABSOLUTE Results #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=6BzQ45fuSss</id>
-        <link href="https://www.youtube.com/watch?v=6BzQ45fuSss"/>
-        <updated>2023-08-12T14:00:10.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

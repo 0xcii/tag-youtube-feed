@@ -175,6 +175,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UR5rNfHyLOs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UR5rNfHyLOs",
+          "publishedOn": "2023-09-06T18:49:25.000Z",
+          "wordCount": null,
+          "title": "Arthur Hayes Is Putting MILLIONS Into This ALTCOIN!! He Has DOUBLED DOWN!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BmW_VE2dfjc",
           "author": null,
           "description": "",
@@ -312,16 +322,6 @@
           "publishedOn": "2023-08-11T18:24:09.000Z",
           "wordCount": null,
           "title": "$40-$200 Everyday For Watching YouTube!!? This *NEW* Narrative Will EXPLODE!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YbtdZMmCFZc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YbtdZMmCFZc",
-          "publishedOn": "2023-08-10T18:26:48.000Z",
-          "wordCount": null,
-          "title": "Satoshi Nakamoto is 100% ALIVE!! Elon Musk or Sergey Nazarov is the Creator of BITCOIN!!",
           "imageUrl": null
         }
       ]
@@ -495,7 +495,7 @@
           "link": "https://www.youtube.com/watch?v=eMuwGmOYjTE",
           "publishedOn": "2023-09-06T10:29:45.000Z",
           "wordCount": null,
-          "title": "What is MEV?",
+          "title": "5 Ways Blockchain Developers Make Money With MEV Bots",
           "imageUrl": null
         },
         {

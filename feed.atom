@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-06T18:06:52.731Z</id>
+    <id>urn:2023-09-06T19:01:49.050Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-06T18:06:52.731Z</updated>
+    <updated>2023-09-06T19:01:49.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arthur Hayes Is Putting MILLIONS Into This ALTCOIN!! He Has DOUBLED DOWN!!]]></title>
+        <id>https://www.youtube.com/watch?v=UR5rNfHyLOs</id>
+        <link href="https://www.youtube.com/watch?v=UR5rNfHyLOs"/>
+        <updated>2023-09-06T18:49:25.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Withdraw from Coinbase Wallet to Bank or Exchange]]></title>
         <id>https://www.youtube.com/watch?v=T0XmgkXwqaw</id>
@@ -24,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is MEV?]]></title>
+        <title type="html"><![CDATA[5 Ways Blockchain Developers Make Money With MEV Bots]]></title>
         <id>https://www.youtube.com/watch?v=eMuwGmOYjTE</id>
         <link href="https://www.youtube.com/watch?v=eMuwGmOYjTE"/>
         <updated>2023-09-06T10:29:45.000Z</updated>
@@ -559,15 +568,6 @@
         <id>https://www.youtube.com/watch?v=cIeVecNf_Eg</id>
         <link href="https://www.youtube.com/watch?v=cIeVecNf_Eg"/>
         <updated>2023-08-11T18:24:09.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satoshi Nakamoto is 100% ALIVE!! Elon Musk or Sergey Nazarov is the Creator of BITCOIN!!]]></title>
-        <id>https://www.youtube.com/watch?v=YbtdZMmCFZc</id>
-        <link href="https://www.youtube.com/watch?v=YbtdZMmCFZc"/>
-        <updated>2023-08-10T18:26:48.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

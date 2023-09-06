@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gwOVynGnDZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gwOVynGnDZA",
+          "publishedOn": "2023-09-06T12:39:12.000Z",
+          "wordCount": null,
+          "title": "Full Stack Next.js, Typescript, Firebase Tutorial – Google Drive Clone",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_ZvnD73m40o",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2023-08-19T11:00:01.000Z",
           "wordCount": null,
           "title": "Best College Major",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xZDB1naRUlk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xZDB1naRUlk",
-          "publishedOn": "2023-08-18T13:47:56.000Z",
-          "wordCount": null,
-          "title": "Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma",
           "imageUrl": null
         }
       ]
@@ -495,7 +495,7 @@
           "link": "https://www.youtube.com/watch?v=eMuwGmOYjTE",
           "publishedOn": "2023-09-06T10:29:45.000Z",
           "wordCount": null,
-          "title": "What is MEV?",
+          "title": "5 Ways Blockchain Developers Make Money With MEV Bots",
           "imageUrl": null
         },
         {

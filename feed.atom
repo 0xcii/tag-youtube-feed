@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-07T18:06:38.635Z</id>
+    <id>urn:2023-09-07T19:01:40.739Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-07T18:06:38.635Z</updated>
+    <updated>2023-09-07T19:01:40.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WARNING! Bitcoin & Ethereum Have BAD NEWS!! It Could Be Their END!!!]]></title>
+        <id>https://www.youtube.com/watch?v=aXuqtDEdSpI</id>
+        <link href="https://www.youtube.com/watch?v=aXuqtDEdSpI"/>
+        <updated>2023-09-07T18:26:05.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How much can you make with MEV Trading bots? #shorts]]></title>
         <id>https://www.youtube.com/watch?v=XRq1BzZoWNM</id>
@@ -51,7 +60,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is MEV?]]></title>
+        <title type="html"><![CDATA[5 Ways Blockchain Developers Make Money With MEV Bots]]></title>
         <id>https://www.youtube.com/watch?v=eMuwGmOYjTE</id>
         <link href="https://www.youtube.com/watch?v=eMuwGmOYjTE"/>
         <updated>2023-09-06T10:29:45.000Z</updated>
@@ -570,15 +579,6 @@
         <updated>2023-08-11T19:00:21.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$40-$200 Everyday For Watching YouTube!!? This *NEW* Narrative Will EXPLODE!!]]></title>
-        <id>https://www.youtube.com/watch?v=cIeVecNf_Eg</id>
-        <link href="https://www.youtube.com/watch?v=cIeVecNf_Eg"/>
-        <updated>2023-08-11T18:24:09.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

@@ -175,6 +175,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aXuqtDEdSpI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aXuqtDEdSpI",
+          "publishedOn": "2023-09-07T18:26:05.000Z",
+          "wordCount": null,
+          "title": "WARNING! Bitcoin & Ethereum Have BAD NEWS!! It Could Be Their END!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UR5rNfHyLOs",
           "author": null,
           "description": "",
@@ -312,16 +322,6 @@
           "publishedOn": "2023-08-15T19:16:18.000Z",
           "wordCount": null,
           "title": "Top 3 Cryptos to Buy in Q4 of 2023!? End This Year w/ a BIG PUMP!! (Huge Potential)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cIeVecNf_Eg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cIeVecNf_Eg",
-          "publishedOn": "2023-08-11T18:24:09.000Z",
-          "wordCount": null,
-          "title": "$40-$200 Everyday For Watching YouTube!!? This *NEW* Narrative Will EXPLODE!!",
           "imageUrl": null
         }
       ]
@@ -505,7 +505,7 @@
           "link": "https://www.youtube.com/watch?v=eMuwGmOYjTE",
           "publishedOn": "2023-09-06T10:29:45.000Z",
           "wordCount": null,
-          "title": "What is MEV?",
+          "title": "5 Ways Blockchain Developers Make Money With MEV Bots",
           "imageUrl": null
         },
         {

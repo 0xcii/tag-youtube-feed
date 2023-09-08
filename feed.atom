@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-08T11:02:14.848Z</id>
+    <id>urn:2023-09-08T12:09:22.446Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-08T11:02:14.848Z</updated>
+    <updated>2023-09-08T12:09:22.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto "MEV" Explained in 40s #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ytrkKpHDhhs</id>
+        <link href="https://www.youtube.com/watch?v=ytrkKpHDhhs"/>
+        <updated>2023-09-08T11:53:12.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to know if you’re cut out for coding…]]></title>
         <id>https://www.youtube.com/watch?v=Yf36M2Volew</id>
@@ -69,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Secret Army Of Developers Making Millions]]></title>
+        <title type="html"><![CDATA[What is MEV?]]></title>
         <id>https://www.youtube.com/watch?v=eMuwGmOYjTE</id>
         <link href="https://www.youtube.com/watch?v=eMuwGmOYjTE"/>
         <updated>2023-09-06T10:29:45.000Z</updated>

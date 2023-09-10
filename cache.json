@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FNALpEqJZe4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FNALpEqJZe4",
+          "publishedOn": "2023-09-10T15:15:01.000Z",
+          "wordCount": null,
+          "title": "Bitget Tutorial for Beginners 2023!! (How to Trade on Bitget)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yVki_FwzIks",
           "author": null,
           "description": "",
@@ -470,16 +480,6 @@
           "wordCount": null,
           "title": "Best Crypto Exchanges 2023!! (CeX, DeX & Tips)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dV5b8V1QXbI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dV5b8V1QXbI",
-          "publishedOn": "2023-08-18T14:00:34.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: DON'T FALL FOR IT!!!",
-          "imageUrl": null
         }
       ]
     },
@@ -515,7 +515,7 @@
           "link": "https://www.youtube.com/watch?v=eMuwGmOYjTE",
           "publishedOn": "2023-09-06T10:29:45.000Z",
           "wordCount": null,
-          "title": "What is MEV?",
+          "title": "The Secret Army Of Developers Making Millions",
           "imageUrl": null
         },
         {

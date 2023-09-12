@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T14:03:24.743Z</id>
+    <id>urn:2023-09-12T15:04:00.838Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-12T14:03:24.743Z</updated>
+    <updated>2023-09-12T15:04:00.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: SELLING EVERYTHING]]></title>
+        <id>https://www.youtube.com/watch?v=dGxg5SnKdLY</id>
+        <link href="https://www.youtube.com/watch?v=dGxg5SnKdLY"/>
+        <updated>2023-09-12T14:00:26.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fundamentals of Finance & Economics for Businesses – Crash Course]]></title>
         <id>https://www.youtube.com/watch?v=EJHPltmAULA</id>
@@ -516,15 +525,6 @@
         <updated>2023-08-22T18:47:48.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT NOW!!]]></title>
-        <id>https://www.youtube.com/watch?v=JNGkxmShFbk</id>
-        <link href="https://www.youtube.com/watch?v=JNGkxmShFbk"/>
-        <updated>2023-08-22T14:00:11.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

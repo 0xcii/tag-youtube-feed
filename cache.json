@@ -586,6 +586,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8WlABgtDNhU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8WlABgtDNhU",
+          "publishedOn": "2023-09-13T19:00:04.000Z",
+          "wordCount": null,
+          "title": "Crypto passive income trend defying the bear market",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CaK9eYcZOVA",
           "author": null,
           "description": "",

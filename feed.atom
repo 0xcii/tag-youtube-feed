@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-13T19:02:09.465Z</id>
+    <id>urn:2023-09-13T20:01:40.334Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-13T19:02:09.465Z</updated>
+    <updated>2023-09-13T20:01:40.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto passive income trend defying the bear market]]></title>
+        <id>https://www.youtube.com/watch?v=8WlABgtDNhU</id>
+        <link href="https://www.youtube.com/watch?v=8WlABgtDNhU"/>
+        <updated>2023-09-13T19:00:04.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’m No Coffezilla…But I Just FOUND Logan Paul’s Next Crypto SCAM!!]]></title>
         <id>https://www.youtube.com/watch?v=Lflzd8xXgL0</id>

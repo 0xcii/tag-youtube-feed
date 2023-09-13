@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-13T02:13:21.478Z</id>
+    <id>urn:2023-09-13T03:04:44.219Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-13T02:13:21.478Z</updated>
+    <updated>2023-09-13T03:04:44.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -597,15 +597,6 @@
         <updated>2023-08-14T20:00:16.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Tear Down New Paypal Stablecoin]]></title>
-        <id>https://www.youtube.com/watch?v=7RdihAjhwMs</id>
-        <link href="https://www.youtube.com/watch?v=7RdihAjhwMs"/>
-        <updated>2023-08-14T14:17:23.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

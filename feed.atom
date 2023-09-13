@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-13T14:02:41.154Z</id>
+    <id>urn:2023-09-13T15:04:02.549Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-13T14:02:41.154Z</updated>
+    <updated>2023-09-13T15:04:02.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BEST 1 Minute Crypto Scalping STRATEGY (Simple)]]></title>
+        <id>https://www.youtube.com/watch?v=ITbcrZooFGA</id>
+        <link href="https://www.youtube.com/watch?v=ITbcrZooFGA"/>
+        <updated>2023-09-13T14:00:22.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vector Embeddings Tutorial – Create AI Assistant with Natural Language Processing & OpenAI]]></title>
         <id>https://www.youtube.com/watch?v=yfHHvmaMkcA</id>
@@ -525,15 +534,6 @@
         <updated>2023-08-23T19:00:19.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask vs Trust Wallet: Best Crypto Wallet?]]></title>
-        <id>https://www.youtube.com/watch?v=kgN3RDNMPKM</id>
-        <link href="https://www.youtube.com/watch?v=kgN3RDNMPKM"/>
-        <updated>2023-08-23T14:00:29.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

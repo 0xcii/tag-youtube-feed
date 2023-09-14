@@ -175,6 +175,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5t6DYdvwcSw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5t6DYdvwcSw",
+          "publishedOn": "2023-09-14T18:06:45.000Z",
+          "wordCount": null,
+          "title": "Benjamin Cowen Is Totally WRONG!! His “Altcoin Reckoning” is FLAWED!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Lflzd8xXgL0",
           "author": null,
           "description": "",
@@ -312,16 +322,6 @@
           "publishedOn": "2023-08-22T18:47:48.000Z",
           "wordCount": null,
           "title": "My Secret to Making $50k in Only 48 Hours: I'm Revealing Everything!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0OfLsjgC56A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0OfLsjgC56A",
-          "publishedOn": "2023-08-21T20:44:18.000Z",
-          "wordCount": null,
-          "title": "#Crypto Millionaires DEAD!!!",
           "imageUrl": null
         }
       ]

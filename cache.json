@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QFCt6DZIE7Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QFCt6DZIE7Q",
+          "publishedOn": "2023-09-14T14:00:16.000Z",
+          "wordCount": null,
+          "title": "How to Withdraw from Coinbase to Bank (Sell & Cash Out)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ITbcrZooFGA",
           "author": null,
           "description": "",
@@ -469,16 +479,6 @@
           "publishedOn": "2023-08-25T14:00:23.000Z",
           "wordCount": null,
           "title": "CRYPTO: IT BEGINS NOW",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AQwCNmZNrF0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AQwCNmZNrF0",
-          "publishedOn": "2023-08-24T14:00:12.000Z",
-          "wordCount": null,
-          "title": "AI Crypto Trading Bot Tutorial (How to Setup PionexGPT)",
           "imageUrl": null
         }
       ]

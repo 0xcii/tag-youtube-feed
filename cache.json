@@ -175,6 +175,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NS5PlgfV_Kk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NS5PlgfV_Kk",
+          "publishedOn": "2023-09-15T19:02:02.000Z",
+          "wordCount": null,
+          "title": "This BRAND NEW Crypto Narrative Is Making People BIG MONEY!! ($30-$400/Day)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5t6DYdvwcSw",
           "author": null,
           "description": "",
@@ -312,16 +322,6 @@
           "publishedOn": "2023-08-24T02:49:32.000Z",
           "wordCount": null,
           "title": "🚀 Dont miss this opportunity!!! 🚀 #crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OA0bs5Iph6M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OA0bs5Iph6M",
-          "publishedOn": "2023-08-22T18:47:48.000Z",
-          "wordCount": null,
-          "title": "My Secret to Making $50k in Only 48 Hours: I'm Revealing Everything!!",
           "imageUrl": null
         }
       ]
@@ -595,6 +595,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UItpAxPmppU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UItpAxPmppU",
+          "publishedOn": "2023-09-15T19:00:20.000Z",
+          "wordCount": null,
+          "title": "X.com becoming a crypto app soon",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8WlABgtDNhU",
           "author": null,

@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i_epBbpMysI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i_epBbpMysI",
+          "publishedOn": "2023-09-15T14:00:29.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT FOR INVESTORS",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QFCt6DZIE7Q",
           "author": null,
           "description": "",
@@ -469,16 +479,6 @@
           "publishedOn": "2023-08-28T14:00:10.000Z",
           "wordCount": null,
           "title": "How to Use TradingView for Beginners (Charts, Indicators & Setup)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zk_Tesg2RNc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zk_Tesg2RNc",
-          "publishedOn": "2023-08-25T14:00:23.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: IT BEGINS NOW",
           "imageUrl": null
         }
       ]

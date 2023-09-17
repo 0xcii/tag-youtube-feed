@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-17T01:41:59.788Z</id>
+    <id>urn:2023-09-17T02:14:16.102Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-17T01:41:59.788Z</updated>
+    <updated>2023-09-17T02:14:16.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Logan Paul is doing WHAT?!? #Crypto #scam]]></title>
+        <id>https://www.youtube.com/watch?v=lDVnCV_YVu4</id>
+        <link href="https://www.youtube.com/watch?v=lDVnCV_YVu4"/>
+        <updated>2023-09-17T01:36:41.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This BRAND NEW Crypto Narrative Is Making People BIG MONEY!! ($30-$400/Day)]]></title>
         <id>https://www.youtube.com/watch?v=NS5PlgfV_Kk</id>
@@ -570,15 +579,6 @@
         <updated>2023-08-24T13:43:59.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 Dont miss this opportunity!!! 🚀 #crypto]]></title>
-        <id>https://www.youtube.com/watch?v=eztvCVvuGkw</id>
-        <link href="https://www.youtube.com/watch?v=eztvCVvuGkw"/>
-        <updated>2023-08-24T02:49:32.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

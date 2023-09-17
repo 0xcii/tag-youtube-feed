@@ -175,6 +175,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lDVnCV_YVu4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lDVnCV_YVu4",
+          "publishedOn": "2023-09-17T01:36:41.000Z",
+          "wordCount": null,
+          "title": "Logan Paul is doing WHAT?!? #Crypto #scam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NS5PlgfV_Kk",
           "author": null,
           "description": "",
@@ -312,16 +322,6 @@
           "publishedOn": "2023-08-25T17:49:13.000Z",
           "wordCount": null,
           "title": "The Global Elite Have Been Secretly Accumulating Billions in BITCOIN!!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eztvCVvuGkw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eztvCVvuGkw",
-          "publishedOn": "2023-08-24T02:49:32.000Z",
-          "wordCount": null,
-          "title": "🚀 Dont miss this opportunity!!! 🚀 #crypto",
           "imageUrl": null
         }
       ]

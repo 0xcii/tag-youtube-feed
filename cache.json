@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FUG32Nt9do0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FUG32Nt9do0",
+          "publishedOn": "2023-09-18T15:00:13.000Z",
+          "wordCount": null,
+          "title": "Binance Grid Trading Bots Tutorial (Spot & Futures)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=i_epBbpMysI",
           "author": null,
           "description": "",
@@ -470,16 +480,6 @@
           "wordCount": null,
           "title": "CRYPTO: GAME ON NOW",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7ti5dL7Ftk8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7ti5dL7Ftk8",
-          "publishedOn": "2023-08-28T14:00:10.000Z",
-          "wordCount": null,
-          "title": "How to Use TradingView for Beginners (Charts, Indicators & Setup)",
-          "imageUrl": null
         }
       ]
     },
@@ -488,6 +488,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MmxUD_2FuB8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MmxUD_2FuB8",
+          "publishedOn": "2023-09-18T14:00:25.000Z",
+          "wordCount": null,
+          "title": "Create a Token in 40s (no-code)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=djgoClYIrNg",
           "author": null,

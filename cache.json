@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qwAFL1597eM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qwAFL1597eM",
+          "publishedOn": "2023-09-19T14:33:56.000Z",
+          "wordCount": null,
+          "title": "Python Tutorial for Beginners (with mini-projects)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r895rFUbGtE",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2023-08-28T14:07:04.000Z",
           "wordCount": null,
           "title": "Free Foundational C# Certification from Microsoft – Full Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UU1WVnMk4E8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UU1WVnMk4E8",
-          "publishedOn": "2023-08-25T15:09:55.000Z",
-          "wordCount": null,
-          "title": "Create a Large Language Model from Scratch with Python – Tutorial",
           "imageUrl": null
         }
       ]
@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gzpjVU5RVFI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gzpjVU5RVFI",
+          "publishedOn": "2023-09-19T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: 99% Will Lose Everything",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FUG32Nt9do0",
           "author": null,
           "description": "",
@@ -469,16 +479,6 @@
           "publishedOn": "2023-08-30T14:00:20.000Z",
           "wordCount": null,
           "title": "Bybit Ethereum Staking Tutorial (stETH on Bybit)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QwqJIP7ZMNw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QwqJIP7ZMNw",
-          "publishedOn": "2023-08-29T14:00:29.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: GAME ON NOW",
           "imageUrl": null
         }
       ]

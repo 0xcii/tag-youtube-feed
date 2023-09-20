@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-20T14:03:30.385Z</id>
+    <id>urn:2023-09-20T15:03:32.725Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-20T14:03:30.385Z</updated>
+    <updated>2023-09-20T15:03:32.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Glassnode Tutorial for Beginners (How to Use Charts, Workbench & More)]]></title>
+        <id>https://www.youtube.com/watch?v=q_5tCa8GiTs</id>
+        <link href="https://www.youtube.com/watch?v=q_5tCa8GiTs"/>
+        <updated>2023-09-20T14:00:47.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=nkGjob3q2GI</id>
@@ -516,15 +525,6 @@
         <updated>2023-08-30T16:37:12.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit Ethereum Staking Tutorial (stETH on Bybit)]]></title>
-        <id>https://www.youtube.com/watch?v=WODbEbUfwtw</id>
-        <link href="https://www.youtube.com/watch?v=WODbEbUfwtw"/>
-        <updated>2023-08-30T14:00:20.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

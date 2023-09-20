@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nkGjob3q2GI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nkGjob3q2GI",
+          "publishedOn": "2023-09-20T12:55:56.000Z",
+          "wordCount": null,
+          "title": "Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qwAFL1597eM",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2023-08-29T13:37:43.000Z",
           "wordCount": null,
           "title": "Machine Learning & Neural Networks without Libraries – No Black Box Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6GQAE7iLOhY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6GQAE7iLOhY",
-          "publishedOn": "2023-08-28T14:07:04.000Z",
-          "wordCount": null,
-          "title": "Free Foundational C# Certification from Microsoft – Full Course",
           "imageUrl": null
         }
       ]
@@ -495,7 +495,7 @@
           "link": "https://www.youtube.com/watch?v=MmxUD_2FuB8",
           "publishedOn": "2023-09-18T14:00:25.000Z",
           "wordCount": null,
-          "title": "How To Create A Token Without Coding",
+          "title": "Create a Token in 40s (no-code)",
           "imageUrl": null
         },
         {

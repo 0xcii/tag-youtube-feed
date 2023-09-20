@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-20T12:09:56.901Z</id>
+    <id>urn:2023-09-20T13:08:47.437Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-20T12:09:56.901Z</updated>
+    <updated>2023-09-20T13:08:47.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS – Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=nkGjob3q2GI</id>
+        <link href="https://www.youtube.com/watch?v=nkGjob3q2GI"/>
+        <updated>2023-09-20T12:55:56.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My indicator has made me some SERIOUS $$$!!]]></title>
         <id>https://www.youtube.com/watch?v=dQ7zhBk7udQ</id>
@@ -69,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Create A Token Without Coding]]></title>
+        <title type="html"><![CDATA[Create a Token in 40s (no-code)]]></title>
         <id>https://www.youtube.com/watch?v=MmxUD_2FuB8</id>
         <link href="https://www.youtube.com/watch?v=MmxUD_2FuB8"/>
         <updated>2023-09-18T14:00:25.000Z</updated>
@@ -570,15 +579,6 @@
         <updated>2023-08-28T16:02:26.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Foundational C# Certification from Microsoft – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=6GQAE7iLOhY</id>
-        <link href="https://www.youtube.com/watch?v=6GQAE7iLOhY"/>
-        <updated>2023-08-28T14:07:04.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

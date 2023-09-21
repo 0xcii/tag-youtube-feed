@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-21T17:02:19.684Z</id>
+    <id>urn:2023-09-21T18:07:15.546Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-21T17:02:19.684Z</updated>
+    <updated>2023-09-21T18:07:15.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BITCOIN Will Go Up FOREVER!!!!!! Here Is Why...]]></title>
+        <id>https://www.youtube.com/watch?v=IQxrmquixps</id>
+        <link href="https://www.youtube.com/watch?v=IQxrmquixps"/>
+        <updated>2023-09-21T17:40:55.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Alert: Elevator Upwards]]></title>
         <id>https://www.youtube.com/watch?v=GOAsVxNVwLk</id>
@@ -552,15 +561,6 @@
         <updated>2023-08-30T13:38:51.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 “Most Dangerous” People In Crypto EXPOSED!! Billion Dollar Frauds REVEALED!!!]]></title>
-        <id>https://www.youtube.com/watch?v=DFevMIANp6o</id>
-        <link href="https://www.youtube.com/watch?v=DFevMIANp6o"/>
-        <updated>2023-08-29T18:12:51.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

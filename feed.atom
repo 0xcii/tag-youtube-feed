@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T15:03:16.483Z</id>
+    <id>urn:2023-09-22T16:06:36.213Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-22T15:03:16.483Z</updated>
+    <updated>2023-09-22T16:06:36.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Will “FLIP” Bitcoin Before 2025!! But Only If “THIS” Doesn’t Happen!!]]></title>
+        <id>https://www.youtube.com/watch?v=TxmvAPcuoKI</id>
+        <link href="https://www.youtube.com/watch?v=TxmvAPcuoKI"/>
+        <updated>2023-09-22T15:32:08.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust Project Tutorial – Authentication Server Using Warp + JWT]]></title>
         <id>https://www.youtube.com/watch?v=6oMoHZZeyb0</id>
@@ -543,15 +552,6 @@
         <updated>2023-08-30T20:30:04.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The REAL REASON Bitcoin Went UP!? (Here’s What Comes Next!!!??)]]></title>
-        <id>https://www.youtube.com/watch?v=mhnXTuV3dGI</id>
-        <link href="https://www.youtube.com/watch?v=mhnXTuV3dGI"/>
-        <updated>2023-08-30T18:23:01.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

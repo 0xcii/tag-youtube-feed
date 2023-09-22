@@ -606,6 +606,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VwLGGYhGkL8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VwLGGYhGkL8",
+          "publishedOn": "2023-09-22T21:00:16.000Z",
+          "wordCount": null,
+          "title": "Major AI Blockchain use case nobody’s talking about yet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=s8M3iNVteLQ",
           "author": null,
           "description": "",

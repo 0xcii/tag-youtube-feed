@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T14:02:24.538Z</id>
+    <id>urn:2023-09-22T15:03:16.483Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-22T14:02:24.538Z</updated>
+    <updated>2023-09-22T15:03:16.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rust Project Tutorial – Authentication Server Using Warp + JWT]]></title>
+        <id>https://www.youtube.com/watch?v=6oMoHZZeyb0</id>
+        <link href="https://www.youtube.com/watch?v=6oMoHZZeyb0"/>
+        <updated>2023-09-22T14:46:05.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make $100 per Day Trading Crypto on Bybit]]></title>
+        <id>https://www.youtube.com/watch?v=_dLGbfJIxlg</id>
+        <link href="https://www.youtube.com/watch?v=_dLGbfJIxlg"/>
+        <updated>2023-09-22T14:00:25.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BITCOIN Will Go Up FOREVER!!!!!! Here Is Why...]]></title>
         <id>https://www.youtube.com/watch?v=IQxrmquixps</id>
@@ -483,15 +501,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRYPTO: COMPLETE DISASTER]]></title>
-        <id>https://www.youtube.com/watch?v=R3z7MZZsItY</id>
-        <link href="https://www.youtube.com/watch?v=R3z7MZZsItY"/>
-        <updated>2023-09-01T14:00:30.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GraphQL Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=5199E50O7SI</id>
         <link href="https://www.youtube.com/watch?v=5199E50O7SI"/>
@@ -552,15 +561,6 @@
         <updated>2023-08-30T16:37:12.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OWASP API Security Top 10 Course – Secure Your Web Apps]]></title>
-        <id>https://www.youtube.com/watch?v=YYe0FdfdgDU</id>
-        <link href="https://www.youtube.com/watch?v=YYe0FdfdgDU"/>
-        <updated>2023-08-30T13:38:51.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

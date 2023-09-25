@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hagBB17_hvg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hagBB17_hvg",
+          "publishedOn": "2023-09-25T14:54:24.000Z",
+          "wordCount": null,
+          "title": "Dynamic Programming – 0/1 Knapsack Problem Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6oMoHZZeyb0",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2023-09-01T13:39:37.000Z",
           "wordCount": null,
           "title": "GraphQL Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-42K44A1oMA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-42K44A1oMA",
-          "publishedOn": "2023-08-31T17:56:13.000Z",
-          "wordCount": null,
-          "title": "MERN Stack Tutorial - Book Store Project",
           "imageUrl": null
         }
       ]
@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JinA6LzYvjA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JinA6LzYvjA",
+          "publishedOn": "2023-09-25T16:00:12.000Z",
+          "wordCount": null,
+          "title": "How to Find Coinbase Wallet Adress (Deposit Crypto to Coinbase)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_dLGbfJIxlg",
           "author": null,
           "description": "",
@@ -469,16 +479,6 @@
           "publishedOn": "2023-09-05T14:00:04.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: INVESTORS BEWARE NOW!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BTvN0UQQEps",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BTvN0UQQEps",
-          "publishedOn": "2023-09-04T14:00:06.000Z",
-          "wordCount": null,
-          "title": "ALTCOINS TO GET RICH SEPTEMBER 2023",
           "imageUrl": null
         }
       ]

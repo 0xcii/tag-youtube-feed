@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T03:04:33.433Z</id>
+    <id>urn:2023-09-26T04:06:50.350Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-26T03:04:33.433Z</updated>
+    <updated>2023-09-26T04:06:50.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch the FULL VIDEO to see why Ol' Benny boy is wrong!! #altcoins v #bitcoin]]></title>
+        <id>https://www.youtube.com/watch?v=BmwkOZO7t4Y</id>
+        <link href="https://www.youtube.com/watch?v=BmwkOZO7t4Y"/>
+        <updated>2023-09-26T03:30:06.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 5 Crypto Trends primed to Explode in 2024]]></title>
         <id>https://www.youtube.com/watch?v=ES_6O0aLYO0</id>
@@ -543,15 +552,6 @@
         <updated>2023-09-01T13:39:37.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google & Microsoft Have Gone “ALL IN” For Crypto w/ These ALTCOINS!!]]></title>
-        <id>https://www.youtube.com/watch?v=6Y7O8BzLlOk</id>
-        <link href="https://www.youtube.com/watch?v=6Y7O8BzLlOk"/>
-        <updated>2023-08-31T18:30:04.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

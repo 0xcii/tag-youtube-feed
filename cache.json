@@ -175,6 +175,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_wtozUG3uT4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_wtozUG3uT4",
+          "publishedOn": "2023-09-27T19:05:10.000Z",
+          "wordCount": null,
+          "title": "Here’s Why Owning Just 1 BITCOIN Will Make You A MILLIONAIRE!!!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BmwkOZO7t4Y",
           "author": null,
           "description": "",
@@ -312,16 +322,6 @@
           "publishedOn": "2023-09-06T18:49:25.000Z",
           "wordCount": null,
           "title": "Arthur Hayes Is Putting MILLIONS Into This ALTCOIN!! He Has DOUBLED DOWN!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BmW_VE2dfjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BmW_VE2dfjc",
-          "publishedOn": "2023-09-03T04:30:54.000Z",
-          "wordCount": null,
-          "title": "The PAST will show you the FUTURE!  #bitcoin #crypto",
           "imageUrl": null
         }
       ]

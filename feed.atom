@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-27T19:01:47.946Z</id>
+    <id>urn:2023-09-27T20:04:19.284Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-27T19:01:47.946Z</updated>
+    <updated>2023-09-27T20:04:19.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Here’s Why Owning Just 1 BITCOIN Will Make You A MILLIONAIRE!!!!!]]></title>
+        <id>https://www.youtube.com/watch?v=_wtozUG3uT4</id>
+        <link href="https://www.youtube.com/watch?v=_wtozUG3uT4"/>
+        <updated>2023-09-27T19:05:10.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java Basics – Crash Course]]></title>
         <id>https://www.youtube.com/watch?v=GdzRzWymT4c</id>
@@ -543,15 +552,6 @@
         <updated>2023-09-04T20:00:03.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The PAST will show you the FUTURE!  #bitcoin #crypto]]></title>
-        <id>https://www.youtube.com/watch?v=BmW_VE2dfjc</id>
-        <link href="https://www.youtube.com/watch?v=BmW_VE2dfjc"/>
-        <updated>2023-09-03T04:30:54.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

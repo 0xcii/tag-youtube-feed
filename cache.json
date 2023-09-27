@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GdzRzWymT4c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GdzRzWymT4c",
+          "publishedOn": "2023-09-27T14:32:50.000Z",
+          "wordCount": null,
+          "title": "Java Basics – Crash Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fTPCKnZZ2dk",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2023-09-05T14:36:07.000Z",
           "wordCount": null,
           "title": "Prompt Engineering Tutorial – Master ChatGPT and LLM Responses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KeBxopnhizw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KeBxopnhizw",
-          "publishedOn": "2023-09-04T14:41:19.000Z",
-          "wordCount": null,
-          "title": "JavaScript Modules Crash Course",
           "imageUrl": null
         }
       ]
@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TcHnkVGFDx8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TcHnkVGFDx8",
+          "publishedOn": "2023-09-27T14:00:19.000Z",
+          "wordCount": null,
+          "title": "BEST Bollinger Bands Trading Strategies to Win",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kqzLxEl9laY",
           "author": null,
           "description": "",
@@ -470,16 +480,6 @@
           "wordCount": null,
           "title": "CRYPTO ON THE EDGE (This Data Is Wild)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T0XmgkXwqaw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T0XmgkXwqaw",
-          "publishedOn": "2023-09-06T14:00:19.000Z",
-          "wordCount": null,
-          "title": "How to Withdraw from Coinbase Wallet to Bank or Exchange",
-          "imageUrl": null
         }
       ]
     },
@@ -495,7 +495,7 @@
           "link": "https://www.youtube.com/watch?v=s8i8qn8APR4",
           "publishedOn": "2023-09-26T19:00:16.000Z",
           "wordCount": null,
-          "title": "The Missing Piece Of Web3",
+          "title": "IPFS Explained To Beginners",
           "imageUrl": null
         },
         {

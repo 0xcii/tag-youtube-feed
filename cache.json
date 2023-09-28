@@ -596,6 +596,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QKYwoPhy3K4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QKYwoPhy3K4",
+          "publishedOn": "2023-09-28T19:00:21.000Z",
+          "wordCount": null,
+          "title": "ChatGPT WORKS WITH BLOCKCHAIN NOW!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ES_6O0aLYO0",
           "author": null,
           "description": "",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lG7Uxts9SXs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lG7Uxts9SXs",
+          "publishedOn": "2023-09-28T13:46:37.000Z",
+          "wordCount": null,
+          "title": "LangChain Crash Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GdzRzWymT4c",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2023-09-06T12:39:12.000Z",
           "wordCount": null,
           "title": "Full Stack Next.js, Typescript, Firebase Tutorial – Google Drive Clone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_ZvnD73m40o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_ZvnD73m40o",
-          "publishedOn": "2023-09-05T14:36:07.000Z",
-          "wordCount": null,
-          "title": "Prompt Engineering Tutorial – Master ChatGPT and LLM Responses",
           "imageUrl": null
         }
       ]
@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WeR3VZ9vQ4c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WeR3VZ9vQ4c",
+          "publishedOn": "2023-09-28T14:00:22.000Z",
+          "wordCount": null,
+          "title": "Bybit Futures Tutorial 2023 (How to Trade Bybit Leverage)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TcHnkVGFDx8",
           "author": null,
           "description": "",
@@ -470,16 +480,6 @@
           "wordCount": null,
           "title": "Bitget Tutorial for Beginners 2023!! (How to Trade on Bitget)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yVki_FwzIks",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yVki_FwzIks",
-          "publishedOn": "2023-09-08T14:00:51.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ON THE EDGE (This Data Is Wild)",
-          "imageUrl": null
         }
       ]
     },
@@ -489,13 +489,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PjLK954bEPI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PjLK954bEPI",
+          "publishedOn": "2023-09-28T14:00:30.000Z",
+          "wordCount": null,
+          "title": "IPFS is awesome! #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=s8i8qn8APR4",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=s8i8qn8APR4",
           "publishedOn": "2023-09-26T19:00:16.000Z",
           "wordCount": null,
-          "title": "The Missing Piece Of Web3",
+          "title": "IPFS Explained To Beginners",
           "imageUrl": null
         },
         {

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-28T18:06:37.875Z</id>
+    <id>urn:2023-09-28T19:01:31.161Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-28T18:06:37.875Z</updated>
+    <updated>2023-09-28T19:01:31.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Altcoin Is Better Than Both Bitcoin & Ethereum!!!?]]></title>
+        <id>https://www.youtube.com/watch?v=OtZ8bAVScW4</id>
+        <link href="https://www.youtube.com/watch?v=OtZ8bAVScW4"/>
+        <updated>2023-09-28T18:19:03.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚠️This Is the EXACT Reason You Need to Buy Bitcoin…..RIGHT NOW‼️ #shorts #bitcoin #crypto #btc]]></title>
         <id>https://www.youtube.com/watch?v=rqQ11TG7FJs</id>
@@ -69,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IPFS Explained To Beginners]]></title>
+        <title type="html"><![CDATA[The Most Important Invention Since The Internet]]></title>
         <id>https://www.youtube.com/watch?v=s8i8qn8APR4</id>
         <link href="https://www.youtube.com/watch?v=s8i8qn8APR4"/>
         <updated>2023-09-26T19:00:16.000Z</updated>
@@ -507,15 +516,6 @@
         <updated>2023-09-07T19:00:27.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WARNING! Bitcoin & Ethereum Have BAD NEWS!! It Could Be Their END!!!]]></title>
-        <id>https://www.youtube.com/watch?v=aXuqtDEdSpI</id>
-        <link href="https://www.youtube.com/watch?v=aXuqtDEdSpI"/>
-        <updated>2023-09-07T18:26:05.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

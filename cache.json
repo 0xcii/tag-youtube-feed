@@ -175,6 +175,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rqQ11TG7FJs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rqQ11TG7FJs",
+          "publishedOn": "2023-09-28T17:50:31.000Z",
+          "wordCount": null,
+          "title": "⚠️This Is the EXACT Reason You Need to Buy Bitcoin…..RIGHT NOW‼️ #shorts #bitcoin #crypto #btc",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_wtozUG3uT4",
           "author": null,
           "description": "",
@@ -312,16 +322,6 @@
           "publishedOn": "2023-09-07T18:26:05.000Z",
           "wordCount": null,
           "title": "WARNING! Bitcoin & Ethereum Have BAD NEWS!! It Could Be Their END!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UR5rNfHyLOs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UR5rNfHyLOs",
-          "publishedOn": "2023-09-06T18:49:25.000Z",
-          "wordCount": null,
-          "title": "Arthur Hayes Is Putting MILLIONS Into This ALTCOIN!! He Has DOUBLED DOWN!!",
           "imageUrl": null
         }
       ]
@@ -505,7 +505,7 @@
           "link": "https://www.youtube.com/watch?v=s8i8qn8APR4",
           "publishedOn": "2023-09-26T19:00:16.000Z",
           "wordCount": null,
-          "title": "The Missing Piece Of Web3",
+          "title": "IPFS Explained To Beginners",
           "imageUrl": null
         },
         {

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=e-hTm5VmofI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e-hTm5VmofI",
+          "publishedOn": "2023-09-29T14:10:43.000Z",
+          "wordCount": null,
+          "title": "Astro Web Framework Crash Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lG7Uxts9SXs",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2023-09-07T14:27:28.000Z",
           "wordCount": null,
           "title": "YouTube Clone – T3 Stack Tutorial (Next.js, TypeScript, Tailwind CSS)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gwOVynGnDZA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gwOVynGnDZA",
-          "publishedOn": "2023-09-06T12:39:12.000Z",
-          "wordCount": null,
-          "title": "Full Stack Next.js, Typescript, Firebase Tutorial – Google Drive Clone",
           "imageUrl": null
         }
       ]
@@ -332,6 +332,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qnZIci1fw_g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qnZIci1fw_g",
+          "publishedOn": "2023-09-29T14:00:45.000Z",
+          "wordCount": null,
+          "title": "CRYPTO VOLATILITY INCOMING",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WeR3VZ9vQ4c",
           "author": null,
           "description": "",
@@ -469,16 +479,6 @@
           "publishedOn": "2023-09-11T14:00:36.000Z",
           "wordCount": null,
           "title": "How to Add Tokens to MetaMask (Import Your Tokens)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FNALpEqJZe4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FNALpEqJZe4",
-          "publishedOn": "2023-09-10T15:15:01.000Z",
-          "wordCount": null,
-          "title": "Bitget Tutorial for Beginners 2023!! (How to Trade on Bitget)",
           "imageUrl": null
         }
       ]

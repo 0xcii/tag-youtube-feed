@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-02T17:02:29.430Z</id>
+    <id>urn:2023-10-02T18:07:17.725Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-02T17:02:29.430Z</updated>
+    <updated>2023-10-02T18:07:17.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why do we need IPFS if we already have Blockchain? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=8exqt-yT8Qo</id>
+        <link href="https://www.youtube.com/watch?v=8exqt-yT8Qo"/>
+        <updated>2023-10-02T17:30:22.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gala Games Web3 平台：独特游戏体验和高额收益的完美结合！未来游戏赚钱的机会来了！]]></title>
         <id>https://www.youtube.com/watch?v=hWQyiywFJxY</id>

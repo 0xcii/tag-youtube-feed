@@ -4,13 +4,34 @@
       "title": "链求君",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hWQyiywFJxY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hWQyiywFJxY",
+          "publishedOn": "2023-10-02T15:00:36.000Z",
+          "wordCount": null,
+          "title": "Gala Games Web3 平台：独特游戏体验和高额收益的完美结合！未来游戏赚钱的机会来了！",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dlK7jec2rXo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dlK7jec2rXo",
+          "publishedOn": "2023-10-02T14:31:51.000Z",
+          "wordCount": null,
+          "title": "API Security for PCI Compliance (Data Security Standard)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=e-hTm5VmofI",
           "author": null,
@@ -149,16 +170,6 @@
           "publishedOn": "2023-09-08T14:00:04.000Z",
           "wordCount": null,
           "title": "Dynamic Programming with Java – Learn to Solve Algorithmic Problems & Coding Challenges",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TV6tFPfz0go",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TV6tFPfz0go",
-          "publishedOn": "2023-09-07T14:27:28.000Z",
-          "wordCount": null,
-          "title": "YouTube Clone – T3 Stack Tutorial (Next.js, TypeScript, Tailwind CSS)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-02T14:03:15.283Z</id>
+    <id>urn:2023-10-02T15:04:17.138Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-02T14:03:15.283Z</updated>
+    <updated>2023-10-02T15:04:17.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gala Games Web3 平台：独特游戏体验和高额收益的完美结合！未来游戏赚钱的机会来了！]]></title>
+        <id>https://www.youtube.com/watch?v=hWQyiywFJxY</id>
+        <link href="https://www.youtube.com/watch?v=hWQyiywFJxY"/>
+        <updated>2023-10-02T15:00:36.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Security for PCI Compliance (Data Security Standard)]]></title>
+        <id>https://www.youtube.com/watch?v=dlK7jec2rXo</id>
+        <link href="https://www.youtube.com/watch?v=dlK7jec2rXo"/>
+        <updated>2023-10-02T14:31:51.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BEST ALTCOINS OCTOBER MAKING MILLIONS (99% WILL MISS OUT)]]></title>
         <id>https://www.youtube.com/watch?v=v6tcWnyz5B8</id>
@@ -543,15 +561,6 @@
         <updated>2023-09-07T15:26:57.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Clone – T3 Stack Tutorial (Next.js, TypeScript, Tailwind CSS)]]></title>
-        <id>https://www.youtube.com/watch?v=TV6tFPfz0go</id>
-        <link href="https://www.youtube.com/watch?v=TV6tFPfz0go"/>
-        <updated>2023-09-07T14:27:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

@@ -353,6 +353,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aS9Vrc_Riug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aS9Vrc_Riug",
+          "publishedOn": "2023-10-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: THIS NEVER HAPPENED BEFORE",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=v6tcWnyz5B8",
           "author": null,
           "description": "",
@@ -490,16 +500,6 @@
           "publishedOn": "2023-09-13T14:00:22.000Z",
           "wordCount": null,
           "title": "BEST 1 Minute Crypto Scalping STRATEGY (Simple)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dGxg5SnKdLY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dGxg5SnKdLY",
-          "publishedOn": "2023-09-12T14:00:26.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: SELLING EVERYTHING",
           "imageUrl": null
         }
       ]

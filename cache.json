@@ -206,6 +206,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Qy8haFwXPHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qy8haFwXPHI",
+          "publishedOn": "2023-10-04T20:55:10.000Z",
+          "wordCount": null,
+          "title": "I found a REALLY good one..🚀  #crypto #altcoin",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KH0REFCa_Lw",
           "author": null,
           "description": "",
@@ -343,16 +353,6 @@
           "publishedOn": "2023-09-14T18:06:45.000Z",
           "wordCount": null,
           "title": "Benjamin Cowen Is Totally WRONG!! His “Altcoin Reckoning” is FLAWED!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Lflzd8xXgL0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Lflzd8xXgL0",
-          "publishedOn": "2023-09-13T18:34:57.000Z",
-          "wordCount": null,
-          "title": "I’m No Coffezilla…But I Just FOUND Logan Paul’s Next Crypto SCAM!!",
           "imageUrl": null
         }
       ]
@@ -616,6 +616,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jVDqw39aT9o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jVDqw39aT9o",
+          "publishedOn": "2023-10-04T20:30:03.000Z",
+          "wordCount": null,
+          "title": "How to make $$$ in Crypto By Eating out!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9hNo3Fau14k",
           "author": null,

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T20:04:09.549Z</id>
+    <id>urn:2023-10-04T21:02:34.259Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-04T20:04:09.549Z</updated>
+    <updated>2023-10-04T21:02:34.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I found a REALLY good one..🚀  #crypto #altcoin]]></title>
+        <id>https://www.youtube.com/watch?v=Qy8haFwXPHI</id>
+        <link href="https://www.youtube.com/watch?v=Qy8haFwXPHI"/>
+        <updated>2023-10-04T20:55:10.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make $$$ in Crypto By Eating out!]]></title>
+        <id>https://www.youtube.com/watch?v=jVDqw39aT9o</id>
+        <link href="https://www.youtube.com/watch?v=jVDqw39aT9o"/>
+        <updated>2023-10-04T20:30:03.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Transfer Crypto to Ledger Wallet]]></title>
         <id>https://www.youtube.com/watch?v=Fl4I8tV06xo</id>
@@ -525,15 +543,6 @@
         <updated>2023-09-13T19:00:04.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m No Coffezilla…But I Just FOUND Logan Paul’s Next Crypto SCAM!!]]></title>
-        <id>https://www.youtube.com/watch?v=Lflzd8xXgL0</id>
-        <link href="https://www.youtube.com/watch?v=Lflzd8xXgL0"/>
-        <updated>2023-09-13T18:34:57.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

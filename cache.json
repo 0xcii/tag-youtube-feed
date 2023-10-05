@@ -443,16 +443,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=JinA6LzYvjA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JinA6LzYvjA",
-          "publishedOn": "2023-09-25T16:00:12.000Z",
-          "wordCount": null,
-          "title": "How to Find Coinbase Wallet Adress (Deposit Crypto to Coinbase)",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=_dLGbfJIxlg",
           "author": null,
           "description": "",
@@ -513,13 +503,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=QFCt6DZIE7Q",
+          "id": "https://www.youtube.com/watch?v=ITbcrZooFGA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=QFCt6DZIE7Q",
-          "publishedOn": "2023-09-14T14:00:16.000Z",
+          "link": "https://www.youtube.com/watch?v=ITbcrZooFGA",
+          "publishedOn": "2023-09-13T14:00:22.000Z",
           "wordCount": null,
-          "title": "How to Withdraw from Coinbase to Bank (Sell & Cash Out)",
+          "title": "BEST 1 Minute Crypto Scalping STRATEGY (Simple)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dGxg5SnKdLY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dGxg5SnKdLY",
+          "publishedOn": "2023-09-12T14:00:26.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: SELLING EVERYTHING",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T03:04:38.498Z</id>
+    <id>urn:2023-10-05T04:06:50.253Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-05T03:04:38.498Z</updated>
+    <updated>2023-10-05T04:06:50.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[新手如何购买加密货币避免亏损？ 加密货币，风险评级。小白避坑神器！]]></title>
+        <id>https://www.youtube.com/watch?v=XckQDylCZCA</id>
+        <link href="https://www.youtube.com/watch?v=XckQDylCZCA"/>
+        <updated>2023-10-05T03:30:09.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I found a REALLY good one..🚀  #crypto #altcoin]]></title>
         <id>https://www.youtube.com/watch?v=Qy8haFwXPHI</id>

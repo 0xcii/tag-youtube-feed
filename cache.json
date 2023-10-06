@@ -226,6 +226,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O8SPPUyu9Io",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O8SPPUyu9Io",
+          "publishedOn": "2023-10-06T17:39:30.000Z",
+          "wordCount": null,
+          "title": "These (2) Cryptos Are About To EXPLODE!!! (99% Do Not See This)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Qy8haFwXPHI",
           "author": null,
           "description": "",
@@ -363,16 +373,6 @@
           "publishedOn": "2023-09-15T19:02:02.000Z",
           "wordCount": null,
           "title": "This BRAND NEW Crypto Narrative Is Making People BIG MONEY!! ($30-$400/Day)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5t6DYdvwcSw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5t6DYdvwcSw",
-          "publishedOn": "2023-09-14T18:06:45.000Z",
-          "wordCount": null,
-          "title": "Benjamin Cowen Is Totally WRONG!! His “Altcoin Reckoning” is FLAWED!!",
           "imageUrl": null
         }
       ]

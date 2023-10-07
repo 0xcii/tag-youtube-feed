@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-07T06:06:48.263Z</id>
+    <id>urn:2023-10-07T07:02:11.059Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-07T06:06:48.263Z</updated>
+    <updated>2023-10-07T07:02:11.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -615,15 +615,6 @@
         <updated>2023-09-08T11:53:12.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to know if you’re cut out for coding…]]></title>
-        <id>https://www.youtube.com/watch?v=Yf36M2Volew</id>
-        <link href="https://www.youtube.com/watch?v=Yf36M2Volew"/>
-        <updated>2023-09-07T19:00:27.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

@@ -226,6 +226,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=l8U3017kVZo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l8U3017kVZo",
+          "publishedOn": "2023-10-08T03:21:07.000Z",
+          "wordCount": null,
+          "title": "Thes 2 WILL EXPLODE!!! 🚀🚀  #crypto #cryptocurrency #ewt #link",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O8SPPUyu9Io",
           "author": null,
           "description": "",
@@ -363,16 +373,6 @@
           "publishedOn": "2023-09-17T01:36:41.000Z",
           "wordCount": null,
           "title": "Logan Paul is doing WHAT?!? #Crypto #scam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NS5PlgfV_Kk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NS5PlgfV_Kk",
-          "publishedOn": "2023-09-15T19:02:02.000Z",
-          "wordCount": null,
-          "title": "This BRAND NEW Crypto Narrative Is Making People BIG MONEY!! ($30-$400/Day)",
           "imageUrl": null
         }
       ]

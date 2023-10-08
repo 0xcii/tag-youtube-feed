@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-08T17:02:09.525Z</id>
+    <id>urn:2023-10-08T18:06:20.514Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-08T17:02:09.525Z</updated>
+    <updated>2023-10-08T18:06:20.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WHO IS SATOSHI?!?  #crypto #bitcoin #elonmusk #sergey]]></title>
+        <id>https://www.youtube.com/watch?v=FXmri_Q5Mq4</id>
+        <link href="https://www.youtube.com/watch?v=FXmri_Q5Mq4"/>
+        <updated>2023-10-08T17:36:39.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thes 2 WILL EXPLODE!!! 🚀🚀  #crypto #cryptocurrency #ewt #link]]></title>
         <id>https://www.youtube.com/watch?v=l8U3017kVZo</id>
@@ -543,15 +552,6 @@
         <updated>2023-09-18T14:00:25.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logan Paul is doing WHAT?!? #Crypto #scam]]></title>
-        <id>https://www.youtube.com/watch?v=lDVnCV_YVu4</id>
-        <link href="https://www.youtube.com/watch?v=lDVnCV_YVu4"/>
-        <updated>2023-09-17T01:36:41.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

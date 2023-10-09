@@ -226,6 +226,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nJG7ZxbsfQw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nJG7ZxbsfQw",
+          "publishedOn": "2023-10-09T20:05:50.000Z",
+          "wordCount": null,
+          "title": "They can't ALL be winners... but some will 🚀🚀!! #crypto  #chainlink #synthetix",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FXmri_Q5Mq4",
           "author": null,
           "description": "",
@@ -363,16 +373,6 @@
           "publishedOn": "2023-09-20T04:53:27.000Z",
           "wordCount": null,
           "title": "My indicator has made me some SERIOUS $$$!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=angqmpqNtP4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=angqmpqNtP4",
-          "publishedOn": "2023-09-19T01:34:30.000Z",
-          "wordCount": null,
-          "title": "These two tech giants are GOING CRYPTO!! #crypto",
           "imageUrl": null
         }
       ]

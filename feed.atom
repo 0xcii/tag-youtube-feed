@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-10T18:07:24.134Z</id>
+    <id>urn:2023-10-10T19:02:18.429Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-10T18:07:24.134Z</updated>
+    <updated>2023-10-10T19:02:18.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Satoshi Nakamoto’s True Identity UNMASKED!! You Won’t Believe Who Created BITCOIN!?]]></title>
+        <id>https://www.youtube.com/watch?v=FqlTsJHiAeM</id>
+        <link href="https://www.youtube.com/watch?v=FqlTsJHiAeM"/>
+        <updated>2023-10-10T18:49:38.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO: DON'T GET TRAPPED NOW (Ark Report)]]></title>
         <id>https://www.youtube.com/watch?v=nWtL4v17oek</id>
@@ -525,15 +534,6 @@
         <updated>2023-09-20T12:55:56.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My indicator has made me some SERIOUS $$$!!]]></title>
-        <id>https://www.youtube.com/watch?v=dQ7zhBk7udQ</id>
-        <link href="https://www.youtube.com/watch?v=dQ7zhBk7udQ"/>
-        <updated>2023-09-20T04:53:27.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

@@ -236,6 +236,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eCpI4gvk_BE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eCpI4gvk_BE",
+          "publishedOn": "2023-10-11T18:42:53.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Expert Adam Back Predicts $100,000 BTC by Bitcoin Halving 2024!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iwjXm9POnjw",
           "author": null,
           "description": "",
@@ -373,16 +383,6 @@
           "publishedOn": "2023-09-26T03:30:06.000Z",
           "wordCount": null,
           "title": "Watch the FULL VIDEO to see why Ol' Benny boy is wrong!! #altcoins v #bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TxmvAPcuoKI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TxmvAPcuoKI",
-          "publishedOn": "2023-09-22T15:32:08.000Z",
-          "wordCount": null,
-          "title": "Ethereum Will “FLIP” Bitcoin Before 2025!! But Only If “THIS” Doesn’t Happen!!",
           "imageUrl": null
         }
       ]
@@ -549,6 +549,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wHFO8D2tU4o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wHFO8D2tU4o",
+          "publishedOn": "2023-10-11T18:23:26.000Z",
+          "wordCount": null,
+          "title": "Top 7 Ways to Hack Solidity Smart Contracts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8exqt-yT8Qo",
           "author": null,

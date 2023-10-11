@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-11T03:05:34.459Z</id>
+    <id>urn:2023-10-11T04:06:46.554Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-11T03:05:34.459Z</updated>
+    <updated>2023-10-11T04:06:46.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZTX 元宇宙玩赚游戏，内测开启！ 参与者将 100% 获得早期空投 ！ 限时 7 天， 人人都可玩赚体验第一桶金。]]></title>
+        <id>https://www.youtube.com/watch?v=K0PnCZQx1y0</id>
+        <link href="https://www.youtube.com/watch?v=K0PnCZQx1y0"/>
+        <updated>2023-10-11T04:00:14.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okamoto?! NSA?!.. SATOSHI!!! #bitcoin  #crypto #creator]]></title>
+        <id>https://www.youtube.com/watch?v=iwjXm9POnjw</id>
+        <link href="https://www.youtube.com/watch?v=iwjXm9POnjw"/>
+        <updated>2023-10-11T03:13:12.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Satoshi Nakamoto’s True Identity UNMASKED!! You Won’t Believe Who Created BITCOIN!?]]></title>
         <id>https://www.youtube.com/watch?v=FqlTsJHiAeM</id>
@@ -480,15 +498,6 @@
         <updated>2023-09-22T14:00:25.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BITCOIN Will Go Up FOREVER!!!!!! Here Is Why...]]></title>
-        <id>https://www.youtube.com/watch?v=IQxrmquixps</id>
-        <link href="https://www.youtube.com/watch?v=IQxrmquixps"/>
-        <updated>2023-09-21T17:40:55.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

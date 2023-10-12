@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-12T13:08:58.279Z</id>
+    <id>urn:2023-10-12T14:03:18.821Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-12T13:08:58.279Z</updated>
+    <updated>2023-10-12T14:03:18.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Buy Crypto on MetaMask (PayPal, Card, Bank)]]></title>
+        <id>https://www.youtube.com/watch?v=-qfgDisgX8o</id>
+        <link href="https://www.youtube.com/watch?v=-qfgDisgX8o"/>
+        <updated>2023-10-12T14:00:00.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zora 可以免费铸造 NFT的平台？ Zora Network 未来空投交互教程 ！ 帮创作者赚取收益的区块链网络！]]></title>
         <id>https://www.youtube.com/watch?v=yK8oIHrM8G4</id>
@@ -570,15 +579,6 @@
         <updated>2023-09-20T21:00:23.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glassnode Tutorial for Beginners (How to Use Charts, Workbench & More)]]></title>
-        <id>https://www.youtube.com/watch?v=q_5tCa8GiTs</id>
-        <link href="https://www.youtube.com/watch?v=q_5tCa8GiTs"/>
-        <updated>2023-09-20T14:00:47.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

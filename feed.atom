@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-12T17:02:34.867Z</id>
+    <id>urn:2023-10-12T18:07:23.174Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-12T17:02:34.868Z</updated>
+    <updated>2023-10-12T18:07:23.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Halving is 86% Complete! $100k BTC when 100% in 2024!? #shorts #bitcoin #btchalving]]></title>
+        <id>https://www.youtube.com/watch?v=iJPrjeqaIHM</id>
+        <link href="https://www.youtube.com/watch?v=iJPrjeqaIHM"/>
+        <updated>2023-10-12T17:08:58.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Buy Crypto on MetaMask (PayPal, Card, Bank)]]></title>
         <id>https://www.youtube.com/watch?v=-qfgDisgX8o</id>
@@ -507,15 +516,6 @@
         <updated>2023-09-26T14:00:36.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch the FULL VIDEO to see why Ol' Benny boy is wrong!! #altcoins v #bitcoin]]></title>
-        <id>https://www.youtube.com/watch?v=BmwkOZO7t4Y</id>
-        <link href="https://www.youtube.com/watch?v=BmwkOZO7t4Y"/>
-        <updated>2023-09-26T03:30:06.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

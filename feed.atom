@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T06:07:50.481Z</id>
+    <id>urn:2023-10-13T07:03:03.941Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T06:07:50.481Z</updated>
+    <updated>2023-10-13T07:03:03.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -624,15 +624,6 @@
         <updated>2023-09-14T06:54:41.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto passive income trend defying the bear market]]></title>
-        <id>https://www.youtube.com/watch?v=8WlABgtDNhU</id>
-        <link href="https://www.youtube.com/watch?v=8WlABgtDNhU"/>
-        <updated>2023-09-13T19:00:04.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

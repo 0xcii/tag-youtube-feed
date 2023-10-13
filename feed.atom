@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T13:08:56.050Z</id>
+    <id>urn:2023-10-13T14:02:26.046Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T13:08:56.050Z</updated>
+    <updated>2023-10-13T14:02:26.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: THE FINAL CAPITULATION]]></title>
+        <id>https://www.youtube.com/watch?v=WQDJl4D5KLA</id>
+        <link href="https://www.youtube.com/watch?v=WQDJl4D5KLA"/>
+        <updated>2023-10-13T14:00:20.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL Tutorial for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=SpfIwlAYaKk</id>
+        <link href="https://www.youtube.com/watch?v=SpfIwlAYaKk"/>
+        <updated>2023-10-13T13:48:34.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Halving is 86% Complete! $100k BTC when 100% in 2024!? #shorts #bitcoin #btchalving]]></title>
         <id>https://www.youtube.com/watch?v=iJPrjeqaIHM</id>
@@ -561,24 +579,6 @@
         <updated>2023-09-22T14:00:25.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Elevator Upwards]]></title>
-        <id>https://www.youtube.com/watch?v=GOAsVxNVwLk</id>
-        <link href="https://www.youtube.com/watch?v=GOAsVxNVwLk"/>
-        <updated>2023-09-21T14:00:19.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mojo Programming Language – Full Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=5Sm9IVMet9c</id>
-        <link href="https://www.youtube.com/watch?v=5Sm9IVMet9c"/>
-        <updated>2023-09-21T13:02:21.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

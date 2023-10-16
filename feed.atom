@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-16T14:03:18.707Z</id>
+    <id>urn:2023-10-16T15:04:19.711Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-16T14:03:18.707Z</updated>
+    <updated>2023-10-16T15:04:19.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cardano ADA Alert!! Is Cardano Still Worth It in 2023/4?]]></title>
+        <id>https://www.youtube.com/watch?v=f2BLQnZDEjI</id>
+        <link href="https://www.youtube.com/watch?v=f2BLQnZDEjI"/>
+        <updated>2023-10-16T14:00:34.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Next Major “Crypto Narrative” Arrives!! Privacy Crypto Will EXPLODE!!!]]></title>
         <id>https://www.youtube.com/watch?v=ZgAxou6L_e8</id>
@@ -579,15 +588,6 @@
         <updated>2023-09-22T14:46:05.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make $100 per Day Trading Crypto on Bybit]]></title>
-        <id>https://www.youtube.com/watch?v=_dLGbfJIxlg</id>
-        <link href="https://www.youtube.com/watch?v=_dLGbfJIxlg"/>
-        <updated>2023-09-22T14:00:25.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

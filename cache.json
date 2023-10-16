@@ -617,6 +617,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-n3e6vo6tlY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-n3e6vo6tlY",
+          "publishedOn": "2023-10-16T19:00:00.000Z",
+          "wordCount": null,
+          "title": "New blockchain 1000x faster than Ethereum",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AHgqWhHLPHQ",
           "author": null,
           "description": "",

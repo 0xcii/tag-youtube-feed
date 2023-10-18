@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-18T06:07:51.931Z</id>
+    <id>urn:2023-10-18T07:02:26.918Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-18T06:07:51.931Z</updated>
+    <updated>2023-10-18T07:02:26.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -604,15 +604,6 @@
         <id>https://www.youtube.com/watch?v=s8M3iNVteLQ</id>
         <link href="https://www.youtube.com/watch?v=s8M3iNVteLQ"/>
         <updated>2023-09-20T21:00:23.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This new way to hide your crypto wallet is a GAME CHANGER!]]></title>
-        <id>https://www.youtube.com/watch?v=c8EOteJpJb0</id>
-        <link href="https://www.youtube.com/watch?v=c8EOteJpJb0"/>
-        <updated>2023-09-18T19:00:14.000Z</updated>
         <author>
             <name>Dapp University</name>
         </author>

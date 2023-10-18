@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wrHTcjSZQ1Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wrHTcjSZQ1Y",
+          "publishedOn": "2023-10-18T13:12:50.000Z",
+          "wordCount": null,
+          "title": "AI SaaS Chat Bot using MERN Stack – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1EFKe24X8vI",
           "author": null,
           "description": "",
@@ -220,16 +230,6 @@
           "publishedOn": "2023-09-26T14:19:39.000Z",
           "wordCount": null,
           "title": "Nuxt 3 — Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hagBB17_hvg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hagBB17_hvg",
-          "publishedOn": "2023-09-25T14:54:24.000Z",
-          "wordCount": null,
-          "title": "Dynamic Programming – 0/1 Knapsack Problem Tutorial",
           "imageUrl": null
         }
       ]
@@ -403,6 +403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gLpK5Q7kUUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gLpK5Q7kUUY",
+          "publishedOn": "2023-10-18T14:00:28.000Z",
+          "wordCount": null,
+          "title": "OKX Tutorial for Beginners (How to Trade on OKX)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pbO-MJujYik",
           "author": null,
           "description": "",
@@ -540,16 +550,6 @@
           "publishedOn": "2023-09-28T14:00:22.000Z",
           "wordCount": null,
           "title": "Bybit Futures Tutorial 2023 (How to Trade Bybit Leverage)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TcHnkVGFDx8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TcHnkVGFDx8",
-          "publishedOn": "2023-09-27T14:00:19.000Z",
-          "wordCount": null,
-          "title": "BEST Bollinger Bands Trading Strategies to Win",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-20T14:03:17.894Z</id>
+    <id>urn:2023-10-20T15:03:15.612Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-20T14:03:17.894Z</updated>
+    <updated>2023-10-20T15:03:15.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: IT'S HAPPENING (IMPORTANT)]]></title>
+        <id>https://www.youtube.com/watch?v=QvMQuNZU3Wk</id>
+        <link href="https://www.youtube.com/watch?v=QvMQuNZU3Wk"/>
+        <updated>2023-10-20T14:00:16.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The BULLs Are Coming…*THIS* Proves It!! #cryptocurrency #crypto #investing #digitalcurrency]]></title>
         <id>https://www.youtube.com/watch?v=sIQ7qlWPPgg</id>
@@ -534,15 +543,6 @@
         <updated>2023-09-29T14:10:43.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO VOLATILITY INCOMING]]></title>
-        <id>https://www.youtube.com/watch?v=qnZIci1fw_g</id>
-        <link href="https://www.youtube.com/watch?v=qnZIci1fw_g"/>
-        <updated>2023-09-29T14:00:45.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

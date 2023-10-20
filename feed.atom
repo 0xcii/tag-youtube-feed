@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-20T18:05:24.048Z</id>
+    <id>urn:2023-10-20T19:01:40.372Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-20T18:05:24.048Z</updated>
+    <updated>2023-10-20T19:01:40.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This is a game changer for blockchain developers]]></title>
+        <id>https://www.youtube.com/watch?v=aBiMC8t-53k</id>
+        <link href="https://www.youtube.com/watch?v=aBiMC8t-53k"/>
+        <updated>2023-10-20T19:00:01.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App]]></title>
         <id>https://www.youtube.com/watch?v=H0vhkoXljq0</id>

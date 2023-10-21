@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-21T19:01:34.010Z</id>
+    <id>urn:2023-10-21T20:03:04.488Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-21T19:01:34.010Z</updated>
+    <updated>2023-10-21T20:03:04.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Altcoin Is Better Than Ethereum!?]]></title>
+        <id>https://www.youtube.com/watch?v=lsKwwg9oKr4</id>
+        <link href="https://www.youtube.com/watch?v=lsKwwg9oKr4"/>
+        <updated>2023-10-21T19:07:09.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This is a game changer for blockchain developers]]></title>
         <id>https://www.youtube.com/watch?v=aBiMC8t-53k</id>
@@ -541,15 +550,6 @@
         <id>https://www.youtube.com/watch?v=s9jLv_41AqQ</id>
         <link href="https://www.youtube.com/watch?v=s9jLv_41AqQ"/>
         <updated>2023-09-30T16:26:21.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVERYTHING WILL CHANGE IN JUST 17 DAYS (Time to Act is NOW)]]></title>
-        <id>https://www.youtube.com/watch?v=VBi4dxbNm1Y</id>
-        <link href="https://www.youtube.com/watch?v=VBi4dxbNm1Y"/>
-        <updated>2023-09-29T18:53:22.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

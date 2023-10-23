@@ -403,6 +403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vwh4iu9gOxA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vwh4iu9gOxA",
+          "publishedOn": "2023-10-23T14:00:39.000Z",
+          "wordCount": null,
+          "title": "TradingView Drawing Tools Tutorial (30 Minute Expert Guide)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QvMQuNZU3Wk",
           "author": null,
           "description": "",
@@ -540,16 +550,6 @@
           "publishedOn": "2023-10-03T14:00:00.000Z",
           "wordCount": null,
           "title": "CRYPTO: THIS NEVER HAPPENED BEFORE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v6tcWnyz5B8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v6tcWnyz5B8",
-          "publishedOn": "2023-10-02T14:00:39.000Z",
-          "wordCount": null,
-          "title": "BEST ALTCOINS OCTOBER MAKING MILLIONS (99% WILL MISS OUT)",
           "imageUrl": null
         }
       ]

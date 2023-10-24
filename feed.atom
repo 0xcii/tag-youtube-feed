@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T12:09:41.990Z</id>
+    <id>urn:2023-10-24T13:08:09.199Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-24T12:09:41.990Z</updated>
+    <updated>2023-10-24T13:08:09.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50 (2023) – Full Computer Science University Course]]></title>
+        <id>https://www.youtube.com/watch?v=LfaMVlDaQ24</id>
+        <link href="https://www.youtube.com/watch?v=LfaMVlDaQ24"/>
+        <updated>2023-10-24T12:43:08.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to make a profitable crypto arbitrage bot with flash loans]]></title>
         <id>https://www.youtube.com/watch?v=m0VBsAOMsw8</id>
@@ -570,15 +579,6 @@
         <updated>2023-09-30T16:26:21.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro Web Framework Crash Course]]></title>
-        <id>https://www.youtube.com/watch?v=e-hTm5VmofI</id>
-        <link href="https://www.youtube.com/watch?v=e-hTm5VmofI"/>
-        <updated>2023-09-29T14:10:43.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

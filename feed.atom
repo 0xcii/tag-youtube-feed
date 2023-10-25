@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-25T19:02:02.730Z</id>
+    <id>urn:2023-10-25T20:03:44.440Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-25T19:02:02.730Z</updated>
+    <updated>2023-10-25T20:03:44.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I’m Going “ALL IN” For 2 Altcoins!! They Could Easily 10x SOON!!]]></title>
+        <id>https://www.youtube.com/watch?v=_D5ub3SW2wk</id>
+        <link href="https://www.youtube.com/watch?v=_D5ub3SW2wk"/>
+        <updated>2023-10-25T19:25:12.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive crypto trend everyone forgot about IS BACK!]]></title>
+        <id>https://www.youtube.com/watch?v=Km29o7X1AXM</id>
+        <link href="https://www.youtube.com/watch?v=Km29o7X1AXM"/>
+        <updated>2023-10-25T19:00:18.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKX Futures Trading Tutorial (OKX Trading Step-By-Step)]]></title>
         <id>https://www.youtube.com/watch?v=wiwXFohac1w</id>
@@ -570,15 +588,6 @@
         <updated>2023-10-02T15:00:36.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Will MOON🚀 🌙 Citibank + Chainlink = ❤️❤️❤️ #chainlink  #crypto #chico]]></title>
-        <id>https://www.youtube.com/watch?v=s9jLv_41AqQ</id>
-        <link href="https://www.youtube.com/watch?v=s9jLv_41AqQ"/>
-        <updated>2023-09-30T16:26:21.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

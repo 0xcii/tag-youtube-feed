@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-25T23:03:07.833Z</id>
+    <id>urn:2023-10-26T00:26:09.076Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-25T23:03:07.833Z</updated>
+    <updated>2023-10-26T00:26:09.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Altcoin Is STEALING Developers From Ethereum!! #crypto #ethereum #polkadot]]></title>
+        <id>https://www.youtube.com/watch?v=6ZjLCPOVmpo</id>
+        <link href="https://www.youtube.com/watch?v=6ZjLCPOVmpo"/>
+        <updated>2023-10-25T23:35:26.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’m Going “ALL IN” For 2 Altcoins!! They Could Easily 10x SOON!!]]></title>
         <id>https://www.youtube.com/watch?v=_D5ub3SW2wk</id>
@@ -552,15 +561,6 @@
         <updated>2023-10-03T06:00:08.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Its NOT just Blackrock...  #bitcoin #cryptocurrency #crypto]]></title>
-        <id>https://www.youtube.com/watch?v=KH0REFCa_Lw</id>
-        <link href="https://www.youtube.com/watch?v=KH0REFCa_Lw"/>
-        <updated>2023-10-03T04:32:00.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

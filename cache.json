@@ -413,6 +413,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1vCSm4j6f9M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1vCSm4j6f9M",
+          "publishedOn": "2023-10-26T14:00:02.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: BULL MARKET BREAK",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wiwXFohac1w",
           "author": null,
           "description": "",
@@ -550,16 +560,6 @@
           "publishedOn": "2023-10-06T14:00:31.000Z",
           "wordCount": null,
           "title": "Bybit Hedge Mode Tutorial (How to Use Hedge Mode)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iQxHkJ5w57c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iQxHkJ5w57c",
-          "publishedOn": "2023-10-05T14:00:26.000Z",
-          "wordCount": null,
-          "title": "BEST TradingView Buy/Sell Indicators FREE",
           "imageUrl": null
         }
       ]

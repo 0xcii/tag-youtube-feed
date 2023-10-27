@@ -607,6 +607,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1qScC9f-Tr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1qScC9f-Tr4",
+          "publishedOn": "2023-10-27T20:00:01.000Z",
+          "wordCount": null,
+          "title": "Why everyone's quitting crypto right now",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Km29o7X1AXM",
           "author": null,
           "description": "",

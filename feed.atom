@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-27T18:06:54.687Z</id>
+    <id>urn:2023-10-27T19:01:56.360Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-27T18:06:54.687Z</updated>
+    <updated>2023-10-27T19:01:56.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Will Be the *FINAL* Bullrun To Become A Millionaire! Here’s Why!!]]></title>
+        <id>https://www.youtube.com/watch?v=_sVU0bljU0Q</id>
+        <link href="https://www.youtube.com/watch?v=_sVU0bljU0Q"/>
+        <updated>2023-10-27T18:54:13.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The BEST Crypto Trading Strategy To 10x Your Portfolio]]></title>
         <id>https://www.youtube.com/watch?v=528msbHhZZk</id>
@@ -489,15 +498,6 @@
         <updated>2023-10-06T19:00:31.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These (2) Cryptos Are About To EXPLODE!!! (99% Do Not See This)]]></title>
-        <id>https://www.youtube.com/watch?v=O8SPPUyu9Io</id>
-        <link href="https://www.youtube.com/watch?v=O8SPPUyu9Io"/>
-        <updated>2023-10-06T17:39:30.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

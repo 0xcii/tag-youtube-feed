@@ -413,6 +413,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MxjjBUUBO1Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MxjjBUUBO1Y",
+          "publishedOn": "2023-10-30T14:00:14.000Z",
+          "wordCount": null,
+          "title": "Apex DeX Tutorial (How to TRADE on Apex Pro Exchange)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=528msbHhZZk",
           "author": null,
           "description": "",
@@ -550,16 +560,6 @@
           "publishedOn": "2023-10-10T14:00:35.000Z",
           "wordCount": null,
           "title": "CRYPTO: DON'T GET TRAPPED NOW (Ark Report)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sE_HRdlXxiI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sE_HRdlXxiI",
-          "publishedOn": "2023-10-09T14:00:39.000Z",
-          "wordCount": null,
-          "title": "Learn Scalping Trading in 13 Minutes (Crypto Scalping Example)",
           "imageUrl": null
         }
       ]

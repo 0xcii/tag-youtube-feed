@@ -256,6 +256,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=60JxI1M0HMY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=60JxI1M0HMY",
+          "publishedOn": "2023-10-31T19:57:10.000Z",
+          "wordCount": null,
+          "title": "Chainlink to $200 This Bull Run!!? Here’s Exactly Why It Will Happen!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7ChFVq9TxCg",
           "author": null,
           "description": "",
@@ -393,16 +403,6 @@
           "publishedOn": "2023-10-10T18:49:38.000Z",
           "wordCount": null,
           "title": "Satoshi Nakamoto’s True Identity UNMASKED!! You Won’t Believe Who Created BITCOIN!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nJG7ZxbsfQw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nJG7ZxbsfQw",
-          "publishedOn": "2023-10-09T20:05:50.000Z",
-          "wordCount": null,
-          "title": "They can't ALL be winners... but some will 🚀🚀!! #crypto  #chainlink #synthetix",
           "imageUrl": null
         }
       ]
@@ -576,7 +576,7 @@
           "link": "https://www.youtube.com/watch?v=4QHflfHMga0",
           "publishedOn": "2023-10-31T17:56:22.000Z",
           "wordCount": null,
-          "title": "What Is A Crypto Bridge? Blockchain Bridges Explained",
+          "title": "The Impossible Dilemma of Blockchain Bridges",
           "imageUrl": null
         },
         {

@@ -570,6 +570,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4QHflfHMga0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4QHflfHMga0",
+          "publishedOn": "2023-10-31T17:56:22.000Z",
+          "wordCount": null,
+          "title": "The Impossible Dilemma of Blockchain Bridges",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wHFO8D2tU4o",
           "author": null,
           "description": "",

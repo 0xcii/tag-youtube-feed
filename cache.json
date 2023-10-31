@@ -413,6 +413,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LEHS0qQCkis",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LEHS0qQCkis",
+          "publishedOn": "2023-10-31T14:00:14.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: YOU WON'T BELIEVE THIS",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MxjjBUUBO1Y",
           "author": null,
           "description": "",
@@ -550,16 +560,6 @@
           "publishedOn": "2023-10-11T14:00:06.000Z",
           "wordCount": null,
           "title": "Binance Copy Trading Tutorial (How to Copy Trade)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nWtL4v17oek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nWtL4v17oek",
-          "publishedOn": "2023-10-10T14:00:35.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: DON'T GET TRAPPED NOW (Ark Report)",
           "imageUrl": null
         }
       ]

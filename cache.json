@@ -403,6 +403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2JSOE16Q3xU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2JSOE16Q3xU",
+          "publishedOn": "2023-11-01T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Best Altcoins November 2023 (BIGGEST BULL RUN OPPORTUNITY)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LEHS0qQCkis",
           "author": null,
           "description": "",
@@ -541,16 +551,6 @@
           "wordCount": null,
           "title": "How to Buy Crypto on MetaMask (PayPal, Card, Bank)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6_C-P5DPaUk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6_C-P5DPaUk",
-          "publishedOn": "2023-10-11T14:00:06.000Z",
-          "wordCount": null,
-          "title": "Binance Copy Trading Tutorial (How to Copy Trade)",
-          "imageUrl": null
         }
       ]
     },
@@ -566,7 +566,7 @@
           "link": "https://www.youtube.com/watch?v=4QHflfHMga0",
           "publishedOn": "2023-10-31T17:56:22.000Z",
           "wordCount": null,
-          "title": "What Is A Crypto Bridge? Blockchain Bridges Explained",
+          "title": "The Impossible Dilemma of Blockchain Bridges",
           "imageUrl": null
         },
         {

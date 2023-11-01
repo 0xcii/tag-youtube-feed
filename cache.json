@@ -577,6 +577,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NXOtLVZ_kIc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NXOtLVZ_kIc",
+          "publishedOn": "2023-11-01T20:00:07.000Z",
+          "wordCount": null,
+          "title": "EVERYONE'S WRONG ABOUT CRYPTO!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hy0OhHfv9iE",
           "author": null,
           "description": "",

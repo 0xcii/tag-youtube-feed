@@ -393,6 +393,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h8cVZpfyR_k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h8cVZpfyR_k",
+          "publishedOn": "2023-11-02T14:00:24.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: GET READY NOW (WHAT COMES NEXT?)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2JSOE16Q3xU",
           "author": null,
           "description": "",
@@ -530,16 +540,6 @@
           "publishedOn": "2023-10-13T14:00:20.000Z",
           "wordCount": null,
           "title": "CRYPTO: THE FINAL COUNTDOWN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-qfgDisgX8o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-qfgDisgX8o",
-          "publishedOn": "2023-10-12T14:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Buy Crypto on MetaMask (PayPal, Card, Bank)",
           "imageUrl": null
         }
       ]

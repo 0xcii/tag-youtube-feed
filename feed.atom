@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-02T13:07:17.501Z</id>
+    <id>urn:2023-11-02T14:03:04.051Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-02T13:07:17.501Z</updated>
+    <updated>2023-11-02T14:03:04.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: GET READY NOW (WHAT COMES NEXT?)]]></title>
+        <id>https://www.youtube.com/watch?v=h8cVZpfyR_k</id>
+        <link href="https://www.youtube.com/watch?v=h8cVZpfyR_k"/>
+        <updated>2023-11-02T14:00:24.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVERYONE'S WRONG ABOUT CRYPTO!!!]]></title>
         <id>https://www.youtube.com/watch?v=NXOtLVZ_kIc</id>
@@ -444,15 +453,6 @@
         <updated>2023-10-12T17:08:58.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Buy Crypto on MetaMask (PayPal, Card, Bank)]]></title>
-        <id>https://www.youtube.com/watch?v=-qfgDisgX8o</id>
-        <link href="https://www.youtube.com/watch?v=-qfgDisgX8o"/>
-        <updated>2023-10-12T14:00:00.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

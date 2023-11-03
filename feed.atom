@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-03T18:07:13.383Z</id>
+    <id>urn:2023-11-03T20:06:25.572Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-03T18:07:13.383Z</updated>
+    <updated>2023-11-03T20:06:25.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I Uncovered The Cryptos Billionaires Are Buying!! (Finding 100x Cryptos)]]></title>
+        <id>https://www.youtube.com/watch?v=gBfpf0OENJU</id>
+        <link href="https://www.youtube.com/watch?v=gBfpf0OENJU"/>
+        <updated>2023-11-03T19:09:32.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why people are leaving￼ Ethereum]]></title>
+        <id>https://www.youtube.com/watch?v=n2grW7Knt1Y</id>
+        <link href="https://www.youtube.com/watch?v=n2grW7Knt1Y"/>
+        <updated>2023-11-03T19:00:33.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An #Ethereum ETF Is Coming Alongside the #Bitcoin ETF!!!???]]></title>
+        <id>https://www.youtube.com/watch?v=fZPYvUuMups</id>
+        <link href="https://www.youtube.com/watch?v=fZPYvUuMups"/>
+        <updated>2023-11-03T18:36:30.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java Web App with Quarkus and JPAStreamer – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=KZnQ5R8Kd4I</id>
@@ -501,15 +528,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin Expert Adam Back Predicts $100,000 BTC by Bitcoin Halving 2024!!!]]></title>
-        <id>https://www.youtube.com/watch?v=eCpI4gvk_BE</id>
-        <link href="https://www.youtube.com/watch?v=eCpI4gvk_BE"/>
-        <updated>2023-10-11T18:42:53.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 7 Smart Contract Security Vulnerabilities]]></title>
         <id>https://www.youtube.com/watch?v=wHFO8D2tU4o</id>
         <link href="https://www.youtube.com/watch?v=wHFO8D2tU4o"/>
@@ -534,15 +552,6 @@
         <updated>2023-10-11T04:00:14.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okamoto?! NSA?!.. SATOSHI!!! #bitcoin  #crypto #creator]]></title>
-        <id>https://www.youtube.com/watch?v=iwjXm9POnjw</id>
-        <link href="https://www.youtube.com/watch?v=iwjXm9POnjw"/>
-        <updated>2023-10-11T03:13:12.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

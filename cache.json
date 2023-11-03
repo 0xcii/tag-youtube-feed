@@ -216,6 +216,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gBfpf0OENJU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gBfpf0OENJU",
+          "publishedOn": "2023-11-03T19:09:32.000Z",
+          "wordCount": null,
+          "title": "I Uncovered The Cryptos Billionaires Are Buying!! (Finding 100x Cryptos)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fZPYvUuMups",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fZPYvUuMups",
+          "publishedOn": "2023-11-03T18:36:30.000Z",
+          "wordCount": null,
+          "title": "An #Ethereum ETF Is Coming Alongside the #Bitcoin ETF!!!???",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=c6CJfaf00Rw",
           "author": null,
           "description": "",
@@ -343,26 +363,6 @@
           "publishedOn": "2023-10-12T17:08:58.000Z",
           "wordCount": null,
           "title": "Bitcoin Halving is 86% Complete! $100k BTC when 100% in 2024!? #shorts #bitcoin #btchalving",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eCpI4gvk_BE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eCpI4gvk_BE",
-          "publishedOn": "2023-10-11T18:42:53.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Expert Adam Back Predicts $100,000 BTC by Bitcoin Halving 2024!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iwjXm9POnjw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iwjXm9POnjw",
-          "publishedOn": "2023-10-11T03:13:12.000Z",
-          "wordCount": null,
-          "title": "Okamoto?! NSA?!.. SATOSHI!!! #bitcoin  #crypto #creator",
           "imageUrl": null
         }
       ]
@@ -556,6 +556,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=n2grW7Knt1Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n2grW7Knt1Y",
+          "publishedOn": "2023-11-03T19:00:33.000Z",
+          "wordCount": null,
+          "title": "Why people are leaving￼ Ethereum",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NXOtLVZ_kIc",
           "author": null,

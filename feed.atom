@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-03T14:03:26.704Z</id>
+    <id>urn:2023-11-03T15:04:55.872Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-03T14:03:26.704Z</updated>
+    <updated>2023-11-03T15:04:55.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Java Web App with Quakus and JPAStreamer – Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=KZnQ5R8Kd4I</id>
+        <link href="https://www.youtube.com/watch?v=KZnQ5R8Kd4I"/>
+        <updated>2023-11-03T14:26:34.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Spot Trading Bots Tutorial (DCA, Algo, Auto-Invest etc)]]></title>
+        <id>https://www.youtube.com/watch?v=oL9Dka484-Y</id>
+        <link href="https://www.youtube.com/watch?v=oL9Dka484-Y"/>
+        <updated>2023-11-03T14:00:39.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Development with HTML & CSS – Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=dX8396ZmSPk</id>
@@ -438,15 +456,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRYPTO: THE FINAL COUNTDOWN]]></title>
-        <id>https://www.youtube.com/watch?v=WQDJl4D5KLA</id>
-        <link href="https://www.youtube.com/watch?v=WQDJl4D5KLA"/>
-        <updated>2023-10-13T14:00:20.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PostgreSQL Tutorial for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=SpfIwlAYaKk</id>
         <link href="https://www.youtube.com/watch?v=SpfIwlAYaKk"/>
@@ -534,15 +543,6 @@
         <updated>2023-10-11T03:13:12.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=ScKCy2udln8</id>
-        <link href="https://www.youtube.com/watch?v=ScKCy2udln8"/>
-        <updated>2023-10-10T13:40:05.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

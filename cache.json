@@ -363,6 +363,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IEUU-_8JEQA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IEUU-_8JEQA",
+          "publishedOn": "2023-11-06T14:00:19.000Z",
+          "wordCount": null,
+          "title": "Ledger MetaMask Tutorial (How to Set-Up, Connect & Tips)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oL9Dka484-Y",
           "author": null,
           "description": "",
@@ -501,16 +511,6 @@
           "wordCount": null,
           "title": "CRYPTO: THE TIDE IS TURNING",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f2BLQnZDEjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f2BLQnZDEjI",
-          "publishedOn": "2023-10-16T14:00:34.000Z",
-          "wordCount": null,
-          "title": "Cardano ADA Alert!! Is Cardano Still Worth It in 2023/4?",
-          "imageUrl": null
         }
       ]
     },
@@ -553,7 +553,7 @@
           "link": "https://www.youtube.com/watch?v=n2grW7Knt1Y",
           "publishedOn": "2023-11-03T19:00:33.000Z",
           "wordCount": null,
-          "title": "Why people are leaving￼ Ethereum",
+          "title": "Why people are leaving Ethereum",
           "imageUrl": null
         },
         {

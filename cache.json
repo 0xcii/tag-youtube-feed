@@ -206,6 +206,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6cgWtKj_ob0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6cgWtKj_ob0",
+          "publishedOn": "2023-11-07T20:03:16.000Z",
+          "wordCount": null,
+          "title": "BREAKING!! ELON MUSK IS ABOUT TO CHANGE CRYPTO FOREVER!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gBfpf0OENJU",
           "author": null,
           "description": "",
@@ -343,16 +353,6 @@
           "publishedOn": "2023-10-14T19:20:48.000Z",
           "wordCount": null,
           "title": "The Next Major “Crypto Narrative” Arrives!! Privacy Crypto Will EXPLODE!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iJPrjeqaIHM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iJPrjeqaIHM",
-          "publishedOn": "2023-10-12T17:08:58.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Halving is 86% Complete! $100k BTC when 100% in 2024!? #shorts #bitcoin #btchalving",
           "imageUrl": null
         }
       ]

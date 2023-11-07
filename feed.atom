@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-07T15:03:47.720Z</id>
+    <id>urn:2023-11-07T16:07:02.330Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-07T15:03:47.720Z</updated>
+    <updated>2023-11-07T16:07:02.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create a Store with WordPress and AI Tutorial – Real AI-Generated Products]]></title>
+        <id>https://www.youtube.com/watch?v=16BWeTg7mA0</id>
+        <link href="https://www.youtube.com/watch?v=16BWeTg7mA0"/>
+        <updated>2023-11-07T15:32:16.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: TIME RUNNING OUT]]></title>
         <id>https://www.youtube.com/watch?v=kMw5fgHJppo</id>
@@ -516,15 +525,6 @@
         <updated>2023-10-12T17:08:58.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun Tutorial – JavaScript Runtime (Node.js Alternative) [Full Course]]]></title>
-        <id>https://www.youtube.com/watch?v=eTB0UCDnMQo</id>
-        <link href="https://www.youtube.com/watch?v=eTB0UCDnMQo"/>
-        <updated>2023-10-12T13:51:09.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

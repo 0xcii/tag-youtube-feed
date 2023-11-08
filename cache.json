@@ -206,6 +206,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DzdnD4bevUU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DzdnD4bevUU",
+          "publishedOn": "2023-11-08T21:37:07.000Z",
+          "wordCount": null,
+          "title": "The Next Bull Run Isn't Coming...It's Already HERE!! #crypto #bullish #bitcoin",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6cgWtKj_ob0",
           "author": null,
           "description": "",
@@ -343,16 +353,6 @@
           "publishedOn": "2023-10-18T19:13:24.000Z",
           "wordCount": null,
           "title": "BITCOIN IS ABOUT TO…!!??",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZgAxou6L_e8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZgAxou6L_e8",
-          "publishedOn": "2023-10-14T19:20:48.000Z",
-          "wordCount": null,
-          "title": "The Next Major “Crypto Narrative” Arrives!! Privacy Crypto Will EXPLODE!!!",
           "imageUrl": null
         }
       ]

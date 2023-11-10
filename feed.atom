@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-10T14:03:08.042Z</id>
+    <id>urn:2023-11-10T15:03:40.457Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-10T14:03:08.042Z</updated>
+    <updated>2023-11-10T15:03:40.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure Solutions Architect Expert Certification Course (AZ 305) – Pass the Exam!]]></title>
+        <id>https://www.youtube.com/watch?v=i6NzKvGUsBs</id>
+        <link href="https://www.youtube.com/watch?v=i6NzKvGUsBs"/>
+        <updated>2023-11-10T15:02:11.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bybit Trading Bots Tutorial (DCA, Grids, Martingale, TWAP & More)]]></title>
         <id>https://www.youtube.com/watch?v=qw17KVE2waM</id>
@@ -516,15 +525,6 @@
         <updated>2023-10-16T19:00:00.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godot Tutorial for Unity Developers (and other beginners)]]></title>
-        <id>https://www.youtube.com/watch?v=1EFKe24X8vI</id>
-        <link href="https://www.youtube.com/watch?v=1EFKe24X8vI"/>
-        <updated>2023-10-16T16:45:00.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

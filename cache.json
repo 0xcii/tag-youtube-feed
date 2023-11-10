@@ -196,6 +196,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SKbpJyidM0Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SKbpJyidM0Q",
+          "publishedOn": "2023-11-10T19:56:05.000Z",
+          "wordCount": null,
+          "title": "Low Cap Altcoins Will EXPLODE!!! These Coins Will Easily 10x SOON!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mSYE9nf78e0",
           "author": null,
           "description": "",
@@ -333,16 +343,6 @@
           "publishedOn": "2023-10-21T19:07:09.000Z",
           "wordCount": null,
           "title": "This Altcoin Is Better Than Ethereum!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sIQ7qlWPPgg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sIQ7qlWPPgg",
-          "publishedOn": "2023-10-19T23:10:20.000Z",
-          "wordCount": null,
-          "title": "The BULLs Are Coming…*THIS* Proves It!! #cryptocurrency #crypto #investing #digitalcurrency",
           "imageUrl": null
         }
       ]
@@ -526,6 +526,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-56i0YLDT70",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-56i0YLDT70",
+          "publishedOn": "2023-11-10T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Massive Solana Explosion - what you must know",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XMRiF6FE78c",
           "author": null,

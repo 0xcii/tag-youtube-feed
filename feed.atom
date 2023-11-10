@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-10T20:04:32.406Z</id>
+    <id>urn:2023-11-10T21:02:21.711Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-10T20:04:32.406Z</updated>
+    <updated>2023-11-10T21:02:21.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Massive Solana Explosion - what you must know]]></title>
+        <id>https://www.youtube.com/watch?v=-56i0YLDT70</id>
+        <link href="https://www.youtube.com/watch?v=-56i0YLDT70"/>
+        <updated>2023-11-10T20:00:00.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low Cap Altcoins Will EXPLODE!!! These Coins Will Easily 10x SOON!!!]]></title>
+        <id>https://www.youtube.com/watch?v=SKbpJyidM0Q</id>
+        <link href="https://www.youtube.com/watch?v=SKbpJyidM0Q"/>
+        <updated>2023-11-10T19:56:05.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Solutions Architect Expert Certification Course (AZ 305) – Pass the Exam!]]></title>
         <id>https://www.youtube.com/watch?v=i6NzKvGUsBs</id>
@@ -480,15 +498,6 @@
         <updated>2023-10-20T15:31:54.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The BULLs Are Coming…*THIS* Proves It!! #cryptocurrency #crypto #investing #digitalcurrency]]></title>
-        <id>https://www.youtube.com/watch?v=sIQ7qlWPPgg</id>
-        <link href="https://www.youtube.com/watch?v=sIQ7qlWPPgg"/>
-        <updated>2023-10-19T23:10:20.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

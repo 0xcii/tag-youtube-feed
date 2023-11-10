@@ -353,6 +353,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qw17KVE2waM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qw17KVE2waM",
+          "publishedOn": "2023-11-10T14:00:40.000Z",
+          "wordCount": null,
+          "title": "Bybit Trading Bots Tutorial (DCA, Grids, Martingale, TWAP & More)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zSTjiV30T9A",
           "author": null,
           "description": "",
@@ -490,16 +500,6 @@
           "publishedOn": "2023-10-23T14:00:39.000Z",
           "wordCount": null,
           "title": "TradingView Drawing Tools Tutorial (30 Minute Expert Guide)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QvMQuNZU3Wk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QvMQuNZU3Wk",
-          "publishedOn": "2023-10-20T14:00:16.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: IT'S HAPPENING (IMPORTANT)",
           "imageUrl": null
         }
       ]

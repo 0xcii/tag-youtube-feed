@@ -343,6 +343,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PNlOeHduduc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PNlOeHduduc",
+          "publishedOn": "2023-11-13T14:00:20.000Z",
+          "wordCount": null,
+          "title": "BEST Fibonacci Trading Strategy (EASY Tutorial)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qw17KVE2waM",
           "author": null,
           "description": "",
@@ -480,16 +490,6 @@
           "publishedOn": "2023-10-24T14:00:42.000Z",
           "wordCount": null,
           "title": "CRYPTO: HERE WE GO!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vwh4iu9gOxA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vwh4iu9gOxA",
-          "publishedOn": "2023-10-23T14:00:39.000Z",
-          "wordCount": null,
-          "title": "TradingView Drawing Tools Tutorial (30 Minute Expert Guide)",
           "imageUrl": null
         }
       ]

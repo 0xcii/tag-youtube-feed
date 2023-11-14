@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-14T14:03:08.987Z</id>
+    <id>urn:2023-11-14T15:04:46.538Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-14T14:03:08.987Z</updated>
+    <updated>2023-11-14T15:04:46.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: YOU WON"T BELIEVE IT!]]></title>
+        <id>https://www.youtube.com/watch?v=4EtkULw1mdg</id>
+        <link href="https://www.youtube.com/watch?v=4EtkULw1mdg"/>
+        <updated>2023-11-14T14:00:07.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴END OF THE CRYPTO BEAR MARKET]]></title>
         <id>https://www.youtube.com/watch?v=E60p8-xuHZQ</id>
@@ -471,15 +480,6 @@
         <updated>2023-10-25T12:42:57.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: HERE WE GO!!!]]></title>
-        <id>https://www.youtube.com/watch?v=ymJVB7S6hRI</id>
-        <link href="https://www.youtube.com/watch?v=ymJVB7S6hRI"/>
-        <updated>2023-10-24T14:00:42.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

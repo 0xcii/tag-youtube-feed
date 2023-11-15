@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LHbtSrkTsIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LHbtSrkTsIE",
+          "publishedOn": "2023-11-15T14:19:29.000Z",
+          "wordCount": null,
+          "title": "PaLM 2 API Course – Build Generative AI Apps",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kZdFRXeuCuY",
           "author": null,
           "description": "",
@@ -170,16 +180,6 @@
           "publishedOn": "2023-10-20T15:31:54.000Z",
           "wordCount": null,
           "title": "Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9He4UBLyk8Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9He4UBLyk8Y",
-          "publishedOn": "2023-10-19T14:18:42.000Z",
-          "wordCount": null,
-          "title": "Front End Developer Roadmap 2024",
           "imageUrl": null
         }
       ]
@@ -353,6 +353,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tvebyU1OXNk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tvebyU1OXNk",
+          "publishedOn": "2023-11-15T14:00:40.000Z",
+          "wordCount": null,
+          "title": "How to Swap Crypto in Trust Wallet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4EtkULw1mdg",
           "author": null,
           "description": "",
@@ -490,16 +500,6 @@
           "publishedOn": "2023-10-26T14:00:02.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: BULL MARKET BREAK",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wiwXFohac1w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wiwXFohac1w",
-          "publishedOn": "2023-10-25T14:00:44.000Z",
-          "wordCount": null,
-          "title": "OKX Futures Trading Tutorial (OKX Trading Step-By-Step)",
           "imageUrl": null
         }
       ]

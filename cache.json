@@ -353,6 +353,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=X0YzZnBNZrc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X0YzZnBNZrc",
+          "publishedOn": "2023-11-17T14:00:29.000Z",
+          "wordCount": null,
+          "title": "How to Trade Crypto on Binance (Professional Guide)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=57Av0dHkMFY",
           "author": null,
           "description": "",
@@ -490,16 +500,6 @@
           "publishedOn": "2023-10-30T14:00:14.000Z",
           "wordCount": null,
           "title": "Apex DeX Tutorial (How to TRADE on Apex Pro Exchange)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=528msbHhZZk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=528msbHhZZk",
-          "publishedOn": "2023-10-27T14:00:03.000Z",
-          "wordCount": null,
-          "title": "The BEST Crypto Trading Strategy To 10x Your Portfolio",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-17T14:03:21.760Z</id>
+    <id>urn:2023-11-17T15:02:13.453Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-17T14:03:21.760Z</updated>
+    <updated>2023-11-17T15:02:13.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Trade Crypto on Binance (Professional Guide)]]></title>
+        <id>https://www.youtube.com/watch?v=X0YzZnBNZrc</id>
+        <link href="https://www.youtube.com/watch?v=X0YzZnBNZrc"/>
+        <updated>2023-11-17T14:00:29.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Technical Interviews – Full Course]]></title>
         <id>https://www.youtube.com/watch?v=-LVmKNvflnY</id>
@@ -453,15 +462,6 @@
         <updated>2023-10-27T18:54:13.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The BEST Crypto Trading Strategy To 10x Your Portfolio]]></title>
-        <id>https://www.youtube.com/watch?v=528msbHhZZk</id>
-        <link href="https://www.youtube.com/watch?v=528msbHhZZk"/>
-        <updated>2023-10-27T14:00:03.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-18T02:18:08.744Z</id>
+    <id>urn:2023-11-18T03:05:23.242Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-18T02:18:08.744Z</updated>
+    <updated>2023-11-18T03:05:23.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 How To Become A Solidity Developer + BLACK FRIDAY]]></title>
+        <id>https://www.youtube.com/watch?v=Jzp1iJhKpjY</id>
+        <link href="https://www.youtube.com/watch?v=Jzp1iJhKpjY"/>
+        <updated>2023-11-18T02:26:24.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Historic Blackrock ETF will be MASSIVE for Ethereum!]]></title>
         <id>https://www.youtube.com/watch?v=MLPcHmMAwTQ</id>
@@ -24,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Bull Market Is (almost) Back...]]></title>
+        <title type="html"><![CDATA[11 Reasons Why The Bull market Is (almost) Back]]></title>
         <id>https://www.youtube.com/watch?v=62N2Nf5r2bo</id>
         <link href="https://www.youtube.com/watch?v=62N2Nf5r2bo"/>
         <updated>2023-11-17T17:05:12.000Z</updated>

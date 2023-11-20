@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-20T17:02:15.401Z</id>
+    <id>urn:2023-11-20T18:07:27.396Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-20T17:02:15.401Z</updated>
+    <updated>2023-11-20T18:07:27.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,15 +48,6 @@
         <updated>2023-11-18T19:26:54.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 How To Become A Solidity Developer + BLACK FRIDAY]]></title>
-        <id>https://www.youtube.com/watch?v=Jzp1iJhKpjY</id>
-        <link href="https://www.youtube.com/watch?v=Jzp1iJhKpjY"/>
-        <updated>2023-11-18T02:26:24.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

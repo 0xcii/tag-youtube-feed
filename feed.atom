@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-21T14:04:02.355Z</id>
+    <id>urn:2023-11-21T15:02:22.068Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-21T14:04:02.355Z</updated>
+    <updated>2023-11-21T15:02:22.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Go Programming Tutorial – 3 Beginner Projects]]></title>
+        <id>https://www.youtube.com/watch?v=k_V5VvYSlS4</id>
+        <link href="https://www.youtube.com/watch?v=k_V5VvYSlS4"/>
+        <updated>2023-11-21T14:43:38.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: IT'S ALL HERE!!]]></title>
         <id>https://www.youtube.com/watch?v=1KZEsdNoH_w</id>
@@ -568,15 +577,6 @@
         <id>https://www.youtube.com/watch?v=uWkcxasFWzQ</id>
         <link href="https://www.youtube.com/watch?v=uWkcxasFWzQ"/>
         <updated>2023-10-25T12:42:57.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvard CS50 (2023) – Full Computer Science University Course]]></title>
-        <id>https://www.youtube.com/watch?v=LfaMVlDaQ24</id>
-        <link href="https://www.youtube.com/watch?v=LfaMVlDaQ24"/>
-        <updated>2023-10-24T12:43:08.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

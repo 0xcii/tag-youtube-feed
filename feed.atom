@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-23T13:08:26.869Z</id>
+    <id>urn:2023-11-23T14:03:11.188Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-23T13:08:26.869Z</updated>
+    <updated>2023-11-23T14:03:11.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit Dual Asset Tutorial (Dual Asset Investment Explained)]]></title>
+        <id>https://www.youtube.com/watch?v=fSLQi0MyVUc</id>
+        <link href="https://www.youtube.com/watch?v=fSLQi0MyVUc"/>
+        <updated>2023-11-23T14:00:27.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blackrock LOVES These Altcoins!!! CEO Larry Fink Is Going ALL IN!!!!!]]></title>
         <id>https://www.youtube.com/watch?v=_GoQl5r2vdI</id>
@@ -480,15 +489,6 @@
         <updated>2023-11-02T14:45:47.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: GET READY NOW (WHAT COMES NEXT?)]]></title>
-        <id>https://www.youtube.com/watch?v=h8cVZpfyR_k</id>
-        <link href="https://www.youtube.com/watch?v=h8cVZpfyR_k"/>
-        <updated>2023-11-02T14:00:24.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -24,16 +24,6 @@
           "wordCount": null,
           "title": "玩Genesis Universe，轻松赚钱：你的区块链游戏指南！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kaGg_8CDQIs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kaGg_8CDQIs",
-          "publishedOn": "2023-10-26T04:00:21.000Z",
-          "wordCount": null,
-          "title": "我钱包居然一直高风险？ 快用这款Web3杀毒软件来看看！  De.Fi 2.0 全新上线， 历时3年打造去中心化一站式服务平台！",
-          "imageUrl": null
         }
       ]
     },
@@ -576,6 +566,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vUAKnssy15Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vUAKnssy15Y",
+          "publishedOn": "2023-11-24T15:15:03.000Z",
+          "wordCount": null,
+          "title": "Urgent message for all Blockchain Developers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2gm_LJuagGA",
           "author": null,

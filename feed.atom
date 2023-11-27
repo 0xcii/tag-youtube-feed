@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-27T13:09:27.655Z</id>
+    <id>urn:2023-11-27T14:04:09.331Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-27T13:09:27.655Z</updated>
+    <updated>2023-11-27T14:04:09.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What are Support and Resistance? (Trading Strategy Explained)]]></title>
+        <id>https://www.youtube.com/watch?v=TVMOwDSuSKg</id>
+        <link href="https://www.youtube.com/watch?v=TVMOwDSuSKg"/>
+        <updated>2023-11-27T14:00:17.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urgent message for all Blockchain Developers]]></title>
         <id>https://www.youtube.com/watch?v=vUAKnssy15Y</id>
@@ -444,15 +453,6 @@
         <updated>2023-11-06T16:02:21.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger MetaMask Tutorial (How to Set-Up, Connect & Tips)]]></title>
-        <id>https://www.youtube.com/watch?v=IEUU-_8JEQA</id>
-        <link href="https://www.youtube.com/watch?v=IEUU-_8JEQA"/>
-        <updated>2023-11-06T14:00:19.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -343,6 +343,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TVMOwDSuSKg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TVMOwDSuSKg",
+          "publishedOn": "2023-11-27T14:00:17.000Z",
+          "wordCount": null,
+          "title": "What are Support and Resistance? (Trading Strategy Explained)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4E8cPVsQths",
           "author": null,
           "description": "",
@@ -480,16 +490,6 @@
           "publishedOn": "2023-11-07T14:00:28.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: TIME RUNNING OUT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IEUU-_8JEQA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IEUU-_8JEQA",
-          "publishedOn": "2023-11-06T14:00:19.000Z",
-          "wordCount": null,
-          "title": "Ledger MetaMask Tutorial (How to Set-Up, Connect & Tips)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-29T13:09:07.545Z</id>
+    <id>urn:2023-11-29T14:03:46.133Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-29T13:09:07.545Z</updated>
+    <updated>2023-11-29T14:03:46.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OKX Trading Bots Tutorial (Grids, TWAP, Arbitrage, DCA & More)]]></title>
+        <id>https://www.youtube.com/watch?v=4lgNVsYbjOE</id>
+        <link href="https://www.youtube.com/watch?v=4lgNVsYbjOE"/>
+        <updated>2023-11-29T14:00:05.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Advanced Music Production with FL Studio – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=I_ShMaNw0Rc</id>
@@ -426,15 +435,6 @@
         <updated>2023-11-08T20:00:23.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance vs OKX: Best Crypto Exchange?]]></title>
-        <id>https://www.youtube.com/watch?v=jhMSu_qhfQk</id>
-        <link href="https://www.youtube.com/watch?v=jhMSu_qhfQk"/>
-        <updated>2023-11-08T14:00:38.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

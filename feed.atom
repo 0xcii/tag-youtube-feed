@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T14:03:17.218Z</id>
+    <id>urn:2023-11-30T15:03:26.585Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-30T14:03:17.218Z</updated>
+    <updated>2023-11-30T15:03:26.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Transfer Crypto from Coinbase to Binance]]></title>
+        <id>https://www.youtube.com/watch?v=ZKvJbBRhSe4</id>
+        <link href="https://www.youtube.com/watch?v=ZKvJbBRhSe4"/>
+        <updated>2023-11-30T14:00:32.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This “Crypto Narrative” Could Make You A Multi-Millionaire This Bullrun!]]></title>
         <id>https://www.youtube.com/watch?v=Cb4UFW4sKlw</id>
@@ -426,15 +435,6 @@
         <updated>2023-11-09T20:30:03.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: IT'S HAPPENING NOW!]]></title>
-        <id>https://www.youtube.com/watch?v=zSTjiV30T9A</id>
-        <link href="https://www.youtube.com/watch?v=zSTjiV30T9A"/>
-        <updated>2023-11-09T14:00:45.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T21:03:11.291Z</id>
+    <id>urn:2023-11-30T22:02:54.280Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-30T21:03:11.291Z</updated>
+    <updated>2023-11-30T22:02:54.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Centralized Exchanges Are Done For. DEXs Are the Future... #crypto #dex #altcoin]]></title>
+        <id>https://www.youtube.com/watch?v=94gMhsrl6EA</id>
+        <link href="https://www.youtube.com/watch?v=94gMhsrl6EA"/>
+        <updated>2023-11-30T21:44:16.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Full Stack Mobile AI Apps with React Native & Expo - OpenAI, Anthropic, Cohere, & Fal.ai]]></title>
         <id>https://www.youtube.com/watch?v=zf3NnTU5pr4</id>

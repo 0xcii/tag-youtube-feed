@@ -188,7 +188,18 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zf3NnTU5pr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zf3NnTU5pr4",
+          "publishedOn": "2023-11-30T17:14:08.000Z",
+          "wordCount": null,
+          "title": "Building Full Stack Mobile AI Apps with React Native & Expo - OpenAI, Anthropic, Cohere, & Fal.ai",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Chico Crypto",

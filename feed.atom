@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T17:03:31.456Z</id>
+    <id>urn:2023-11-30T18:07:37.483Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-30T17:03:31.456Z</updated>
+    <updated>2023-11-30T18:07:37.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Full Stack Mobile AI Apps with React Native & Expo - OpenAI, Anthropic, Cohere, & Fal.ai]]></title>
+        <id>https://www.youtube.com/watch?v=zf3NnTU5pr4</id>
+        <link href="https://www.youtube.com/watch?v=zf3NnTU5pr4"/>
+        <updated>2023-11-30T17:14:08.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and Deploy an Instagram Clone with React and Firebase – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=RMScMwY2B6Q</id>

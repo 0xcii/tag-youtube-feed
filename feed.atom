@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-01T20:06:13.947Z</id>
+    <id>urn:2023-12-01T21:02:48.788Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-01T20:06:13.947Z</updated>
+    <updated>2023-12-01T21:02:48.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[No One Is Talking About These Altcoins That Could 10x-100x Easily!!!]]></title>
+        <id>https://www.youtube.com/watch?v=10n0piMj7SU</id>
+        <link href="https://www.youtube.com/watch?v=10n0piMj7SU"/>
+        <updated>2023-12-01T20:12:53.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New blockchain network that pays you passive income (BLAST)]]></title>
+        <id>https://www.youtube.com/watch?v=pNZAEJ0NWZU</id>
+        <link href="https://www.youtube.com/watch?v=pNZAEJ0NWZU"/>
+        <updated>2023-12-01T20:00:23.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: 2024 WILL MAKE MILLIONAIRES]]></title>
         <id>https://www.youtube.com/watch?v=lQvSWO6LbMU</id>

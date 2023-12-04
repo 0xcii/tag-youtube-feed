@@ -548,6 +548,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lZV5cAY646E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lZV5cAY646E",
+          "publishedOn": "2023-12-04T20:00:17.000Z",
+          "wordCount": null,
+          "title": "They made $1M off a meme coin - Steal their strategy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pNZAEJ0NWZU",
           "author": null,
           "description": "",

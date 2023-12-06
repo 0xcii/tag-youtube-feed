@@ -217,6 +217,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8D6uK0OswF8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8D6uK0OswF8",
+          "publishedOn": "2023-12-06T20:17:59.000Z",
+          "wordCount": null,
+          "title": "Bitcoin to $500,000 Is WRONG!!!!! The Real Number Will SHOCK YOU!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=N440hjJdaVo",
           "author": null,
           "description": "",
@@ -354,16 +364,6 @@
           "publishedOn": "2023-11-08T21:37:07.000Z",
           "wordCount": null,
           "title": "The Next Bull Run Isn't Coming...It's Already HERE!! #crypto #bullish #bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6cgWtKj_ob0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6cgWtKj_ob0",
-          "publishedOn": "2023-11-07T20:03:16.000Z",
-          "wordCount": null,
-          "title": "BREAKING!! ELON MUSK IS ABOUT TO CHANGE CRYPTO FOREVER!!!",
           "imageUrl": null
         }
       ]

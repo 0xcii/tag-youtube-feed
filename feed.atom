@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T20:06:29.885Z</id>
+    <id>urn:2023-12-06T21:03:00.202Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T20:06:29.885Z</updated>
+    <updated>2023-12-06T21:03:00.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin to $500,000 Is WRONG!!!!! The Real Number Will SHOCK YOU!!!]]></title>
+        <id>https://www.youtube.com/watch?v=8D6uK0OswF8</id>
+        <link href="https://www.youtube.com/watch?v=8D6uK0OswF8"/>
+        <updated>2023-12-06T20:17:59.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This tiny crypto sector can 100x soon!]]></title>
         <id>https://www.youtube.com/watch?v=F2chdsakv_k</id>
@@ -570,15 +579,6 @@
         <updated>2023-11-08T13:54:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BREAKING!! ELON MUSK IS ABOUT TO CHANGE CRYPTO FOREVER!!!]]></title>
-        <id>https://www.youtube.com/watch?v=6cgWtKj_ob0</id>
-        <link href="https://www.youtube.com/watch?v=6cgWtKj_ob0"/>
-        <updated>2023-11-07T20:03:16.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

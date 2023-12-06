@@ -190,6 +190,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=freyCo3pcz4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=freyCo3pcz4",
+          "publishedOn": "2023-12-06T04:18:32.000Z",
+          "wordCount": null,
+          "title": "Latent Consistency - Build a Real-Time AI Image App with WebSockets, Excalidraw, Next.js, and Fal.ai",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zf3NnTU5pr4",
           "author": null,
           "description": "",

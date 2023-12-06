@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T04:07:47.458Z</id>
+    <id>urn:2023-12-06T05:04:31.973Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T04:07:47.458Z</updated>
+    <updated>2023-12-06T05:04:31.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Latent Consistency - Build a Real-Time AI Image App with WebSockets, Excalidraw, Next.js, and Fal.ai]]></title>
+        <id>https://www.youtube.com/watch?v=freyCo3pcz4</id>
+        <link href="https://www.youtube.com/watch?v=freyCo3pcz4"/>
+        <updated>2023-12-06T04:18:32.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BREAKING!! There Will Be Another Altcoin Who Gets A Blackrock ETF!!!]]></title>
         <id>https://www.youtube.com/watch?v=N440hjJdaVo</id>

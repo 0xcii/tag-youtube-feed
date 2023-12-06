@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T13:08:50.547Z</id>
+    <id>urn:2023-12-06T14:03:17.401Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T13:08:50.547Z</updated>
+    <updated>2023-12-06T14:03:17.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Transfer Crypto from Binance to Ledger Wallet]]></title>
+        <id>https://www.youtube.com/watch?v=c5-tBczpbao</id>
+        <link href="https://www.youtube.com/watch?v=c5-tBczpbao"/>
+        <updated>2023-12-06T14:00:24.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latent Consistency - Build a Real-Time AI Image App with WebSockets, Excalidraw, Next.js, and Fal.ai]]></title>
         <id>https://www.youtube.com/watch?v=freyCo3pcz4</id>
@@ -435,15 +444,6 @@
         <updated>2023-11-15T14:19:29.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Swap Crypto in Trust Wallet]]></title>
-        <id>https://www.youtube.com/watch?v=tvebyU1OXNk</id>
-        <link href="https://www.youtube.com/watch?v=tvebyU1OXNk"/>
-        <updated>2023-11-15T14:00:40.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

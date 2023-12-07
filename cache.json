@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uyhzCBEGaBY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uyhzCBEGaBY",
+          "publishedOn": "2023-12-07T15:42:56.000Z",
+          "wordCount": null,
+          "title": "Beginner JavaScript Project – Snake Game Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NhDYbskXRgc",
           "author": null,
           "description": "",

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-07T19:02:07.845Z</id>
+    <id>urn:2023-12-07T20:06:25.478Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-07T19:02:07.845Z</updated>
+    <updated>2023-12-07T20:06:25.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BTC Profits Will Rotate Into These Altcoins!! Get Ready RIGHT NOW!!]]></title>
+        <id>https://www.youtube.com/watch?v=gpzAxdr4_MA</id>
+        <link href="https://www.youtube.com/watch?v=gpzAxdr4_MA"/>
+        <updated>2023-12-07T20:00:07.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beginner JavaScript Project – Snake Game Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=uyhzCBEGaBY</id>
@@ -559,15 +568,6 @@
         <id>https://www.youtube.com/watch?v=mSYE9nf78e0</id>
         <link href="https://www.youtube.com/watch?v=mSYE9nf78e0"/>
         <updated>2023-11-09T20:30:03.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Bull Run Isn't Coming...It's Already HERE!! #crypto #bullish #bitcoin]]></title>
-        <id>https://www.youtube.com/watch?v=DzdnD4bevUU</id>
-        <link href="https://www.youtube.com/watch?v=DzdnD4bevUU"/>
-        <updated>2023-11-08T21:37:07.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

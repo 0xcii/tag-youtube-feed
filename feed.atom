@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-08T13:07:53.723Z</id>
+    <id>urn:2023-12-08T14:03:13.165Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-08T13:07:53.723Z</updated>
+    <updated>2023-12-08T14:03:13.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Airdrops 2024 (How to Take Advantage!)]]></title>
+        <id>https://www.youtube.com/watch?v=Tq8XZc2H_PA</id>
+        <link href="https://www.youtube.com/watch?v=Tq8XZc2H_PA"/>
+        <updated>2023-12-08T14:00:20.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum ETF Will Come Sooner Than People THINK!! #ethereum #eth #etf]]></title>
         <id>https://www.youtube.com/watch?v=OrL8-Rd0wN4</id>
@@ -453,15 +462,6 @@
         <updated>2023-11-17T17:05:12.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Trade Crypto on Binance (Professional Guide)]]></title>
-        <id>https://www.youtube.com/watch?v=X0YzZnBNZrc</id>
-        <link href="https://www.youtube.com/watch?v=X0YzZnBNZrc"/>
-        <updated>2023-11-17T14:00:29.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-09T18:06:34.206Z</id>
+    <id>urn:2023-12-09T19:01:56.588Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-09T18:06:34.206Z</updated>
+    <updated>2023-12-09T19:01:56.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Could be the Biggest GameFi Crypto of 2024!!! #gamefi #crypto #illuvium]]></title>
+        <id>https://www.youtube.com/watch?v=kjFNowMLfvA</id>
+        <link href="https://www.youtube.com/watch?v=kjFNowMLfvA"/>
+        <updated>2023-12-09T18:08:53.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major Ethereum Update in 2024: 10x Scalability Potential - Dev Explains]]></title>
         <id>https://www.youtube.com/watch?v=hS--nqQxVOc</id>
@@ -561,15 +570,6 @@
         <updated>2023-11-10T20:00:00.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low Cap Altcoins Will EXPLODE!!! These Coins Will Easily 10x SOON!!!]]></title>
-        <id>https://www.youtube.com/watch?v=SKbpJyidM0Q</id>
-        <link href="https://www.youtube.com/watch?v=SKbpJyidM0Q"/>
-        <updated>2023-11-10T19:56:05.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-10T07:02:42.122Z</id>
+    <id>urn:2023-12-10T08:07:37.580Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-10T07:02:42.122Z</updated>
+    <updated>2023-12-10T08:07:37.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -561,15 +561,6 @@
         <updated>2023-11-11T19:28:28.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive Solana Explosion - what you must know]]></title>
-        <id>https://www.youtube.com/watch?v=-56i0YLDT70</id>
-        <link href="https://www.youtube.com/watch?v=-56i0YLDT70"/>
-        <updated>2023-11-10T20:00:00.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

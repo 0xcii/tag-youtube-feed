@@ -344,6 +344,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CV3atFCR0WY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CV3atFCR0WY",
+          "publishedOn": "2023-12-11T14:00:09.000Z",
+          "wordCount": null,
+          "title": "CARDANO IS BACK!? (Cardano Outlook)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Tq8XZc2H_PA",
           "author": null,
           "description": "",
@@ -481,16 +491,6 @@
           "publishedOn": "2023-11-21T14:00:01.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: IT'S ALL HERE!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o3KmPrlrT9Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o3KmPrlrT9Y",
-          "publishedOn": "2023-11-20T14:00:37.000Z",
-          "wordCount": null,
-          "title": "VPVR Indicator Strategy (TradingView Volume Profile Indicator)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T15:06:02.627Z</id>
+    <id>urn:2023-12-13T16:06:45.140Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-13T15:06:02.627Z</updated>
+    <updated>2023-12-13T16:06:45.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Testing with Jest – Crash Course]]></title>
+        <id>https://www.youtube.com/watch?v=IPiUDhwnZxA</id>
+        <link href="https://www.youtube.com/watch?v=IPiUDhwnZxA"/>
+        <updated>2023-12-13T15:09:28.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Wallet Tutorial (OKX Web3 Wallet Full Guide)]]></title>
+        <id>https://www.youtube.com/watch?v=J5hYS7kDDPc</id>
+        <link href="https://www.youtube.com/watch?v=J5hYS7kDDPc"/>
+        <updated>2023-12-13T15:00:28.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Panic with This Market CRASH!!? NO!! I'm Buying These ALTCOINS!!]]></title>
         <id>https://www.youtube.com/watch?v=Lff62G5YePk</id>
@@ -411,15 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Deposit & Withdraw on Trust Wallet]]></title>
-        <id>https://www.youtube.com/watch?v=YoJ0b909iqE</id>
-        <link href="https://www.youtube.com/watch?v=YoJ0b909iqE"/>
-        <updated>2023-11-22T14:00:19.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Much Solidity Developers Make?]]></title>
         <id>https://www.youtube.com/watch?v=mdU2hrTEJC8</id>
         <link href="https://www.youtube.com/watch?v=mdU2hrTEJC8"/>
@@ -552,15 +561,6 @@
         <updated>2023-11-15T11:33:22.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Become a Great Engineering Manager – Course]]></title>
-        <id>https://www.youtube.com/watch?v=kZdFRXeuCuY</id>
-        <link href="https://www.youtube.com/watch?v=kZdFRXeuCuY"/>
-        <updated>2023-11-14T15:12:10.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

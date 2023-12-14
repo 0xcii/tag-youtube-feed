@@ -374,6 +374,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nHbZI_8oAgs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nHbZI_8oAgs",
+          "publishedOn": "2023-12-14T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Make $200 a Day Trading Crypto Altcoins (Simple Bull Market Strategy)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LpzupfpY9a4",
           "author": null,
           "description": "",
@@ -511,16 +521,6 @@
           "publishedOn": "2023-11-23T14:00:27.000Z",
           "wordCount": null,
           "title": "Bybit Dual Asset Tutorial (Dual Asset Investment Explained)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YoJ0b909iqE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YoJ0b909iqE",
-          "publishedOn": "2023-11-22T14:00:19.000Z",
-          "wordCount": null,
-          "title": "How to Deposit & Withdraw on Trust Wallet",
           "imageUrl": null
         }
       ]

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-17T07:02:52.156Z</id>
+    <id>urn:2023-12-17T08:07:17.513Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-17T07:02:52.156Z</updated>
+    <updated>2023-12-17T08:07:17.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -543,15 +543,6 @@
         <updated>2023-11-19T19:04:36.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Historic Blackrock ETF will be MASSIVE for Ethereum!]]></title>
-        <id>https://www.youtube.com/watch?v=MLPcHmMAwTQ</id>
-        <link href="https://www.youtube.com/watch?v=MLPcHmMAwTQ"/>
-        <updated>2023-11-17T20:00:16.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

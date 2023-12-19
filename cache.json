@@ -354,6 +354,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GBZAgeViskA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GBZAgeViskA",
+          "publishedOn": "2023-12-19T14:00:09.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: IT'S ON NOW!! (Coinbase 2024 Outlook)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4c1kAYhS4cE",
           "author": null,
           "description": "",
@@ -491,16 +501,6 @@
           "publishedOn": "2023-11-28T14:00:37.000Z",
           "wordCount": null,
           "title": "CRYPTO: I FOUND SOMETHING",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TVMOwDSuSKg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TVMOwDSuSKg",
-          "publishedOn": "2023-11-27T14:00:17.000Z",
-          "wordCount": null,
-          "title": "What are Support and Resistance? (Trading Strategy Explained)",
           "imageUrl": null
         }
       ]

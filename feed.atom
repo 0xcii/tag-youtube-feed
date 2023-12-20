@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T17:03:04.439Z</id>
+    <id>urn:2023-12-20T18:07:22.043Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-20T17:03:04.439Z</updated>
+    <updated>2023-12-20T18:07:22.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript Interactively in NEW freeCodeCamp.org Curriculum]]></title>
+        <id>https://www.youtube.com/watch?v=n8mNX2YqkUs</id>
+        <link href="https://www.youtube.com/watch?v=n8mNX2YqkUs"/>
+        <updated>2023-12-20T17:40:48.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Trade on PancakeSwap (Step-by-Step Tutorial)]]></title>
         <id>https://www.youtube.com/watch?v=3kSvdY9dFgI</id>
@@ -525,15 +534,6 @@
         <updated>2023-11-21T19:03:18.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go Programming Tutorial – 3 Beginner Projects]]></title>
-        <id>https://www.youtube.com/watch?v=k_V5VvYSlS4</id>
-        <link href="https://www.youtube.com/watch?v=k_V5VvYSlS4"/>
-        <updated>2023-11-21T14:43:38.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

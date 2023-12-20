@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T16:03:58.380Z</id>
+    <id>urn:2023-12-20T17:03:04.439Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-20T16:03:58.380Z</updated>
+    <updated>2023-12-20T17:03:04.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -534,15 +534,6 @@
         <updated>2023-11-21T14:43:38.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Become a Solidity Developer?]]></title>
-        <id>https://www.youtube.com/watch?v=WETllhmbkVg</id>
-        <link href="https://www.youtube.com/watch?v=WETllhmbkVg"/>
-        <updated>2023-11-21T04:57:36.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

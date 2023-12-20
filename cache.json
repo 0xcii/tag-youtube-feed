@@ -354,6 +354,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3kSvdY9dFgI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3kSvdY9dFgI",
+          "publishedOn": "2023-12-20T14:00:04.000Z",
+          "wordCount": null,
+          "title": "How to Trade on PancakeSwap (Step-by-Step Tutorial)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GBZAgeViskA",
           "author": null,
           "description": "",
@@ -491,16 +501,6 @@
           "publishedOn": "2023-11-29T14:00:05.000Z",
           "wordCount": null,
           "title": "OKX Trading Bots Tutorial (Grids, TWAP, Arbitrage, DCA & More)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k8yAphPpoBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k8yAphPpoBc",
-          "publishedOn": "2023-11-28T14:00:37.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: I FOUND SOMETHING",
           "imageUrl": null
         }
       ]

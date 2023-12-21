@@ -354,6 +354,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HxKTlPOssHk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HxKTlPOssHk",
+          "publishedOn": "2023-12-21T14:00:22.000Z",
+          "wordCount": null,
+          "title": "How to Day Trade Cryptocurrency (5 Step Strategy)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3kSvdY9dFgI",
           "author": null,
           "description": "",
@@ -491,16 +501,6 @@
           "publishedOn": "2023-11-30T14:00:32.000Z",
           "wordCount": null,
           "title": "How to Transfer Crypto from Coinbase to Binance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4lgNVsYbjOE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4lgNVsYbjOE",
-          "publishedOn": "2023-11-29T14:00:05.000Z",
-          "wordCount": null,
-          "title": "OKX Trading Bots Tutorial (Grids, TWAP, Arbitrage, DCA & More)",
           "imageUrl": null
         }
       ]

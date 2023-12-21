@@ -528,6 +528,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eiKw1OOv6UQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eiKw1OOv6UQ",
+          "publishedOn": "2023-12-21T20:00:19.000Z",
+          "wordCount": null,
+          "title": "Watch this if you ACTUALLY want to make money in crypto",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k1AnDcoDxXA",
           "author": null,
           "description": "",

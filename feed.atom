@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-22T14:02:49.789Z</id>
+    <id>urn:2023-12-22T15:03:46.738Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-22T14:02:49.789Z</updated>
+    <updated>2023-12-22T15:03:46.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: THE CLOCK IS TICKING (19 DAYS)]]></title>
+        <id>https://www.youtube.com/watch?v=nDismJPxmZc</id>
+        <link href="https://www.youtube.com/watch?v=nDismJPxmZc"/>
+        <updated>2023-12-22T14:00:37.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch this if you ACTUALLY want to make money in crypto]]></title>
         <id>https://www.youtube.com/watch?v=eiKw1OOv6UQ</id>
@@ -453,15 +462,6 @@
         <updated>2023-11-30T16:00:45.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Transfer Crypto from Coinbase to Binance]]></title>
-        <id>https://www.youtube.com/watch?v=ZKvJbBRhSe4</id>
-        <link href="https://www.youtube.com/watch?v=ZKvJbBRhSe4"/>
-        <updated>2023-11-30T14:00:32.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

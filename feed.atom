@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-25T20:06:02.218Z</id>
+    <id>urn:2023-12-25T21:02:52.143Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-25T20:06:02.218Z</updated>
+    <updated>2023-12-25T21:02:52.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to become a highly paid blockchain developer in 2024 (step-by-step)]]></title>
+        <id>https://www.youtube.com/watch?v=RncXNlEsv5A</id>
+        <link href="https://www.youtube.com/watch?v=RncXNlEsv5A"/>
+        <updated>2023-12-25T20:00:12.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO: THE CLOCK IS TICKING (19 DAYS)]]></title>
         <id>https://www.youtube.com/watch?v=nDismJPxmZc</id>

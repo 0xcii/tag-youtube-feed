@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-27T13:06:25.346Z</id>
+    <id>urn:2023-12-27T14:02:56.726Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-27T13:06:25.346Z</updated>
+    <updated>2023-12-27T14:02:56.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Trade on GMX Exchange (GMX Tutorial)]]></title>
+        <id>https://www.youtube.com/watch?v=hiiEb8bbihQ</id>
+        <link href="https://www.youtube.com/watch?v=hiiEb8bbihQ"/>
+        <updated>2023-12-27T14:00:24.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’ve Found the Altcoins Billionaires Are BUYING!! (Uncovering 100x Cryptos)]]></title>
         <id>https://www.youtube.com/watch?v=v1JQuDsc1Do</id>
@@ -426,15 +435,6 @@
         <updated>2023-12-04T15:24:42.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Trade on Uniswap (Step-by-Step Tutorial)]]></title>
-        <id>https://www.youtube.com/watch?v=nvj2DHEkWfc</id>
-        <link href="https://www.youtube.com/watch?v=nvj2DHEkWfc"/>
-        <updated>2023-12-04T14:00:36.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -176,6 +176,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NoeUmAHm-JA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NoeUmAHm-JA",
+          "publishedOn": "2023-12-28T20:31:41.000Z",
+          "wordCount": null,
+          "title": "This Altcoin is the Only Crypto Coin YOU NEED! Epic Pump IMMINENT!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KBQ7Xd7iRTs",
           "author": null,
           "description": "",
@@ -313,16 +323,6 @@
           "publishedOn": "2023-11-30T21:44:16.000Z",
           "wordCount": null,
           "title": "Centralized Exchanges Are Done For. DEXs Are the Future... #crypto #dex #altcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cb4UFW4sKlw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cb4UFW4sKlw",
-          "publishedOn": "2023-11-29T20:22:45.000Z",
-          "wordCount": null,
-          "title": "This “Crypto Narrative” Could Make You A Multi-Millionaire This Bullrun!",
           "imageUrl": null
         }
       ]
@@ -506,6 +506,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jcgfQEbptdo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jcgfQEbptdo",
+          "publishedOn": "2023-12-28T20:00:24.000Z",
+          "wordCount": null,
+          "title": "Learn Blockchain & Solidity Development   Full Course 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RncXNlEsv5A",
           "author": null,

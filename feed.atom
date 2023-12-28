@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-28T20:04:27.480Z</id>
+    <id>urn:2023-12-28T21:02:48.787Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-28T20:04:27.480Z</updated>
+    <updated>2023-12-28T21:02:48.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Altcoin is the Only Crypto Coin YOU NEED! Epic Pump IMMINENT!!!]]></title>
+        <id>https://www.youtube.com/watch?v=NoeUmAHm-JA</id>
+        <link href="https://www.youtube.com/watch?v=NoeUmAHm-JA"/>
+        <updated>2023-12-28T20:31:41.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Blockchain & Solidity Development   Full Course 2024]]></title>
+        <id>https://www.youtube.com/watch?v=jcgfQEbptdo</id>
+        <link href="https://www.youtube.com/watch?v=jcgfQEbptdo"/>
+        <updated>2023-12-28T20:00:24.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: THIS IS HUGE!]]></title>
         <id>https://www.youtube.com/watch?v=c6DCupyy7gg</id>
@@ -489,15 +507,6 @@
         <updated>2023-11-30T16:00:45.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This “Crypto Narrative” Could Make You A Multi-Millionaire This Bullrun!]]></title>
-        <id>https://www.youtube.com/watch?v=Cb4UFW4sKlw</id>
-        <link href="https://www.youtube.com/watch?v=Cb4UFW4sKlw"/>
-        <updated>2023-11-29T20:22:45.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

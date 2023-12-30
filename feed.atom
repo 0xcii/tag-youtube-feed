@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-30T05:03:20.547Z</id>
+    <id>urn:2023-12-30T06:07:09.916Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-30T05:03:20.547Z</updated>
+    <updated>2023-12-30T06:07:09.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -489,15 +489,6 @@
         <updated>2023-11-30T21:44:16.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Full Stack Mobile AI Apps with React Native & Expo - OpenAI, Anthropic, Cohere, & Fal.ai]]></title>
-        <id>https://www.youtube.com/watch?v=zf3NnTU5pr4</id>
-        <link href="https://www.youtube.com/watch?v=zf3NnTU5pr4"/>
-        <updated>2023-11-30T17:14:08.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
         </author>
     </entry>
 </feed>

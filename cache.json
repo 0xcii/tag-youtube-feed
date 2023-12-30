@@ -137,16 +137,6 @@
           "wordCount": null,
           "title": "Latent Consistency - Build a Real-Time AI Image App with WebSockets, Excalidraw, Next.js, and Fal.ai",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zf3NnTU5pr4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zf3NnTU5pr4",
-          "publishedOn": "2023-11-30T17:14:08.000Z",
-          "wordCount": null,
-          "title": "Building Full Stack Mobile AI Apps with React Native & Expo - OpenAI, Anthropic, Cohere, & Fal.ai",
-          "imageUrl": null
         }
       ]
     },

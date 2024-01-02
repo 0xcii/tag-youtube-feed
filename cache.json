@@ -477,6 +477,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qqavgOOHg5I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qqavgOOHg5I",
+          "publishedOn": "2024-01-02T20:00:26.000Z",
+          "wordCount": null,
+          "title": "This crypto trading bot will PRINT MONEY in 2024!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jcgfQEbptdo",
           "author": null,
           "description": "",

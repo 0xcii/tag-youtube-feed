@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-03T09:04:31.623Z</id>
+    <id>urn:2024-01-03T10:05:53.070Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-03T09:04:31.623Z</updated>
+    <updated>2024-01-03T10:05:53.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[遇到貔貅盘了！ 偶遇只能买不能卖的币。 如何预防蜜罐诈骗，第三方审计平台都不靠谱！ 小心币圈套路 ！]]></title>
+        <id>https://www.youtube.com/watch?v=5BgGrb75j4k</id>
+        <link href="https://www.youtube.com/watch?v=5BgGrb75j4k"/>
+        <updated>2024-01-03T09:58:49.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This crypto trading bot will PRINT MONEY in 2024!]]></title>
         <id>https://www.youtube.com/watch?v=qqavgOOHg5I</id>
@@ -462,15 +471,6 @@
         <updated>2023-12-05T16:15:03.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This altcoin has something BIG BREWING with Financial Giant Vaneck!! #invest #vaneck #altcoin]]></title>
-        <id>https://www.youtube.com/watch?v=hh9GvE5WK88</id>
-        <link href="https://www.youtube.com/watch?v=hh9GvE5WK88"/>
-        <updated>2023-12-04T21:29:55.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-04T04:07:25.819Z</id>
+    <id>urn:2024-01-04T05:05:15.370Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-04T04:07:25.819Z</updated>
+    <updated>2024-01-04T05:05:15.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -480,15 +480,6 @@
         <updated>2023-12-05T20:30:38.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!]]></title>
-        <id>https://www.youtube.com/watch?v=NhDYbskXRgc</id>
-        <link href="https://www.youtube.com/watch?v=NhDYbskXRgc"/>
-        <updated>2023-12-05T16:15:03.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

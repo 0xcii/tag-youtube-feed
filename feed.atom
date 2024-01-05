@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-05T14:03:55.110Z</id>
+    <id>urn:2024-01-05T15:04:36.944Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-05T14:03:55.110Z</updated>
+    <updated>2024-01-05T15:04:36.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rabby Wallet Tutorial (How to Setup & Use Rabby)]]></title>
+        <id>https://www.youtube.com/watch?v=o93k_kg5kO4</id>
+        <link href="https://www.youtube.com/watch?v=o93k_kg5kO4"/>
+        <updated>2024-01-05T14:00:39.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NO ONE IS TALKING ABOUT THESE “MILLIONAIRE ALTCOIN AIRDROPS”]]></title>
         <id>https://www.youtube.com/watch?v=lTxHdpAUUFw</id>
@@ -399,15 +408,6 @@
         <updated>2023-12-12T16:04:41.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: DON'T GET FOOLED NOW]]></title>
-        <id>https://www.youtube.com/watch?v=LpzupfpY9a4</id>
-        <link href="https://www.youtube.com/watch?v=LpzupfpY9a4"/>
-        <updated>2023-12-12T14:00:20.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

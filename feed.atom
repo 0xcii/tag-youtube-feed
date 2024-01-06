@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-06T11:02:07.734Z</id>
+    <id>urn:2024-01-06T12:09:36.171Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-06T11:02:07.734Z</updated>
+    <updated>2024-01-06T12:09:36.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -453,15 +453,6 @@
         <updated>2023-12-08T20:00:18.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum ETF Will Come Sooner Than People THINK!! #ethereum #eth #etf]]></title>
-        <id>https://www.youtube.com/watch?v=OrL8-Rd0wN4</id>
-        <link href="https://www.youtube.com/watch?v=OrL8-Rd0wN4"/>
-        <updated>2023-12-07T23:06:13.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

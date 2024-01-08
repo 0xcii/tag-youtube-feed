@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-08T06:08:33.109Z</id>
+    <id>urn:2024-01-08T07:06:07.903Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-08T06:08:33.109Z</updated>
+    <updated>2024-01-08T07:06:07.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -453,15 +453,6 @@
         <updated>2023-12-11T15:09:17.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Could be the Biggest GameFi Crypto of 2024!!! #gamefi #crypto #illuvium]]></title>
-        <id>https://www.youtube.com/watch?v=kjFNowMLfvA</id>
-        <link href="https://www.youtube.com/watch?v=kjFNowMLfvA"/>
-        <updated>2023-12-09T18:08:53.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-09T14:04:04.172Z</id>
+    <id>urn:2024-01-09T15:04:42.394Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-09T14:04:04.172Z</updated>
+    <updated>2024-01-09T15:04:42.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Data Analyst Bootcamp for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=PSNXoAs2FtQ</id>
+        <link href="https://www.youtube.com/watch?v=PSNXoAs2FtQ"/>
+        <updated>2024-01-09T14:51:14.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Crypto Wallets 2024!! (Mobile, Hardware, MPC)]]></title>
+        <id>https://www.youtube.com/watch?v=Isk9qoK62o8</id>
+        <link href="https://www.youtube.com/watch?v=Isk9qoK62o8"/>
+        <updated>2024-01-09T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How this Blockchain dev makes $4K+ PER DAY with trading bot step by step breakdown]]></title>
         <id>https://www.youtube.com/watch?v=hoadr1QY3pk</id>
@@ -381,15 +399,6 @@
         <updated>2023-12-15T20:00:16.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: AN IMPORTANT MESSAGE]]></title>
-        <id>https://www.youtube.com/watch?v=QOUXfRdR1Tk</id>
-        <link href="https://www.youtube.com/watch?v=QOUXfRdR1Tk"/>
-        <updated>2023-12-15T14:00:17.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

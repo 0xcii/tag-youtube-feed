@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-10T17:04:05.848Z</id>
+    <id>urn:2024-01-10T18:07:38.602Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-10T17:04:05.848Z</updated>
+    <updated>2024-01-10T18:07:38.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BREAKING!! BITCOIN ETF IN 1 HOUR!!! SEC WILL SHOCK EVERYONE!!!]]></title>
+        <id>https://www.youtube.com/watch?v=VXBXCarKcts</id>
+        <link href="https://www.youtube.com/watch?v=VXBXCarKcts"/>
+        <updated>2024-01-10T17:33:15.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKX Arbitrage Trading Bot Tutorial (Step-by-Step Guide)]]></title>
         <id>https://www.youtube.com/watch?v=UkB2Dsfj-fI</id>

@@ -151,16 +151,6 @@
           "wordCount": null,
           "title": "Build a Virtual World Filled with Self-Driving Cars – JavaScript Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JEBDfGqrAUA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JEBDfGqrAUA",
-          "publishedOn": "2023-12-11T15:09:17.000Z",
-          "wordCount": null,
-          "title": "Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search",
-          "imageUrl": null
         }
       ]
     },

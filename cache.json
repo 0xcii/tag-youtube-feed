@@ -69,7 +69,7 @@
           "link": "https://www.youtube.com/watch?v=dJhlMn2otxA",
           "publishedOn": "2024-01-08T15:31:36.000Z",
           "wordCount": null,
-          "title": "Learn to Code with AI - ChatGPT Tutorial",
+          "title": "Learn to Code using AI - ChatGPT Programming Tutorial (Full Course)",
           "imageUrl": null
         },
         {
@@ -450,23 +450,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ppSh8gcxYog",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ppSh8gcxYog",
+          "publishedOn": "2024-01-11T16:26:08.000Z",
+          "wordCount": null,
+          "title": "🔴 ALERT! Bitcoin ETF Approved!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Fb5DKTJCVHE",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=Fb5DKTJCVHE",
           "publishedOn": "2024-01-11T05:00:40.000Z",
           "wordCount": null,
-          "title": "Solidity Developer Roadmap for 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ppSh8gcxYog",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ppSh8gcxYog",
-          "publishedOn": "2024-01-10T22:48:29.000Z",
-          "wordCount": null,
-          "title": "ALERT! Bitcoin ETF Approved!",
+          "title": "🔴 Solidity Developer Roadmap for 2024",
           "imageUrl": null
         },
         {

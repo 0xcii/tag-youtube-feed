@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-13T03:06:24.818Z</id>
+    <id>urn:2024-01-13T04:07:16.013Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-13T03:06:24.818Z</updated>
+    <updated>2024-01-13T04:07:16.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -471,15 +471,6 @@
         <updated>2023-12-14T19:51:31.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Azure Fundamentals Certification Course (AZ-900) UPDATED – Pass the exam in 8 hours!]]></title>
-        <id>https://www.youtube.com/watch?v=5abffC-K40c</id>
-        <link href="https://www.youtube.com/watch?v=5abffC-K40c"/>
-        <updated>2023-12-14T15:13:40.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

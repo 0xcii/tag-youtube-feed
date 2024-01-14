@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-14T07:02:53.944Z</id>
+    <id>urn:2024-01-14T08:07:25.904Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-14T07:02:53.945Z</updated>
+    <updated>2024-01-14T08:07:25.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -453,15 +453,6 @@
         <updated>2023-12-16T17:15:08.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto A.I. will EXPLODE in 2024!]]></title>
-        <id>https://www.youtube.com/watch?v=hbBFqESyxk4</id>
-        <link href="https://www.youtube.com/watch?v=hbBFqESyxk4"/>
-        <updated>2023-12-15T20:00:16.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

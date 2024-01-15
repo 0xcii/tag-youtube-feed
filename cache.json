@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2ByOXdddmDM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2ByOXdddmDM",
+          "publishedOn": "2024-01-15T14:00:01.000Z",
+          "wordCount": null,
+          "title": "FULL Cryptocurrency Trading Course - From Beginner To EXPERT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mlYTUn5NUDs",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2023-12-21T14:00:22.000Z",
           "wordCount": null,
           "title": "How to Day Trade Cryptocurrency (5 Step Strategy)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3kSvdY9dFgI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3kSvdY9dFgI",
-          "publishedOn": "2023-12-20T14:00:04.000Z",
-          "wordCount": null,
-          "title": "How to Trade on PancakeSwap (Step-by-Step Tutorial)",
           "imageUrl": null
         }
       ]

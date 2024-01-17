@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-17T14:04:49.633Z</id>
+    <id>urn:2024-01-17T15:04:30.901Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-17T14:04:49.633Z</updated>
+    <updated>2024-01-17T15:04:30.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: YOU NEED TO SEE THIS]]></title>
+        <id>https://www.youtube.com/watch?v=yaqLpA1HwAQ</id>
+        <link href="https://www.youtube.com/watch?v=yaqLpA1HwAQ"/>
+        <updated>2024-01-17T14:00:47.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chico Crypto’s Portfolio REVEALED!! Top 10 Crypto Coins We HODL!!!???]]></title>
         <id>https://www.youtube.com/watch?v=06UuUz4A58c</id>
@@ -408,15 +417,6 @@
         <updated>2023-12-25T20:00:12.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: THE CLOCK IS TICKING (19 DAYS)]]></title>
-        <id>https://www.youtube.com/watch?v=nDismJPxmZc</id>
-        <link href="https://www.youtube.com/watch?v=nDismJPxmZc"/>
-        <updated>2023-12-22T14:00:37.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

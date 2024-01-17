@@ -151,16 +151,6 @@
           "wordCount": null,
           "title": "Full Stack Tutorial – Hotel Management Site w/ Next.js, React, Sanity.io, Tailwind, Stripe",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5yIivwrvH6w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5yIivwrvH6w",
-          "publishedOn": "2023-12-18T15:59:50.000Z",
-          "wordCount": null,
-          "title": "Remix and Strapi Crash Course – Full Stack Development",
-          "imageUrl": null
         }
       ]
     },

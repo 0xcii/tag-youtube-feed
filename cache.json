@@ -161,16 +161,6 @@
           "wordCount": null,
           "title": "Learn JavaScript Interactively in NEW freeCodeCamp.org Curriculum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kiCH27qsNL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kiCH27qsNL8",
-          "publishedOn": "2023-12-19T16:30:00.000Z",
-          "wordCount": null,
-          "title": "Full Stack Tutorial – Hotel Management Site w/ Next.js, React, Sanity.io, Tailwind, Stripe",
-          "imageUrl": null
         }
       ]
     },

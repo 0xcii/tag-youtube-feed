@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T08:08:08.315Z</id>
+    <id>urn:2024-01-18T09:05:20.028Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-18T08:08:08.315Z</updated>
+    <updated>2024-01-18T09:05:20.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[如何通过使用 Wormhole  赚取上千美元的奖励？ 融资2亿美元的龙头跨链桥即将发空投了吗？]]></title>
+        <id>https://www.youtube.com/watch?v=9kRSdjT7Tyk</id>
+        <link href="https://www.youtube.com/watch?v=9kRSdjT7Tyk"/>
+        <updated>2024-01-18T08:17:35.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SatoshiVM 比特币二层空投教程！ 测试网交互，全程免费0撸！]]></title>
         <id>https://www.youtube.com/watch?v=pN6xJLaVHTs</id>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T18:07:43.770Z</id>
+    <id>urn:2024-01-18T19:02:06.824Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-18T18:07:43.770Z</updated>
+    <updated>2024-01-18T19:02:06.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Get a Programming Job]]></title>
+        <title type="html"><![CDATA[How to Get a Developer Job – Even in This Economy [Full Course]]]></title>
         <id>https://www.youtube.com/watch?v=6nz8GXjxiHg</id>
         <link href="https://www.youtube.com/watch?v=6nz8GXjxiHg"/>
         <updated>2024-01-18T15:39:24.000Z</updated>
@@ -42,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UIs with Python – Use PyQt5 to Create a Music Player]]></title>
+        <title type="html"><![CDATA[Python User Interface Project – Use PyQt5 to Code a Music Player]]></title>
         <id>https://www.youtube.com/watch?v=DjutoyfCl2c</id>
         <link href="https://www.youtube.com/watch?v=DjutoyfCl2c"/>
         <updated>2024-01-17T15:57:44.000Z</updated>

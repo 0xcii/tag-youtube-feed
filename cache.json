@@ -73,6 +73,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6nz8GXjxiHg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6nz8GXjxiHg",
+          "publishedOn": "2024-01-18T15:39:24.000Z",
+          "wordCount": null,
+          "title": "How to Get a Programming Job",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DjutoyfCl2c",
           "author": null,
           "description": "",

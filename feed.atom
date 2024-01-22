@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-22T14:06:18.642Z</id>
+    <id>urn:2024-01-22T15:06:39.557Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-22T14:06:18.642Z</updated>
+    <updated>2024-01-22T15:06:39.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deposit & Withdraw Crypto from Binance]]></title>
+        <id>https://www.youtube.com/watch?v=yQQykHfkkZ0</id>
+        <link href="https://www.youtube.com/watch?v=yQQykHfkkZ0"/>
+        <updated>2024-01-22T14:00:54.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here Are the Top 10 Crypto Assets in Chico Crypto's Portfolio!!!]]></title>
         <id>https://www.youtube.com/watch?v=gXFtO31FkVc</id>
@@ -453,15 +462,6 @@
         <updated>2023-12-28T20:00:24.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: THIS IS HUGE!]]></title>
-        <id>https://www.youtube.com/watch?v=c6DCupyy7gg</id>
-        <link href="https://www.youtube.com/watch?v=c6DCupyy7gg"/>
-        <updated>2023-12-28T14:00:22.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-26T07:03:12.230Z</id>
+    <id>urn:2024-01-26T08:07:37.177Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-26T07:03:12.230Z</updated>
+    <updated>2024-01-26T08:07:37.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -543,15 +543,6 @@
         <updated>2023-12-28T20:00:24.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I've Found the Next Kaspa. It's already up 100% in 24 hours!!]]></title>
-        <id>https://www.youtube.com/watch?v=KBQ7Xd7iRTs</id>
-        <link href="https://www.youtube.com/watch?v=KBQ7Xd7iRTs"/>
-        <updated>2023-12-27T19:15:50.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

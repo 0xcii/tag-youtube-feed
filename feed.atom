@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-28T14:01:52.883Z</id>
+    <id>urn:2024-01-28T15:01:55.582Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-28T14:01:52.883Z</updated>
+    <updated>2024-01-28T15:01:55.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin’s Volatility Explained in Under A Minute…]]></title>
+        <id>https://www.youtube.com/watch?v=EFzs6v5b6QI</id>
+        <link href="https://www.youtube.com/watch?v=EFzs6v5b6QI"/>
+        <updated>2024-01-28T13:59:39.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["ETHEREUM ALL IN" Next Month!!?? My Million Dollar Strategy REVEALED!!!]]></title>
         <id>https://www.youtube.com/watch?v=FEhk3vCkvts</id>

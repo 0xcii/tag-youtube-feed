@@ -247,6 +247,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EFzs6v5b6QI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EFzs6v5b6QI",
+          "publishedOn": "2024-01-28T13:59:39.000Z",
+          "wordCount": null,
+          "title": "Bitcoin’s Volatility Explained in Under A Minute…",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FEhk3vCkvts",
           "author": null,
           "description": "",

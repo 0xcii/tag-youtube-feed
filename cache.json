@@ -225,23 +225,6 @@
       ]
     },
     {
-      "title": "Nader Dabit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
-      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=EjuPIOuFYgA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EjuPIOuFYgA",
-          "publishedOn": "2024-01-26T15:54:48.000Z",
-          "wordCount": null,
-          "title": "Hitler criticizes React",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Chico Crypto",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
@@ -568,93 +551,6 @@
           "publishedOn": "2024-01-11T05:00:40.000Z",
           "wordCount": null,
           "title": "🔴 Solidity Developer Roadmap for 2024",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ZQSnNpcemcM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZQSnNpcemcM",
-          "publishedOn": "2024-01-24T20:00:25.000Z",
-          "wordCount": null,
-          "title": "Blockchain Dev makes $2M profit off a meme coin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UWlYGjEsDOo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UWlYGjEsDOo",
-          "publishedOn": "2024-01-22T20:00:09.000Z",
-          "wordCount": null,
-          "title": "Urgent message for all blockchain developers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DmzSBrfBoR4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DmzSBrfBoR4",
-          "publishedOn": "2024-01-18T20:00:08.000Z",
-          "wordCount": null,
-          "title": "This blockchain network pays developers PASSIVE INCOME",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YsG_RMXROBA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YsG_RMXROBA",
-          "publishedOn": "2024-01-15T20:00:17.000Z",
-          "wordCount": null,
-          "title": "Secret strategy for printing $$$ with Bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rF2vcAt6XSA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rF2vcAt6XSA",
-          "publishedOn": "2024-01-10T20:00:31.000Z",
-          "wordCount": null,
-          "title": "New strategy for passive income with crypto airdrops in 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hoadr1QY3pk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hoadr1QY3pk",
-          "publishedOn": "2024-01-08T20:00:15.000Z",
-          "wordCount": null,
-          "title": "How this Blockchain dev makes $4K+ PER DAY with trading bot step by step breakdown",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7qoJaHkz3-o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7qoJaHkz3-o",
-          "publishedOn": "2024-01-05T20:00:03.000Z",
-          "wordCount": null,
-          "title": "New Blockchain 2X Faster than Solana ($SEI)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qqavgOOHg5I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qqavgOOHg5I",
-          "publishedOn": "2024-01-02T20:00:26.000Z",
-          "wordCount": null,
-          "title": "This crypto trading bot will PRINT MONEY in 2024!",
           "imageUrl": null
         }
       ]

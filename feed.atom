@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-29T13:03:30.744Z</id>
+    <id>urn:2024-01-29T14:03:31.506Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-29T13:03:30.744Z</updated>
+    <updated>2024-01-29T14:03:31.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rocketpool Ethereum Staking Tutorial (How to Stake rETH)]]></title>
+        <id>https://www.youtube.com/watch?v=xaI3gs1BP5Q</id>
+        <link href="https://www.youtube.com/watch?v=xaI3gs1BP5Q"/>
+        <updated>2024-01-29T14:00:53.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin’s Volatility Explained in Under A Minute…]]></title>
+        <id>https://www.youtube.com/watch?v=EFzs6v5b6QI</id>
+        <link href="https://www.youtube.com/watch?v=EFzs6v5b6QI"/>
+        <updated>2024-01-28T13:59:39.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["ETHEREUM ALL IN" Next Month!!?? My Million Dollar Strategy REVEALED!!!]]></title>
+        <id>https://www.youtube.com/watch?v=FEhk3vCkvts</id>
+        <link href="https://www.youtube.com/watch?v=FEhk3vCkvts"/>
+        <updated>2024-01-26T20:32:17.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitler criticizes React]]></title>
+        <id>https://www.youtube.com/watch?v=EjuPIOuFYgA</id>
+        <link href="https://www.youtube.com/watch?v=EjuPIOuFYgA"/>
+        <updated>2024-01-26T15:54:48.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beau Carnes: Running the Largest Tutorial Channel – freeCodeCamp.org Podcast]]></title>
         <id>https://www.youtube.com/watch?v=DNPF0oPcMDs</id>
@@ -12,6 +48,24 @@
         <updated>2024-01-26T14:16:33.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Altcoins Making Millions By March]]></title>
+        <id>https://www.youtube.com/watch?v=uCkq8n_cRQI</id>
+        <link href="https://www.youtube.com/watch?v=uCkq8n_cRQI"/>
+        <updated>2024-01-26T14:00:45.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BITCOIN ETF: Here’s EXACTLY What You Need to Know 2 Weeks Later!!!]]></title>
+        <id>https://www.youtube.com/watch?v=iMX4kYmX7ls</id>
+        <link href="https://www.youtube.com/watch?v=iMX4kYmX7ls"/>
+        <updated>2024-01-25T20:19:29.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>
@@ -24,12 +78,57 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aave Tutorial (How to Lend & Borrow Crypto on Aave)]]></title>
+        <id>https://www.youtube.com/watch?v=2DfZXOijqcw</id>
+        <link href="https://www.youtube.com/watch?v=2DfZXOijqcw"/>
+        <updated>2024-01-25T14:00:02.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Dev makes $2M profit off a meme coin]]></title>
+        <id>https://www.youtube.com/watch?v=ZQSnNpcemcM</id>
+        <link href="https://www.youtube.com/watch?v=ZQSnNpcemcM"/>
+        <updated>2024-01-24T20:00:25.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billionaires Act Like They HATE Crypto. But The REALITY is....THIS!!]]></title>
+        <id>https://www.youtube.com/watch?v=BwcCjQV6_o8</id>
+        <link href="https://www.youtube.com/watch?v=BwcCjQV6_o8"/>
+        <updated>2024-01-24T16:14:55.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Passkey Authentication with Express.js and Docker – Web Authentication API Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=lzelnAI914A</id>
         <link href="https://www.youtube.com/watch?v=lzelnAI914A"/>
         <updated>2024-01-24T16:12:57.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Grid Trading Bots Tutorial (Grid Bots Explained)]]></title>
+        <id>https://www.youtube.com/watch?v=CTyF1iZsMzs</id>
+        <link href="https://www.youtube.com/watch?v=CTyF1iZsMzs"/>
+        <updated>2024-01-24T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin CRASH: They LIED to US!!! ETF Was a TRAP!! What's NEXT!??]]></title>
+        <id>https://www.youtube.com/watch?v=jrsydkgLEwg</id>
+        <link href="https://www.youtube.com/watch?v=jrsydkgLEwg"/>
+        <updated>2024-01-23T20:58:18.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>
@@ -42,12 +141,57 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: IN DANGER]]></title>
+        <id>https://www.youtube.com/watch?v=Bt0EClhQJ1k</id>
+        <link href="https://www.youtube.com/watch?v=Bt0EClhQJ1k"/>
+        <updated>2024-01-23T14:00:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urgent message for all blockchain developers]]></title>
+        <id>https://www.youtube.com/watch?v=UWlYGjEsDOo</id>
+        <link href="https://www.youtube.com/watch?v=UWlYGjEsDOo"/>
+        <updated>2024-01-22T20:00:09.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenAI Assistants API – Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=qHPonmSX4Ms</id>
         <link href="https://www.youtube.com/watch?v=qHPonmSX4Ms"/>
         <updated>2024-01-22T15:32:10.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deposit & Withdraw Crypto from Binance]]></title>
+        <id>https://www.youtube.com/watch?v=yQQykHfkkZ0</id>
+        <link href="https://www.youtube.com/watch?v=yQQykHfkkZ0"/>
+        <updated>2024-01-22T14:00:54.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here Are the Top 10 Crypto Assets in Chico Crypto's Portfolio!!!]]></title>
+        <id>https://www.youtube.com/watch?v=gXFtO31FkVc</id>
+        <link href="https://www.youtube.com/watch?v=gXFtO31FkVc"/>
+        <updated>2024-01-21T16:21:51.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve Uncovered the Crypto Coins Billionaires Are BUYING!! 100x Altcoins Are FOUND!!]]></title>
+        <id>https://www.youtube.com/watch?v=CPhvFTcJ5QM</id>
+        <link href="https://www.youtube.com/watch?v=CPhvFTcJ5QM"/>
+        <updated>2024-01-20T14:58:17.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>
@@ -60,12 +204,57 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Use VPVR on TradingView (Volume Profile Visible Range Indicator Trading)]]></title>
+        <id>https://www.youtube.com/watch?v=CPKoVgrRbSI</id>
+        <link href="https://www.youtube.com/watch?v=CPKoVgrRbSI"/>
+        <updated>2024-01-19T14:00:07.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This blockchain network pays developers PASSIVE INCOME]]></title>
+        <id>https://www.youtube.com/watch?v=DmzSBrfBoR4</id>
+        <link href="https://www.youtube.com/watch?v=DmzSBrfBoR4"/>
+        <updated>2024-01-18T20:00:08.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Get a Developer Job – Even in This Economy [Full Course]]]></title>
         <id>https://www.youtube.com/watch?v=6nz8GXjxiHg</id>
         <link href="https://www.youtube.com/watch?v=6nz8GXjxiHg"/>
         <updated>2024-01-18T15:39:24.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer Tutorial (How to Restake ETH on EigenLayer)]]></title>
+        <id>https://www.youtube.com/watch?v=gchyoHimjPw</id>
+        <link href="https://www.youtube.com/watch?v=gchyoHimjPw"/>
+        <updated>2024-01-18T14:00:33.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何通过使用 Wormhole  赚取上千美元的奖励？ 融资2亿美元的龙头跨链桥即将发空投了吗？]]></title>
+        <id>https://www.youtube.com/watch?v=9kRSdjT7Tyk</id>
+        <link href="https://www.youtube.com/watch?v=9kRSdjT7Tyk"/>
+        <updated>2024-01-18T08:17:35.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SatoshiVM 比特币二层空投教程！ 测试网交互，全程免费0撸！]]></title>
+        <id>https://www.youtube.com/watch?v=pN6xJLaVHTs</id>
+        <link href="https://www.youtube.com/watch?v=pN6xJLaVHTs"/>
+        <updated>2024-01-18T01:12:56.000Z</updated>
+        <author>
+            <name>链求君</name>
         </author>
     </entry>
     <entry>
@@ -78,12 +267,66 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CRYPTO: YOU NEED TO SEE THIS]]></title>
+        <id>https://www.youtube.com/watch?v=yaqLpA1HwAQ</id>
+        <link href="https://www.youtube.com/watch?v=yaqLpA1HwAQ"/>
+        <updated>2024-01-17T14:00:47.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chico Crypto’s Portfolio REVEALED!! Top 10 Crypto Coins We HODL!!!???]]></title>
+        <id>https://www.youtube.com/watch?v=06UuUz4A58c</id>
+        <link href="https://www.youtube.com/watch?v=06UuUz4A58c"/>
+        <updated>2024-01-16T19:57:47.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Data Engineering Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=PHsC_t0j1dU</id>
         <link href="https://www.youtube.com/watch?v=PHsC_t0j1dU"/>
         <updated>2024-01-16T15:22:46.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何领取以太坊测试网 Holesky 的 ETH ？]]></title>
+        <id>https://www.youtube.com/watch?v=EpoNB47UEPQ</id>
+        <link href="https://www.youtube.com/watch?v=EpoNB47UEPQ"/>
+        <updated>2024-01-16T14:02:49.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Crypto Trading Platforms 2024!! (Full Guide & Review)]]></title>
+        <id>https://www.youtube.com/watch?v=VLLW7dtK4iM</id>
+        <link href="https://www.youtube.com/watch?v=VLLW7dtK4iM"/>
+        <updated>2024-01-16T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secret strategy for printing $$$ with Bitcoin]]></title>
+        <id>https://www.youtube.com/watch?v=YsG_RMXROBA</id>
+        <link href="https://www.youtube.com/watch?v=YsG_RMXROBA"/>
+        <updated>2024-01-15T20:00:17.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FULL Cryptocurrency Trading Course - From Beginner To EXPERT]]></title>
+        <id>https://www.youtube.com/watch?v=2ByOXdddmDM</id>
+        <link href="https://www.youtube.com/watch?v=2ByOXdddmDM"/>
+        <updated>2024-01-15T14:00:01.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -96,12 +339,75 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[This ALTCOIN Will Outperform Both BTC & ETH (It’s Getting An ETF Too)]]></title>
+        <id>https://www.youtube.com/watch?v=6HIK3E4_m1k</id>
+        <link href="https://www.youtube.com/watch?v=6HIK3E4_m1k"/>
+        <updated>2024-01-11T19:48:50.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔴 ALERT! Bitcoin ETF Approved!]]></title>
+        <id>https://www.youtube.com/watch?v=ppSh8gcxYog</id>
+        <link href="https://www.youtube.com/watch?v=ppSh8gcxYog"/>
+        <updated>2024-01-11T16:26:08.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Add Email to Your Apps – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=h_mk2Uci9o0</id>
         <link href="https://www.youtube.com/watch?v=h_mk2Uci9o0"/>
         <updated>2024-01-11T15:32:55.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: TIME TO ACT NOW!!]]></title>
+        <id>https://www.youtube.com/watch?v=mlYTUn5NUDs</id>
+        <link href="https://www.youtube.com/watch?v=mlYTUn5NUDs"/>
+        <updated>2024-01-11T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔴 Solidity Developer Roadmap for 2024]]></title>
+        <id>https://www.youtube.com/watch?v=Fb5DKTJCVHE</id>
+        <link href="https://www.youtube.com/watch?v=Fb5DKTJCVHE"/>
+        <updated>2024-01-11T05:00:40.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New strategy for passive income with crypto airdrops in 2024]]></title>
+        <id>https://www.youtube.com/watch?v=rF2vcAt6XSA</id>
+        <link href="https://www.youtube.com/watch?v=rF2vcAt6XSA"/>
+        <updated>2024-01-10T20:00:31.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BREAKING!! BITCOIN ETF IN 1 HOUR!!! SEC WILL SHOCK EVERYONE!!!]]></title>
+        <id>https://www.youtube.com/watch?v=VXBXCarKcts</id>
+        <link href="https://www.youtube.com/watch?v=VXBXCarKcts"/>
+        <updated>2024-01-10T17:33:15.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Arbitrage Trading Bot Tutorial (Step-by-Step Guide)]]></title>
+        <id>https://www.youtube.com/watch?v=UkB2Dsfj-fI</id>
+        <link href="https://www.youtube.com/watch?v=UkB2Dsfj-fI"/>
+        <updated>2024-01-10T14:00:22.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -114,12 +420,84 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Best Crypto Wallets 2024!! (Mobile, Hardware, MPC)]]></title>
+        <id>https://www.youtube.com/watch?v=Isk9qoK62o8</id>
+        <link href="https://www.youtube.com/watch?v=Isk9qoK62o8"/>
+        <updated>2024-01-09T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How this Blockchain dev makes $4K+ PER DAY with trading bot step by step breakdown]]></title>
+        <id>https://www.youtube.com/watch?v=hoadr1QY3pk</id>
+        <link href="https://www.youtube.com/watch?v=hoadr1QY3pk"/>
+        <updated>2024-01-08T20:00:15.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Learn to Code using AI - ChatGPT Programming Tutorial (Full Course)]]></title>
         <id>https://www.youtube.com/watch?v=dJhlMn2otxA</id>
         <link href="https://www.youtube.com/watch?v=dJhlMn2otxA"/>
         <updated>2024-01-08T15:31:36.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT (WATCH BEFORE JANUARY 10th)]]></title>
+        <id>https://www.youtube.com/watch?v=yKAcWTQTdN0</id>
+        <link href="https://www.youtube.com/watch?v=yKAcWTQTdN0"/>
+        <updated>2024-01-08T14:00:47.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Layer 2's Are the Way to Make it In 2024...]]></title>
+        <id>https://www.youtube.com/watch?v=u_tI5hsFJwM</id>
+        <link href="https://www.youtube.com/watch?v=u_tI5hsFJwM"/>
+        <updated>2024-01-06T18:32:35.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何购买加密货币？  2024年推荐新手的加密货币交易所 ！   新用户注册均有高额空投奖励！开始 赚取你的加密财富第一桶金吧！]]></title>
+        <id>https://www.youtube.com/watch?v=kaHoI-5fZr0</id>
+        <link href="https://www.youtube.com/watch?v=kaHoI-5fZr0"/>
+        <updated>2024-01-06T14:15:04.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Blockchain 2X Faster than Solana ($SEI)]]></title>
+        <id>https://www.youtube.com/watch?v=7qoJaHkz3-o</id>
+        <link href="https://www.youtube.com/watch?v=7qoJaHkz3-o"/>
+        <updated>2024-01-05T20:00:03.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NO ONE IS TALKING ABOUT THESE “MILLIONAIRE ALTCOIN AIRDROPS”]]></title>
+        <id>https://www.youtube.com/watch?v=lTxHdpAUUFw</id>
+        <link href="https://www.youtube.com/watch?v=lTxHdpAUUFw"/>
+        <updated>2024-01-04T20:34:31.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐 2024年必玩的10款链游： 边玩边赚， 10 倍财富密码大揭秘 ！]]></title>
+        <id>https://www.youtube.com/watch?v=sVh7Nc1Vyds</id>
+        <link href="https://www.youtube.com/watch?v=sVh7Nc1Vyds"/>
+        <updated>2024-01-04T14:52:40.000Z</updated>
+        <author>
+            <name>链求君</name>
         </author>
     </entry>
     <entry>
@@ -132,12 +510,48 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Blackrock Bitcoin ETF Approval Will HAPPEN!! Pumping These Coins By 10x!!!!]]></title>
+        <id>https://www.youtube.com/watch?v=82DXkVJfZAQ</id>
+        <link href="https://www.youtube.com/watch?v=82DXkVJfZAQ"/>
+        <updated>2024-01-03T21:47:10.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Full Stack React Developer Course with Appwrite]]></title>
         <id>https://www.youtube.com/watch?v=Bvwq_S0n2pk</id>
         <link href="https://www.youtube.com/watch?v=Bvwq_S0n2pk"/>
         <updated>2024-01-03T14:09:25.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遇到貔貅盘了！ 偶遇只能买不能卖的币。 如何预防蜜罐诈骗，第三方审计平台都不靠谱！ 小心币圈套路 ！]]></title>
+        <id>https://www.youtube.com/watch?v=5BgGrb75j4k</id>
+        <link href="https://www.youtube.com/watch?v=5BgGrb75j4k"/>
+        <updated>2024-01-03T09:58:49.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This crypto trading bot will PRINT MONEY in 2024!]]></title>
+        <id>https://www.youtube.com/watch?v=qqavgOOHg5I</id>
+        <link href="https://www.youtube.com/watch?v=qqavgOOHg5I"/>
+        <updated>2024-01-02T20:00:26.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Isn't What It Seems!! BEWARE of this VC Pump & Dump!!]]></title>
+        <id>https://www.youtube.com/watch?v=LYg6ZDd635o</id>
+        <link href="https://www.youtube.com/watch?v=LYg6ZDd635o"/>
+        <updated>2024-01-01T20:13:18.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

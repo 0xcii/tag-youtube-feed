@@ -404,6 +404,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Rmu238I9d0U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rmu238I9d0U",
+          "publishedOn": "2024-01-31T14:00:31.000Z",
+          "wordCount": null,
+          "title": "Ether.fi Tutorial (Ethereum Restaking with EigenLayer)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TKlpqHnZQ3M",
           "author": null,
           "description": "",
@@ -541,16 +551,6 @@
           "publishedOn": "2024-01-10T14:00:22.000Z",
           "wordCount": null,
           "title": "OKX Arbitrage Trading Bot Tutorial (Step-by-Step Guide)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Isk9qoK62o8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Isk9qoK62o8",
-          "publishedOn": "2024-01-09T14:00:30.000Z",
-          "wordCount": null,
-          "title": "Best Crypto Wallets 2024!! (Mobile, Hardware, MPC)",
           "imageUrl": null
         }
       ]

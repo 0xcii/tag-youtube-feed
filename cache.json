@@ -588,6 +588,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZAt0Daoplxs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZAt0Daoplxs",
+          "publishedOn": "2024-01-31T20:00:10.000Z",
+          "wordCount": null,
+          "title": "Wish you bought bitcoin at $1? Do this instead",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_pIdz8TQZI0",
           "author": null,
           "description": "",

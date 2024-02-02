@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-02T11:01:53.091Z</id>
+    <id>urn:2024-02-02T12:09:43.451Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-02T11:01:53.091Z</updated>
+    <updated>2024-02-02T12:09:43.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[如何参与 Mode 网络的空投奖励？ 获得积分并兑换代币奖励！ 快速指南]]></title>
+        <id>https://www.youtube.com/watch?v=K4WzYhPcGjo</id>
+        <link href="https://www.youtube.com/watch?v=K4WzYhPcGjo"/>
+        <updated>2024-02-02T11:46:45.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aevo 明牌空投！ 时间紧，看完立刻去做，体验去中心化的合约交易平台！]]></title>
         <id>https://www.youtube.com/watch?v=CkZy6Opu5e8</id>

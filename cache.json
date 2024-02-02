@@ -424,6 +424,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XltZIXB-Jgc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XltZIXB-Jgc",
+          "publishedOn": "2024-02-02T14:00:32.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: DON'T GET TRAPPED!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=04nmpInKe_A",
           "author": null,
           "description": "",
@@ -561,16 +571,6 @@
           "publishedOn": "2024-01-15T14:00:01.000Z",
           "wordCount": null,
           "title": "FULL Cryptocurrency Trading Course - From Beginner To EXPERT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mlYTUn5NUDs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mlYTUn5NUDs",
-          "publishedOn": "2024-01-11T14:00:30.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: TIME TO ACT NOW!!",
           "imageUrl": null
         }
       ]

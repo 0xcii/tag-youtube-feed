@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-04T07:01:55.408Z</id>
+    <id>urn:2024-02-04T08:06:39.951Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-04T07:01:55.408Z</updated>
+    <updated>2024-02-04T08:06:39.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -597,15 +597,6 @@
         <updated>2024-01-06T14:15:04.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Blockchain 2X Faster than Solana ($SEI)]]></title>
-        <id>https://www.youtube.com/watch?v=7qoJaHkz3-o</id>
-        <link href="https://www.youtube.com/watch?v=7qoJaHkz3-o"/>
-        <updated>2024-01-05T20:00:03.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

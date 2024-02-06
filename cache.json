@@ -424,6 +424,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Q3ESE2PDnoM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q3ESE2PDnoM",
+          "publishedOn": "2024-02-06T14:00:30.000Z",
+          "wordCount": null,
+          "title": "BIGGEST Altcoin Opportunity 2024!? (EigenLayer Restaking)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Cbo100S-ZqQ",
           "author": null,
           "description": "",
@@ -561,16 +571,6 @@
           "publishedOn": "2024-01-17T14:00:47.000Z",
           "wordCount": null,
           "title": "CRYPTO: YOU NEED TO SEE THIS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VLLW7dtK4iM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VLLW7dtK4iM",
-          "publishedOn": "2024-01-16T14:00:30.000Z",
-          "wordCount": null,
-          "title": "Best Crypto Trading Platforms 2024!! (Full Guide & Review)",
           "imageUrl": null
         }
       ]

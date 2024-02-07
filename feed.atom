@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-07T15:03:09.736Z</id>
+    <id>urn:2024-02-07T16:07:18.130Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-07T15:03:09.736Z</updated>
+    <updated>2024-02-07T16:07:18.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Career Change to Code - The Complete Guide]]></title>
+        <id>https://www.youtube.com/watch?v=YdWkUdMxMvM</id>
+        <link href="https://www.youtube.com/watch?v=YdWkUdMxMvM"/>
+        <updated>2024-02-07T15:49:07.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This CRYPTO Will Have A BILLIONAIRE Altcoin Ecosystem Built Around It in 2024!!]]></title>
+        <id>https://www.youtube.com/watch?v=K8lTvuQXycg</id>
+        <link href="https://www.youtube.com/watch?v=K8lTvuQXycg"/>
+        <updated>2024-02-07T15:21:27.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT - IT"S HAPPENING NOW]]></title>
         <id>https://www.youtube.com/watch?v=WEjWTF87VDI</id>
@@ -519,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python User Interface Project – Use PyQt5 to Code a Music Player]]></title>
-        <id>https://www.youtube.com/watch?v=DjutoyfCl2c</id>
-        <link href="https://www.youtube.com/watch?v=DjutoyfCl2c"/>
-        <updated>2024-01-17T15:57:44.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chico Crypto’s Portfolio REVEALED!! Top 10 Crypto Coins We HODL!!!???]]></title>
         <id>https://www.youtube.com/watch?v=06UuUz4A58c</id>
         <link href="https://www.youtube.com/watch?v=06UuUz4A58c"/>
@@ -552,15 +561,6 @@
         <updated>2024-01-15T20:00:17.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This ALTCOIN Will Outperform Both BTC & ETH (It’s Getting An ETF Too)]]></title>
-        <id>https://www.youtube.com/watch?v=6HIK3E4_m1k</id>
-        <link href="https://www.youtube.com/watch?v=6HIK3E4_m1k"/>
-        <updated>2024-01-11T19:48:50.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

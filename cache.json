@@ -93,6 +93,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YdWkUdMxMvM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YdWkUdMxMvM",
+          "publishedOn": "2024-02-07T15:49:07.000Z",
+          "wordCount": null,
+          "title": "Career Change to Code - The Complete Guide",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5rNk7m_zlAg",
           "author": null,
           "description": "",
@@ -231,16 +241,6 @@
           "wordCount": null,
           "title": "How to Get a Developer Job – Even in This Economy [Full Course]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DjutoyfCl2c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DjutoyfCl2c",
-          "publishedOn": "2024-01-17T15:57:44.000Z",
-          "wordCount": null,
-          "title": "Python User Interface Project – Use PyQt5 to Code a Music Player",
-          "imageUrl": null
         }
       ]
     },
@@ -266,6 +266,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=K8lTvuQXycg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K8lTvuQXycg",
+          "publishedOn": "2024-02-07T15:21:27.000Z",
+          "wordCount": null,
+          "title": "This CRYPTO Will Have A BILLIONAIRE Altcoin Ecosystem Built Around It in 2024!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=H7Uv8Tabrk0",
           "author": null,
@@ -404,16 +414,6 @@
           "publishedOn": "2024-01-16T19:57:47.000Z",
           "wordCount": null,
           "title": "Chico Crypto’s Portfolio REVEALED!! Top 10 Crypto Coins We HODL!!!???",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6HIK3E4_m1k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6HIK3E4_m1k",
-          "publishedOn": "2024-01-11T19:48:50.000Z",
-          "wordCount": null,
-          "title": "This ALTCOIN Will Outperform Both BTC & ETH (It’s Getting An ETF Too)",
           "imageUrl": null
         }
       ]

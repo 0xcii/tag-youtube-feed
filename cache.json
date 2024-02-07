@@ -424,6 +424,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WEjWTF87VDI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WEjWTF87VDI",
+          "publishedOn": "2024-02-07T14:00:22.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT - IT\"S HAPPENING NOW",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Q3ESE2PDnoM",
           "author": null,
           "description": "",
@@ -561,16 +571,6 @@
           "publishedOn": "2024-01-18T14:00:33.000Z",
           "wordCount": null,
           "title": "EigenLayer Tutorial (How to Restake ETH on EigenLayer)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yaqLpA1HwAQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yaqLpA1HwAQ",
-          "publishedOn": "2024-01-17T14:00:47.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: YOU NEED TO SEE THIS",
           "imageUrl": null
         }
       ]

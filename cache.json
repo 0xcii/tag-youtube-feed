@@ -424,6 +424,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zlPF3txlNps",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zlPF3txlNps",
+          "publishedOn": "2024-02-08T14:00:59.000Z",
+          "wordCount": null,
+          "title": "Pendle.fi Tutorial (Pendle Finance Explained & Strategies)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WEjWTF87VDI",
           "author": null,
           "description": "",
@@ -561,16 +571,6 @@
           "publishedOn": "2024-01-19T14:00:07.000Z",
           "wordCount": null,
           "title": "How to Use VPVR on TradingView (Volume Profile Visible Range Indicator Trading)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gchyoHimjPw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gchyoHimjPw",
-          "publishedOn": "2024-01-18T14:00:33.000Z",
-          "wordCount": null,
-          "title": "EigenLayer Tutorial (How to Restake ETH on EigenLayer)",
           "imageUrl": null
         }
       ]

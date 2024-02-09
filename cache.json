@@ -424,6 +424,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1JO4cNQN0fs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1JO4cNQN0fs",
+          "publishedOn": "2024-02-09T14:00:01.000Z",
+          "wordCount": null,
+          "title": "How to Send Crypto from Binance to Binance (Internal & Blockchain Transfer)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zlPF3txlNps",
           "author": null,
           "description": "",
@@ -561,16 +571,6 @@
           "publishedOn": "2024-01-22T14:00:54.000Z",
           "wordCount": null,
           "title": "How to Deposit & Withdraw Crypto from Binance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CPKoVgrRbSI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CPKoVgrRbSI",
-          "publishedOn": "2024-01-19T14:00:07.000Z",
-          "wordCount": null,
-          "title": "How to Use VPVR on TradingView (Volume Profile Visible Range Indicator Trading)",
           "imageUrl": null
         }
       ]

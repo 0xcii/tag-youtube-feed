@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-12T15:06:29.024Z</id>
+    <id>urn:2024-02-12T16:06:30.481Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-12T15:06:29.024Z</updated>
+    <updated>2024-02-12T16:06:30.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn SvelteKit – Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=vb7CgDcA_6U</id>
+        <link href="https://www.youtube.com/watch?v=vb7CgDcA_6U"/>
+        <updated>2024-02-12T15:21:46.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO EMERGENCY ALERT (WE ARE BREAKING THROUGH)]]></title>
         <id>https://www.youtube.com/watch?v=ytMkptKyOLU</id>
@@ -516,15 +525,6 @@
         <updated>2024-01-22T20:00:09.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Assistants API – Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=qHPonmSX4Ms</id>
-        <link href="https://www.youtube.com/watch?v=qHPonmSX4Ms"/>
-        <updated>2024-01-22T15:32:10.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

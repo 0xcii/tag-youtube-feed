@@ -579,7 +579,18 @@
       "title": "EatTheBlocks",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=L6vIZoN1HMo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L6vIZoN1HMo",
+          "publishedOn": "2024-02-13T06:57:52.000Z",
+          "wordCount": null,
+          "title": "🔴 Start Your Blockchain Career In 2024",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Dapp University",

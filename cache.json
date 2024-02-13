@@ -267,6 +267,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VDqKZuEI5Ms",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VDqKZuEI5Ms",
+          "publishedOn": "2024-02-13T17:44:12.000Z",
+          "wordCount": null,
+          "title": "BEWARE!! SOLANA is lying to everyone!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tIq6xV1Uj2U",
           "author": null,
           "description": "",
@@ -404,16 +414,6 @@
           "publishedOn": "2024-01-23T20:58:18.000Z",
           "wordCount": null,
           "title": "Bitcoin CRASH: They LIED to US!!! ETF Was a TRAP!! What's NEXT!??",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gXFtO31FkVc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gXFtO31FkVc",
-          "publishedOn": "2024-01-21T16:21:51.000Z",
-          "wordCount": null,
-          "title": "Here Are the Top 10 Crypto Assets in Chico Crypto's Portfolio!!!",
           "imageUrl": null
         }
       ]

@@ -267,6 +267,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HsUVCcTDf1E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HsUVCcTDf1E",
+          "publishedOn": "2024-02-14T20:42:25.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Buyers: You Have 60 Days Left to Change Your Life FOREVER!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VDqKZuEI5Ms",
           "author": null,
           "description": "",
@@ -404,16 +414,6 @@
           "publishedOn": "2024-01-24T16:14:55.000Z",
           "wordCount": null,
           "title": "Billionaires Act Like They HATE Crypto. But The REALITY is....THIS!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jrsydkgLEwg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jrsydkgLEwg",
-          "publishedOn": "2024-01-23T20:58:18.000Z",
-          "wordCount": null,
-          "title": "Bitcoin CRASH: They LIED to US!!! ETF Was a TRAP!! What's NEXT!??",
           "imageUrl": null
         }
       ]
@@ -617,6 +617,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GN-wt5_qjpc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GN-wt5_qjpc",
+          "publishedOn": "2024-02-14T20:00:05.000Z",
+          "wordCount": null,
+          "title": "High school dropout made $1,000,000 off crypto airdrops - steal their strategy",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=csFAroylhjM",
           "author": null,

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-15T01:38:40.190Z</id>
+    <id>urn:2024-02-15T02:13:17.723Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-15T01:38:40.190Z</updated>
+    <updated>2024-02-15T02:13:17.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -604,15 +604,6 @@
         <id>https://www.youtube.com/watch?v=pN6xJLaVHTs</id>
         <link href="https://www.youtube.com/watch?v=pN6xJLaVHTs"/>
         <updated>2024-01-18T01:12:56.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何领取以太坊测试网 Holesky 的 ETH ？]]></title>
-        <id>https://www.youtube.com/watch?v=EpoNB47UEPQ</id>
-        <link href="https://www.youtube.com/watch?v=EpoNB47UEPQ"/>
-        <updated>2024-01-16T14:02:49.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

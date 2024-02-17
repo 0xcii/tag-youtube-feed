@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-17T19:01:48.430Z</id>
+    <id>urn:2024-02-17T20:02:48.742Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-17T19:01:48.430Z</updated>
+    <updated>2024-02-17T20:02:48.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This "AI ALTCOIN” is the Only Crypto You NEED!! Big Gains IMMINENT!!!]]></title>
+        <id>https://www.youtube.com/watch?v=RSF8Nf0VOFU</id>
+        <link href="https://www.youtube.com/watch?v=RSF8Nf0VOFU"/>
+        <updated>2024-02-17T19:12:17.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Bitcoin Price Prediction - EVERYONE’S WRONG!]]></title>
         <id>https://www.youtube.com/watch?v=sqkxf_yJ6Zg</id>
@@ -550,15 +559,6 @@
         <id>https://www.youtube.com/watch?v=EFzs6v5b6QI</id>
         <link href="https://www.youtube.com/watch?v=EFzs6v5b6QI"/>
         <updated>2024-01-28T13:59:39.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["ETHEREUM ALL IN" Next Month!!?? My Million Dollar Strategy REVEALED!!!]]></title>
-        <id>https://www.youtube.com/watch?v=FEhk3vCkvts</id>
-        <link href="https://www.youtube.com/watch?v=FEhk3vCkvts"/>
-        <updated>2024-01-26T20:32:17.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

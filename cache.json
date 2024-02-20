@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bjbVUuFi5Wk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bjbVUuFi5Wk",
+          "publishedOn": "2024-02-20T16:30:07.000Z",
+          "wordCount": null,
+          "title": "Resume Projects",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2ZLl8GAk1X4",
           "author": null,
           "description": "",
@@ -200,16 +210,6 @@
           "publishedOn": "2024-01-31T16:20:36.000Z",
           "wordCount": null,
           "title": "GitHub Foundations Certification Course – Pass the exam in 10 hours!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BAregq0sdyY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BAregq0sdyY",
-          "publishedOn": "2024-01-30T16:12:54.000Z",
-          "wordCount": null,
-          "title": "Deep Learning Interview Prep Course",
           "imageUrl": null
         }
       ]

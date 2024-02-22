@@ -403,6 +403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HDq2jhkVWss",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HDq2jhkVWss",
+          "publishedOn": "2024-02-22T14:00:19.000Z",
+          "wordCount": null,
+          "title": "OKX Trading Tutorial (Professional Guide)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AphKwdyRvlw",
           "author": null,
           "description": "",
@@ -540,16 +550,6 @@
           "publishedOn": "2024-02-02T14:00:32.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: DON'T GET TRAPPED!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=04nmpInKe_A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=04nmpInKe_A",
-          "publishedOn": "2024-02-01T14:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Use Cardano Lace Wallet (Stake ADA, Recieve, Send, Swap, Lend)",
           "imageUrl": null
         }
       ]

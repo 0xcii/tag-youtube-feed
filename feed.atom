@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-23T14:03:31.425Z</id>
+    <id>urn:2024-02-23T15:06:24.606Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-23T14:03:31.425Z</updated>
+    <updated>2024-02-23T15:06:24.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Web3 Wallet Tutorial (How to Use Web3 Wallet)]]></title>
+        <id>https://www.youtube.com/watch?v=wxu1F8gJqDI</id>
+        <link href="https://www.youtube.com/watch?v=wxu1F8gJqDI"/>
+        <updated>2024-02-23T14:00:44.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logical And &&]]></title>
         <id>https://www.youtube.com/watch?v=PFRzf5AR1Sw</id>
@@ -516,15 +525,6 @@
         <updated>2024-02-02T19:32:04.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: DON'T GET TRAPPED!]]></title>
-        <id>https://www.youtube.com/watch?v=XltZIXB-Jgc</id>
-        <link href="https://www.youtube.com/watch?v=XltZIXB-Jgc"/>
-        <updated>2024-02-02T14:00:32.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

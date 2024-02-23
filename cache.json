@@ -246,6 +246,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T8pg4UhJVPY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T8pg4UhJVPY",
+          "publishedOn": "2024-02-23T20:10:51.000Z",
+          "wordCount": null,
+          "title": "Proof Bitcoin Will Break $69,000 Before the BTC Halving (April 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Pm6ZimT4W-k",
           "author": null,
           "description": "",
@@ -383,16 +393,6 @@
           "publishedOn": "2024-01-30T19:22:24.000Z",
           "wordCount": null,
           "title": "BREAKING!! CHINA’S 1ST BITCOIN ETF GOES LIVE IN JUST 10 DAYS!!! (MAX BULLISH)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f3BEsjl3THs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f3BEsjl3THs",
-          "publishedOn": "2024-01-29T17:48:35.000Z",
-          "wordCount": null,
-          "title": "Ethereum Will SHOCK Everyone In Just 45 days",
           "imageUrl": null
         }
       ]

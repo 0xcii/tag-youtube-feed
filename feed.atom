@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-27T14:03:47.542Z</id>
+    <id>urn:2024-02-27T15:04:33.055Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-27T14:03:47.542Z</updated>
+    <updated>2024-02-27T15:04:33.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More]]></title>
+        <id>https://www.youtube.com/watch?v=mEsleV16qdo</id>
+        <link href="https://www.youtube.com/watch?v=mEsleV16qdo"/>
+        <updated>2024-02-27T14:07:37.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Swap Crypto in MetaMask (MetaMask Swap Tutorial)]]></title>
+        <id>https://www.youtube.com/watch?v=ebnW9lXv4Us</id>
+        <link href="https://www.youtube.com/watch?v=ebnW9lXv4Us"/>
+        <updated>2024-02-27T14:00:25.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Ethereum hits $20,000 - developer explains]]></title>
         <id>https://www.youtube.com/watch?v=wJk2m07UtSE</id>
@@ -498,24 +516,6 @@
         <updated>2024-02-06T20:05:44.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Boot & Spring Data JPA – Complete Course]]></title>
-        <id>https://www.youtube.com/watch?v=5rNk7m_zlAg</id>
-        <link href="https://www.youtube.com/watch?v=5rNk7m_zlAg"/>
-        <updated>2024-02-06T15:25:40.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGGEST Altcoin Opportunity 2024!? (EigenLayer Restaking)]]></title>
-        <id>https://www.youtube.com/watch?v=Q3ESE2PDnoM</id>
-        <link href="https://www.youtube.com/watch?v=Q3ESE2PDnoM"/>
-        <updated>2024-02-06T14:00:30.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

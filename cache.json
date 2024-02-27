@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mEsleV16qdo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mEsleV16qdo",
+          "publishedOn": "2024-02-27T14:07:37.000Z",
+          "wordCount": null,
+          "title": "Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mCjRYS1Wr0Q",
           "author": null,
           "description": "",
@@ -220,16 +230,6 @@
           "publishedOn": "2024-02-07T15:49:07.000Z",
           "wordCount": null,
           "title": "Career Change to Code - The Complete Guide [Full Course for Aspiring Developers]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5rNk7m_zlAg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5rNk7m_zlAg",
-          "publishedOn": "2024-02-06T15:25:40.000Z",
-          "wordCount": null,
-          "title": "Spring Boot & Spring Data JPA – Complete Course",
           "imageUrl": null
         }
       ]
@@ -403,6 +403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ebnW9lXv4Us",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ebnW9lXv4Us",
+          "publishedOn": "2024-02-27T14:00:25.000Z",
+          "wordCount": null,
+          "title": "How to Swap Crypto in MetaMask (MetaMask Swap Tutorial)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vAdrxmpHvRU",
           "author": null,
           "description": "",
@@ -540,16 +550,6 @@
           "publishedOn": "2024-02-07T14:00:22.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT - IT\"S HAPPENING NOW",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q3ESE2PDnoM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q3ESE2PDnoM",
-          "publishedOn": "2024-02-06T14:00:30.000Z",
-          "wordCount": null,
-          "title": "BIGGEST Altcoin Opportunity 2024!? (EigenLayer Restaking)",
           "imageUrl": null
         }
       ]

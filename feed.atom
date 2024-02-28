@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-28T13:03:49.718Z</id>
+    <id>urn:2024-02-28T14:02:32.265Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-28T13:03:49.718Z</updated>
+    <updated>2024-02-28T14:02:32.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Auto-Invest Tutorial 2024 (Crypto DCA on Binance)]]></title>
+        <id>https://www.youtube.com/watch?v=kn4zGQlzVTI</id>
+        <link href="https://www.youtube.com/watch?v=kn4zGQlzVTI"/>
+        <updated>2024-02-28T14:00:36.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1分钟线上开卡，支持加密货币充值的VISA卡推荐！ 可以购买X、Telegram 会员、ChatGPT 等]]></title>
+        <id>https://www.youtube.com/watch?v=gielvmy-0dg</id>
+        <link href="https://www.youtube.com/watch?v=gielvmy-0dg"/>
+        <updated>2024-02-28T13:46:27.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More]]></title>
         <id>https://www.youtube.com/watch?v=mEsleV16qdo</id>
@@ -498,15 +516,6 @@
         <updated>2024-02-07T15:21:27.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT - IT"S HAPPENING NOW]]></title>
-        <id>https://www.youtube.com/watch?v=WEjWTF87VDI</id>
-        <link href="https://www.youtube.com/watch?v=WEjWTF87VDI"/>
-        <updated>2024-02-07T14:00:22.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-29T14:08:06.508Z</id>
+    <id>urn:2024-02-29T15:05:30.368Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-29T14:08:06.508Z</updated>
+    <updated>2024-02-29T15:05:30.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: THIS IS SHOCKING!]]></title>
+        <id>https://www.youtube.com/watch?v=mreX-ZeRisM</id>
+        <link href="https://www.youtube.com/watch?v=mreX-ZeRisM"/>
+        <updated>2024-02-29T14:00:37.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BREAKING: $63,000 Bitcoin - Crypto's about to go nuts!]]></title>
         <id>https://www.youtube.com/watch?v=aJH0a1jXp0M</id>
@@ -498,15 +507,6 @@
         <updated>2024-02-08T15:27:37.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pendle.fi Tutorial (Pendle Finance Explained & Strategies)]]></title>
-        <id>https://www.youtube.com/watch?v=zlPF3txlNps</id>
-        <link href="https://www.youtube.com/watch?v=zlPF3txlNps"/>
-        <updated>2024-02-08T14:00:59.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

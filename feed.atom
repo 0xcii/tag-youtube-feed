@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-03T07:01:53.775Z</id>
+    <id>urn:2024-03-03T08:07:50.309Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-03T07:01:53.775Z</updated>
+    <updated>2024-03-03T08:07:50.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -588,15 +588,6 @@
         <updated>2024-02-03T01:53:34.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive Ethereum Explosion Incoming - Developer Explains]]></title>
-        <id>https://www.youtube.com/watch?v=Rj7mytioN78</id>
-        <link href="https://www.youtube.com/watch?v=Rj7mytioN78"/>
-        <updated>2024-02-02T20:00:11.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

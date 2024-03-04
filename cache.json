@@ -34,16 +34,6 @@
           "wordCount": null,
           "title": "VLVT.Finance 质押USDT赚钱收益，邀请好友获得分红奖励！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qC34zQkrbFg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qC34zQkrbFg",
-          "publishedOn": "2024-02-04T03:43:12.000Z",
-          "wordCount": null,
-          "title": "如何使用 Rabby Wallet ？ 一个即将空投的钱包，使用即可获得积分奖励！ 用户友好，使用起来方便安全！",
-          "imageUrl": null
         }
       ]
     },
@@ -52,6 +42,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YrtFtdTTfv0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YrtFtdTTfv0",
+          "publishedOn": "2024-03-04T15:33:36.000Z",
+          "wordCount": null,
+          "title": "Learn C# – Full Course with Mini-Projects",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ixsr2RyZcv4",
           "author": null,
@@ -190,16 +190,6 @@
           "publishedOn": "2024-02-13T15:41:39.000Z",
           "wordCount": null,
           "title": "Learn p5.js for Creative Coding – 5 Beginner Projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vb7CgDcA_6U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vb7CgDcA_6U",
-          "publishedOn": "2024-02-12T15:21:46.000Z",
-          "wordCount": null,
-          "title": "Learn SvelteKit – Full Course for Beginners",
           "imageUrl": null
         }
       ]

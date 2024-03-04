@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-04T13:08:10.033Z</id>
+    <id>urn:2024-03-04T14:04:05.145Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-04T13:08:10.033Z</updated>
+    <updated>2024-03-04T14:04:05.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: THIS IS INSANE (MUST WATCH)]]></title>
+        <id>https://www.youtube.com/watch?v=zBcrnkaLfLM</id>
+        <link href="https://www.youtube.com/watch?v=zBcrnkaLfLM"/>
+        <updated>2024-03-04T14:00:49.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’m Only Buying This “AI Altcoin” RIGHT NOW!! Biggest Opportunity Last Chance!!!]]></title>
         <id>https://www.youtube.com/watch?v=AyN75vwUn3Y</id>
@@ -498,15 +507,6 @@
         <updated>2024-02-12T15:21:46.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO EMERGENCY ALERT (WE ARE BREAKING THROUGH)]]></title>
-        <id>https://www.youtube.com/watch?v=ytMkptKyOLU</id>
-        <link href="https://www.youtube.com/watch?v=ytMkptKyOLU"/>
-        <updated>2024-02-12T14:00:46.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

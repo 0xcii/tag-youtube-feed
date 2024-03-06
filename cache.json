@@ -557,6 +557,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rhMuzS560So",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rhMuzS560So",
+          "publishedOn": "2024-03-06T14:51:51.000Z",
+          "wordCount": null,
+          "title": "Bitcoin REJECTED at $69k! What happens next? Developer explains.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=w0ZVEMIc7Fw",
           "author": null,
           "description": "",

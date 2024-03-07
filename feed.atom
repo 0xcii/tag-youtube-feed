@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-07T16:06:45.426Z</id>
+    <id>urn:2024-03-07T17:02:41.395Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-07T16:06:45.426Z</updated>
+    <updated>2024-03-07T17:02:41.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Build a Virtual 3D Art Gallery – Three.js Tutorial / Code-a-Long]]></title>
+        <title type="html"><![CDATA[Code a Virtual 3D Art Gallery – Three.js JavaScript Tutorial / Code-a-Long]]></title>
         <id>https://www.youtube.com/watch?v=imqiYWidUIA</id>
         <link href="https://www.youtube.com/watch?v=imqiYWidUIA"/>
         <updated>2024-03-07T15:08:17.000Z</updated>
@@ -87,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn C# – Full Course with Mini-Projects]]></title>
+        <title type="html"><![CDATA[Learn C# Programming – Full Course with Mini-Projects]]></title>
         <id>https://www.youtube.com/watch?v=YrtFtdTTfv0</id>
         <link href="https://www.youtube.com/watch?v=YrtFtdTTfv0"/>
         <updated>2024-03-04T15:33:36.000Z</updated>

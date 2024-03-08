@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-08T20:04:21.361Z</id>
+    <id>urn:2024-03-08T21:05:29.727Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-08T20:04:21.361Z</updated>
+    <updated>2024-03-08T21:05:29.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The ONLY Crypto Coins I’m Buying RIGHT NOW!!! (Next BIG PUMPS!!)]]></title>
+        <id>https://www.youtube.com/watch?v=zTvfrOyfbGU</id>
+        <link href="https://www.youtube.com/watch?v=zTvfrOyfbGU"/>
+        <updated>2024-03-08T20:00:55.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto will go INSANE if this happens!]]></title>
+        <id>https://www.youtube.com/watch?v=2Qw19hPv9H0</id>
+        <link href="https://www.youtube.com/watch?v=2Qw19hPv9H0"/>
+        <updated>2024-03-08T20:00:01.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Having Fun in Tech with Cassidy Williams – freeCodeCamp Podcast]]></title>
         <id>https://www.youtube.com/watch?v=T-dzgrlgmm0</id>
@@ -570,15 +588,6 @@
         <updated>2024-02-09T20:00:27.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE REAL TRUTH OF SOLANA!!! ALL HELL IS ABOUT TO BREAK LOOSE!!!!]]></title>
-        <id>https://www.youtube.com/watch?v=EglqjT-exsE</id>
-        <link href="https://www.youtube.com/watch?v=EglqjT-exsE"/>
-        <updated>2024-02-08T19:05:00.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

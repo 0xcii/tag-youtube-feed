@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-14T19:03:13.898Z</id>
+    <id>urn:2024-03-14T20:04:16.701Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-14T19:03:13.898Z</updated>
+    <updated>2024-03-14T20:04:16.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BTC to $250,000 is 100% WRONG!! The Real Number Will SHOCK YOU!!!]]></title>
+        <id>https://www.youtube.com/watch?v=PvBbRtvcx2Y</id>
+        <link href="https://www.youtube.com/watch?v=PvBbRtvcx2Y"/>
+        <updated>2024-03-14T19:08:29.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Trust Wallet Tutorial (Swap, Send, Stake SOL)]]></title>
         <id>https://www.youtube.com/watch?v=ImLekG-Usbs</id>
@@ -525,15 +534,6 @@
         <updated>2024-02-19T20:00:06.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This "AI ALTCOIN” is the Only Crypto You NEED!! Big Gains IMMINENT!!!]]></title>
-        <id>https://www.youtube.com/watch?v=RSF8Nf0VOFU</id>
-        <link href="https://www.youtube.com/watch?v=RSF8Nf0VOFU"/>
-        <updated>2024-02-17T19:12:17.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

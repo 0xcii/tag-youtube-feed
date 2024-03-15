@@ -526,6 +526,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aEW73rNkWKk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aEW73rNkWKk",
+          "publishedOn": "2024-03-15T19:00:00.000Z",
+          "wordCount": null,
+          "title": "This AI crypto project pays passive income!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dX4Tp7uulws",
           "author": null,
           "description": "",

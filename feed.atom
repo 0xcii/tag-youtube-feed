@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-15T14:06:23.226Z</id>
+    <id>urn:2024-03-15T15:05:08.497Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-15T14:06:23.226Z</updated>
+    <updated>2024-03-15T15:05:08.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Stay-at-Home Mom to Developer at Age 36 [freeCodeCamp Podcast #115]]]></title>
+        <id>https://www.youtube.com/watch?v=WomQr-jRO1c</id>
+        <link href="https://www.youtube.com/watch?v=WomQr-jRO1c"/>
+        <updated>2024-03-15T14:18:36.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: A MASSIVE SHAKEOUT]]></title>
+        <id>https://www.youtube.com/watch?v=KfLivq6bTFg</id>
+        <link href="https://www.youtube.com/watch?v=KfLivq6bTFg"/>
+        <updated>2024-03-15T14:00:14.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC to $250,000 is 100% WRONG!! The Real Number Will SHOCK YOU!!!]]></title>
         <id>https://www.youtube.com/watch?v=PvBbRtvcx2Y</id>
@@ -456,15 +474,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Binance Web3 Wallet Tutorial (How to Use Web3 Wallet)]]></title>
-        <id>https://www.youtube.com/watch?v=wxu1F8gJqDI</id>
-        <link href="https://www.youtube.com/watch?v=wxu1F8gJqDI"/>
-        <updated>2024-02-23T14:00:44.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Logical And &&]]></title>
         <id>https://www.youtube.com/watch?v=PFRzf5AR1Sw</id>
         <link href="https://www.youtube.com/watch?v=PFRzf5AR1Sw"/>
@@ -507,15 +516,6 @@
         <updated>2024-02-21T20:00:19.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure AI Fundamentals Certification 2024 (AI-900) - Full Course to PASS the Exam]]></title>
-        <id>https://www.youtube.com/watch?v=hHjmr_YOqnU</id>
-        <link href="https://www.youtube.com/watch?v=hHjmr_YOqnU"/>
-        <updated>2024-02-21T14:56:59.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

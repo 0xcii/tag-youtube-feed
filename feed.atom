@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-17T07:02:39.634Z</id>
+    <id>urn:2024-03-17T08:07:11.810Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-17T07:02:39.634Z</updated>
+    <updated>2024-03-17T08:07:11.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -541,15 +541,6 @@
         <id>https://www.youtube.com/watch?v=5j3soXLboCk</id>
         <link href="https://www.youtube.com/watch?v=5j3soXLboCk"/>
         <updated>2024-02-19T20:00:06.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Bitcoin Price Prediction - EVERYONE’S WRONG!]]></title>
-        <id>https://www.youtube.com/watch?v=sqkxf_yJ6Zg</id>
-        <link href="https://www.youtube.com/watch?v=sqkxf_yJ6Zg"/>
-        <updated>2024-02-16T20:00:31.000Z</updated>
         <author>
             <name>Dapp University</name>
         </author>

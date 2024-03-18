@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=31KTdfRH6nY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=31KTdfRH6nY",
+          "publishedOn": "2024-03-18T14:11:22.000Z",
+          "wordCount": null,
+          "title": "Building web applications in Java with Spring Boot 3 – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WomQr-jRO1c",
           "author": null,
           "description": "",
@@ -180,16 +190,6 @@
           "publishedOn": "2024-02-22T20:50:48.000Z",
           "wordCount": null,
           "title": "Logical And &&",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DJtX3S7qx2s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DJtX3S7qx2s",
-          "publishedOn": "2024-02-22T16:00:09.000Z",
-          "wordCount": null,
-          "title": "Google Gemini AI Course for Beginners",
           "imageUrl": null
         }
       ]
@@ -363,6 +363,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QDtPCgjkkwU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QDtPCgjkkwU",
+          "publishedOn": "2024-03-18T14:00:21.000Z",
+          "wordCount": null,
+          "title": "Best Altcoins Set for Huge Upside 2024!?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KfLivq6bTFg",
           "author": null,
           "description": "",
@@ -500,16 +510,6 @@
           "publishedOn": "2024-02-27T14:00:25.000Z",
           "wordCount": null,
           "title": "How to Swap Crypto in MetaMask (MetaMask Swap Tutorial)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vAdrxmpHvRU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vAdrxmpHvRU",
-          "publishedOn": "2024-02-26T14:00:42.000Z",
-          "wordCount": null,
-          "title": "CRYPTO BULL RUN GUIDE (TIME RUNNING OUT)",
           "imageUrl": null
         }
       ]

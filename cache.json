@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k1IaYPGel3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k1IaYPGel3s",
+          "publishedOn": "2024-03-19T14:19:29.000Z",
+          "wordCount": null,
+          "title": "Intro to Stacks – Data Structure Explained",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=31KTdfRH6nY",
           "author": null,
           "description": "",
@@ -180,16 +190,6 @@
           "publishedOn": "2024-02-23T15:00:47.000Z",
           "wordCount": null,
           "title": "Working at OpenAI with Logan Kilpatrick – freeCodeCamp Podcast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PFRzf5AR1Sw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PFRzf5AR1Sw",
-          "publishedOn": "2024-02-22T20:50:48.000Z",
-          "wordCount": null,
-          "title": "Logical And &&",
           "imageUrl": null
         }
       ]
@@ -363,6 +363,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qRqHHOVd8bo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qRqHHOVd8bo",
+          "publishedOn": "2024-03-19T14:00:41.000Z",
+          "wordCount": null,
+          "title": "How to Swap Crypto in Coinbase Wallet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QDtPCgjkkwU",
           "author": null,
           "description": "",
@@ -500,16 +510,6 @@
           "publishedOn": "2024-02-28T14:00:36.000Z",
           "wordCount": null,
           "title": "Binance Auto-Invest Tutorial 2024 (Crypto DCA on Binance)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ebnW9lXv4Us",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ebnW9lXv4Us",
-          "publishedOn": "2024-02-27T14:00:25.000Z",
-          "wordCount": null,
-          "title": "How to Swap Crypto in MetaMask (MetaMask Swap Tutorial)",
           "imageUrl": null
         }
       ]

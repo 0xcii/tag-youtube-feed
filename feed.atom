@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-19T14:01:48.998Z</id>
+    <id>urn:2024-03-19T15:04:10.898Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-19T14:01:48.998Z</updated>
+    <updated>2024-03-19T15:04:10.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intro to Stacks – Data Structure Explained]]></title>
+        <id>https://www.youtube.com/watch?v=k1IaYPGel3s</id>
+        <link href="https://www.youtube.com/watch?v=k1IaYPGel3s"/>
+        <updated>2024-03-19T14:19:29.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Swap Crypto in Coinbase Wallet]]></title>
+        <id>https://www.youtube.com/watch?v=qRqHHOVd8bo</id>
+        <link href="https://www.youtube.com/watch?v=qRqHHOVd8bo"/>
+        <updated>2024-03-19T14:00:41.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 5 ways to make $$$ as a blockchain developer]]></title>
         <id>https://www.youtube.com/watch?v=teom6JdJRzU</id>
@@ -447,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Swap Crypto in MetaMask (MetaMask Swap Tutorial)]]></title>
-        <id>https://www.youtube.com/watch?v=ebnW9lXv4Us</id>
-        <link href="https://www.youtube.com/watch?v=ebnW9lXv4Us"/>
-        <updated>2024-02-27T14:00:25.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Ethereum hits $20,000 - developer explains]]></title>
         <id>https://www.youtube.com/watch?v=wJk2m07UtSE</id>
         <link href="https://www.youtube.com/watch?v=wJk2m07UtSE"/>
@@ -505,15 +514,6 @@
         <id>https://www.youtube.com/watch?v=mCjRYS1Wr0Q</id>
         <link href="https://www.youtube.com/watch?v=mCjRYS1Wr0Q"/>
         <updated>2024-02-23T15:00:47.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logical And &&]]></title>
-        <id>https://www.youtube.com/watch?v=PFRzf5AR1Sw</id>
-        <link href="https://www.youtube.com/watch?v=PFRzf5AR1Sw"/>
-        <updated>2024-02-22T20:50:48.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

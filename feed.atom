@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-20T07:03:33.024Z</id>
+    <id>urn:2024-03-20T08:07:43.208Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-20T07:03:33.024Z</updated>
+    <updated>2024-03-20T08:07:43.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -541,15 +541,6 @@
         <id>https://www.youtube.com/watch?v=rCx7HWGUFsM</id>
         <link href="https://www.youtube.com/watch?v=rCx7HWGUFsM"/>
         <updated>2024-02-21T20:00:19.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Altcoins for February 2024 - Developer Explains]]></title>
-        <id>https://www.youtube.com/watch?v=5j3soXLboCk</id>
-        <link href="https://www.youtube.com/watch?v=5j3soXLboCk"/>
-        <updated>2024-02-19T20:00:06.000Z</updated>
         <author>
             <name>Dapp University</name>
         </author>

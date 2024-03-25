@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NnSIKA77pD8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NnSIKA77pD8",
+          "publishedOn": "2024-03-25T14:49:13.000Z",
+          "wordCount": null,
+          "title": "Data Analytics with the Google Stack (SQL, Python, Data Visualization, Data Analysis)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lSxiMMs5y-4",
           "author": null,
           "description": "",
@@ -160,16 +170,6 @@
           "publishedOn": "2024-03-01T15:15:57.000Z",
           "wordCount": null,
           "title": "AI and the Future of Education with Seth Goldin – freeCodeCamp Podcast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bmmQA8A-yUA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bmmQA8A-yUA",
-          "publishedOn": "2024-02-29T15:28:50.000Z",
-          "wordCount": null,
-          "title": "Machine Learning in 2024 – Beginner's Course",
           "imageUrl": null
         }
       ]
@@ -333,6 +333,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OGHUfdK1k0I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OGHUfdK1k0I",
+          "publishedOn": "2024-03-25T14:00:16.000Z",
+          "wordCount": null,
+          "title": "How to Swap Crypto in Rabby Wallet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UHHMNRzqWEo",
           "author": null,
           "description": "",
@@ -470,16 +480,6 @@
           "publishedOn": "2024-03-05T14:00:50.000Z",
           "wordCount": null,
           "title": "How to Send Crypto from MetaMask to Exchange (Binance, Coinbase etc)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zBcrnkaLfLM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zBcrnkaLfLM",
-          "publishedOn": "2024-03-04T14:00:49.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: THIS IS INSANE (MUST WATCH)",
           "imageUrl": null
         }
       ]

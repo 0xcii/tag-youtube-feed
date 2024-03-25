@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-25T15:06:52.262Z</id>
+    <id>urn:2024-03-25T16:07:21.772Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-25T15:06:52.262Z</updated>
+    <updated>2024-03-25T16:07:21.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 I will sell my crypto when...]]></title>
+        <id>https://www.youtube.com/watch?v=nXK5UwFdv_c</id>
+        <link href="https://www.youtube.com/watch?v=nXK5UwFdv_c"/>
+        <updated>2024-03-25T15:39:31.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Analytics with the Google Stack (SQL, Python, Data Visualization, Data Analysis)]]></title>
         <id>https://www.youtube.com/watch?v=NnSIKA77pD8</id>

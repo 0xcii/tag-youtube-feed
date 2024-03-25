@@ -488,7 +488,18 @@
       "title": "EatTheBlocks",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nXK5UwFdv_c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nXK5UwFdv_c",
+          "publishedOn": "2024-03-25T15:39:31.000Z",
+          "wordCount": null,
+          "title": "🔴 I will sell my crypto when...",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Dapp University",

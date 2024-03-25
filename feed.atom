@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-25T03:06:46.138Z</id>
+    <id>urn:2024-03-25T04:08:24.158Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-25T03:06:46.138Z</updated>
+    <updated>2024-03-25T04:08:24.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,30 +24,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OKX App Tutorial 2024 (How to Use OKX App for Beginners)]]></title>
-        <id>https://www.youtube.com/watch?v=UHHMNRzqWEo</id>
-        <link href="https://www.youtube.com/watch?v=UHHMNRzqWEo"/>
-        <updated>2024-03-22T14:00:20.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blackrock Goes Ethereum ALL IN!!! But Also For This ALTCOIN!!!! (It’s Undervalued)]]></title>
         <id>https://www.youtube.com/watch?v=ywvLImBgDNg</id>
         <link href="https://www.youtube.com/watch?v=ywvLImBgDNg"/>
         <updated>2024-03-21T19:23:00.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: WE"RE ON THE EDGE OF GLORY]]></title>
-        <id>https://www.youtube.com/watch?v=f56UNRZx6Bc</id>
-        <link href="https://www.youtube.com/watch?v=f56UNRZx6Bc"/>
-        <updated>2024-03-21T14:00:25.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -78,30 +60,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Aerodrome Finance (BASE Network DeX Swaps & Liquidity)]]></title>
-        <id>https://www.youtube.com/watch?v=4aYI0-vwOcA</id>
-        <link href="https://www.youtube.com/watch?v=4aYI0-vwOcA"/>
-        <updated>2024-03-20T14:00:02.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intro to Stacks – Data Structure Explained]]></title>
         <id>https://www.youtube.com/watch?v=k1IaYPGel3s</id>
         <link href="https://www.youtube.com/watch?v=k1IaYPGel3s"/>
         <updated>2024-03-19T14:19:29.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Swap Crypto in Coinbase Wallet]]></title>
-        <id>https://www.youtube.com/watch?v=qRqHHOVd8bo</id>
-        <link href="https://www.youtube.com/watch?v=qRqHHOVd8bo"/>
-        <updated>2024-03-19T14:00:41.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -120,15 +84,6 @@
         <updated>2024-03-18T14:11:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Altcoins Set for Huge Upside 2024!?]]></title>
-        <id>https://www.youtube.com/watch?v=QDtPCgjkkwU</id>
-        <link href="https://www.youtube.com/watch?v=QDtPCgjkkwU"/>
-        <updated>2024-03-18T14:00:21.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -159,30 +114,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: A MASSIVE SHAKEOUT]]></title>
-        <id>https://www.youtube.com/watch?v=KfLivq6bTFg</id>
-        <link href="https://www.youtube.com/watch?v=KfLivq6bTFg"/>
-        <updated>2024-03-15T14:00:14.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BTC to $250,000 is 100% WRONG!! The Real Number Will SHOCK YOU!!!]]></title>
         <id>https://www.youtube.com/watch?v=PvBbRtvcx2Y</id>
         <link href="https://www.youtube.com/watch?v=PvBbRtvcx2Y"/>
         <updated>2024-03-14T19:08:29.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Trust Wallet Tutorial (Swap, Send, Stake SOL)]]></title>
-        <id>https://www.youtube.com/watch?v=ImLekG-Usbs</id>
-        <link href="https://www.youtube.com/watch?v=ImLekG-Usbs"/>
-        <updated>2024-03-14T14:00:19.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -201,15 +138,6 @@
         <updated>2024-03-13T14:26:23.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Crypto from Coinbase Wallet to Exchange (Coinbase, Binance etc)]]></title>
-        <id>https://www.youtube.com/watch?v=YjvNMkfnmwo</id>
-        <link href="https://www.youtube.com/watch?v=YjvNMkfnmwo"/>
-        <updated>2024-03-13T14:00:33.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -249,15 +177,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: UPWARDS CAPITULATION HAPPENING FAST]]></title>
-        <id>https://www.youtube.com/watch?v=MCf-ArrtMPY</id>
-        <link href="https://www.youtube.com/watch?v=MCf-ArrtMPY"/>
-        <updated>2024-03-12T14:00:16.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Definitive guide for this Bull Run!!]]></title>
         <id>https://www.youtube.com/watch?v=-Ufx1cd6-dk</id>
         <link href="https://www.youtube.com/watch?v=-Ufx1cd6-dk"/>
@@ -273,15 +192,6 @@
         <updated>2024-03-11T14:16:38.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read Candlestick & Volume Charts in Binance]]></title>
-        <id>https://www.youtube.com/watch?v=2yPzuL3rnDw</id>
-        <link href="https://www.youtube.com/watch?v=2yPzuL3rnDw"/>
-        <updated>2024-03-11T14:00:02.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -321,15 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Base Crypto Network with MetaMask (Receive, Send, Trade, Lend)]]></title>
-        <id>https://www.youtube.com/watch?v=EY1_Axo0IKo</id>
-        <link href="https://www.youtube.com/watch?v=EY1_Axo0IKo"/>
-        <updated>2024-03-08T14:00:08.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 Crypto Bull Run Strategy Guide (Last Chance to Catch MILLIONS)]]></title>
         <id>https://www.youtube.com/watch?v=AWcANLA2mgU</id>
         <link href="https://www.youtube.com/watch?v=AWcANLA2mgU"/>
@@ -345,15 +246,6 @@
         <updated>2024-03-07T15:08:17.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: YOU MUST SEE THIS!]]></title>
-        <id>https://www.youtube.com/watch?v=mlmHq6EOgnw</id>
-        <link href="https://www.youtube.com/watch?v=mlmHq6EOgnw"/>
-        <updated>2024-03-07T14:00:28.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -375,30 +267,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Binance Margin vs Futures Explained (Best for Trading Crypto?)]]></title>
-        <id>https://www.youtube.com/watch?v=ffG6k-_u4uo</id>
-        <link href="https://www.youtube.com/watch?v=ffG6k-_u4uo"/>
-        <updated>2024-03-06T14:00:27.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Task Manager Coding Project Tutorial – Next.js, React, Prisma, MongoDB]]></title>
         <id>https://www.youtube.com/watch?v=OHvfgaDl-yY</id>
         <link href="https://www.youtube.com/watch?v=OHvfgaDl-yY"/>
         <updated>2024-03-05T15:47:57.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Crypto from MetaMask to Exchange (Binance, Coinbase etc)]]></title>
-        <id>https://www.youtube.com/watch?v=zE9WAYaZ5V8</id>
-        <link href="https://www.youtube.com/watch?v=zE9WAYaZ5V8"/>
-        <updated>2024-03-05T14:00:50.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -426,15 +300,6 @@
         <updated>2024-03-04T15:33:36.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: THIS IS INSANE (MUST WATCH)]]></title>
-        <id>https://www.youtube.com/watch?v=zBcrnkaLfLM</id>
-        <link href="https://www.youtube.com/watch?v=zBcrnkaLfLM"/>
-        <updated>2024-03-04T14:00:49.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

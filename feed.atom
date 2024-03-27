@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-27T19:02:17.551Z</id>
+    <id>urn:2024-03-27T20:05:21.677Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-27T19:02:17.551Z</updated>
+    <updated>2024-03-27T20:05:21.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The ONLY Crypto Coin I’m Buying RIGHT NOW!! (Blackrock Is Too!!)]]></title>
+        <id>https://www.youtube.com/watch?v=4QHo2_LTDr4</id>
+        <link href="https://www.youtube.com/watch?v=4QHo2_LTDr4"/>
+        <updated>2024-03-27T18:59:35.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 How To Create an ERC20 Token on Base with Solidity? (Step-by-step Tutorial)]]></title>
         <id>https://www.youtube.com/watch?v=WriD0Q01VME</id>
@@ -532,15 +541,6 @@
         <id>https://www.youtube.com/watch?v=AyN75vwUn3Y</id>
         <link href="https://www.youtube.com/watch?v=AyN75vwUn3Y"/>
         <updated>2024-03-02T19:47:04.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Profits Will Rotate Into These Crypto Coins!! Get Ready RIGHT NOW!!!]]></title>
-        <id>https://www.youtube.com/watch?v=Xpwf2qdXDnE</id>
-        <link href="https://www.youtube.com/watch?v=Xpwf2qdXDnE"/>
-        <updated>2024-03-01T19:51:27.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5kJv254sebQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5kJv254sebQ",
+          "publishedOn": "2024-03-28T14:35:52.000Z",
+          "wordCount": null,
+          "title": "Automate Boring Tasks – No-Code Automation Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sFnAHC9lLaw",
           "author": null,
           "description": "",
@@ -180,16 +190,6 @@
           "publishedOn": "2024-03-05T15:47:57.000Z",
           "wordCount": null,
           "title": "Task Manager Coding Project Tutorial – Next.js, React, Prisma, MongoDB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YrtFtdTTfv0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YrtFtdTTfv0",
-          "publishedOn": "2024-03-04T15:33:36.000Z",
-          "wordCount": null,
-          "title": "Learn C# Programming – Full Course with Mini-Projects",
           "imageUrl": null
         }
       ]
@@ -374,6 +374,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=g3kc3PHm8Kc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g3kc3PHm8Kc",
+          "publishedOn": "2024-03-28T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Martingale Trading Strategy Tutorial (Crypto Martingale Trading Bot)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dVNJj2V6Esk",
           "author": null,
           "description": "",
@@ -511,16 +521,6 @@
           "publishedOn": "2024-03-08T14:00:08.000Z",
           "wordCount": null,
           "title": "How to Use Base Crypto Network with MetaMask (Receive, Send, Trade, Lend)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mlmHq6EOgnw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mlmHq6EOgnw",
-          "publishedOn": "2024-03-07T14:00:28.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: YOU MUST SEE THIS!",
           "imageUrl": null
         }
       ]

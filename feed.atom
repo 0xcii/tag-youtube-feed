@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-28T04:07:03.130Z</id>
+    <id>urn:2024-03-28T05:06:52.711Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-28T04:07:03.130Z</updated>
+    <updated>2024-03-28T05:06:52.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Send USDT on Tron TRC20 from Binance (To Another Wallet)]]></title>
+        <title type="html"><![CDATA[How to Send USDT on Tron TRC20 (To Another Wallet)]]></title>
         <id>https://www.youtube.com/watch?v=dVNJj2V6Esk</id>
         <link href="https://www.youtube.com/watch?v=dVNJj2V6Esk"/>
         <updated>2024-03-27T14:00:34.000Z</updated>

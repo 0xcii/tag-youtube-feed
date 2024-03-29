@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KYAakLooVuE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KYAakLooVuE",
+          "publishedOn": "2024-03-29T14:00:44.000Z",
+          "wordCount": null,
+          "title": "He's helped THOUSANDS of people learn to code [Leon Noel of #100devs on freeCodeCamp Podcast #117]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5kJv254sebQ",
           "author": null,
           "description": "",
@@ -170,16 +180,6 @@
           "publishedOn": "2024-03-07T15:08:17.000Z",
           "wordCount": null,
           "title": "Code a Virtual 3D Art Gallery – Three.js JavaScript Tutorial / Code-a-Long",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OHvfgaDl-yY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OHvfgaDl-yY",
-          "publishedOn": "2024-03-05T15:47:57.000Z",
-          "wordCount": null,
-          "title": "Task Manager Coding Project Tutorial – Next.js, React, Prisma, MongoDB",
           "imageUrl": null
         }
       ]
@@ -364,6 +364,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xcZszS1qHMU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xcZszS1qHMU",
+          "publishedOn": "2024-03-29T14:00:52.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: A MESSAGE FOR INVESTORS",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=g3kc3PHm8Kc",
           "author": null,
           "description": "",
@@ -501,16 +511,6 @@
           "publishedOn": "2024-03-11T14:00:02.000Z",
           "wordCount": null,
           "title": "How to Read Candlestick & Volume Charts in Binance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EY1_Axo0IKo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EY1_Axo0IKo",
-          "publishedOn": "2024-03-08T14:00:08.000Z",
-          "wordCount": null,
-          "title": "How to Use Base Crypto Network with MetaMask (Receive, Send, Trade, Lend)",
           "imageUrl": null
         }
       ]

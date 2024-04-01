@@ -384,6 +384,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EoWZFWw6yAk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EoWZFWw6yAk",
+          "publishedOn": "2024-04-01T14:00:11.000Z",
+          "wordCount": null,
+          "title": "How to Trade on Bybit Spot Trading (Professional Tips)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xcZszS1qHMU",
           "author": null,
           "description": "",
@@ -521,16 +531,6 @@
           "publishedOn": "2024-03-12T14:00:16.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: UPWARDS CAPITULATION HAPPENING FAST",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2yPzuL3rnDw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2yPzuL3rnDw",
-          "publishedOn": "2024-03-11T14:00:02.000Z",
-          "wordCount": null,
-          "title": "How to Read Candlestick & Volume Charts in Binance",
           "imageUrl": null
         }
       ]

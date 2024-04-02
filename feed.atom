@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-02T17:02:45.491Z</id>
+    <id>urn:2024-04-02T18:07:20.948Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-02T17:02:45.491Z</updated>
+    <updated>2024-04-02T18:07:20.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 11 VERY Profitable Business Ideas For Blockchain Developers]]></title>
+        <id>https://www.youtube.com/watch?v=Ih9c_HGKptU</id>
+        <link href="https://www.youtube.com/watch?v=Ih9c_HGKptU"/>
+        <updated>2024-04-02T16:55:43.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: A WARNING FOR THIS BITCOIN CYCLE]]></title>
         <id>https://www.youtube.com/watch?v=Oz64ZXkoWcE</id>

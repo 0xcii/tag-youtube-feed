@@ -79,7 +79,7 @@
           "link": "https://www.youtube.com/watch?v=VgzHT9quo5c",
           "publishedOn": "2024-04-02T13:25:52.000Z",
           "wordCount": null,
-          "title": "Understanding AI from Scratch – Neuaral Networks Without Libraries Course",
+          "title": "Understanding AI from Scratch – Neural Networks Course",
           "imageUrl": null
         },
         {
@@ -404,6 +404,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Oz64ZXkoWcE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Oz64ZXkoWcE",
+          "publishedOn": "2024-04-02T14:00:27.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: A WARNING FOR THIS BITCOIN CYCLE",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EoWZFWw6yAk",
           "author": null,
           "description": "",
@@ -541,16 +551,6 @@
           "publishedOn": "2024-03-13T14:00:33.000Z",
           "wordCount": null,
           "title": "How to Send Crypto from Coinbase Wallet to Exchange (Coinbase, Binance etc)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MCf-ArrtMPY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MCf-ArrtMPY",
-          "publishedOn": "2024-03-12T14:00:16.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: UPWARDS CAPITULATION HAPPENING FAST",
           "imageUrl": null
         }
       ]

@@ -561,6 +561,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BPScIQm7wfw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BPScIQm7wfw",
+          "publishedOn": "2024-04-03T16:25:30.000Z",
+          "wordCount": null,
+          "title": "🔴 Code a Bitcoin Trading Bot",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qMsL6XUbaUE",
           "author": null,
           "description": "",

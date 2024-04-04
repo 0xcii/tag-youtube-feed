@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-04T03:08:11.520Z</id>
+    <id>urn:2024-04-04T04:07:24.983Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-04T03:08:11.520Z</updated>
+    <updated>2024-04-04T04:07:24.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 11 VERY Profitable Business Ideas For Blockchain Developers]]></title>
+        <id>https://www.youtube.com/watch?v=Ih9c_HGKptU</id>
+        <link href="https://www.youtube.com/watch?v=Ih9c_HGKptU"/>
+        <updated>2024-04-04T03:38:51.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These *BRAND NEW* Altcoins Will Make You An INSTANT MILLIONAIRE!!!]]></title>
         <id>https://www.youtube.com/watch?v=5hp2Gh6_ZrA</id>
@@ -57,15 +66,6 @@
         <updated>2024-04-02T18:52:58.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 11 VERY Profitable Business Ideas For Blockchain Developers]]></title>
-        <id>https://www.youtube.com/watch?v=Ih9c_HGKptU</id>
-        <link href="https://www.youtube.com/watch?v=Ih9c_HGKptU"/>
-        <updated>2024-04-02T16:55:43.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

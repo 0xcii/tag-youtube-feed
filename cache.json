@@ -247,6 +247,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6GFaTpFeu7I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6GFaTpFeu7I",
+          "publishedOn": "2024-04-05T18:56:33.000Z",
+          "wordCount": null,
+          "title": "BITCOIN POST HALVING: $100,000 IS WRONG!! HERE’S WHAT HAPPENS INSTEAD!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5hp2Gh6_ZrA",
           "author": null,
           "description": "",
@@ -384,16 +394,6 @@
           "publishedOn": "2024-03-11T17:06:15.000Z",
           "wordCount": null,
           "title": "Definitive guide for this Bull Run!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ssgi6Gbfc3Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ssgi6Gbfc3Q",
-          "publishedOn": "2024-03-09T19:50:01.000Z",
-          "wordCount": null,
-          "title": "MOST Undervalued “Crypto Sector” Is Being Dominated By This COIN!!!",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-08T17:06:40.464Z</id>
+    <id>urn:2024-04-08T18:08:31.029Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-08T17:06:40.464Z</updated>
+    <updated>2024-04-08T18:08:31.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Crypto News]]></title>
+        <id>https://www.youtube.com/watch?v=wwardUAHuZg</id>
+        <link href="https://www.youtube.com/watch?v=wwardUAHuZg"/>
+        <updated>2024-04-08T18:00:05.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Found the Innovative DeFI Project That Will Change the Game in DeFi]]></title>
         <id>https://www.youtube.com/watch?v=rlPF3i4bpuI</id>

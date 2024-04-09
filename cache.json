@@ -404,6 +404,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DoygxaNLPyY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DoygxaNLPyY",
+          "publishedOn": "2024-04-09T14:00:13.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: UNDERSTANDING THE CYCLE",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QhqCd83MTMc",
           "author": null,
           "description": "",
@@ -541,16 +551,6 @@
           "publishedOn": "2024-03-20T14:00:02.000Z",
           "wordCount": null,
           "title": "How to Use Aerodrome Finance (BASE Network DeX Swaps & Liquidity)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qRqHHOVd8bo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qRqHHOVd8bo",
-          "publishedOn": "2024-03-19T14:00:41.000Z",
-          "wordCount": null,
-          "title": "How to Swap Crypto in Coinbase Wallet",
           "imageUrl": null
         }
       ]

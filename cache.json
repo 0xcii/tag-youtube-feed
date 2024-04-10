@@ -571,6 +571,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=K4WBAzYIwOg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K4WBAzYIwOg",
+          "publishedOn": "2024-04-10T17:22:00.000Z",
+          "wordCount": null,
+          "title": "🔴 My 2 cents on the Solidity developer survey 2023",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wwardUAHuZg",
           "author": null,
           "description": "",

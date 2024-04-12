@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-12T16:06:41.070Z</id>
+    <id>urn:2024-04-12T17:02:33.089Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-12T16:06:41.070Z</updated>
+    <updated>2024-04-12T17:02:33.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The ONLY Crypto Coins I’m Buying RIGHT NOW!! (Coinbase Is Too!!)]]></title>
+        <id>https://www.youtube.com/watch?v=y-PsWlcSv6w</id>
+        <link href="https://www.youtube.com/watch?v=y-PsWlcSv6w"/>
+        <updated>2024-04-12T16:13:41.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Artist Kass Moreno – freeCodeCamp Podcast #119]]></title>
         <id>https://www.youtube.com/watch?v=ZAkEpjDg26o</id>
@@ -624,15 +633,6 @@
         <updated>2024-03-15T19:00:00.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC to $250,000 is 100% WRONG!! The Real Number Will SHOCK YOU!!!]]></title>
-        <id>https://www.youtube.com/watch?v=PvBbRtvcx2Y</id>
-        <link href="https://www.youtube.com/watch?v=PvBbRtvcx2Y"/>
-        <updated>2024-03-14T19:08:29.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

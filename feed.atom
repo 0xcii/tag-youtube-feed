@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-14T05:53:11.579Z</id>
+    <id>urn:2024-04-14T07:47:44.322Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-14T05:53:11.579Z</updated>
+    <updated>2024-04-14T07:47:44.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -622,15 +622,6 @@
         <id>https://www.youtube.com/watch?v=teom6JdJRzU</id>
         <link href="https://www.youtube.com/watch?v=teom6JdJRzU"/>
         <updated>2024-03-18T19:00:29.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI crypto project pays passive income!]]></title>
-        <id>https://www.youtube.com/watch?v=aEW73rNkWKk</id>
-        <link href="https://www.youtube.com/watch?v=aEW73rNkWKk"/>
-        <updated>2024-03-15T19:00:00.000Z</updated>
         <author>
             <name>Dapp University</name>
         </author>

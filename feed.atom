@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-17T06:09:40.281Z</id>
+    <id>urn:2024-04-17T07:04:43.285Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-17T06:09:40.281Z</updated>
+    <updated>2024-04-17T07:04:43.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -624,15 +624,6 @@
         <updated>2024-03-20T19:01:30.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 ways to make $$$ as a blockchain developer]]></title>
-        <id>https://www.youtube.com/watch?v=teom6JdJRzU</id>
-        <link href="https://www.youtube.com/watch?v=teom6JdJRzU"/>
-        <updated>2024-03-18T19:00:29.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

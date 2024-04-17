@@ -571,6 +571,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i0gNmuq_llg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i0gNmuq_llg",
+          "publishedOn": "2024-04-17T16:06:35.000Z",
+          "wordCount": null,
+          "title": "🔴 Code your first Blockchain app",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=79vcJ-btVGw",
           "author": null,
           "description": "",

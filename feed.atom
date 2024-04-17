@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-17T09:04:45.265Z</id>
+    <id>urn:2024-04-17T10:06:18.781Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-17T09:04:45.265Z</updated>
+    <updated>2024-04-17T10:06:18.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 How Blockchain developers can become RICH with meme coins]]></title>
+        <id>https://www.youtube.com/watch?v=79vcJ-btVGw</id>
+        <link href="https://www.youtube.com/watch?v=79vcJ-btVGw"/>
+        <updated>2024-04-17T08:52:32.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Science Essentials – Crash Course in A/B Testing with Case Study]]></title>
         <id>https://www.youtube.com/watch?v=KZe0C0Qq4p0</id>

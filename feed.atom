@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-17T13:05:41.046Z</id>
+    <id>urn:2024-04-17T14:03:30.862Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-17T13:05:41.046Z</updated>
+    <updated>2024-04-17T14:03:30.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RAG From Scratch – Tutorial from LangChain Engineer]]></title>
+        <id>https://www.youtube.com/watch?v=sVcwVQRHIc8</id>
+        <link href="https://www.youtube.com/watch?v=sVcwVQRHIc8"/>
+        <updated>2024-04-17T13:54:43.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 How Blockchain developers can become RICH with meme coins]]></title>
         <id>https://www.youtube.com/watch?v=79vcJ-btVGw</id>
@@ -615,15 +624,6 @@
         <updated>2024-03-21T19:23:00.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical TypeScript – Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=JHEB7RhJG1Y</id>
-        <link href="https://www.youtube.com/watch?v=JHEB7RhJG1Y"/>
-        <updated>2024-03-21T13:22:58.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

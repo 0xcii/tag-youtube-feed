@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-18T14:03:30.944Z</id>
+    <id>urn:2024-04-18T15:05:59.364Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-18T14:03:30.944Z</updated>
+    <updated>2024-04-18T15:05:59.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Tron Network & Trust Wallet (TRC20 USDT, Send, Receive, Swap, Lend)]]></title>
+        <id>https://www.youtube.com/watch?v=zV2Vc-QyZDY</id>
+        <link href="https://www.youtube.com/watch?v=zV2Vc-QyZDY"/>
+        <updated>2024-04-18T14:00:53.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 How Blockchain developers can become RICH with meme coins]]></title>
         <id>https://www.youtube.com/watch?v=79vcJ-btVGw</id>
@@ -534,15 +543,6 @@
         <updated>2024-03-27T18:59:35.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send USDT on Tron TRC20 (To Another Wallet)]]></title>
-        <id>https://www.youtube.com/watch?v=dVNJj2V6Esk</id>
-        <link href="https://www.youtube.com/watch?v=dVNJj2V6Esk"/>
-        <updated>2024-03-27T14:00:34.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

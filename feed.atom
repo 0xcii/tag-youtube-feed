@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-18T17:02:41.623Z</id>
+    <id>urn:2024-04-18T18:07:44.253Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-18T17:02:41.623Z</updated>
+    <updated>2024-04-18T18:07:44.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[🔴 Code your first Blockchain app]]></title>
-        <id>https://www.youtube.com/watch?v=i0gNmuq_llg</id>
-        <link href="https://www.youtube.com/watch?v=i0gNmuq_llg"/>
-        <updated>2024-04-18T15:37:25.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Code your first Blockchain app (new stream)]]></title>
         <id>https://www.youtube.com/watch?v=-5j_6HscHiE</id>
         <link href="https://www.youtube.com/watch?v=-5j_6HscHiE"/>
         <updated>2024-04-18T15:23:01.000Z</updated>
@@ -60,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RAG From Scratch – Tutorial from LangChain Engineer]]></title>
+        <title type="html"><![CDATA[Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer]]></title>
         <id>https://www.youtube.com/watch?v=sVcwVQRHIc8</id>
         <link href="https://www.youtube.com/watch?v=sVcwVQRHIc8"/>
         <updated>2024-04-17T13:54:43.000Z</updated>

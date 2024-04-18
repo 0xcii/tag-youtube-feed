@@ -99,7 +99,7 @@
           "link": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
           "publishedOn": "2024-04-17T13:54:43.000Z",
           "wordCount": null,
-          "title": "RAG From Scratch – Tutorial from LangChain Engineer",
+          "title": "Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer",
           "imageUrl": null
         },
         {
@@ -571,23 +571,13 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=i0gNmuq_llg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i0gNmuq_llg",
-          "publishedOn": "2024-04-18T15:37:25.000Z",
-          "wordCount": null,
-          "title": "🔴 Code your first Blockchain app",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=-5j_6HscHiE",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=-5j_6HscHiE",
           "publishedOn": "2024-04-18T15:23:01.000Z",
           "wordCount": null,
-          "title": "🔴 Code your first Blockchain app (new stream)",
+          "title": "🔴 Code your first Blockchain app",
           "imageUrl": null
         },
         {

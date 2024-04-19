@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Zv9MsVSxqXo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zv9MsVSxqXo",
+          "publishedOn": "2024-04-19T14:33:52.000Z",
+          "wordCount": null,
+          "title": "CTO Andrew Brown on DevOps + Cloud Certification Exams [freeCodeCamp Podcast #120]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CzcfeL7ymbU",
           "author": null,
           "description": "",
@@ -220,16 +230,6 @@
           "publishedOn": "2024-03-26T14:25:14.000Z",
           "wordCount": null,
           "title": "Learn NestJS – Complete Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NnSIKA77pD8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NnSIKA77pD8",
-          "publishedOn": "2024-03-25T14:49:13.000Z",
-          "wordCount": null,
-          "title": "Data Analytics with the Google Stack (SQL, Python, Data Visualization, Data Analysis)",
           "imageUrl": null
         }
       ]
@@ -414,6 +414,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=d3ruR-hgUyA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d3ruR-hgUyA",
+          "publishedOn": "2024-04-19T14:00:29.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: THE TRUTH ABOUT THIS CRYPTO CYCLE",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zV2Vc-QyZDY",
           "author": null,
           "description": "",
@@ -551,16 +561,6 @@
           "publishedOn": "2024-03-29T14:00:52.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: A MESSAGE FOR INVESTORS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g3kc3PHm8Kc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g3kc3PHm8Kc",
-          "publishedOn": "2024-03-28T14:00:34.000Z",
-          "wordCount": null,
-          "title": "Martingale Trading Strategy Tutorial (Crypto Martingale Trading Bot)",
           "imageUrl": null
         }
       ]

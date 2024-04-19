@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-19T14:02:08.403Z</id>
+    <id>urn:2024-04-19T15:06:37.687Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-19T14:02:08.403Z</updated>
+    <updated>2024-04-19T15:06:37.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CTO Andrew Brown on DevOps + Cloud Certification Exams [freeCodeCamp Podcast #120]]]></title>
+        <id>https://www.youtube.com/watch?v=Zv9MsVSxqXo</id>
+        <link href="https://www.youtube.com/watch?v=Zv9MsVSxqXo"/>
+        <updated>2024-04-19T14:33:52.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: THE TRUTH ABOUT THIS CRYPTO CYCLE]]></title>
+        <id>https://www.youtube.com/watch?v=d3ruR-hgUyA</id>
+        <link href="https://www.youtube.com/watch?v=d3ruR-hgUyA"/>
+        <updated>2024-04-19T14:00:29.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 Code your first Blockchain app]]></title>
         <id>https://www.youtube.com/watch?v=-5j_6HscHiE</id>
@@ -537,15 +555,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Martingale Trading Strategy Tutorial (Crypto Martingale Trading Bot)]]></title>
-        <id>https://www.youtube.com/watch?v=g3kc3PHm8Kc</id>
-        <link href="https://www.youtube.com/watch?v=g3kc3PHm8Kc"/>
-        <updated>2024-03-28T14:00:34.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔴 Become a highly-paid Blockchain Developer in 2024]]></title>
         <id>https://www.youtube.com/watch?v=jYHg3wnwGr0</id>
         <link href="https://www.youtube.com/watch?v=jYHg3wnwGr0"/>
@@ -624,15 +633,6 @@
         <updated>2024-03-25T19:00:16.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Analytics with the Google Stack (SQL, Python, Data Visualization, Data Analysis)]]></title>
-        <id>https://www.youtube.com/watch?v=NnSIKA77pD8</id>
-        <link href="https://www.youtube.com/watch?v=NnSIKA77pD8"/>
-        <updated>2024-03-25T14:49:13.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

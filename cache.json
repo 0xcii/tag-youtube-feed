@@ -414,6 +414,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oH1QPLlPHLk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oH1QPLlPHLk",
+          "publishedOn": "2024-04-22T14:00:45.000Z",
+          "wordCount": null,
+          "title": "Jupiter Solana DeX Tutorial (with Phantom Wallet)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=d3ruR-hgUyA",
           "author": null,
           "description": "",
@@ -551,16 +561,6 @@
           "publishedOn": "2024-04-01T14:00:11.000Z",
           "wordCount": null,
           "title": "How to Trade on Bybit Spot Trading (Professional Tips)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xcZszS1qHMU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xcZszS1qHMU",
-          "publishedOn": "2024-03-29T14:00:52.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: A MESSAGE FOR INVESTORS",
           "imageUrl": null
         }
       ]

@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mXW7JHJM34k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mXW7JHJM34k",
+          "publishedOn": "2024-04-22T15:35:31.000Z",
+          "wordCount": null,
+          "title": "Intuitive SQL For Data Analytics - Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Zv9MsVSxqXo",
           "author": null,
           "description": "",
@@ -221,16 +231,6 @@
           "wordCount": null,
           "title": "Easily Automate Business Tasks – No-Code Automation Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sFnAHC9lLaw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sFnAHC9lLaw",
-          "publishedOn": "2024-03-26T14:25:14.000Z",
-          "wordCount": null,
-          "title": "Learn NestJS – Complete Course",
-          "imageUrl": null
         }
       ]
     },
@@ -256,6 +256,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=G1Zz8E7c1f8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G1Zz8E7c1f8",
+          "publishedOn": "2024-04-22T15:52:35.000Z",
+          "wordCount": null,
+          "title": "What will happen to BTC after the halving!??",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mfbdKCWsQdQ",
           "author": null,
@@ -394,16 +404,6 @@
           "publishedOn": "2024-03-27T18:59:35.000Z",
           "wordCount": null,
           "title": "The ONLY Crypto Coin I’m Buying RIGHT NOW!! (Blackrock Is Too!!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=75HnW40Ym4M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=75HnW40Ym4M",
-          "publishedOn": "2024-03-26T19:39:27.000Z",
-          "wordCount": null,
-          "title": "I Have Found the Crypto Coins Billionaires Are BUYING!! (10x Pumps Soon)",
           "imageUrl": null
         }
       ]

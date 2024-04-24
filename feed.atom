@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-24T06:09:23.846Z</id>
+    <id>urn:2024-04-24T07:04:03.569Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-24T06:09:23.846Z</updated>
+    <updated>2024-04-24T07:04:03.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -642,15 +642,6 @@
         <updated>2024-03-26T03:03:32.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Something Major happening to Bitcoin next month (Bitcoin Halving Explained)]]></title>
-        <id>https://www.youtube.com/watch?v=Wwen0QEz4k8</id>
-        <link href="https://www.youtube.com/watch?v=Wwen0QEz4k8"/>
-        <updated>2024-03-25T19:00:16.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

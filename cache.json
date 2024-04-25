@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R6WvJOiX99s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R6WvJOiX99s",
+          "publishedOn": "2024-04-25T14:35:42.000Z",
+          "wordCount": null,
+          "title": "TypeScript Platformer Game Tutorial – Kirby Clone",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dSykLAkmZ84",
           "author": null,
           "description": "",
@@ -200,16 +210,6 @@
           "publishedOn": "2024-04-03T15:15:48.000Z",
           "wordCount": null,
           "title": "Build a Dev Portfolio as a 2D Game – JavaScript Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VgzHT9quo5c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VgzHT9quo5c",
-          "publishedOn": "2024-04-02T13:25:52.000Z",
-          "wordCount": null,
-          "title": "Understanding AI from Scratch – Neural Networks Course",
           "imageUrl": null
         }
       ]
@@ -383,6 +383,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bLe6ChbYYkM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bLe6ChbYYkM",
+          "publishedOn": "2024-04-25T14:00:27.000Z",
+          "wordCount": null,
+          "title": "How to Use MetaMask Bridge (MetaMask Bridge Tutorial)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AEFkULIwvx4",
           "author": null,
           "description": "",
@@ -520,16 +530,6 @@
           "publishedOn": "2024-04-04T14:00:01.000Z",
           "wordCount": null,
           "title": "How to Recover Trust Wallet (Restore Wallet in App)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nS1rOaoGKMI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nS1rOaoGKMI",
-          "publishedOn": "2024-04-03T14:00:39.000Z",
-          "wordCount": null,
-          "title": "How to Send USDC on BASE (to Another Wallet)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-25T14:02:04.643Z</id>
+    <id>urn:2024-04-25T15:01:54.599Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-25T14:02:04.643Z</updated>
+    <updated>2024-04-25T15:01:54.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TypeScript Platformer Game Tutorial – Kirby Clone]]></title>
+        <id>https://www.youtube.com/watch?v=R6WvJOiX99s</id>
+        <link href="https://www.youtube.com/watch?v=R6WvJOiX99s"/>
+        <updated>2024-04-25T14:35:42.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use MetaMask Bridge (MetaMask Bridge Tutorial)]]></title>
+        <id>https://www.youtube.com/watch?v=bLe6ChbYYkM</id>
+        <link href="https://www.youtube.com/watch?v=bLe6ChbYYkM"/>
+        <updated>2024-04-25T14:00:27.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is the new token launched in the halving that exploded!??]]></title>
         <id>https://www.youtube.com/watch?v=MqnwDzLtopA</id>
@@ -501,15 +519,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Send USDC on BASE (to Another Wallet)]]></title>
-        <id>https://www.youtube.com/watch?v=nS1rOaoGKMI</id>
-        <link href="https://www.youtube.com/watch?v=nS1rOaoGKMI"/>
-        <updated>2024-04-03T14:00:39.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔴 Crypto News: Base exploding, meme coins, and more....]]></title>
         <id>https://www.youtube.com/watch?v=qMsL6XUbaUE</id>
         <link href="https://www.youtube.com/watch?v=qMsL6XUbaUE"/>
@@ -525,15 +534,6 @@
         <updated>2024-04-02T18:52:58.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding AI from Scratch – Neural Networks Course]]></title>
-        <id>https://www.youtube.com/watch?v=VgzHT9quo5c</id>
-        <link href="https://www.youtube.com/watch?v=VgzHT9quo5c"/>
-        <updated>2024-04-02T13:25:52.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

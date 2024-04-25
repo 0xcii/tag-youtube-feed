@@ -226,6 +226,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UrY1pWM9Dk8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UrY1pWM9Dk8",
+          "publishedOn": "2024-04-25T15:48:18.000Z",
+          "wordCount": null,
+          "title": "BREAKING!! Ethereum ETF Will Be SECRETLY Approved Next Month!! (100% PROOF)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MqnwDzLtopA",
           "author": null,
           "description": "",
@@ -363,16 +373,6 @@
           "publishedOn": "2024-04-02T18:52:58.000Z",
           "wordCount": null,
           "title": "These (2) Crypto Coins Are Better Than Ethereum!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lfOKRrZghX4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lfOKRrZghX4",
-          "publishedOn": "2024-03-30T16:18:00.000Z",
-          "wordCount": null,
-          "title": "This Crypto Coins Is About To…(DePIN Will Overtake AI)",
           "imageUrl": null
         }
       ]

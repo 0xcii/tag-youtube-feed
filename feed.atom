@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-25T15:01:54.599Z</id>
+    <id>urn:2024-04-25T16:07:36.605Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-25T15:01:54.599Z</updated>
+    <updated>2024-04-25T16:07:36.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BREAKING!! Ethereum ETF Will Be SECRETLY Approved Next Month!! (100% PROOF)]]></title>
+        <id>https://www.youtube.com/watch?v=UrY1pWM9Dk8</id>
+        <link href="https://www.youtube.com/watch?v=UrY1pWM9Dk8"/>
+        <updated>2024-04-25T15:48:18.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript Platformer Game Tutorial – Kirby Clone]]></title>
         <id>https://www.youtube.com/watch?v=R6WvJOiX99s</id>
@@ -579,15 +588,6 @@
         <updated>2024-03-31T03:57:23.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Crypto Coins Is About To…(DePIN Will Overtake AI)]]></title>
-        <id>https://www.youtube.com/watch?v=lfOKRrZghX4</id>
-        <link href="https://www.youtube.com/watch?v=lfOKRrZghX4"/>
-        <updated>2024-03-30T16:18:00.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

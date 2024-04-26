@@ -79,7 +79,7 @@
           "link": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
           "publishedOn": "2024-04-26T14:02:24.000Z",
           "wordCount": null,
-          "title": "Ben Awad is a 10x Programmer [freeCodeCamp Podcast #120]",
+          "title": "Ben Awad is a 10x Developer Who Sleeps 9 hours EVERY NIGHT [Podcast #121]",
           "imageUrl": null
         },
         {
@@ -236,6 +236,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ohMbzIQCk2g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ohMbzIQCk2g",
+          "publishedOn": "2024-04-26T15:29:16.000Z",
+          "wordCount": null,
+          "title": "Will the Ethereum ETF be approved next month!?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UrY1pWM9Dk8",
           "author": null,
           "description": "",
@@ -373,16 +383,6 @@
           "publishedOn": "2024-04-03T18:37:19.000Z",
           "wordCount": null,
           "title": "These *BRAND NEW* Altcoins Will Make You An INSTANT MILLIONAIRE!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OA-Hh_v4z4E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OA-Hh_v4z4E",
-          "publishedOn": "2024-04-02T18:52:58.000Z",
-          "wordCount": null,
-          "title": "These (2) Crypto Coins Are Better Than Ethereum!?",
           "imageUrl": null
         }
       ]
@@ -657,16 +657,6 @@
           "publishedOn": "2024-03-29T03:52:06.000Z",
           "wordCount": null,
           "title": "🔴 How To Create an ERC20 Token on Base with Solidity? (Step-by-step Tutorial)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jYHg3wnwGr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jYHg3wnwGr0",
-          "publishedOn": "2024-03-28T03:47:47.000Z",
-          "wordCount": null,
-          "title": "🔴 Become a highly-paid Blockchain Developer in 2024",
           "imageUrl": null
         }
       ]

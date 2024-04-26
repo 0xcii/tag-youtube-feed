@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-26T00:28:49.236Z</id>
+    <id>urn:2024-04-26T01:41:49.323Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-26T00:28:49.236Z</updated>
+    <updated>2024-04-26T01:41:49.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -132,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jupiter Solana DeX Tutorial (with Phantom Wallet)]]></title>
+        <title type="html"><![CDATA[Jupiter Exchange Solana DeX Tutorial (with Phantom Wallet)]]></title>
         <id>https://www.youtube.com/watch?v=oH1QPLlPHLk</id>
         <link href="https://www.youtube.com/watch?v=oH1QPLlPHLk"/>
         <updated>2024-04-22T14:00:45.000Z</updated>

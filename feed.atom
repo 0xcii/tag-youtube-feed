@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-26T05:04:39.290Z</id>
+    <id>urn:2024-04-26T06:08:56.570Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-26T05:04:39.290Z</updated>
+    <updated>2024-04-26T06:08:56.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Code a Blockchain App Step-By-Step Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=Bres_9sZYyY</id>
+        <link href="https://www.youtube.com/watch?v=Bres_9sZYyY"/>
+        <updated>2024-04-26T05:46:19.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5天时间让你本金翻一倍的空投！ Coinbase 投资 BTC生态项目 BOB 空投参与，稳定币无损赚空投！]]></title>
         <id>https://www.youtube.com/watch?v=27F_Goo_gnw</id>
@@ -55,15 +64,6 @@
         <id>https://www.youtube.com/watch?v=iof-J9cq9ms</id>
         <link href="https://www.youtube.com/watch?v=iof-J9cq9ms"/>
         <updated>2024-04-25T03:33:29.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Code a Blockchain App Step-By-Step Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=Bres_9sZYyY</id>
-        <link href="https://www.youtube.com/watch?v=Bres_9sZYyY"/>
-        <updated>2024-04-24T17:55:43.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

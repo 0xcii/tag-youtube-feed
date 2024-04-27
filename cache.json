@@ -648,16 +648,6 @@
           "wordCount": null,
           "title": "🔴 Crypto News: Base exploding, meme coins, and more....",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WriD0Q01VME",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WriD0Q01VME",
-          "publishedOn": "2024-03-29T03:52:06.000Z",
-          "wordCount": null,
-          "title": "🔴 How To Create an ERC20 Token on Base with Solidity? (Step-by-step Tutorial)",
-          "imageUrl": null
         }
       ]
     },

@@ -64,16 +64,6 @@
           "wordCount": null,
           "title": "「永赚大师是什么？」这个机器人真的让我找到了无限财富机会!   我再次获得 20倍回报 !  只需别人1/10的时间提前发现市场最新机会 ！ ｜ 基础链上教学介绍 ｜会员必修课 ｜ Alpha 挖掘机",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=100RAEpEQmI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=100RAEpEQmI",
-          "publishedOn": "2024-03-31T03:57:23.000Z",
-          "wordCount": null,
-          "title": "如何使用BASE链？ 如何在BASE链上获取免费空投奖励? BASE链空投策略教程 ｜ 3 个最值得参与的空投项目 ｜撸空投致富指南",
-          "imageUrl": null
         }
       ]
     },
@@ -82,6 +72,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Yjy837dDvOY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Yjy837dDvOY",
+          "publishedOn": "2024-04-29T15:10:56.000Z",
+          "wordCount": null,
+          "title": "Intro to AI Engineering – OpenAI JavaScript Tutorial",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
           "author": null,
@@ -220,16 +220,6 @@
           "publishedOn": "2024-04-05T15:15:04.000Z",
           "wordCount": null,
           "title": "Indie Game Dev Jabrils talks AI & Anime [freeCodeCamp Podcast #118]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SMq1IQRweDc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SMq1IQRweDc",
-          "publishedOn": "2024-04-04T13:00:33.000Z",
-          "wordCount": null,
-          "title": "Learn React Router v6 – Full Course",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-29T15:04:49.369Z</id>
+    <id>urn:2024-04-29T16:07:28.726Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-29T15:04:49.369Z</updated>
+    <updated>2024-04-29T16:07:28.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intro to AI Engineering – OpenAI JavaScript Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=Yjy837dDvOY</id>
+        <link href="https://www.youtube.com/watch?v=Yjy837dDvOY"/>
+        <updated>2024-04-29T15:10:56.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install MetaMask 2024 (MetaMask Extension Setup Tutorial)]]></title>
         <id>https://www.youtube.com/watch?v=f3vwOxSLBUc</id>
@@ -537,15 +546,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn React Router v6 – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=SMq1IQRweDc</id>
-        <link href="https://www.youtube.com/watch?v=SMq1IQRweDc"/>
-        <updated>2024-04-04T13:00:33.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔴 11 VERY Profitable Business Ideas For Blockchain Developers]]></title>
         <id>https://www.youtube.com/watch?v=Ih9c_HGKptU</id>
         <link href="https://www.youtube.com/watch?v=Ih9c_HGKptU"/>
@@ -595,15 +595,6 @@
         <id>https://www.youtube.com/watch?v=ULNWs-nmock</id>
         <link href="https://www.youtube.com/watch?v=ULNWs-nmock"/>
         <updated>2024-03-31T07:25:52.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用BASE链？ 如何在BASE链上获取免费空投奖励? BASE链空投策略教程 ｜ 3 个最值得参与的空投项目 ｜撸空投致富指南]]></title>
-        <id>https://www.youtube.com/watch?v=100RAEpEQmI</id>
-        <link href="https://www.youtube.com/watch?v=100RAEpEQmI"/>
-        <updated>2024-03-31T03:57:23.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

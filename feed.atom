@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-30T18:08:50.673Z</id>
+    <id>urn:2024-04-30T19:02:04.321Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-30T18:08:50.673Z</updated>
+    <updated>2024-04-30T19:02:04.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Code a DCA (Dollar Cost Average) App For Crypto]]></title>
+        <id>https://www.youtube.com/watch?v=92Vis4FOFyg</id>
+        <link href="https://www.youtube.com/watch?v=92Vis4FOFyg"/>
+        <updated>2024-04-30T18:42:17.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO Is Causing This Bitcoin CRASH!? (This is When It ENDS)]]></title>
+        <id>https://www.youtube.com/watch?v=TGsrggyhE-k</id>
+        <link href="https://www.youtube.com/watch?v=TGsrggyhE-k"/>
+        <updated>2024-04-30T18:07:14.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next.js vs React – What's the difference?]]></title>
         <id>https://www.youtube.com/watch?v=JB1aKAoj2o0</id>
@@ -105,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔴 Code a Blockchain App Step-By-Step Tutorial]]></title>
+        <title type="html"><![CDATA[🔴 Code a Meme Coin App Step-By-Step Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=Bres_9sZYyY</id>
         <link href="https://www.youtube.com/watch?v=Bres_9sZYyY"/>
         <updated>2024-04-26T05:46:19.000Z</updated>
@@ -541,15 +559,6 @@
         <id>https://www.youtube.com/watch?v=rlPF3i4bpuI</id>
         <link href="https://www.youtube.com/watch?v=rlPF3i4bpuI"/>
         <updated>2024-04-08T14:43:05.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BITCOIN POST HALVING: $100,000 IS WRONG!! HERE’S WHAT HAPPENS INSTEAD!!!]]></title>
-        <id>https://www.youtube.com/watch?v=6GFaTpFeu7I</id>
-        <link href="https://www.youtube.com/watch?v=6GFaTpFeu7I"/>
-        <updated>2024-04-05T18:56:33.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

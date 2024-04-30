@@ -236,6 +236,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TGsrggyhE-k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TGsrggyhE-k",
+          "publishedOn": "2024-04-30T18:07:14.000Z",
+          "wordCount": null,
+          "title": "WHO Is Causing This Bitcoin CRASH!? (This is When It ENDS)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pJRHdqRmsOI",
           "author": null,
           "description": "",
@@ -373,16 +383,6 @@
           "publishedOn": "2024-04-08T14:43:05.000Z",
           "wordCount": null,
           "title": "I Found the Innovative DeFI Project That Will Change the Game in DeFi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6GFaTpFeu7I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6GFaTpFeu7I",
-          "publishedOn": "2024-04-05T18:56:33.000Z",
-          "wordCount": null,
-          "title": "BITCOIN POST HALVING: $100,000 IS WRONG!! HERE’S WHAT HAPPENS INSTEAD!!!",
           "imageUrl": null
         }
       ]
@@ -550,13 +550,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=92Vis4FOFyg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=92Vis4FOFyg",
+          "publishedOn": "2024-04-30T18:42:17.000Z",
+          "wordCount": null,
+          "title": "🔴 Code a DCA (Dollar Cost Average) App For Crypto",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Bres_9sZYyY",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=Bres_9sZYyY",
           "publishedOn": "2024-04-26T05:46:19.000Z",
           "wordCount": null,
-          "title": "🔴 Code a Blockchain App Step-By-Step Tutorial",
+          "title": "🔴 Code a Meme Coin App Step-By-Step Tutorial",
           "imageUrl": null
         },
         {

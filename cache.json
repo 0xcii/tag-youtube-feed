@@ -393,6 +393,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=E_EBAFqmPJE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E_EBAFqmPJE",
+          "publishedOn": "2024-04-30T14:00:18.000Z",
+          "wordCount": null,
+          "title": "Bybit Derivatives Tutorial for Beginners (Bybit Futures Trading Explained In-Depth)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=f3vwOxSLBUc",
           "author": null,
           "description": "",
@@ -530,16 +540,6 @@
           "publishedOn": "2024-04-09T14:00:13.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: UNDERSTANDING THE CYCLE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QhqCd83MTMc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QhqCd83MTMc",
-          "publishedOn": "2024-04-08T14:00:16.000Z",
-          "wordCount": null,
-          "title": "How to Swap Crypto in Binance Web3 Wallet",
           "imageUrl": null
         }
       ]

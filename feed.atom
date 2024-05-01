@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-01T14:04:42.057Z</id>
+    <id>urn:2024-05-01T15:03:47.597Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-01T14:04:42.057Z</updated>
+    <updated>2024-05-01T15:03:47.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BREAKING!! Bitcoin Will Do The *UNEXPECTED* Today!! (CRASH WILL END)]]></title>
+        <id>https://www.youtube.com/watch?v=AMykMhLxYew</id>
+        <link href="https://www.youtube.com/watch?v=AMykMhLxYew"/>
+        <updated>2024-05-01T14:14:07.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full Stack Tutorial – Fiverr Clone with NextJS, React, Convex, Typescript, Tailwind CSS, ShadCN]]></title>
         <id>https://www.youtube.com/watch?v=s5YM1kH1ht8</id>
@@ -552,15 +561,6 @@
         <updated>2024-04-08T19:00:15.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Found the Innovative DeFI Project That Will Change the Game in DeFi]]></title>
-        <id>https://www.youtube.com/watch?v=rlPF3i4bpuI</id>
-        <link href="https://www.youtube.com/watch?v=rlPF3i4bpuI"/>
-        <updated>2024-04-08T14:43:05.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
     <entry>

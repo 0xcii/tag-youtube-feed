@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-02T14:04:16.900Z</id>
+    <id>urn:2024-05-02T15:06:42.830Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-02T14:04:16.900Z</updated>
+    <updated>2024-05-02T15:06:42.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Code a Chess Game with Stockfish API – JavaScript Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=fJIsqZmQVZQ</id>
+        <link href="https://www.youtube.com/watch?v=fJIsqZmQVZQ"/>
+        <updated>2024-05-02T14:25:51.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stake Solana with Phantom Wallet (Native Staking & JitoSOL Tutorial)]]></title>
+        <id>https://www.youtube.com/watch?v=C2-DBvzc9Ko</id>
+        <link href="https://www.youtube.com/watch?v=C2-DBvzc9Ko"/>
+        <updated>2024-05-02T14:00:09.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BREAKING!! Bitcoin Will Do The *UNEXPECTED* Today!! (CRASH WILL END)]]></title>
         <id>https://www.youtube.com/watch?v=AMykMhLxYew</id>
@@ -474,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI]]></title>
-        <id>https://www.youtube.com/watch?v=-kLs1NGt3ys</id>
-        <link href="https://www.youtube.com/watch?v=-kLs1NGt3ys"/>
-        <updated>2024-04-11T14:02:16.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Send Crypto from OKX to Another Wallet (or Exchange)]]></title>
         <id>https://www.youtube.com/watch?v=FKlqqO-09Pk</id>
         <link href="https://www.youtube.com/watch?v=FKlqqO-09Pk"/>
@@ -543,15 +552,6 @@
         <updated>2024-04-09T17:32:39.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: UNDERSTANDING THE CYCLE]]></title>
-        <id>https://www.youtube.com/watch?v=DoygxaNLPyY</id>
-        <link href="https://www.youtube.com/watch?v=DoygxaNLPyY"/>
-        <updated>2024-04-09T14:00:13.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-03T15:06:44.196Z</id>
+    <id>urn:2024-05-03T16:06:50.918Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-03T15:06:44.196Z</updated>
+    <updated>2024-05-03T16:06:50.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Construction Worker to Teaching MILLIONS of Developers with John Smilga [Podcast #122]]]></title>
+        <id>https://www.youtube.com/watch?v=X9R7TpGxPG4</id>
+        <link href="https://www.youtube.com/watch?v=X9R7TpGxPG4"/>
+        <updated>2024-05-03T14:50:20.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This *UNDER THE RADAR* Altcoin Is Primed to EXPLODE!!!]]></title>
         <id>https://www.youtube.com/watch?v=rEhhxGBFoG0</id>
@@ -483,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Artist Kass Moreno – freeCodeCamp Podcast #119]]></title>
-        <id>https://www.youtube.com/watch?v=ZAkEpjDg26o</id>
-        <link href="https://www.youtube.com/watch?v=ZAkEpjDg26o"/>
-        <updated>2024-04-12T14:36:34.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Compound Finance Tutorial (How to Use Compound v3)]]></title>
         <id>https://www.youtube.com/watch?v=6O3YpZc202Q</id>
         <link href="https://www.youtube.com/watch?v=6O3YpZc202Q"/>
@@ -577,15 +577,6 @@
         <id>https://www.youtube.com/watch?v=BPScIQm7wfw</id>
         <link href="https://www.youtube.com/watch?v=BPScIQm7wfw"/>
         <updated>2024-04-05T04:09:29.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 11 VERY Profitable Business Ideas For Blockchain Developers]]></title>
-        <id>https://www.youtube.com/watch?v=Ih9c_HGKptU</id>
-        <link href="https://www.youtube.com/watch?v=Ih9c_HGKptU"/>
-        <updated>2024-04-04T03:38:51.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

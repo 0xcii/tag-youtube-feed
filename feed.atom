@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-06T13:07:31.513Z</id>
+    <id>urn:2024-05-06T14:06:42.993Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-06T13:07:31.513Z</updated>
+    <updated>2024-05-06T14:06:42.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=HJd1I3FdSnY</id>
+        <link href="https://www.youtube.com/watch?v=HJd1I3FdSnY"/>
+        <updated>2024-05-06T13:34:38.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 How to make your first $1000 as a Blockchain developer?]]></title>
         <id>https://www.youtube.com/watch?v=l0gPuZ6AZ7g</id>
@@ -462,15 +471,6 @@
         <updated>2024-04-15T19:00:19.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Ocean Tutorial – Deploy Django and Other Frameworks]]></title>
-        <id>https://www.youtube.com/watch?v=Td3lirXIeRI</id>
-        <link href="https://www.youtube.com/watch?v=Td3lirXIeRI"/>
-        <updated>2024-04-15T14:48:13.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

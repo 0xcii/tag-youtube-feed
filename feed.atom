@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-08T15:04:35.211Z</id>
+    <id>urn:2024-05-08T16:08:01.436Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-08T15:04:35.211Z</updated>
+    <updated>2024-05-08T16:08:01.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Full Solidity Course For Complete Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=MSqUh6Nef5k</id>
+        <link href="https://www.youtube.com/watch?v=MSqUh6Nef5k"/>
+        <updated>2024-05-08T15:58:21.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMask Portfolio Tutorial (Receive, Swap, Stake, Bridge)]]></title>
         <id>https://www.youtube.com/watch?v=xnkoGvuqcGM</id>

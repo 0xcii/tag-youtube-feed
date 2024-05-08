@@ -550,6 +550,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MSqUh6Nef5k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MSqUh6Nef5k",
+          "publishedOn": "2024-05-08T15:58:21.000Z",
+          "wordCount": null,
+          "title": "🔴 Full Solidity Course For Complete Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U7ZMQ_v2IfA",
           "author": null,
           "description": "",

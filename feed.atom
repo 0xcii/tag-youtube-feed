@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-08T14:03:59.965Z</id>
+    <id>urn:2024-05-08T15:04:35.211Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-08T14:03:59.965Z</updated>
+    <updated>2024-05-08T15:04:35.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask Portfolio Tutorial (Receive, Swap, Stake, Bridge)]]></title>
+        <id>https://www.youtube.com/watch?v=xnkoGvuqcGM</id>
+        <link href="https://www.youtube.com/watch?v=xnkoGvuqcGM"/>
+        <updated>2024-05-08T14:00:43.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Git – Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=zTjRZNkhiEU</id>
@@ -552,15 +561,6 @@
         <updated>2024-04-12T16:13:41.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound Finance Tutorial (How to Use Compound v3)]]></title>
-        <id>https://www.youtube.com/watch?v=6O3YpZc202Q</id>
-        <link href="https://www.youtube.com/watch?v=6O3YpZc202Q"/>
-        <updated>2024-04-12T14:00:07.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

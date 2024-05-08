@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-08T06:08:04.869Z</id>
+    <id>urn:2024-05-08T07:06:46.283Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-08T06:08:04.869Z</updated>
+    <updated>2024-05-08T07:06:46.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -606,15 +606,6 @@
         <updated>2024-04-09T17:32:39.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to launch a meme coin w/o coding step-by-step]]></title>
-        <id>https://www.youtube.com/watch?v=fH8D19UOQxo</id>
-        <link href="https://www.youtube.com/watch?v=fH8D19UOQxo"/>
-        <updated>2024-04-08T19:00:15.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

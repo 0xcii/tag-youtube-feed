@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-09T13:06:29.513Z</id>
+    <id>urn:2024-05-09T14:03:24.489Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-09T13:06:29.513Z</updated>
+    <updated>2024-05-09T14:03:24.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Trading Tutorial for Beginners (How to Get Started Trading Cryptocurrency)]]></title>
+        <id>https://www.youtube.com/watch?v=tc0sJ6Zhml8</id>
+        <link href="https://www.youtube.com/watch?v=tc0sJ6Zhml8"/>
+        <updated>2024-05-09T14:00:41.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 F.A.Q For the Solidity Bootcamp]]></title>
         <id>https://www.youtube.com/watch?v=U7ZMQ_v2IfA</id>
@@ -543,15 +552,6 @@
         <updated>2024-04-15T19:00:19.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: BEWARE OF WHAT IS GOING ON]]></title>
-        <id>https://www.youtube.com/watch?v=7UrNUIz0qtI</id>
-        <link href="https://www.youtube.com/watch?v=7UrNUIz0qtI"/>
-        <updated>2024-04-15T14:00:10.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

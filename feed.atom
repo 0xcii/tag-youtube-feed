@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-09T14:03:24.489Z</id>
+    <id>urn:2024-05-09T15:07:05.955Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-09T14:03:24.489Z</updated>
+    <updated>2024-05-09T15:07:05.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tezos Blockchain Developer Course – Python Web3 Development]]></title>
+        <id>https://www.youtube.com/watch?v=pHQfw1W7V8s</id>
+        <link href="https://www.youtube.com/watch?v=pHQfw1W7V8s"/>
+        <updated>2024-05-09T14:21:41.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Trading Tutorial for Beginners (How to Get Started Trading Cryptocurrency)]]></title>
         <id>https://www.youtube.com/watch?v=tc0sJ6Zhml8</id>
@@ -498,15 +507,6 @@
         <updated>2024-04-18T18:05:33.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebSockets Beginners Tutorial with Socket.IO]]></title>
-        <id>https://www.youtube.com/watch?v=CzcfeL7ymbU</id>
-        <link href="https://www.youtube.com/watch?v=CzcfeL7ymbU"/>
-        <updated>2024-04-18T15:01:11.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

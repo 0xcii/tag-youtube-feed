@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-10T15:03:48.253Z</id>
+    <id>urn:2024-05-10T16:08:01.986Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-10T15:03:48.253Z</updated>
+    <updated>2024-05-10T16:08:01.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -597,15 +597,6 @@
         <updated>2024-04-11T19:00:00.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 The SECRET way (some) Blockchain developers make tons of money]]></title>
-        <id>https://www.youtube.com/watch?v=bTauC4ACwA0</id>
-        <link href="https://www.youtube.com/watch?v=bTauC4ACwA0"/>
-        <updated>2024-04-11T03:37:56.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

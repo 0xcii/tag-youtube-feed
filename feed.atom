@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-10T14:03:45.292Z</id>
+    <id>urn:2024-05-10T15:03:48.253Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-10T14:03:45.292Z</updated>
+    <updated>2024-05-10T15:03:48.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Gary Simon rebuilt his dev consulting business [Podcast #123]]]></title>
+        <id>https://www.youtube.com/watch?v=h4puc1P2VMA</id>
+        <link href="https://www.youtube.com/watch?v=h4puc1P2VMA"/>
+        <updated>2024-05-10T14:54:28.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: MUST WATCH MESSAGE FOR ALL INVESTORS]]></title>
         <id>https://www.youtube.com/watch?v=UTRyNpoMFNQ</id>
@@ -489,15 +498,6 @@
         <updated>2024-04-22T14:00:45.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CTO Andrew Brown on DevOps + Cloud Certification Exams [freeCodeCamp Podcast #120]]]></title>
-        <id>https://www.youtube.com/watch?v=Zv9MsVSxqXo</id>
-        <link href="https://www.youtube.com/watch?v=Zv9MsVSxqXo"/>
-        <updated>2024-04-19T14:33:52.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

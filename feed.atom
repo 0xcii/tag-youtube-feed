@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-13T14:05:28.739Z</id>
+    <id>urn:2024-05-13T15:07:00.881Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-13T14:05:28.739Z</updated>
+    <updated>2024-05-13T15:07:00.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Bridge Ethereum to Base, Arbitrum, Optimism & More]]></title>
+        <id>https://www.youtube.com/watch?v=KVMOKXtRBxs</id>
+        <link href="https://www.youtube.com/watch?v=KVMOKXtRBxs"/>
+        <updated>2024-05-13T14:00:15.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Course for Beginners 2024]]></title>
+        <id>https://www.youtube.com/watch?v=Zi-Q0t4gMC8</id>
+        <link href="https://www.youtube.com/watch?v=Zi-Q0t4gMC8"/>
+        <updated>2024-05-13T13:48:55.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pro Designer Gary Simon Talks Freelance + Career Tips [Podcast #123]]]></title>
         <id>https://www.youtube.com/watch?v=h4puc1P2VMA</id>
@@ -483,15 +501,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intuitive SQL For Data Analytics - Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=mXW7JHJM34k</id>
-        <link href="https://www.youtube.com/watch?v=mXW7JHJM34k"/>
-        <updated>2024-04-22T15:35:31.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jupiter Exchange Solana DeX Tutorial (with Phantom Wallet)]]></title>
         <id>https://www.youtube.com/watch?v=oH1QPLlPHLk</id>
         <link href="https://www.youtube.com/watch?v=oH1QPLlPHLk"/>
@@ -525,15 +534,6 @@
         <updated>2024-04-18T18:05:33.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Tron Network & Trust Wallet (TRC20 USDT, Send, Receive, Swap, Lend)]]></title>
-        <id>https://www.youtube.com/watch?v=zV2Vc-QyZDY</id>
-        <link href="https://www.youtube.com/watch?v=zV2Vc-QyZDY"/>
-        <updated>2024-04-18T14:00:53.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

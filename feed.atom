@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-14T18:07:44.850Z</id>
+    <id>urn:2024-05-14T19:02:23.228Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-14T18:07:44.850Z</updated>
+    <updated>2024-05-14T19:02:23.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 The new crazy opportunity for Blockchain developers]]></title>
+        <id>https://www.youtube.com/watch?v=5GVMZ5QVZMI</id>
+        <link href="https://www.youtube.com/watch?v=5GVMZ5QVZMI"/>
+        <updated>2024-05-14T17:57:10.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: NOTHING STOPS THIS TRAIN]]></title>
         <id>https://www.youtube.com/watch?v=0fuTuIF98EI</id>

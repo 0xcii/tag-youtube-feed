@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-14T14:04:36.178Z</id>
+    <id>urn:2024-05-14T15:07:27.185Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-14T14:04:36.178Z</updated>
+    <updated>2024-05-14T15:07:27.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: NOTHING STOPS THIS TRAIN]]></title>
+        <id>https://www.youtube.com/watch?v=0fuTuIF98EI</id>
+        <link href="https://www.youtube.com/watch?v=0fuTuIF98EI"/>
+        <updated>2024-05-14T14:00:00.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a WordPress Blog with the Help of AI – Beginner's Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=2mrxvLvz_rk</id>
@@ -514,15 +523,6 @@
         <id>https://www.youtube.com/watch?v=oH1QPLlPHLk</id>
         <link href="https://www.youtube.com/watch?v=oH1QPLlPHLk"/>
         <updated>2024-04-22T14:00:45.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: THE TRUTH ABOUT THIS CRYPTO CYCLE]]></title>
-        <id>https://www.youtube.com/watch?v=d3ruR-hgUyA</id>
-        <link href="https://www.youtube.com/watch?v=d3ruR-hgUyA"/>
-        <updated>2024-04-19T14:00:29.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-15T14:07:00.271Z</id>
+    <id>urn:2024-05-15T15:06:02.812Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-15T14:07:00.271Z</updated>
+    <updated>2024-05-15T15:06:02.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Computing Course]]></title>
+        <id>https://www.youtube.com/watch?v=tsbCSkvHhMo</id>
+        <link href="https://www.youtube.com/watch?v=tsbCSkvHhMo"/>
+        <updated>2024-05-15T14:29:27.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JitoSOL Tutorial (How to Stake SOL with Jito)]]></title>
+        <id>https://www.youtube.com/watch?v=VmJSgKi89Rw</id>
+        <link href="https://www.youtube.com/watch?v=VmJSgKi89Rw"/>
+        <updated>2024-05-15T14:00:23.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 The new crazy opportunity for Blockchain developers]]></title>
         <id>https://www.youtube.com/watch?v=5GVMZ5QVZMI</id>
@@ -474,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Webflow Tutorial for Beginners – No-Code Web Design]]></title>
-        <id>https://www.youtube.com/watch?v=dSykLAkmZ84</id>
-        <link href="https://www.youtube.com/watch?v=dSykLAkmZ84"/>
-        <updated>2024-04-24T14:40:47.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Crypto Exchanges 2024 (Safe, Reliable & Best Crypto Trading!!)]]></title>
         <id>https://www.youtube.com/watch?v=AEFkULIwvx4</id>
         <link href="https://www.youtube.com/watch?v=AEFkULIwvx4"/>
@@ -525,15 +534,6 @@
         <updated>2024-04-22T15:52:35.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter Exchange Solana DeX Tutorial (with Phantom Wallet)]]></title>
-        <id>https://www.youtube.com/watch?v=oH1QPLlPHLk</id>
-        <link href="https://www.youtube.com/watch?v=oH1QPLlPHLk"/>
-        <updated>2024-04-22T14:00:45.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

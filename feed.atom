@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-16T04:06:50.880Z</id>
+    <id>urn:2024-05-16T05:07:09.799Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-16T04:06:50.880Z</updated>
+    <updated>2024-05-16T05:07:09.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Code a crypto payment app - Step-by-step tutorial for beginners]]></title>
+        <id>https://www.youtube.com/watch?v=CpYoEzWmSBk</id>
+        <link href="https://www.youtube.com/watch?v=CpYoEzWmSBk"/>
+        <updated>2024-05-16T04:40:35.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔴 The new crazy opportunity for Blockchain developers]]></title>
+        <id>https://www.youtube.com/watch?v=5GVMZ5QVZMI</id>
+        <link href="https://www.youtube.com/watch?v=5GVMZ5QVZMI"/>
+        <updated>2024-05-16T04:14:44.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Computing Course]]></title>
         <id>https://www.youtube.com/watch?v=tsbCSkvHhMo</id>
@@ -21,15 +39,6 @@
         <updated>2024-05-15T14:00:23.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 The new crazy opportunity for Blockchain developers]]></title>
-        <id>https://www.youtube.com/watch?v=5GVMZ5QVZMI</id>
-        <link href="https://www.youtube.com/watch?v=5GVMZ5QVZMI"/>
-        <updated>2024-05-14T17:57:10.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

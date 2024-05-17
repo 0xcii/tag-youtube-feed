@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-17T09:08:04.050Z</id>
+    <id>urn:2024-05-17T10:06:41.429Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-17T09:08:04.050Z</updated>
+    <updated>2024-05-17T10:06:41.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -570,15 +570,6 @@
         <updated>2024-04-18T03:55:50.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which AI coin am I most BULLISH ON!?]]></title>
-        <id>https://www.youtube.com/watch?v=dabeYsqNBc4</id>
-        <link href="https://www.youtube.com/watch?v=dabeYsqNBc4"/>
-        <updated>2024-04-17T21:10:36.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

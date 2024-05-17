@@ -201,16 +201,6 @@
           "wordCount": null,
           "title": "Intro to AI Engineering – OpenAI JavaScript Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N1pYdEAU9mk",
-          "publishedOn": "2024-04-26T14:02:24.000Z",
-          "wordCount": null,
-          "title": "Ben Awad is a GameDev Who Sleeps 9 hours EVERY NIGHT to be Productive [Quincy Interviews him #121]",
-          "imageUrl": null
         }
       ]
     },
@@ -353,6 +343,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1lfoEUf2Lco",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1lfoEUf2Lco",
+          "publishedOn": "2024-05-17T14:00:00.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: IT'S GOING PARABOLIC (M2)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qESRT7xW0m0",
           "author": null,
           "description": "",
@@ -490,16 +490,6 @@
           "publishedOn": "2024-04-25T14:00:27.000Z",
           "wordCount": null,
           "title": "How to Use MetaMask Bridge (MetaMask Bridge Tutorial)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AEFkULIwvx4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AEFkULIwvx4",
-          "publishedOn": "2024-04-24T14:00:08.000Z",
-          "wordCount": null,
-          "title": "Best Crypto Exchanges 2024 (Safe, Reliable & Best Crypto Trading!!)",
           "imageUrl": null
         }
       ]

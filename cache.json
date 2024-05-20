@@ -587,6 +587,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=l0dzOwyPqFI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l0dzOwyPqFI",
+          "publishedOn": "2024-05-20T19:00:21.000Z",
+          "wordCount": null,
+          "title": "How to make passive income running blockchain nodes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=A4rZ4GIqVwU",
           "author": null,
           "description": "",

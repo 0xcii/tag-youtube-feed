@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-20T17:06:49.196Z</id>
+    <id>urn:2024-05-20T18:07:57.349Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-20T17:06:49.196Z</updated>
+    <updated>2024-05-20T18:07:57.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Angular and Supabase Course – Build a Realtime Chat Application]]></title>
+        <id>https://www.youtube.com/watch?v=Dg7bZUFopUo</id>
+        <link href="https://www.youtube.com/watch?v=Dg7bZUFopUo"/>
+        <updated>2024-05-20T17:26:16.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Arbitrage Bot Tutorial (How to Use Crypto Arbitrage Bot)]]></title>
         <id>https://www.youtube.com/watch?v=JsBFEtMQNa0</id>
@@ -426,15 +435,6 @@
         <updated>2024-04-29T19:00:10.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro to AI Engineering – OpenAI JavaScript Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=Yjy837dDvOY</id>
-        <link href="https://www.youtube.com/watch?v=Yjy837dDvOY"/>
-        <updated>2024-04-29T15:10:56.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

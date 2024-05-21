@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-21T14:03:19.953Z</id>
+    <id>urn:2024-05-21T15:06:21.886Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-21T14:03:19.953Z</updated>
+    <updated>2024-05-21T15:06:21.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fine Tuning LLM Models – Generative AI Course]]></title>
+        <id>https://www.youtube.com/watch?v=iOdFUJiB0Zc</id>
+        <link href="https://www.youtube.com/watch?v=iOdFUJiB0Zc"/>
+        <updated>2024-05-21T14:18:24.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: INSANELY GOOD MOVES!!!]]></title>
         <id>https://www.youtube.com/watch?v=19H9ImySPJA</id>
@@ -417,15 +426,6 @@
         <updated>2024-04-30T18:07:14.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js vs React – What's the difference?]]></title>
-        <id>https://www.youtube.com/watch?v=JB1aKAoj2o0</id>
-        <link href="https://www.youtube.com/watch?v=JB1aKAoj2o0"/>
-        <updated>2024-04-30T14:39:38.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-22T03:08:52.392Z</id>
+    <id>urn:2024-05-22T04:08:03.428Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-22T03:08:52.392Z</updated>
+    <updated>2024-05-22T04:08:03.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -561,15 +561,6 @@
         <updated>2024-04-22T19:00:23.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What will happen to BTC after the halving!??]]></title>
-        <id>https://www.youtube.com/watch?v=G1Zz8E7c1f8</id>
-        <link href="https://www.youtube.com/watch?v=G1Zz8E7c1f8"/>
-        <updated>2024-04-22T15:52:35.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

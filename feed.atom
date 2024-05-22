@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-22T14:04:52.496Z</id>
+    <id>urn:2024-05-22T15:06:27.436Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-22T14:04:52.496Z</updated>
+    <updated>2024-05-22T15:06:27.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit Web3 Wallet Tutorial (Setup, Deposit, Withdraw, Trade)]]></title>
+        <id>https://www.youtube.com/watch?v=AY6s50G5ca4</id>
+        <link href="https://www.youtube.com/watch?v=AY6s50G5ca4"/>
+        <updated>2024-05-22T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 The complete guide to not end up in JAIL as a Blockchain developer]]></title>
         <id>https://www.youtube.com/watch?v=vGevv9t-qiA</id>
@@ -462,15 +471,6 @@
         <updated>2024-04-29T19:00:10.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install MetaMask 2024 (MetaMask Extension Setup Tutorial)]]></title>
-        <id>https://www.youtube.com/watch?v=f3vwOxSLBUc</id>
-        <link href="https://www.youtube.com/watch?v=f3vwOxSLBUc"/>
-        <updated>2024-04-29T14:00:25.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

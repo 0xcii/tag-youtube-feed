@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-23T19:05:51.787Z</id>
+    <id>urn:2024-05-23T20:07:23.864Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-23T19:05:51.787Z</updated>
+    <updated>2024-05-23T20:07:23.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam]]></title>
+        <id>https://www.youtube.com/watch?v=c3Cn4xYfxJY</id>
+        <link href="https://www.youtube.com/watch?v=c3Cn4xYfxJY"/>
+        <updated>2024-05-23T19:04:40.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Swap & Bridge Crypto in Phantom Wallet (Phantom Wallet Swap)]]></title>
         <id>https://www.youtube.com/watch?v=YekZQHwYhIE</id>
@@ -426,15 +435,6 @@
         <updated>2024-05-02T18:38:08.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a Chess Game with Stockfish API – JavaScript Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=fJIsqZmQVZQ</id>
-        <link href="https://www.youtube.com/watch?v=fJIsqZmQVZQ"/>
-        <updated>2024-05-02T14:25:51.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

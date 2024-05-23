@@ -323,6 +323,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YekZQHwYhIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YekZQHwYhIE",
+          "publishedOn": "2024-05-23T14:00:23.000Z",
+          "wordCount": null,
+          "title": "How to Swap & Bridge Crypto in Phantom Wallet (Phantom Wallet Swap)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AY6s50G5ca4",
           "author": null,
           "description": "",
@@ -460,16 +470,6 @@
           "publishedOn": "2024-05-02T14:00:09.000Z",
           "wordCount": null,
           "title": "How to Stake Solana with Phantom Wallet (Native Staking & JitoSOL Tutorial)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E_EBAFqmPJE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E_EBAFqmPJE",
-          "publishedOn": "2024-04-30T14:00:18.000Z",
-          "wordCount": null,
-          "title": "Bybit Derivatives Tutorial for Beginners (Bybit Futures Trading Explained In-Depth)",
           "imageUrl": null
         }
       ]

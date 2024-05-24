@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vfcqsP99U90",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vfcqsP99U90",
+          "publishedOn": "2024-05-24T14:13:50.000Z",
+          "wordCount": null,
+          "title": "Open Source is Changing. Quincy interviews Jerod Santo, host of The Changelog [Podcast #125]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=c3Cn4xYfxJY",
           "author": null,
           "description": "",
@@ -201,16 +211,6 @@
           "wordCount": null,
           "title": "Deep Learning Course for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X9R7TpGxPG4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X9R7TpGxPG4",
-          "publishedOn": "2024-05-03T14:50:20.000Z",
-          "wordCount": null,
-          "title": "From Construction Worker to Teaching MILLIONS of Developers with John Smilga [Podcast #122]",
-          "imageUrl": null
         }
       ]
     },
@@ -322,6 +322,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4NctPNfRGAA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4NctPNfRGAA",
+          "publishedOn": "2024-05-24T14:00:03.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: NOW WE HAVE THE BEST SETUP",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=YekZQHwYhIE",
           "author": null,
@@ -460,16 +470,6 @@
           "publishedOn": "2024-05-03T14:00:33.000Z",
           "wordCount": null,
           "title": "How to Use Base Network with Trust Wallet (Recieve, Send, Swap)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C2-DBvzc9Ko",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C2-DBvzc9Ko",
-          "publishedOn": "2024-05-02T14:00:09.000Z",
-          "wordCount": null,
-          "title": "How to Stake Solana with Phantom Wallet (Native Staking & JitoSOL Tutorial)",
           "imageUrl": null
         }
       ]

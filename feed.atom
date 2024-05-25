@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-25T00:29:01.213Z</id>
+    <id>urn:2024-05-25T01:44:17.136Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-25T00:29:01.213Z</updated>
+    <updated>2024-05-25T01:44:17.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -541,15 +541,6 @@
         <id>https://www.youtube.com/watch?v=UrY1pWM9Dk8</id>
         <link href="https://www.youtube.com/watch?v=UrY1pWM9Dk8"/>
         <updated>2024-04-25T15:48:18.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the new token launched in the halving that exploded!??]]></title>
-        <id>https://www.youtube.com/watch?v=MqnwDzLtopA</id>
-        <link href="https://www.youtube.com/watch?v=MqnwDzLtopA"/>
-        <updated>2024-04-25T12:59:45.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

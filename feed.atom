@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-26T07:03:23.645Z</id>
+    <id>urn:2024-05-26T08:07:17.031Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-26T07:03:23.645Z</updated>
+    <updated>2024-05-26T08:07:17.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -516,15 +516,6 @@
         <updated>2024-04-28T04:11:35.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’ve Uncovered the Altcoin That Blackrock is BUYING!! (Paypal Is Too)]]></title>
-        <id>https://www.youtube.com/watch?v=pJRHdqRmsOI</id>
-        <link href="https://www.youtube.com/watch?v=pJRHdqRmsOI"/>
-        <updated>2024-04-26T19:06:34.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

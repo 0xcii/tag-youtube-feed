@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-26T06:08:12.367Z</id>
+    <id>urn:2024-05-26T07:03:23.645Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-26T06:08:12.367Z</updated>
+    <updated>2024-05-26T07:03:23.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10个高效工具，助你成为加密货币投资大师！快速链上交易、发现新机会、赚取百万美金的秘密！]]></title>
+        <id>https://www.youtube.com/watch?v=IbCQNiVSD_Q</id>
+        <link href="https://www.youtube.com/watch?v=IbCQNiVSD_Q"/>
+        <updated>2024-05-26T06:41:39.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一款工具解决四大痛点，搞定交易套利、链上土狗、量化跟单和聪明钱监控！ 零基础也能轻松上手，这款加密货币工具太强大了！轻松入门加密货币投资！]]></title>
         <id>https://www.youtube.com/watch?v=Ml3umzA1GTs</id>

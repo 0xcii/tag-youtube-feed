@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-27T18:08:12.765Z</id>
+    <id>urn:2024-05-27T19:02:19.505Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-27T18:08:12.765Z</updated>
+    <updated>2024-05-27T19:02:19.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linear Algebra Course – Mathematics for Machine Learning and Generative AI]]></title>
+        <id>https://www.youtube.com/watch?v=rSjt1E9WHaQ</id>
+        <link href="https://www.youtube.com/watch?v=rSjt1E9WHaQ"/>
+        <updated>2024-05-27T18:12:09.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Base with Coinbase Wallet (Receive ETH, Swap, Withdraw)]]></title>
         <id>https://www.youtube.com/watch?v=FoR8OLyYmY8</id>
@@ -426,15 +435,6 @@
         <updated>2024-05-06T19:15:01.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Learning Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=HJd1I3FdSnY</id>
-        <link href="https://www.youtube.com/watch?v=HJd1I3FdSnY"/>
-        <updated>2024-05-06T13:34:38.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

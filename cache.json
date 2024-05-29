@@ -440,13 +440,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=K6PggO7FoEc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K6PggO7FoEc",
+          "publishedOn": "2024-05-29T19:03:11.000Z",
+          "wordCount": null,
+          "title": "🔴 How to know if a trading bot makes money? Let's do a backtest",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FyqbQGoRQ3E",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=FyqbQGoRQ3E",
           "publishedOn": "2024-05-28T18:35:34.000Z",
           "wordCount": null,
-          "title": "🔴 This will 10x the demand for Blockchain developers",
+          "title": "🔴 The Ethereum ETF has been approved!",
           "imageUrl": null
         },
         {

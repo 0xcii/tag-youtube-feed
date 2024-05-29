@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-29T14:04:45.263Z</id>
+    <id>urn:2024-05-29T15:06:41.309Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-29T14:04:45.263Z</updated>
+    <updated>2024-05-29T15:06:41.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn C Programming and OOP with Dr. Chuck [feat. classic book by Kernighan and Ritchie]]]></title>
+        <id>https://www.youtube.com/watch?v=PaPN51Mm5qQ</id>
+        <link href="https://www.youtube.com/watch?v=PaPN51Mm5qQ"/>
+        <updated>2024-05-29T14:37:58.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tron TRC20 Wallet for USDT Tutorial (Send USDT for Lowest Fees!!)]]></title>
+        <id>https://www.youtube.com/watch?v=lBQMkEBf7W4</id>
+        <link href="https://www.youtube.com/watch?v=lBQMkEBf7W4"/>
+        <updated>2024-05-29T14:00:37.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新手必看！用这个平台实现自动交易，轻松低买高卖！自动交易神器：用AI写交易策略机器人，已经帮我构建好加密货币被动收入，每日躺赚 200$ !]]></title>
         <id>https://www.youtube.com/watch?v=M65e1JLK3pY</id>
@@ -393,15 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MetaMask Portfolio Tutorial (Receive, Swap, Stake, Bridge)]]></title>
-        <id>https://www.youtube.com/watch?v=xnkoGvuqcGM</id>
-        <link href="https://www.youtube.com/watch?v=xnkoGvuqcGM"/>
-        <updated>2024-05-08T14:00:43.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learn Git – Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=zTjRZNkhiEU</id>
         <link href="https://www.youtube.com/watch?v=zTjRZNkhiEU"/>
@@ -417,15 +426,6 @@
         <updated>2024-05-07T19:24:39.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions Certification – Full Course to PASS the Exam]]></title>
-        <id>https://www.youtube.com/watch?v=Tz7FsunBbfQ</id>
-        <link href="https://www.youtube.com/watch?v=Tz7FsunBbfQ"/>
-        <updated>2024-05-07T13:42:11.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

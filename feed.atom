@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-30T05:06:30.481Z</id>
+    <id>urn:2024-05-30T06:09:16.755Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-30T05:06:30.481Z</updated>
+    <updated>2024-05-30T06:09:16.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -514,15 +514,6 @@
         <id>https://www.youtube.com/watch?v=AMykMhLxYew</id>
         <link href="https://www.youtube.com/watch?v=AMykMhLxYew"/>
         <updated>2024-05-01T14:14:07.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO Is Causing This Bitcoin CRASH!? (This is When It ENDS)]]></title>
-        <id>https://www.youtube.com/watch?v=TGsrggyhE-k</id>
-        <link href="https://www.youtube.com/watch?v=TGsrggyhE-k"/>
-        <updated>2024-04-30T18:07:14.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=07lfmzGHrSI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=07lfmzGHrSI",
+          "publishedOn": "2024-05-31T14:17:12.000Z",
+          "wordCount": null,
+          "title": "From Software Engineer to Security Researcher with Suz Hinton [Podcast #126]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lNd7XlXwlho",
           "author": null,
           "description": "",
@@ -201,16 +211,6 @@
           "wordCount": null,
           "title": "Pro Designer Gary Simon Talks Freelance + Career Tips [Podcast #123]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pHQfw1W7V8s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pHQfw1W7V8s",
-          "publishedOn": "2024-05-09T14:21:41.000Z",
-          "wordCount": null,
-          "title": "Tezos Blockchain Developer Course – Python Web3 Development",
-          "imageUrl": null
         }
       ]
     },
@@ -262,6 +262,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WAfdMAxlW8c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WAfdMAxlW8c",
+          "publishedOn": "2024-05-31T14:00:33.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: WE'RE ON THE BRINK?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5UbiGmGOvTU",
           "author": null,
@@ -400,16 +410,6 @@
           "publishedOn": "2024-05-13T14:00:15.000Z",
           "wordCount": null,
           "title": "How to Bridge Ethereum to Base, Arbitrum, Optimism & More",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UTRyNpoMFNQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UTRyNpoMFNQ",
-          "publishedOn": "2024-05-10T14:00:20.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: MUST WATCH MESSAGE FOR ALL INVESTORS",
           "imageUrl": null
         }
       ]

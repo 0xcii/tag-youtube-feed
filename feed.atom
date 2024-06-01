@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-01T16:06:36.153Z</id>
+    <id>urn:2024-06-01T17:02:45.187Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-01T16:06:36.153Z</updated>
+    <updated>2024-06-01T17:02:45.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -480,15 +480,6 @@
         <updated>2024-05-03T14:37:47.000Z</updated>
         <author>
             <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Code a DCA (Dollar Cost Average) App For Crypto]]></title>
-        <id>https://www.youtube.com/watch?v=92Vis4FOFyg</id>
-        <link href="https://www.youtube.com/watch?v=92Vis4FOFyg"/>
-        <updated>2024-05-03T05:02:37.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

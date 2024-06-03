@@ -497,6 +497,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=feJBs0u1WOg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=feJBs0u1WOg",
+          "publishedOn": "2024-06-03T19:00:16.000Z",
+          "wordCount": null,
+          "title": "Massive turning point for crypto - what you must know!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3tUGBLgDsOI",
           "author": null,
           "description": "",

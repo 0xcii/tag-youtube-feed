@@ -243,6 +243,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tJmhXW_RNFw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tJmhXW_RNFw",
+          "publishedOn": "2024-06-03T14:00:48.000Z",
+          "wordCount": null,
+          "title": "How to Trade on Aerodrome Finance (Step-by-Step Tutorial)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WAfdMAxlW8c",
           "author": null,
           "description": "",
@@ -380,16 +390,6 @@
           "publishedOn": "2024-05-14T14:00:00.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: NOTHING STOPS THIS TRAIN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KVMOKXtRBxs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KVMOKXtRBxs",
-          "publishedOn": "2024-05-13T14:00:15.000Z",
-          "wordCount": null,
-          "title": "How to Bridge Ethereum to Base, Arbitrum, Optimism & More",
           "imageUrl": null
         }
       ]

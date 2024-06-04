@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-04T13:08:49.293Z</id>
+    <id>urn:2024-06-04T14:06:42.951Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-04T13:08:49.293Z</updated>
+    <updated>2024-06-04T14:06:42.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building REST APIs with Next.js 14 – Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=aEFkWxUNAVc</id>
+        <link href="https://www.youtube.com/watch?v=aEFkWxUNAVc"/>
+        <updated>2024-06-04T14:04:55.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: IT'S STARTING TO TURN...]]></title>
+        <id>https://www.youtube.com/watch?v=7XLUXbGXtt8</id>
+        <link href="https://www.youtube.com/watch?v=7XLUXbGXtt8"/>
+        <updated>2024-06-04T14:00:08.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Massive turning point for crypto - what you must know!]]></title>
         <id>https://www.youtube.com/watch?v=feJBs0u1WOg</id>
@@ -375,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: NOTHING STOPS THIS TRAIN]]></title>
-        <id>https://www.youtube.com/watch?v=0fuTuIF98EI</id>
-        <link href="https://www.youtube.com/watch?v=0fuTuIF98EI"/>
-        <updated>2024-05-14T14:00:00.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Create a WordPress Blog with the Help of AI – Beginner's Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=2mrxvLvz_rk</id>
         <link href="https://www.youtube.com/watch?v=2mrxvLvz_rk"/>
@@ -399,15 +408,6 @@
         <updated>2024-05-13T19:00:20.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Course for Beginners 2024]]></title>
-        <id>https://www.youtube.com/watch?v=Zi-Q0t4gMC8</id>
-        <link href="https://www.youtube.com/watch?v=Zi-Q0t4gMC8"/>
-        <updated>2024-05-13T13:48:55.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

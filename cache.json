@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aEFkWxUNAVc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aEFkWxUNAVc",
+          "publishedOn": "2024-06-04T14:04:55.000Z",
+          "wordCount": null,
+          "title": "Building REST APIs with Next.js 14 – Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NEYcKvwbW-w",
           "author": null,
           "description": "",
@@ -201,16 +211,6 @@
           "wordCount": null,
           "title": "Create a WordPress Blog with the Help of AI – Beginner's Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zi-Q0t4gMC8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zi-Q0t4gMC8",
-          "publishedOn": "2024-05-13T13:48:55.000Z",
-          "wordCount": null,
-          "title": "JavaScript Course for Beginners 2024",
-          "imageUrl": null
         }
       ]
     },
@@ -242,6 +242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7XLUXbGXtt8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7XLUXbGXtt8",
+          "publishedOn": "2024-06-04T14:00:08.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: IT'S STARTING TO TURN...",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tJmhXW_RNFw",
           "author": null,
@@ -380,16 +390,6 @@
           "publishedOn": "2024-05-15T14:00:23.000Z",
           "wordCount": null,
           "title": "JitoSOL Tutorial (How to Stake SOL with Jito)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0fuTuIF98EI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0fuTuIF98EI",
-          "publishedOn": "2024-05-14T14:00:00.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: NOTHING STOPS THIS TRAIN",
           "imageUrl": null
         }
       ]

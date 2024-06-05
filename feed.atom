@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-05T19:03:16.486Z</id>
+    <id>urn:2024-06-05T20:07:01.389Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-05T19:03:16.486Z</updated>
+    <updated>2024-06-05T20:07:01.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Let's code a crypto version of Onlyfans - Full coding tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=AKqXiuuNf6A</id>
+        <link href="https://www.youtube.com/watch?v=AKqXiuuNf6A"/>
+        <updated>2024-06-05T19:06:44.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TronLink Wallet Tutorial (Tron TRC20 Wallet Full Setup Guide)]]></title>
         <id>https://www.youtube.com/watch?v=CqPDlePpsu4</id>

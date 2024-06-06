@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-06T07:07:51.351Z</id>
+    <id>urn:2024-06-06T08:09:18.858Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-06T07:07:51.351Z</updated>
+    <updated>2024-06-06T08:09:18.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -444,15 +444,6 @@
         <updated>2024-05-09T03:51:51.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many Bitcoin do you need to become a millionaire?]]></title>
-        <id>https://www.youtube.com/watch?v=zQ2RiECwCEk</id>
-        <link href="https://www.youtube.com/watch?v=zQ2RiECwCEk"/>
-        <updated>2024-05-07T19:24:39.000Z</updated>
-        <author>
-            <name>Chico Crypto</name>
         </author>
     </entry>
 </feed>

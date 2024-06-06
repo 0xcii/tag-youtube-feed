@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4pIlqhyIJkM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4pIlqhyIJkM",
+          "publishedOn": "2024-06-06T14:00:07.000Z",
+          "wordCount": null,
+          "title": "SIMPLE Fibonacci Retracement Strategy for Beginners (Entry & Exit)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CqPDlePpsu4",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2024-05-17T14:00:00.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: IT'S GOING PARABOLIC (M2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qESRT7xW0m0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qESRT7xW0m0",
-          "publishedOn": "2024-05-16T14:00:45.000Z",
-          "wordCount": null,
-          "title": "OKX Tutorial - How to Make Money in Crypto with OKX Exchange",
           "imageUrl": null
         }
       ]

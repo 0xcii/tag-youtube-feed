@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-06T14:07:11.085Z</id>
+    <id>urn:2024-06-06T15:07:00.981Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-06T14:07:11.085Z</updated>
+    <updated>2024-06-06T15:07:00.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps Engineer Expert Certification (AZ-400) – Full Course to PASS the Exam]]></title>
+        <id>https://www.youtube.com/watch?v=11KT1hPNkY4</id>
+        <link href="https://www.youtube.com/watch?v=11KT1hPNkY4"/>
+        <updated>2024-06-06T14:07:50.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SIMPLE Fibonacci Retracement Strategy for Beginners (Entry & Exit)]]></title>
         <id>https://www.youtube.com/watch?v=4pIlqhyIJkM</id>
@@ -399,15 +408,6 @@
         <updated>2024-05-16T04:14:44.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Computing Course – Math and Theory for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=tsbCSkvHhMo</id>
-        <link href="https://www.youtube.com/watch?v=tsbCSkvHhMo"/>
-        <updated>2024-05-15T14:29:27.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

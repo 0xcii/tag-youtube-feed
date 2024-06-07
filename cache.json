@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Bf36K7AFDow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bf36K7AFDow",
+          "publishedOn": "2024-06-07T14:00:08.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: DO NOT MISS THE OPPORTUNITY",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4pIlqhyIJkM",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2024-05-20T14:00:15.000Z",
           "wordCount": null,
           "title": "Binance Arbitrage Bot Tutorial (How to Use Crypto Arbitrage Bot)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1lfoEUf2Lco",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1lfoEUf2Lco",
-          "publishedOn": "2024-05-17T14:00:00.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: IT'S GOING PARABOLIC (M2)",
           "imageUrl": null
         }
       ]

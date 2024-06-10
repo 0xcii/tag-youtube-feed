@@ -446,6 +446,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TuCpQqApN0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TuCpQqApN0A",
+          "publishedOn": "2024-06-10T19:00:12.000Z",
+          "wordCount": null,
+          "title": "7 ways to make $$$ as a blockchain dev in 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oNE_NBlrfDM",
           "author": null,
           "description": "",

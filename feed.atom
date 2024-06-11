@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-11T13:10:05.026Z</id>
+    <id>urn:2024-06-11T14:06:24.111Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-11T13:10:05.026Z</updated>
+    <updated>2024-06-11T14:06:24.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: WATCH OUT FOR THIS!]]></title>
+        <id>https://www.youtube.com/watch?v=4_HtGLsz0cs</id>
+        <link href="https://www.youtube.com/watch?v=4_HtGLsz0cs"/>
+        <updated>2024-06-11T14:00:04.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 ways to make $$$ as a blockchain dev in 2024]]></title>
         <id>https://www.youtube.com/watch?v=TuCpQqApN0A</id>
@@ -372,15 +381,6 @@
         <updated>2024-05-21T14:18:24.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: INSANELY GOOD MOVES!!!]]></title>
-        <id>https://www.youtube.com/watch?v=19H9ImySPJA</id>
-        <link href="https://www.youtube.com/watch?v=19H9ImySPJA"/>
-        <updated>2024-05-21T14:00:02.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

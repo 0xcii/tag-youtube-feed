@@ -369,6 +369,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=veRVjASJpxI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=veRVjASJpxI",
+          "publishedOn": "2024-06-12T09:45:22.000Z",
+          "wordCount": null,
+          "title": "🔴 Blockchain developers, don't make these FATAL mistakes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AKqXiuuNf6A",
           "author": null,
           "description": "",

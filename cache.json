@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_fhtKdfOPkQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_fhtKdfOPkQ",
+          "publishedOn": "2024-06-13T14:00:33.000Z",
+          "wordCount": null,
+          "title": "OKX Earn Tutorial (OKX Simple Earn, Onchain Earn)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aUeZ2Xck61k",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2024-05-24T14:00:03.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: NOW WE HAVE THE BEST SETUP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YekZQHwYhIE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YekZQHwYhIE",
-          "publishedOn": "2024-05-23T14:00:23.000Z",
-          "wordCount": null,
-          "title": "How to Swap & Bridge Crypto in Phantom Wallet (Phantom Wallet Swap)",
           "imageUrl": null
         }
       ]

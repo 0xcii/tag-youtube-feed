@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-13T03:07:22.617Z</id>
+    <id>urn:2024-06-13T04:07:58.053Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-13T03:07:22.617Z</updated>
+    <updated>2024-06-13T04:07:58.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Blockchain developers, don't make these FATAL mistakes]]></title>
+        <id>https://www.youtube.com/watch?v=veRVjASJpxI</id>
+        <link href="https://www.youtube.com/watch?v=veRVjASJpxI"/>
+        <updated>2024-06-13T04:03:30.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Smart Wallet Tutorial & Setup Guide]]></title>
         <id>https://www.youtube.com/watch?v=aUeZ2Xck61k</id>
@@ -21,15 +30,6 @@
         <updated>2024-06-12T13:26:28.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Blockchain developers, don't make these FATAL mistakes]]></title>
-        <id>https://www.youtube.com/watch?v=veRVjASJpxI</id>
-        <link href="https://www.youtube.com/watch?v=veRVjASJpxI"/>
-        <updated>2024-06-12T09:45:22.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

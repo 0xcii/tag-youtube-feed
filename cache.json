@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DL5HvYyJjM0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DL5HvYyJjM0",
+          "publishedOn": "2024-06-14T13:22:41.000Z",
+          "wordCount": null,
+          "title": "Quincy Interviews Dev & Prolific Programming Teacher Cobly Fayock [Podcast #128]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6WatcfENsOU",
           "author": null,
           "description": "",
@@ -181,16 +191,6 @@
           "wordCount": null,
           "title": "Open Source is Changing. Quincy interviews Jerod Santo, host of The Changelog [Podcast #125]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=c3Cn4xYfxJY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=c3Cn4xYfxJY",
-          "publishedOn": "2024-05-23T19:04:40.000Z",
-          "wordCount": null,
-          "title": "AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam",
-          "imageUrl": null
         }
       ]
     },
@@ -211,6 +211,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=bFGqO7CnRj0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bFGqO7CnRj0",
+          "publishedOn": "2024-06-14T14:00:35.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: A SHAKEOUT IS HAPPENING",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_fhtKdfOPkQ",
           "author": null,
@@ -349,16 +359,6 @@
           "publishedOn": "2024-05-27T14:00:17.000Z",
           "wordCount": null,
           "title": "How to Use Base with Coinbase Wallet (Receive ETH, Swap, Withdraw)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4NctPNfRGAA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4NctPNfRGAA",
-          "publishedOn": "2024-05-24T14:00:03.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: NOW WE HAVE THE BEST SETUP",
           "imageUrl": null
         }
       ]

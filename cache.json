@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2p7hs8qpNwI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2p7hs8qpNwI",
+          "publishedOn": "2024-06-19T14:00:02.000Z",
+          "wordCount": null,
+          "title": "How to Create a Binance Account in 6 Minutes (Start Trading)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QfuDH9l32Sc",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2024-05-30T14:00:04.000Z",
           "wordCount": null,
           "title": "Crypto Staking Passive Income Complete Beginner's Guide 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lBQMkEBf7W4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lBQMkEBf7W4",
-          "publishedOn": "2024-05-29T14:00:37.000Z",
-          "wordCount": null,
-          "title": "Tron TRC20 Wallet for USDT Tutorial (Send USDT for Lowest Fees!!)",
           "imageUrl": null
         }
       ]

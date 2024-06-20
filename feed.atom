@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-20T04:07:48.414Z</id>
+    <id>urn:2024-06-20T05:06:36.125Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-20T04:07:48.414Z</updated>
+    <updated>2024-06-20T05:06:36.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 The Complete guide to start your career in Blockchain development, for beginners]]></title>
+        <id>https://www.youtube.com/watch?v=fWJB6Tw4obI</id>
+        <link href="https://www.youtube.com/watch?v=fWJB6Tw4obI"/>
+        <updated>2024-06-20T04:29:28.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Binance Account in 6 Minutes (Start Trading)]]></title>
         <id>https://www.youtube.com/watch?v=2p7hs8qpNwI</id>
@@ -21,15 +30,6 @@
         <updated>2024-06-18T19:30:04.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 The Complete guide to start your career in Blockchain development, for beginners]]></title>
-        <id>https://www.youtube.com/watch?v=fWJB6Tw4obI</id>
-        <link href="https://www.youtube.com/watch?v=fWJB6Tw4obI"/>
-        <updated>2024-06-18T16:33:50.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

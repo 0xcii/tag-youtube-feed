@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ouqgx1qKSdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ouqgx1qKSdY",
+          "publishedOn": "2024-06-20T14:17:39.000Z",
+          "wordCount": null,
+          "title": "Godot GameDev Tutorial – 3D RPG Game",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mNMDd6D1om8",
           "author": null,
           "description": "",
@@ -181,16 +191,6 @@
           "wordCount": null,
           "title": "Go and React Full Stack App – Go Tutorial for Node Developers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PaPN51Mm5qQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PaPN51Mm5qQ",
-          "publishedOn": "2024-05-29T14:37:58.000Z",
-          "wordCount": null,
-          "title": "Learn C Programming and OOP with Dr. Chuck [feat. classic book by Kernighan and Ritchie]",
-          "imageUrl": null
         }
       ]
     },
@@ -211,6 +211,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kSQx-uPu9ls",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kSQx-uPu9ls",
+          "publishedOn": "2024-06-20T14:00:40.000Z",
+          "wordCount": null,
+          "title": "Trust Wallet SWIFT Tutorial (Setup Trust Wallet SWIFT Passkey Wallet)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2p7hs8qpNwI",
           "author": null,
@@ -349,16 +359,6 @@
           "publishedOn": "2024-05-31T14:00:33.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: WE'RE ON THE BRINK?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5UbiGmGOvTU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5UbiGmGOvTU",
-          "publishedOn": "2024-05-30T14:00:04.000Z",
-          "wordCount": null,
-          "title": "Crypto Staking Passive Income Complete Beginner's Guide 2024",
           "imageUrl": null
         }
       ]

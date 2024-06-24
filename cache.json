@@ -14,16 +14,6 @@
           "wordCount": null,
           "title": "新手必看！用这个平台实现自动交易，轻松低买高卖！自动交易神器：用AI写交易策略机器人，已经帮我构建好加密货币被动收入，每日躺赚 200$ !",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IbCQNiVSD_Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IbCQNiVSD_Q",
-          "publishedOn": "2024-05-26T06:41:39.000Z",
-          "wordCount": null,
-          "title": "10个高效工具，助你成为加密货币投资大师！快速链上交易、发现新机会、赚取百万美金的秘密！",
-          "imageUrl": null
         }
       ]
     },
@@ -32,6 +22,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=45zq0Xct-Oc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=45zq0Xct-Oc",
+          "publishedOn": "2024-06-24T18:00:04.000Z",
+          "wordCount": null,
+          "title": "Secrets of freeCodeCamp",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JYNA9j8SXs4",
           "author": null,
@@ -170,16 +170,6 @@
           "publishedOn": "2024-06-06T14:07:50.000Z",
           "wordCount": null,
           "title": "Azure DevOps Engineer Expert Certification (AZ-400) – Full Course to PASS the Exam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IoY6bE--A54",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IoY6bE--A54",
-          "publishedOn": "2024-06-05T13:43:36.000Z",
-          "wordCount": null,
-          "title": "Distributed File Storage In Go – Full Course",
           "imageUrl": null
         }
       ]

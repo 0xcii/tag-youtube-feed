@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-24T14:06:47.620Z</id>
+    <id>urn:2024-06-24T15:06:56.381Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-24T14:06:47.620Z</updated>
+    <updated>2024-06-24T15:06:56.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask App Tutorial for Beginners (Setup, Receive, Send, Swap)]]></title>
+        <id>https://www.youtube.com/watch?v=z34QdcBSQ0I</id>
+        <link href="https://www.youtube.com/watch?v=z34QdcBSQ0I"/>
+        <updated>2024-06-24T14:00:48.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VIM Essentials Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=JYNA9j8SXs4</id>
@@ -363,15 +372,6 @@
         <updated>2024-06-03T19:00:16.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Trade on Aerodrome Finance (Step-by-Step Tutorial)]]></title>
-        <id>https://www.youtube.com/watch?v=tJmhXW_RNFw</id>
-        <link href="https://www.youtube.com/watch?v=tJmhXW_RNFw"/>
-        <updated>2024-06-03T14:00:48.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

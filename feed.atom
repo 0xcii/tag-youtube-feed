@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-27T14:06:34.311Z</id>
+    <id>urn:2024-06-27T15:07:29.939Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-27T14:06:34.311Z</updated>
+    <updated>2024-06-27T15:07:29.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GameDev with JavaScript and Kaboom.js – Metroidvania Game Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=iM1iSvloMlo</id>
+        <link href="https://www.youtube.com/watch?v=iM1iSvloMlo"/>
+        <updated>2024-06-27T14:10:42.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Day Trading Live Tutorial for Beginners (Setup & Strategies)]]></title>
         <id>https://www.youtube.com/watch?v=vrPGZr8iM30</id>
@@ -318,15 +327,6 @@
         <updated>2024-06-12T14:00:04.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Three.js by Building 5 Projects]]></title>
-        <id>https://www.youtube.com/watch?v=UMqNHi1GDAE</id>
-        <link href="https://www.youtube.com/watch?v=UMqNHi1GDAE"/>
-        <updated>2024-06-12T13:26:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

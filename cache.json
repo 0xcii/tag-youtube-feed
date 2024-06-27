@@ -349,6 +349,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Li1ZeWo04UU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Li1ZeWo04UU",
+          "publishedOn": "2024-06-27T08:27:25.000Z",
+          "wordCount": null,
+          "title": "🔴 Let's create a Pump.fun clone, the website that generated $30M in revenue",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cq8q1M9aL9s",
           "author": null,
           "description": "",

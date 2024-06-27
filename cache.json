@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6mTIWJgqqtk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6mTIWJgqqtk",
+          "publishedOn": "2024-06-27T19:30:02.000Z",
+          "wordCount": null,
+          "title": "Python List Comprehensions in Seconds",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iM1iSvloMlo",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2024-06-14T13:22:41.000Z",
           "wordCount": null,
           "title": "Quincy Interviews Dev & Prolific Programming Teacher Colby Fayock [Podcast #128]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6WatcfENsOU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6WatcfENsOU",
-          "publishedOn": "2024-06-13T13:35:55.000Z",
-          "wordCount": null,
-          "title": "Linux Crash Course for Beginners with Labs",
           "imageUrl": null
         }
       ]

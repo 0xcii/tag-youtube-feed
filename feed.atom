@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-27T13:09:21.682Z</id>
+    <id>urn:2024-06-27T14:06:34.311Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-27T13:09:21.682Z</updated>
+    <updated>2024-06-27T14:06:34.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Day Trading Live Tutorial for Beginners (Setup & Strategies)]]></title>
+        <id>https://www.youtube.com/watch?v=vrPGZr8iM30</id>
+        <link href="https://www.youtube.com/watch?v=vrPGZr8iM30"/>
+        <updated>2024-06-27T14:00:55.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 Let's create a Pump.fun clone, the website that generated $30M in revenue]]></title>
         <id>https://www.youtube.com/watch?v=Li1ZeWo04UU</id>
@@ -372,15 +381,6 @@
         <updated>2024-06-06T19:30:04.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIMPLE Fibonacci Retracement Strategy for Beginners (Entry & Exit)]]></title>
-        <id>https://www.youtube.com/watch?v=4pIlqhyIJkM</id>
-        <link href="https://www.youtube.com/watch?v=4pIlqhyIJkM"/>
-        <updated>2024-06-06T14:00:07.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

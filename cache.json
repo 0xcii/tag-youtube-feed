@@ -181,6 +181,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vrPGZr8iM30",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vrPGZr8iM30",
+          "publishedOn": "2024-06-27T14:00:55.000Z",
+          "wordCount": null,
+          "title": "Crypto Day Trading Live Tutorial for Beginners (Setup & Strategies)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Lzj8mLYs6rY",
           "author": null,
           "description": "",
@@ -318,16 +328,6 @@
           "publishedOn": "2024-06-07T14:00:08.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: DO NOT MISS THE OPPORTUNITY",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4pIlqhyIJkM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4pIlqhyIJkM",
-          "publishedOn": "2024-06-06T14:00:07.000Z",
-          "wordCount": null,
-          "title": "SIMPLE Fibonacci Retracement Strategy for Beginners (Entry & Exit)",
           "imageUrl": null
         }
       ]

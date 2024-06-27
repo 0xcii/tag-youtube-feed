@@ -4,18 +4,7 @@
       "title": "链求君",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=M65e1JLK3pY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M65e1JLK3pY",
-          "publishedOn": "2024-05-29T00:12:19.000Z",
-          "wordCount": null,
-          "title": "新手必看！用这个平台实现自动交易，轻松低买高卖！自动交易神器：用AI写交易策略机器人，已经帮我构建好加密货币被动收入，每日躺赚 200$ !",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "freeCodeCamp.org",

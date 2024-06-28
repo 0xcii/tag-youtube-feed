@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-28T14:06:19.240Z</id>
+    <id>urn:2024-06-28T15:06:31.543Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-28T14:06:19.240Z</updated>
+    <updated>2024-06-28T15:06:31.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: This Level Might Break...]]></title>
+        <id>https://www.youtube.com/watch?v=jDpbZ1QiFVU</id>
+        <link href="https://www.youtube.com/watch?v=jDpbZ1QiFVU"/>
+        <updated>2024-06-28T14:00:41.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 Let's create a Pump.fun clone, the website that generated $30M in revenue]]></title>
         <id>https://www.youtube.com/watch?v=Li1ZeWo04UU</id>
@@ -352,15 +361,6 @@
         <id>https://www.youtube.com/watch?v=zCga7nKjc8s</id>
         <link href="https://www.youtube.com/watch?v=zCga7nKjc8s"/>
         <updated>2024-06-10T14:00:46.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: DO NOT MISS THE OPPORTUNITY]]></title>
-        <id>https://www.youtube.com/watch?v=Bf36K7AFDow</id>
-        <link href="https://www.youtube.com/watch?v=Bf36K7AFDow"/>
-        <updated>2024-06-07T14:00:08.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

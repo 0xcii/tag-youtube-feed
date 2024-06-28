@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-28T15:06:31.543Z</id>
+    <id>urn:2024-06-28T16:07:31.097Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-28T15:06:31.543Z</updated>
+    <updated>2024-06-28T16:07:31.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -397,15 +397,6 @@
         <id>https://www.youtube.com/watch?v=K6PggO7FoEc</id>
         <link href="https://www.youtube.com/watch?v=K6PggO7FoEc"/>
         <updated>2024-05-31T04:28:28.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 The Ethereum ETF has been approved!]]></title>
-        <id>https://www.youtube.com/watch?v=FyqbQGoRQ3E</id>
-        <link href="https://www.youtube.com/watch?v=FyqbQGoRQ3E"/>
-        <updated>2024-05-30T03:45:23.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

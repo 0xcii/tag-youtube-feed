@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-29T16:07:15.740Z</id>
+    <id>urn:2024-06-29T17:04:10.879Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-29T16:07:15.740Z</updated>
+    <updated>2024-06-29T17:04:10.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -390,15 +390,6 @@
         <updated>2024-06-03T19:00:16.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 How to know if a trading bot makes money? Let's do a backtest]]></title>
-        <id>https://www.youtube.com/watch?v=K6PggO7FoEc</id>
-        <link href="https://www.youtube.com/watch?v=K6PggO7FoEc"/>
-        <updated>2024-05-31T04:28:28.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

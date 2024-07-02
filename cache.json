@@ -181,6 +181,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IkclLFiqJAs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IkclLFiqJAs",
+          "publishedOn": "2024-07-02T14:00:15.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Do NOT Get Shaken Out!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lD7ZNv-yiyI",
           "author": null,
           "description": "",
@@ -318,16 +328,6 @@
           "publishedOn": "2024-06-12T14:00:04.000Z",
           "wordCount": null,
           "title": "Coinbase Smart Wallet Tutorial & Setup Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4_HtGLsz0cs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4_HtGLsz0cs",
-          "publishedOn": "2024-06-11T14:00:04.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: WATCH OUT FOR THIS!",
           "imageUrl": null
         }
       ]

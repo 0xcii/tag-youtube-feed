@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-02T19:02:32.355Z</id>
+    <id>urn:2024-07-02T20:07:20.074Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-02T19:02:32.355Z</updated>
+    <updated>2024-07-02T20:07:20.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Type Checking in Python]]></title>
+        <id>https://www.youtube.com/watch?v=40etheqqBBg</id>
+        <link href="https://www.youtube.com/watch?v=40etheqqBBg"/>
+        <updated>2024-07-02T19:30:00.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Native & Expo Router Course – Build a Meditation App]]></title>
         <id>https://www.youtube.com/watch?v=9UKCv9T_rIo</id>
@@ -219,15 +228,6 @@
         <updated>2024-06-24T14:00:48.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIM Essentials Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=JYNA9j8SXs4</id>
-        <link href="https://www.youtube.com/watch?v=JYNA9j8SXs4"/>
-        <updated>2024-06-24T13:39:54.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

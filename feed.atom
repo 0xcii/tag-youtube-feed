@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-03T16:08:11.013Z</id>
+    <id>urn:2024-07-03T17:02:27.758Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-03T16:08:11.013Z</updated>
+    <updated>2024-07-03T17:02:27.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[API integration Course – Modern Python with FastAPI]]></title>
+        <id>https://www.youtube.com/watch?v=rkPIftzu1pQ</id>
+        <link href="https://www.youtube.com/watch?v=rkPIftzu1pQ"/>
+        <updated>2024-07-03T16:25:00.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Send Crypto from Binance to Bybit]]></title>
         <id>https://www.youtube.com/watch?v=3dEPO9CsVZg</id>
@@ -219,15 +228,6 @@
         <updated>2024-06-25T14:00:10.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secrets of freeCodeCamp]]></title>
-        <id>https://www.youtube.com/watch?v=45zq0Xct-Oc</id>
-        <link href="https://www.youtube.com/watch?v=45zq0Xct-Oc"/>
-        <updated>2024-06-24T18:00:04.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

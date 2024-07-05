@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-05T13:08:37.096Z</id>
+    <id>urn:2024-07-05T14:06:51.308Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-05T13:08:37.096Z</updated>
+    <updated>2024-07-05T14:06:51.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: YET ANOTHER DISASTER]]></title>
+        <id>https://www.youtube.com/watch?v=Pxn8K3w8AEM</id>
+        <link href="https://www.youtube.com/watch?v=Pxn8K3w8AEM"/>
+        <updated>2024-07-05T14:00:31.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 Let's build a SINGLE Blockchain app for ALL smart contracts]]></title>
         <id>https://www.youtube.com/watch?v=AznyJDTby1g</id>
@@ -354,15 +363,6 @@
         <updated>2024-06-14T19:00:22.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: A SHAKEOUT IS HAPPENING]]></title>
-        <id>https://www.youtube.com/watch?v=bFGqO7CnRj0</id>
-        <link href="https://www.youtube.com/watch?v=bFGqO7CnRj0"/>
-        <updated>2024-06-14T14:00:35.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

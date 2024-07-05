@@ -181,6 +181,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Pxn8K3w8AEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pxn8K3w8AEM",
+          "publishedOn": "2024-07-05T14:00:31.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: YET ANOTHER DISASTER",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IpN5Oof6Kbc",
           "author": null,
           "description": "",
@@ -318,16 +328,6 @@
           "publishedOn": "2024-06-17T14:00:38.000Z",
           "wordCount": null,
           "title": "TradingView for Beginners (20 Minute Setup Guide)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bFGqO7CnRj0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bFGqO7CnRj0",
-          "publishedOn": "2024-06-14T14:00:35.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: A SHAKEOUT IS HAPPENING",
           "imageUrl": null
         }
       ]

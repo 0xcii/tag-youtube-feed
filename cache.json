@@ -405,6 +405,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MlHxYIKLw6E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MlHxYIKLw6E",
+          "publishedOn": "2024-07-08T19:00:11.000Z",
+          "wordCount": null,
+          "title": "This new crypto trading bot prints $$$ in 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Miq2gPINvRA",
           "author": null,
           "description": "",

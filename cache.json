@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vROMXzOWqec",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vROMXzOWqec",
+          "publishedOn": "2024-07-10T14:44:01.000Z",
+          "wordCount": null,
+          "title": "How to Deploy a Web App – Step-by-Step Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SpwzRDUQ1GI",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "Is that him?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aPvkad_Eusg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aPvkad_Eusg",
-          "publishedOn": "2024-06-28T19:30:00.000Z",
-          "wordCount": null,
-          "title": "JavaScript Tutorial: Convert to Uppercase and Lowercase",
-          "imageUrl": null
         }
       ]
     },
@@ -180,6 +180,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ELUkyFASn7A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ELUkyFASn7A",
+          "publishedOn": "2024-07-10T14:00:12.000Z",
+          "wordCount": null,
+          "title": "How to Withdraw Crypto from Bybit to Another Wallet or Exchange",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lVeC-xCoyik",
           "author": null,
@@ -319,16 +329,6 @@
           "wordCount": null,
           "title": "Trust Wallet SWIFT Tutorial (Setup Trust Wallet SWIFT Passkey Wallet)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2p7hs8qpNwI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2p7hs8qpNwI",
-          "publishedOn": "2024-06-19T14:00:02.000Z",
-          "wordCount": null,
-          "title": "How to Create a Binance Account in 6 Minutes (Start Trading)",
-          "imageUrl": null
         }
       ]
     },
@@ -337,6 +337,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9PgS_WShWr0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9PgS_WShWr0",
+          "publishedOn": "2024-07-10T15:01:23.000Z",
+          "wordCount": null,
+          "title": "Introduction to the Reactive Network",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=AznyJDTby1g",
           "author": null,

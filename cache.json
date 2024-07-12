@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8zhAtjAv6oA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8zhAtjAv6oA",
+          "publishedOn": "2024-07-12T14:00:07.000Z",
+          "wordCount": null,
+          "title": "From Data Entry Drudgery to Software Engineer with Jessica Chan AKA Coder Coder [Podcast #132]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OFpqvaJ3QYg",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "Go for Absolute Beginners – Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yo9uM5u7MaQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yo9uM5u7MaQ",
-          "publishedOn": "2024-06-30T11:15:05.000Z",
-          "wordCount": null,
-          "title": "Use picture Element for Responsive Images in HTML",
-          "imageUrl": null
         }
       ]
     },
@@ -180,6 +180,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mWkEAn1SN70",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mWkEAn1SN70",
+          "publishedOn": "2024-07-12T14:00:44.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: MY BULL MARKET PREDICTION",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=M7GXUJAdBr0",
           "author": null,
@@ -318,16 +328,6 @@
           "publishedOn": "2024-06-24T14:00:48.000Z",
           "wordCount": null,
           "title": "MetaMask App Tutorial for Beginners (Setup, Receive, Send, Swap)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VP9J0HKYbUg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VP9J0HKYbUg",
-          "publishedOn": "2024-06-21T14:00:24.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: VERY CLOSE TO A BREAKOUT!",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-12T04:08:11.457Z</id>
+    <id>urn:2024-07-12T05:06:41.797Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-12T04:08:11.457Z</updated>
+    <updated>2024-07-12T05:06:41.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Let's build a Blockchain app to get the cheapest price on DEXes]]></title>
+        <id>https://www.youtube.com/watch?v=TYH7yaOVl34</id>
+        <link href="https://www.youtube.com/watch?v=TYH7yaOVl34"/>
+        <updated>2024-07-12T04:55:13.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BEST Trend Lines Trading Strategy for Beginners (SIMPLE Technique)]]></title>
         <id>https://www.youtube.com/watch?v=M7GXUJAdBr0</id>
@@ -21,15 +30,6 @@
         <updated>2024-07-11T13:22:59.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Let's build a Blockchain app to get the cheapest price on DEXes]]></title>
-        <id>https://www.youtube.com/watch?v=TYH7yaOVl34</id>
-        <link href="https://www.youtube.com/watch?v=TYH7yaOVl34"/>
-        <updated>2024-07-11T07:38:36.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

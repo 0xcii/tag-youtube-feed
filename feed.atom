@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-15T13:11:26.812Z</id>
+    <id>urn:2024-07-15T14:05:35.959Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-15T13:11:26.812Z</updated>
+    <updated>2024-07-15T14:05:35.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Phantom Wallet Mobile App Tutorial & Setup Guide]]></title>
+        <id>https://www.youtube.com/watch?v=8xQDjhsR4t8</id>
+        <link href="https://www.youtube.com/watch?v=8xQDjhsR4t8"/>
+        <updated>2024-07-15T14:00:52.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fastest growing blockchain trend nobody’s talking about]]></title>
         <id>https://www.youtube.com/watch?v=LOYA5Fa-P9w</id>
@@ -343,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=GjVToZyWzTk</id>
         <link href="https://www.youtube.com/watch?v=GjVToZyWzTk"/>
         <updated>2024-06-25T14:00:10.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask App Tutorial for Beginners (Setup, Receive, Send, Swap)]]></title>
-        <id>https://www.youtube.com/watch?v=z34QdcBSQ0I</id>
-        <link href="https://www.youtube.com/watch?v=z34QdcBSQ0I"/>
-        <updated>2024-06-24T14:00:48.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TzuWIHGFKCQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TzuWIHGFKCQ",
+          "publishedOn": "2024-07-16T13:45:58.000Z",
+          "wordCount": null,
+          "title": "24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gvQGKRlgop4",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "React Native & Expo Router Course – Build a Meditation App",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k3FAUZnXUuc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k3FAUZnXUuc",
-          "publishedOn": "2024-07-01T19:45:00.000Z",
-          "wordCount": null,
-          "title": "Opacity in CSS",
-          "imageUrl": null
         }
       ]
     },
@@ -180,6 +180,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=07Djz2AWEVo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=07Djz2AWEVo",
+          "publishedOn": "2024-07-16T14:00:00.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: ALL SYSTEMS GO!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8xQDjhsR4t8",
           "author": null,
@@ -318,16 +328,6 @@
           "publishedOn": "2024-06-26T14:00:14.000Z",
           "wordCount": null,
           "title": "How to Swap Crypto in Bybit Web3 Wallet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GjVToZyWzTk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GjVToZyWzTk",
-          "publishedOn": "2024-06-25T14:00:10.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: THERE'S AN EMERGENCY SELLING EVENT",
           "imageUrl": null
         }
       ]

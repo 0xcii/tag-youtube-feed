@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-17T14:06:17.450Z</id>
+    <id>urn:2024-07-17T15:08:36.098Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-17T14:06:17.450Z</updated>
+    <updated>2024-07-17T15:08:36.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Aptos For Blockchain developers]]></title>
+        <id>https://www.youtube.com/watch?v=8t5HcmKB034</id>
+        <link href="https://www.youtube.com/watch?v=8t5HcmKB034"/>
+        <updated>2024-07-17T14:50:08.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Advanced Security Certification – Pass the Exam!]]></title>
+        <id>https://www.youtube.com/watch?v=i740xlsqxEM</id>
+        <link href="https://www.youtube.com/watch?v=i740xlsqxEM"/>
+        <updated>2024-07-17T14:43:07.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tonkeeper Wallet Tutorial for Beginners (Create, Telegram, USDT)]]></title>
+        <id>https://www.youtube.com/watch?v=bh_ten20Rpg</id>
+        <link href="https://www.youtube.com/watch?v=bh_ten20Rpg"/>
+        <updated>2024-07-17T14:00:28.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小地球仪VPN，币圈首选优质科学上网工具推荐 ！ 提高你的网络流畅度 ！]]></title>
         <id>https://www.youtube.com/watch?v=2osjNq2Xe5w</id>
@@ -294,15 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Native & Expo Router Course – Build a Meditation App]]></title>
-        <id>https://www.youtube.com/watch?v=9UKCv9T_rIo</id>
-        <link href="https://www.youtube.com/watch?v=9UKCv9T_rIo"/>
-        <updated>2024-07-02T14:30:12.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Alert: Do NOT Get Shaken Out!]]></title>
         <id>https://www.youtube.com/watch?v=IkclLFiqJAs</id>
         <link href="https://www.youtube.com/watch?v=IkclLFiqJAs"/>
@@ -363,15 +381,6 @@
         <updated>2024-06-26T21:00:24.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Swap Crypto in Bybit Web3 Wallet]]></title>
-        <id>https://www.youtube.com/watch?v=Lzj8mLYs6rY</id>
-        <link href="https://www.youtube.com/watch?v=Lzj8mLYs6rY"/>
-        <updated>2024-06-26T14:00:14.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

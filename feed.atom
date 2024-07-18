@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-18T13:11:15.765Z</id>
+    <id>urn:2024-07-18T14:06:40.088Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-18T13:11:15.765Z</updated>
+    <updated>2024-07-18T14:06:40.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit DCA Bot Tutorial (Dollar Cost Averaging Crypto Trading Bot)]]></title>
+        <id>https://www.youtube.com/watch?v=5WXgwHDwwWQ</id>
+        <link href="https://www.youtube.com/watch?v=5WXgwHDwwWQ"/>
+        <updated>2024-07-18T14:00:04.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blazor Fundamentals Tutorial – Learn Blazor Step-by-Step]]></title>
+        <id>https://www.youtube.com/watch?v=CpbRAWgFBRQ</id>
+        <link href="https://www.youtube.com/watch?v=CpbRAWgFBRQ"/>
+        <updated>2024-07-18T13:42:35.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 Let's learn Solana development]]></title>
         <id>https://www.youtube.com/watch?v=dqGeaWCCoog</id>
@@ -321,15 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Type Checking in Python]]></title>
-        <id>https://www.youtube.com/watch?v=40etheqqBBg</id>
-        <link href="https://www.youtube.com/watch?v=40etheqqBBg"/>
-        <updated>2024-07-02T19:30:00.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Alert: Do NOT Get Shaken Out!]]></title>
         <id>https://www.youtube.com/watch?v=IkclLFiqJAs</id>
         <link href="https://www.youtube.com/watch?v=IkclLFiqJAs"/>
@@ -372,15 +381,6 @@
         <updated>2024-06-28T05:59:37.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Day Trading Live Tutorial for Beginners (Setup & Strategies)]]></title>
-        <id>https://www.youtube.com/watch?v=vrPGZr8iM30</id>
-        <link href="https://www.youtube.com/watch?v=vrPGZr8iM30"/>
-        <updated>2024-06-27T14:00:55.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

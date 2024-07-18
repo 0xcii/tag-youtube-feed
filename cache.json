@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CpbRAWgFBRQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CpbRAWgFBRQ",
+          "publishedOn": "2024-07-18T13:42:35.000Z",
+          "wordCount": null,
+          "title": "Blazor Fundamentals Tutorial – Learn Blazor Step-by-Step",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=i740xlsqxEM",
           "author": null,
           "description": "",
@@ -161,16 +171,6 @@
           "wordCount": null,
           "title": "API integration Course – Modern Python with FastAPI",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=40etheqqBBg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=40etheqqBBg",
-          "publishedOn": "2024-07-02T19:30:00.000Z",
-          "wordCount": null,
-          "title": "Type Checking in Python",
-          "imageUrl": null
         }
       ]
     },
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5WXgwHDwwWQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5WXgwHDwwWQ",
+          "publishedOn": "2024-07-18T14:00:04.000Z",
+          "wordCount": null,
+          "title": "Bybit DCA Bot Tutorial (Dollar Cost Averaging Crypto Trading Bot)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=bh_ten20Rpg",
           "author": null,
@@ -329,16 +339,6 @@
           "publishedOn": "2024-06-28T14:00:41.000Z",
           "wordCount": null,
           "title": "Crypto Alert: This Level Might Break...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vrPGZr8iM30",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vrPGZr8iM30",
-          "publishedOn": "2024-06-27T14:00:55.000Z",
-          "wordCount": null,
-          "title": "Crypto Day Trading Live Tutorial for Beginners (Setup & Strategies)",
           "imageUrl": null
         }
       ]

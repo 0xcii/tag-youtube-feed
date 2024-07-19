@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T19:06:14.178Z</id>
+    <id>urn:2024-07-19T20:08:54.149Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T19:06:14.178Z</updated>
+    <updated>2024-07-19T20:08:54.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This crypto social network will pay you $$$ to use it]]></title>
+        <id>https://www.youtube.com/watch?v=_koZa5zDG9s</id>
+        <link href="https://www.youtube.com/watch?v=_koZa5zDG9s"/>
+        <updated>2024-07-19T19:00:19.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]]]></title>
         <id>https://www.youtube.com/watch?v=EggrJhIdY3s</id>

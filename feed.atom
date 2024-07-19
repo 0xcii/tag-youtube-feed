@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T04:09:28.753Z</id>
+    <id>urn:2024-07-19T05:07:35.290Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T04:09:28.753Z</updated>
+    <updated>2024-07-19T05:07:35.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Let's learn Solana development]]></title>
+        <id>https://www.youtube.com/watch?v=dqGeaWCCoog</id>
+        <link href="https://www.youtube.com/watch?v=dqGeaWCCoog"/>
+        <updated>2024-07-19T04:23:32.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bybit DCA Bot Tutorial (Dollar Cost Averaging Crypto Trading Bot)]]></title>
         <id>https://www.youtube.com/watch?v=5WXgwHDwwWQ</id>
@@ -21,15 +30,6 @@
         <updated>2024-07-18T13:42:35.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Let's learn Solana development]]></title>
-        <id>https://www.youtube.com/watch?v=dqGeaWCCoog</id>
-        <link href="https://www.youtube.com/watch?v=dqGeaWCCoog"/>
-        <updated>2024-07-18T08:05:06.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

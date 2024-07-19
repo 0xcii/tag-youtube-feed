@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EggrJhIdY3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EggrJhIdY3s",
+          "publishedOn": "2024-07-19T14:04:32.000Z",
+          "wordCount": null,
+          "title": "How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CpbRAWgFBRQ",
           "author": null,
           "description": "",
@@ -161,16 +171,6 @@
           "wordCount": null,
           "title": "Convert Strings to Numbers in JavaScript",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rkPIftzu1pQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rkPIftzu1pQ",
-          "publishedOn": "2024-07-03T16:25:00.000Z",
-          "wordCount": null,
-          "title": "API integration Course – Modern Python with FastAPI",
-          "imageUrl": null
         }
       ]
     },
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hUE1REmbNkk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hUE1REmbNkk",
+          "publishedOn": "2024-07-19T14:00:38.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: HISTORY WILL BE MADE!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5WXgwHDwwWQ",
           "author": null,
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-01T14:00:39.000Z",
           "wordCount": null,
           "title": "How to Draw Fibonacci for Trading (Retracements & Expansions)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jDpbZ1QiFVU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jDpbZ1QiFVU",
-          "publishedOn": "2024-06-28T14:00:41.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: This Level Might Break...",
           "imageUrl": null
         }
       ]

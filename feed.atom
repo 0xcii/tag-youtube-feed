@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T14:08:06.768Z</id>
+    <id>urn:2024-07-19T15:07:31.485Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T14:08:06.768Z</updated>
+    <updated>2024-07-19T15:07:31.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]]]></title>
+        <id>https://www.youtube.com/watch?v=EggrJhIdY3s</id>
+        <link href="https://www.youtube.com/watch?v=EggrJhIdY3s"/>
+        <updated>2024-07-19T14:04:32.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: HISTORY WILL BE MADE!!]]></title>
+        <id>https://www.youtube.com/watch?v=hUE1REmbNkk</id>
+        <link href="https://www.youtube.com/watch?v=hUE1REmbNkk"/>
+        <updated>2024-07-19T14:00:38.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 Let's learn Solana development]]></title>
         <id>https://www.youtube.com/watch?v=dqGeaWCCoog</id>
@@ -321,15 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[API integration Course – Modern Python with FastAPI]]></title>
-        <id>https://www.youtube.com/watch?v=rkPIftzu1pQ</id>
-        <link href="https://www.youtube.com/watch?v=rkPIftzu1pQ"/>
-        <updated>2024-07-03T16:25:00.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Send Crypto from Binance to Bybit]]></title>
         <id>https://www.youtube.com/watch?v=3dEPO9CsVZg</id>
         <link href="https://www.youtube.com/watch?v=3dEPO9CsVZg"/>
@@ -361,15 +370,6 @@
         <id>https://www.youtube.com/watch?v=lD7ZNv-yiyI</id>
         <link href="https://www.youtube.com/watch?v=lD7ZNv-yiyI"/>
         <updated>2024-07-01T14:00:39.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: This Level Might Break...]]></title>
-        <id>https://www.youtube.com/watch?v=jDpbZ1QiFVU</id>
-        <link href="https://www.youtube.com/watch?v=jDpbZ1QiFVU"/>
-        <updated>2024-06-28T14:00:41.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

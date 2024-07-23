@@ -416,6 +416,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=heWPgy_-R_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=heWPgy_-R_0",
+          "publishedOn": "2024-07-23T20:45:03.000Z",
+          "wordCount": null,
+          "title": "URGENT: Something major happening to Ethereum - developer explains",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_koZa5zDG9s",
           "author": null,
           "description": "",

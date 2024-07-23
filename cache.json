@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yBThHM2pBbE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yBThHM2pBbE",
+          "publishedOn": "2024-07-23T14:13:48.000Z",
+          "wordCount": null,
+          "title": "Fullstack Drag & Drop Notes App with React",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EggrJhIdY3s",
           "author": null,
           "description": "",
@@ -161,16 +171,6 @@
           "wordCount": null,
           "title": "Spread Operator in JavaScript",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qCf8Et3wtLA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qCf8Et3wtLA",
-          "publishedOn": "2024-07-03T18:15:03.000Z",
-          "wordCount": null,
-          "title": "Convert Strings to Numbers in JavaScript",
-          "imageUrl": null
         }
       ]
     },
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=tl2sqPR4RP8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tl2sqPR4RP8",
+          "publishedOn": "2024-07-23T14:00:46.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: WE'RE COILING UP...",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=K4036yvhBac",
           "author": null,
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-03T14:00:03.000Z",
           "wordCount": null,
           "title": "How to Send Crypto from Binance to Bybit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IkclLFiqJAs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IkclLFiqJAs",
-          "publishedOn": "2024-07-02T14:00:15.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Do NOT Get Shaken Out!",
           "imageUrl": null
         }
       ]

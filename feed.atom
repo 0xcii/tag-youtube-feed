@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-23T14:06:56.394Z</id>
+    <id>urn:2024-07-23T15:07:35.373Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-23T14:06:56.394Z</updated>
+    <updated>2024-07-23T15:07:35.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fullstack Drag & Drop Notes App with React]]></title>
+        <id>https://www.youtube.com/watch?v=yBThHM2pBbE</id>
+        <link href="https://www.youtube.com/watch?v=yBThHM2pBbE"/>
+        <updated>2024-07-23T14:13:48.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: WE'RE COILING UP...]]></title>
+        <id>https://www.youtube.com/watch?v=tl2sqPR4RP8</id>
+        <link href="https://www.youtube.com/watch?v=tl2sqPR4RP8"/>
+        <updated>2024-07-23T14:00:46.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Withdraw Money from Tonkeeper Wallet to Bank (Cash Out)]]></title>
         <id>https://www.youtube.com/watch?v=K4036yvhBac</id>
@@ -348,28 +366,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Convert Strings to Numbers in JavaScript]]></title>
-        <id>https://www.youtube.com/watch?v=qCf8Et3wtLA</id>
-        <link href="https://www.youtube.com/watch?v=qCf8Et3wtLA"/>
-        <updated>2024-07-03T18:15:03.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Send Crypto from Binance to Bybit]]></title>
         <id>https://www.youtube.com/watch?v=3dEPO9CsVZg</id>
         <link href="https://www.youtube.com/watch?v=3dEPO9CsVZg"/>
         <updated>2024-07-03T14:00:03.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Do NOT Get Shaken Out!]]></title>
-        <id>https://www.youtube.com/watch?v=IkclLFiqJAs</id>
-        <link href="https://www.youtube.com/watch?v=IkclLFiqJAs"/>
-        <updated>2024-07-02T14:00:15.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

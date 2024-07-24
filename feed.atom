@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-24T13:11:35.429Z</id>
+    <id>urn:2024-07-24T14:07:29.823Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-24T13:11:35.429Z</updated>
+    <updated>2024-07-24T14:07:29.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best Crypto Trading Apps 2024 (Top Features Comparison & Tips)]]></title>
+        <id>https://www.youtube.com/watch?v=oHGHHBd5mQw</id>
+        <link href="https://www.youtube.com/watch?v=oHGHHBd5mQw"/>
+        <updated>2024-07-24T14:00:47.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[URGENT: Something major happening to Ethereum - developer explains]]></title>
         <id>https://www.youtube.com/watch?v=heWPgy_-R_0</id>
@@ -370,15 +379,6 @@
         <id>https://www.youtube.com/watch?v=IpN5Oof6Kbc</id>
         <link href="https://www.youtube.com/watch?v=IpN5Oof6Kbc"/>
         <updated>2024-07-04T14:00:14.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Crypto from Binance to Bybit]]></title>
-        <id>https://www.youtube.com/watch?v=3dEPO9CsVZg</id>
-        <link href="https://www.youtube.com/watch?v=3dEPO9CsVZg"/>
-        <updated>2024-07-03T14:00:03.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

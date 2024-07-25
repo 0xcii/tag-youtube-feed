@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=F2FmTdLtb_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F2FmTdLtb_4",
+          "publishedOn": "2024-07-25T13:36:47.000Z",
+          "wordCount": null,
+          "title": "System Design Concepts Course and Interview Prep",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yBThHM2pBbE",
           "author": null,
           "description": "",
@@ -161,16 +171,6 @@
           "wordCount": null,
           "title": "What Scott Hanselman learned from doing 900 podcast interviews with devs [Podcast #131]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zQxMX2ZZ-hI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zQxMX2ZZ-hI",
-          "publishedOn": "2024-07-04T19:00:26.000Z",
-          "wordCount": null,
-          "title": "Spread Operator in JavaScript",
-          "imageUrl": null
         }
       ]
     },
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oo2zYC50bow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oo2zYC50bow",
+          "publishedOn": "2024-07-25T14:00:42.000Z",
+          "wordCount": null,
+          "title": "How to Send USDT From Binance to Another Wallet",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oHGHHBd5mQw",
           "author": null,
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-05T14:00:31.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: YET ANOTHER DISASTER",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IpN5Oof6Kbc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IpN5Oof6Kbc",
-          "publishedOn": "2024-07-04T14:00:14.000Z",
-          "wordCount": null,
-          "title": "Crypto Arbitrage Strategy Guide (How Much Money Can I Make?)",
           "imageUrl": null
         }
       ]

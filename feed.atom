@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-26T13:09:46.064Z</id>
+    <id>urn:2024-07-26T14:05:49.047Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-26T13:09:46.064Z</updated>
+    <updated>2024-07-26T14:05:49.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: THE BIG MOVE IS YET TO COME]]></title>
+        <id>https://www.youtube.com/watch?v=4c0x9dVij78</id>
+        <link href="https://www.youtube.com/watch?v=4c0x9dVij78"/>
+        <updated>2024-07-26T14:00:04.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 Crypto Sniping Bot, step-by-step coding tutorial]]></title>
         <id>https://www.youtube.com/watch?v=v7Y7F60YdFQ</id>
@@ -363,15 +372,6 @@
         <updated>2024-07-05T14:27:27.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: YET ANOTHER DISASTER]]></title>
-        <id>https://www.youtube.com/watch?v=Pxn8K3w8AEM</id>
-        <link href="https://www.youtube.com/watch?v=Pxn8K3w8AEM"/>
-        <updated>2024-07-05T14:00:31.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

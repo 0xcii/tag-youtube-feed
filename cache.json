@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4c0x9dVij78",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4c0x9dVij78",
+          "publishedOn": "2024-07-26T14:00:04.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: THE BIG MOVE IS YET TO COME",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oo2zYC50bow",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-08T14:00:40.000Z",
           "wordCount": null,
           "title": "BEST Crypto Perpetuals DeXs (Leveraged Crypto Trading DeXs)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pxn8K3w8AEM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pxn8K3w8AEM",
-          "publishedOn": "2024-07-05T14:00:31.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: YET ANOTHER DISASTER",
           "imageUrl": null
         }
       ]

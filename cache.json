@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ViXtQZXrPrI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ViXtQZXrPrI",
+          "publishedOn": "2024-07-30T14:00:32.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: I'M ALL IN (TIME RUNNING OUT)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=52oMNXJIe10",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-10T14:00:12.000Z",
           "wordCount": null,
           "title": "How to Withdraw Crypto from Bybit to Another Wallet or Exchange",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lVeC-xCoyik",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lVeC-xCoyik",
-          "publishedOn": "2024-07-09T14:00:39.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: TIME TO TAKE ADVANTAGE!!",
           "imageUrl": null
         }
       ]

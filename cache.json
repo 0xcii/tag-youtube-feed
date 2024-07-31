@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yyN8rwpvqt8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yyN8rwpvqt8",
+          "publishedOn": "2024-07-31T14:01:02.000Z",
+          "wordCount": null,
+          "title": "How to TRADE on Phemex Crypto Exchnage (Spot & Leverage)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ViXtQZXrPrI",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-11T14:00:20.000Z",
           "wordCount": null,
           "title": "BEST Trend Lines Trading Strategy for Beginners (SIMPLE Technique)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ELUkyFASn7A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ELUkyFASn7A",
-          "publishedOn": "2024-07-10T14:00:12.000Z",
-          "wordCount": null,
-          "title": "How to Withdraw Crypto from Bybit to Another Wallet or Exchange",
           "imageUrl": null
         }
       ]

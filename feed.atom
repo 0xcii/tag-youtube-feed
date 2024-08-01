@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-01T14:06:40.607Z</id>
+    <id>urn:2024-08-01T15:06:56.576Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-01T14:06:40.607Z</updated>
+    <updated>2024-08-01T15:06:56.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RAG Fundamentals and Advanced Techniques – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=ea2W8IogX80</id>
+        <link href="https://www.youtube.com/watch?v=ea2W8IogX80"/>
+        <updated>2024-08-01T14:32:49.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Sell Crypto to Cash (Sell Crypto & Withdraw to Bank)]]></title>
         <id>https://www.youtube.com/watch?v=kMGp8Xsty9E</id>
@@ -388,15 +397,6 @@
         <id>https://www.youtube.com/watch?v=QN574SUEP2I</id>
         <link href="https://www.youtube.com/watch?v=QN574SUEP2I"/>
         <updated>2024-07-08T16:09:01.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cafe Menu in HTML & CSS]]></title>
-        <id>https://www.youtube.com/watch?v=mFgS6cS2waY</id>
-        <link href="https://www.youtube.com/watch?v=mFgS6cS2waY"/>
-        <updated>2024-07-06T11:00:47.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

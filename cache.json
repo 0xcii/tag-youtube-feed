@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kMGp8Xsty9E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kMGp8Xsty9E",
+          "publishedOn": "2024-08-01T14:00:43.000Z",
+          "wordCount": null,
+          "title": "How to Sell Crypto to Cash (Sell Crypto & Withdraw to Bank)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yyN8rwpvqt8",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-12T14:00:44.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: MY BULL MARKET PREDICTION",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M7GXUJAdBr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M7GXUJAdBr0",
-          "publishedOn": "2024-07-11T14:00:20.000Z",
-          "wordCount": null,
-          "title": "BEST Trend Lines Trading Strategy for Beginners (SIMPLE Technique)",
           "imageUrl": null
         }
       ]

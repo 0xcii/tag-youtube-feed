@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-01T13:11:33.228Z</id>
+    <id>urn:2024-08-01T14:06:40.607Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-01T13:11:33.228Z</updated>
+    <updated>2024-08-01T14:06:40.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Sell Crypto to Cash (Sell Crypto & Withdraw to Bank)]]></title>
+        <id>https://www.youtube.com/watch?v=kMGp8Xsty9E</id>
+        <link href="https://www.youtube.com/watch?v=kMGp8Xsty9E"/>
+        <updated>2024-08-01T14:00:43.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 How to Start A Career In Web3 As a Web2 Developer?]]></title>
         <id>https://www.youtube.com/watch?v=jReGbzE1Y7U</id>
@@ -327,15 +336,6 @@
         <updated>2024-07-12T04:55:13.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEST Trend Lines Trading Strategy for Beginners (SIMPLE Technique)]]></title>
-        <id>https://www.youtube.com/watch?v=M7GXUJAdBr0</id>
-        <link href="https://www.youtube.com/watch?v=M7GXUJAdBr0"/>
-        <updated>2024-07-11T14:00:20.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

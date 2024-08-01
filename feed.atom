@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-01T04:08:40.944Z</id>
+    <id>urn:2024-08-01T05:07:03.509Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-01T04:08:40.944Z</updated>
+    <updated>2024-08-01T05:07:03.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to TRADE on Phemex Crypto Exchnage (Spot & Leverage)]]></title>
+        <title type="html"><![CDATA[🔴 How to Start A Career In Web3 As a Web2 Developer?]]></title>
+        <id>https://www.youtube.com/watch?v=jReGbzE1Y7U</id>
+        <link href="https://www.youtube.com/watch?v=jReGbzE1Y7U"/>
+        <updated>2024-08-01T04:30:13.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to TRADE on Phemex Crypto Exchange (Spot & Leverage)]]></title>
         <id>https://www.youtube.com/watch?v=yyN8rwpvqt8</id>
         <link href="https://www.youtube.com/watch?v=yyN8rwpvqt8"/>
         <updated>2024-07-31T14:01:02.000Z</updated>
@@ -48,15 +57,6 @@
         <updated>2024-07-29T14:00:09.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 How to Start A Career In Web3 As a Web2 Developer?]]></title>
-        <id>https://www.youtube.com/watch?v=jReGbzE1Y7U</id>
-        <link href="https://www.youtube.com/watch?v=jReGbzE1Y7U"/>
-        <updated>2024-07-29T08:23:16.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

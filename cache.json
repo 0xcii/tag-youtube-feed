@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zJ06UQ_tXJM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zJ06UQ_tXJM",
+          "publishedOn": "2024-08-02T14:01:00.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: THE 10X OPPORTUNITY",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kMGp8Xsty9E",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-15T14:00:52.000Z",
           "wordCount": null,
           "title": "Phantom Wallet Mobile App Tutorial & Setup Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mWkEAn1SN70",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mWkEAn1SN70",
-          "publishedOn": "2024-07-12T14:00:44.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: MY BULL MARKET PREDICTION",
           "imageUrl": null
         }
       ]

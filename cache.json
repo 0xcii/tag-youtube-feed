@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TRK-t1XItVY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TRK-t1XItVY",
+          "publishedOn": "2024-08-05T14:00:31.000Z",
+          "wordCount": null,
+          "title": "How to Connect Ledger to Rabby Wallet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zJ06UQ_tXJM",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-16T14:00:00.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: ALL SYSTEMS GO!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8xQDjhsR4t8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8xQDjhsR4t8",
-          "publishedOn": "2024-07-15T14:00:52.000Z",
-          "wordCount": null,
-          "title": "Phantom Wallet Mobile App Tutorial & Setup Guide",
           "imageUrl": null
         }
       ]

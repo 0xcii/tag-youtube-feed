@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fyqRSaSJf0I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fyqRSaSJf0I",
+          "publishedOn": "2024-08-07T13:00:43.000Z",
+          "wordCount": null,
+          "title": "Code a Downloadable Desktop Game in JavaScript",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yK1uBHPdp30",
           "author": null,
           "description": "",
@@ -161,16 +171,6 @@
           "wordCount": null,
           "title": "Asynchronous JavaScript Course – Async/Await , Promises, Callbacks, Fetch API",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vROMXzOWqec",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vROMXzOWqec",
-          "publishedOn": "2024-07-10T14:44:01.000Z",
-          "wordCount": null,
-          "title": "How to Deploy a Web App Using Multiple Methods (Azure, Render, MongoDB Atlas, Koyeb, and more )",
-          "imageUrl": null
         }
       ]
     },
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=78cR3YJMpjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=78cR3YJMpjc",
+          "publishedOn": "2024-08-07T14:00:06.000Z",
+          "wordCount": null,
+          "title": "How to Deposit Crypto to Coinbase Wallet (ETH, BTC, SOL, USDC etc)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pba_YfdTK1c",
           "author": null,
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-18T14:00:04.000Z",
           "wordCount": null,
           "title": "Bybit DCA Bot Tutorial (Dollar Cost Averaging Crypto Trading Bot)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bh_ten20Rpg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bh_ten20Rpg",
-          "publishedOn": "2024-07-17T14:00:28.000Z",
-          "wordCount": null,
-          "title": "Tonkeeper Wallet Tutorial for Beginners (Create, Telegram, USDT)",
           "imageUrl": null
         }
       ]

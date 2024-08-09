@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rAbnVhhyIjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rAbnVhhyIjE",
+          "publishedOn": "2024-08-09T14:00:51.000Z",
+          "wordCount": null,
+          "title": "Developer and inventor with 27 software patents [Angie Jones Interview #136]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fyqRSaSJf0I",
           "author": null,
           "description": "",
@@ -161,16 +171,6 @@
           "wordCount": null,
           "title": "From doing data entry to becoming a developer with Jessica Chan AKA Coder Coder [Podcast #132]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OFpqvaJ3QYg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OFpqvaJ3QYg",
-          "publishedOn": "2024-07-11T13:22:59.000Z",
-          "wordCount": null,
-          "title": "Asynchronous JavaScript Course – Async/Await , Promises, Callbacks, Fetch API",
-          "imageUrl": null
         }
       ]
     },
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_BFvC8tz8Xw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_BFvC8tz8Xw",
+          "publishedOn": "2024-08-09T14:00:36.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: A CRASH IS INEVITABLE...",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Fuh8xe3gieg",
           "author": null,
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-22T14:00:26.000Z",
           "wordCount": null,
           "title": "How to Withdraw Money from Tonkeeper Wallet to Bank (Cash Out)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hUE1REmbNkk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hUE1REmbNkk",
-          "publishedOn": "2024-07-19T14:00:38.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: HISTORY WILL BE MADE!!",
           "imageUrl": null
         }
       ]

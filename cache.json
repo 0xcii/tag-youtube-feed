@@ -397,16 +397,6 @@
           "wordCount": null,
           "title": "Introduction to Aptos For Blockchain developers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TYH7yaOVl34",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TYH7yaOVl34",
-          "publishedOn": "2024-07-12T04:55:13.000Z",
-          "wordCount": null,
-          "title": "🔴 Let's build a Blockchain app to get the cheapest price on DEXes",
-          "imageUrl": null
         }
       ]
     },

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-12T14:08:37.751Z</id>
+    <id>urn:2024-08-12T15:07:49.556Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-12T14:08:37.751Z</updated>
+    <updated>2024-08-12T15:07:49.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Certified Developer Associate (DVA-C02) Certification Course – Prepare For and Pass the Exam]]></title>
+        <id>https://www.youtube.com/watch?v=TTcyhhH2FWE</id>
+        <link href="https://www.youtube.com/watch?v=TTcyhhH2FWE"/>
+        <updated>2024-08-12T14:08:11.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Bybit to TradingView (Trade & Webhook Alerts)]]></title>
+        <id>https://www.youtube.com/watch?v=0hd1lpiQobg</id>
+        <link href="https://www.youtube.com/watch?v=0hd1lpiQobg"/>
+        <updated>2024-08-12T14:00:02.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小白撸空投如何同时操作 100 个钱包 ！ 指纹浏览器 MoreLogin 推荐教程 ！ 独立环境多账号操作，10 倍提升效率 ！ 更多账号获得更多收益！]]></title>
         <id>https://www.youtube.com/watch?v=mefFL2V8uR0</id>
@@ -289,15 +307,6 @@
         <id>https://www.youtube.com/watch?v=tl2sqPR4RP8</id>
         <link href="https://www.youtube.com/watch?v=tl2sqPR4RP8"/>
         <updated>2024-07-23T14:00:46.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Withdraw Money from Tonkeeper Wallet to Bank (Cash Out)]]></title>
-        <id>https://www.youtube.com/watch?v=K4036yvhBac</id>
-        <link href="https://www.youtube.com/watch?v=K4036yvhBac"/>
-        <updated>2024-07-22T14:00:26.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

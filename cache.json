@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TTcyhhH2FWE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TTcyhhH2FWE",
+          "publishedOn": "2024-08-12T14:08:11.000Z",
+          "wordCount": null,
+          "title": "AWS Certified Developer Associate (DVA-C02) Certification Course – Prepare For and Pass the Exam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rAbnVhhyIjE",
           "author": null,
           "description": "",
@@ -192,6 +202,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0hd1lpiQobg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0hd1lpiQobg",
+          "publishedOn": "2024-08-12T14:00:02.000Z",
+          "wordCount": null,
+          "title": "How to Connect Bybit to TradingView (Trade & Webhook Alerts)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_BFvC8tz8Xw",
           "author": null,
           "description": "",
@@ -329,16 +349,6 @@
           "publishedOn": "2024-07-23T14:00:46.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: WE'RE COILING UP...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K4036yvhBac",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K4036yvhBac",
-          "publishedOn": "2024-07-22T14:00:26.000Z",
-          "wordCount": null,
-          "title": "How to Withdraw Money from Tonkeeper Wallet to Bank (Cash Out)",
           "imageUrl": null
         }
       ]

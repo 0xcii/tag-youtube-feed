@@ -426,6 +426,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UdyhL15gSRM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UdyhL15gSRM",
+          "publishedOn": "2024-08-13T20:00:12.000Z",
+          "wordCount": null,
+          "title": "Do this if you want to make passive income with flash loans",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r0K9wveHyLk",
           "author": null,
           "description": "",

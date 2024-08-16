@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-16T05:06:54.996Z</id>
+    <id>urn:2024-08-16T06:09:35.586Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-16T05:06:54.996Z</updated>
+    <updated>2024-08-16T06:09:35.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 Code a Metamask clone (Crypto wallet) - Full tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=yplXNd0gt2s</id>
+        <link href="https://www.youtube.com/watch?v=yplXNd0gt2s"/>
+        <updated>2024-08-16T05:58:27.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSI Trading Strategy That Actually Works! (Relative Strength Index)]]></title>
         <id>https://www.youtube.com/watch?v=4a-qbkLXOzI</id>
@@ -12,15 +21,6 @@
         <updated>2024-08-15T14:00:04.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 Code a Metamask clone (Crypto wallet) - Full tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=yplXNd0gt2s</id>
-        <link href="https://www.youtube.com/watch?v=yplXNd0gt2s"/>
-        <updated>2024-08-15T08:32:55.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-16T02:32:39.974Z</id>
+    <id>urn:2024-08-16T03:09:11.443Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-16T02:32:39.974Z</updated>
+    <updated>2024-08-16T03:09:11.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -388,24 +388,6 @@
         <id>https://www.youtube.com/watch?v=CpbRAWgFBRQ</id>
         <link href="https://www.youtube.com/watch?v=CpbRAWgFBRQ"/>
         <updated>2024-07-18T13:42:35.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Aptos For Blockchain developers]]></title>
-        <id>https://www.youtube.com/watch?v=8t5HcmKB034</id>
-        <link href="https://www.youtube.com/watch?v=8t5HcmKB034"/>
-        <updated>2024-07-17T14:50:08.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Advanced Security Certification – Pass the Exam!]]></title>
-        <id>https://www.youtube.com/watch?v=i740xlsqxEM</id>
-        <link href="https://www.youtube.com/watch?v=i740xlsqxEM"/>
-        <updated>2024-07-17T14:43:07.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

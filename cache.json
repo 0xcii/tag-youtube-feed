@@ -182,6 +182,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pDxl-M9nizc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pDxl-M9nizc",
+          "publishedOn": "2024-08-19T14:00:43.000Z",
+          "wordCount": null,
+          "title": "Bybit Crypto Loans Tutorial (How to Take a Crypto Collateralised Loan)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iDw7YB5n4C4",
           "author": null,
           "description": "",
@@ -319,16 +329,6 @@
           "publishedOn": "2024-07-30T14:00:32.000Z",
           "wordCount": null,
           "title": "CRYPTO: I'M ALL IN (TIME RUNNING OUT)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=52oMNXJIe10",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=52oMNXJIe10",
-          "publishedOn": "2024-07-29T14:00:09.000Z",
-          "wordCount": null,
-          "title": "How to Swap Crypto in Tonkeeper Wallet",
           "imageUrl": null
         }
       ]

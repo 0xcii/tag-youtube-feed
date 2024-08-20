@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SVh5V4T4QEU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SVh5V4T4QEU",
+          "publishedOn": "2024-08-20T14:00:31.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: WE ARE TRAPPED!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pDxl-M9nizc",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-07-31T14:01:02.000Z",
           "wordCount": null,
           "title": "How to TRADE on Phemex Crypto Exchange (Spot & Leverage)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ViXtQZXrPrI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ViXtQZXrPrI",
-          "publishedOn": "2024-07-30T14:00:32.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: I'M ALL IN (TIME RUNNING OUT)",
           "imageUrl": null
         }
       ]

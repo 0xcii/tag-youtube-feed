@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0ZNNdu3ccOI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0ZNNdu3ccOI",
+          "publishedOn": "2024-08-22T14:00:01.000Z",
+          "wordCount": null,
+          "title": "EASY Volume Profile Trading Strategy (Simple Example)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KljKzfk4-mw",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-08-02T14:01:00.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: THE 10X OPPORTUNITY",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kMGp8Xsty9E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kMGp8Xsty9E",
-          "publishedOn": "2024-08-01T14:00:43.000Z",
-          "wordCount": null,
-          "title": "How to Sell Crypto to Cash (Sell Crypto & Withdraw to Bank)",
           "imageUrl": null
         }
       ]

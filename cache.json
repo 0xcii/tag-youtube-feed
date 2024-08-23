@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vgdhty5gTmA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vgdhty5gTmA",
+          "publishedOn": "2024-08-23T14:03:35.000Z",
+          "wordCount": null,
+          "title": "Special Ed Teacher turned Sysadmin and AWS Hero Hiroko Nishimura [Podcast #140]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-kizZZrh1zM",
           "author": null,
           "description": "",
@@ -202,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Xj9Bhj0Zkpo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xj9Bhj0Zkpo",
+          "publishedOn": "2024-08-23T14:00:29.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: BEWARE NOW!! ⚠️",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0ZNNdu3ccOI",
           "author": null,
           "description": "",
@@ -339,16 +359,6 @@
           "publishedOn": "2024-08-05T14:00:31.000Z",
           "wordCount": null,
           "title": "How to Connect Ledger to Rabby Wallet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zJ06UQ_tXJM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zJ06UQ_tXJM",
-          "publishedOn": "2024-08-02T14:01:00.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: THE 10X OPPORTUNITY",
           "imageUrl": null
         }
       ]

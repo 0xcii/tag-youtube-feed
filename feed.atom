@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-26T13:14:27.905Z</id>
+    <id>urn:2024-08-26T14:07:12.236Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-26T13:14:27.905Z</updated>
+    <updated>2024-08-26T14:07:12.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Borrow on Aave (Aave Crypto Borrow Strategy Tutorial)]]></title>
+        <id>https://www.youtube.com/watch?v=UO18OhYqjAs</id>
+        <link href="https://www.youtube.com/watch?v=UO18OhYqjAs"/>
+        <updated>2024-08-26T14:00:33.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memecoins are going 100x on this new blockchain]]></title>
         <id>https://www.youtube.com/watch?v=373fHhJikuY</id>
@@ -307,15 +316,6 @@
         <id>https://www.youtube.com/watch?v=pba_YfdTK1c</id>
         <link href="https://www.youtube.com/watch?v=pba_YfdTK1c"/>
         <updated>2024-08-06T14:00:56.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Connect Ledger to Rabby Wallet]]></title>
-        <id>https://www.youtube.com/watch?v=TRK-t1XItVY</id>
-        <link href="https://www.youtube.com/watch?v=TRK-t1XItVY"/>
-        <updated>2024-08-05T14:00:31.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

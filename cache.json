@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
+          "publishedOn": "2024-08-27T14:17:51.000Z",
+          "wordCount": null,
+          "title": "Excel Data Visualization Course – Guide to Charts & Dashboards",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QQliGCtqD2w",
           "author": null,
           "description": "",
@@ -202,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6pmSzULvwmY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6pmSzULvwmY",
+          "publishedOn": "2024-08-27T14:00:06.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: WE'RE STARTING A HUGE RUN",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UO18OhYqjAs",
           "author": null,
           "description": "",
@@ -339,16 +359,6 @@
           "publishedOn": "2024-08-07T14:00:06.000Z",
           "wordCount": null,
           "title": "How to Deposit Crypto to Coinbase Wallet (ETH, BTC, SOL, USDC etc)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pba_YfdTK1c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pba_YfdTK1c",
-          "publishedOn": "2024-08-06T14:00:56.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: WTF IS HAPPENING!!?",
           "imageUrl": null
         }
       ]

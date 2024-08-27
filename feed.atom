@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T14:06:39.414Z</id>
+    <id>urn:2024-08-27T15:06:47.462Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T14:06:39.414Z</updated>
+    <updated>2024-08-27T15:06:47.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Excel Data Visualization Course – Guide to Charts & Dashboards]]></title>
+        <id>https://www.youtube.com/watch?v=VV8iRJ-DS0A</id>
+        <link href="https://www.youtube.com/watch?v=VV8iRJ-DS0A"/>
+        <updated>2024-08-27T14:17:51.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: WE'RE STARTING A HUGE RUN]]></title>
+        <id>https://www.youtube.com/watch?v=6pmSzULvwmY</id>
+        <link href="https://www.youtube.com/watch?v=6pmSzULvwmY"/>
+        <updated>2024-08-27T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java Testing with Selenium Course]]></title>
         <id>https://www.youtube.com/watch?v=QQliGCtqD2w</id>
@@ -318,15 +336,6 @@
         <updated>2024-08-06T14:25:53.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: WTF IS HAPPENING!!?]]></title>
-        <id>https://www.youtube.com/watch?v=pba_YfdTK1c</id>
-        <link href="https://www.youtube.com/watch?v=pba_YfdTK1c"/>
-        <updated>2024-08-06T14:00:56.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

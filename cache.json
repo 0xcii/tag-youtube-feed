@@ -181,16 +181,6 @@
           "wordCount": null,
           "title": "RAG Fundamentals and Advanced Techniques – Full Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fv2-A5e-KHA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fv2-A5e-KHA",
-          "publishedOn": "2024-07-29T14:44:05.000Z",
-          "wordCount": null,
-          "title": "MongoDB Provider for EF Core – C# Tutorial",
-          "imageUrl": null
         }
       ]
     },

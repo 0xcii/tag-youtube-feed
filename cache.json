@@ -359,6 +359,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bNXmyipHoBM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bNXmyipHoBM",
+          "publishedOn": "2024-08-28T10:19:14.000Z",
+          "wordCount": null,
+          "title": "🔴 Reactive Network - Workshop for developers",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7yYNBYn2b8U",
           "author": null,
           "description": "",

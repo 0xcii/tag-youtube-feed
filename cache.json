@@ -369,6 +369,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GBjl1n-xvyw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GBjl1n-xvyw",
+          "publishedOn": "2024-08-29T08:52:31.000Z",
+          "wordCount": null,
+          "title": "🔴 Prediction market on the Blockchain - Full coding tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bNXmyipHoBM",
           "author": null,
           "description": "",

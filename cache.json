@@ -223,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7GBNEInnyVg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7GBNEInnyVg",
+          "publishedOn": "2024-09-05T14:00:10.000Z",
+          "wordCount": null,
+          "title": "How to Find Bybit Deposit Address (Deposit Crypto)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wAJQgMiotl0",
           "author": null,
           "description": "",
@@ -360,16 +370,6 @@
           "publishedOn": "2024-08-16T14:00:42.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: MORE BAD NEWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4a-qbkLXOzI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4a-qbkLXOzI",
-          "publishedOn": "2024-08-15T14:00:04.000Z",
-          "wordCount": null,
-          "title": "RSI Trading Strategy That Actually Works! (Relative Strength Index)",
           "imageUrl": null
         }
       ]

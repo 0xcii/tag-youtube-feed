@@ -437,6 +437,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2Rp2E2ZvT-Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2Rp2E2ZvT-Q",
+          "publishedOn": "2024-09-05T19:00:02.000Z",
+          "wordCount": null,
+          "title": "How this dev made $200k passive income running blockchain nodes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PnFFQPj747Q",
           "author": null,
           "description": "",

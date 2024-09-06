@@ -213,6 +213,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C6jAqL9tV8g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C6jAqL9tV8g",
+          "publishedOn": "2024-09-06T14:00:09.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: IT'S NOT LOOKING GOOD!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7GBNEInnyVg",
           "author": null,
           "description": "",
@@ -350,16 +360,6 @@
           "publishedOn": "2024-08-19T14:00:43.000Z",
           "wordCount": null,
           "title": "Bybit Crypto Loans Tutorial (How to Take a Crypto Collateralised Loan)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iDw7YB5n4C4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iDw7YB5n4C4",
-          "publishedOn": "2024-08-16T14:00:42.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: MORE BAD NEWS",
           "imageUrl": null
         }
       ]

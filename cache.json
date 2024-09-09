@@ -213,6 +213,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PyWnypfsnlw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PyWnypfsnlw",
+          "publishedOn": "2024-09-09T14:00:18.000Z",
+          "wordCount": null,
+          "title": "How to Swap Crypto in Ledger Live (DeX & CeX)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C6jAqL9tV8g",
           "author": null,
           "description": "",
@@ -350,16 +360,6 @@
           "publishedOn": "2024-08-20T14:00:31.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: WE ARE TRAPPED!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pDxl-M9nizc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pDxl-M9nizc",
-          "publishedOn": "2024-08-19T14:00:43.000Z",
-          "wordCount": null,
-          "title": "Bybit Crypto Loans Tutorial (How to Take a Crypto Collateralised Loan)",
           "imageUrl": null
         }
       ]

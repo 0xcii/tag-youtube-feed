@@ -371,6 +371,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XiYx9cEtXko",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XiYx9cEtXko",
+          "publishedOn": "2024-09-12T07:06:42.000Z",
+          "wordCount": null,
+          "title": "🔴 Full Guide To Start Your Career as a Blockchain Developer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bNXmyipHoBM",
           "author": null,
           "description": "",
@@ -475,16 +485,6 @@
           "publishedOn": "2024-08-20T20:00:16.000Z",
           "wordCount": null,
           "title": "This new blockchain network can grow 100x",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UdyhL15gSRM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UdyhL15gSRM",
-          "publishedOn": "2024-08-13T20:00:12.000Z",
-          "wordCount": null,
-          "title": "Do this if you want to make passive income with flash loans",
           "imageUrl": null
         }
       ]

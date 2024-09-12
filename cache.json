@@ -214,6 +214,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4JerU8wjWg8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4JerU8wjWg8",
+          "publishedOn": "2024-09-12T14:00:05.000Z",
+          "wordCount": null,
+          "title": "Binance Loans Tutorial (How to Take a Crypto Loan on Binance)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IutXlRFMZyQ",
           "author": null,
           "description": "",
@@ -351,16 +361,6 @@
           "publishedOn": "2024-08-23T14:00:29.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: BEWARE NOW!! ⚠️",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0ZNNdu3ccOI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0ZNNdu3ccOI",
-          "publishedOn": "2024-08-22T14:00:01.000Z",
-          "wordCount": null,
-          "title": "EASY Volume Profile Trading Strategy (Simple Example)",
           "imageUrl": null
         }
       ]

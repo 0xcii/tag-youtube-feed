@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lb1rLu0bYL0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lb1rLu0bYL0",
+          "publishedOn": "2024-09-13T14:05:43.000Z",
+          "wordCount": null,
+          "title": "What Eddie Jaoude learned from doing DevRel for dozens of startups [Podcast #141]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C_jQahOnGUU",
           "author": null,
           "description": "",
@@ -161,16 +171,6 @@
           "wordCount": null,
           "title": "DaVinci Resolve Course - Video Editing for Beginners (2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v2iRCaIfiSc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v2iRCaIfiSc",
-          "publishedOn": "2024-08-16T13:50:02.000Z",
-          "wordCount": null,
-          "title": "Rahul Pandey quit his $800,000/year FAANG developer job to build a startup [Podcast #139]",
-          "imageUrl": null
         }
       ]
     },
@@ -213,6 +213,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=re8iz__LWGI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=re8iz__LWGI",
+          "publishedOn": "2024-09-13T14:00:58.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: IT'S OVER?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4JerU8wjWg8",
           "author": null,
@@ -351,16 +361,6 @@
           "publishedOn": "2024-08-26T14:00:33.000Z",
           "wordCount": null,
           "title": "How to Borrow on Aave (Aave Crypto Borrow Strategy Tutorial)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xj9Bhj0Zkpo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xj9Bhj0Zkpo",
-          "publishedOn": "2024-08-23T14:00:29.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: BEWARE NOW!! ⚠️",
           "imageUrl": null
         }
       ]

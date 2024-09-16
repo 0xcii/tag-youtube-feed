@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2-DmxENygRc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2-DmxENygRc",
+          "publishedOn": "2024-09-16T14:53:53.000Z",
+          "wordCount": null,
+          "title": "Securing API Servers Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lb1rLu0bYL0",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "Gemini AI MultiModal Model Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mgCqndlTWFU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mgCqndlTWFU",
-          "publishedOn": "2024-08-19T15:42:27.000Z",
-          "wordCount": null,
-          "title": "DaVinci Resolve Course - Video Editing for Beginners (2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -202,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wkkl1FMavAU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wkkl1FMavAU",
+          "publishedOn": "2024-09-16T14:01:01.000Z",
+          "wordCount": null,
+          "title": "How to Cash Out from Coinbase Wallet (Sell Crypto to Cash)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=re8iz__LWGI",
           "author": null,
@@ -340,16 +350,6 @@
           "publishedOn": "2024-08-27T14:00:06.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: WE'RE STARTING A HUGE RUN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UO18OhYqjAs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UO18OhYqjAs",
-          "publishedOn": "2024-08-26T14:00:33.000Z",
-          "wordCount": null,
-          "title": "How to Borrow on Aave (Aave Crypto Borrow Strategy Tutorial)",
           "imageUrl": null
         }
       ]

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PWG7NlUDVaA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PWG7NlUDVaA",
+          "publishedOn": "2024-09-18T13:26:26.000Z",
+          "wordCount": null,
+          "title": "FARM Stack Course – Full Stack Development with FastAPI, React MongoDB",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2-DmxENygRc",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "React Native MacOS App Tutorial – Book Management System",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vXjOywyMBN8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vXjOywyMBN8",
-          "publishedOn": "2024-08-21T13:50:29.000Z",
-          "wordCount": null,
-          "title": "Gemini AI MultiModal Model Course",
-          "imageUrl": null
         }
       ]
     },
@@ -202,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4QF0Cli2Xqw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4QF0Cli2Xqw",
+          "publishedOn": "2024-09-18T14:00:04.000Z",
+          "wordCount": null,
+          "title": "How to Trade Crypto with Leverage (on Apex Exchange)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JwyUmOcXCvs",
           "author": null,
@@ -340,16 +350,6 @@
           "publishedOn": "2024-08-29T14:00:59.000Z",
           "wordCount": null,
           "title": "How to Create OKX Web3 Wallet (Setup Guide)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=03ZiZVlvhbI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=03ZiZVlvhbI",
-          "publishedOn": "2024-08-28T14:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Swap Crypto in TronLink (Swap Crypto on Tron Network)",
           "imageUrl": null
         }
       ]

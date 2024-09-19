@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-19T14:07:06.713Z</id>
+    <id>urn:2024-09-19T15:07:47.090Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-19T14:07:06.713Z</updated>
+    <updated>2024-09-19T15:07:47.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Import MetaMask into Trust Wallet (Easy)]]></title>
+        <id>https://www.youtube.com/watch?v=C31Am36kjlQ</id>
+        <link href="https://www.youtube.com/watch?v=C31Am36kjlQ"/>
+        <updated>2024-09-19T14:00:14.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Design Patterns & SOLID Principles in C# - Full OOP Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=rylaiB2uH2A</id>
@@ -318,15 +327,6 @@
         <updated>2024-08-29T14:03:56.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create OKX Web3 Wallet (Setup Guide)]]></title>
-        <id>https://www.youtube.com/watch?v=sIWsHK60wUE</id>
-        <link href="https://www.youtube.com/watch?v=sIWsHK60wUE"/>
-        <updated>2024-08-29T14:00:59.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

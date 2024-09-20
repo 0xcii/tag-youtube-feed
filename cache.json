@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7kTdV2NSIkI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7kTdV2NSIkI",
+          "publishedOn": "2024-09-20T14:17:40.000Z",
+          "wordCount": null,
+          "title": "From PhD drop-out to Google Data Scientist with Meg Risdal [Podcast #142]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rylaiB2uH2A",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "Java Testing with Selenium Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vgdhty5gTmA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vgdhty5gTmA",
-          "publishedOn": "2024-08-23T14:03:35.000Z",
-          "wordCount": null,
-          "title": "Special Ed Teacher turned Sysadmin and AWS Hero Hiroko Nishimura [Podcast #140]",
-          "imageUrl": null
         }
       ]
     },
@@ -202,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mCGJYYPykG0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mCGJYYPykG0",
+          "publishedOn": "2024-09-20T14:00:53.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: GOING MUCH HIGHER",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=C31Am36kjlQ",
           "author": null,
@@ -340,16 +350,6 @@
           "publishedOn": "2024-09-02T14:00:41.000Z",
           "wordCount": null,
           "title": "Tonkeeper to Binance Transfer Tutorial (How to Send Crypto from Tonkeeper)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MWyxfQUGDCY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MWyxfQUGDCY",
-          "publishedOn": "2024-08-30T14:00:15.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: I JUST FOUND SOMETHING...",
           "imageUrl": null
         }
       ]

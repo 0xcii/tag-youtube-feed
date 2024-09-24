@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=86FAWCzIe_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=86FAWCzIe_4",
+          "publishedOn": "2024-09-24T14:05:13.000Z",
+          "wordCount": null,
+          "title": "CUDA Programming Course – High-Performance Computing with GPUs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7kTdV2NSIkI",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "Excel Data Visualization Course – Guide to Charts & Dashboards",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QQliGCtqD2w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QQliGCtqD2w",
-          "publishedOn": "2024-08-26T15:42:27.000Z",
-          "wordCount": null,
-          "title": "Java Testing with Selenium Course",
-          "imageUrl": null
         }
       ]
     },
@@ -202,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HU37a921zPc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HU37a921zPc",
+          "publishedOn": "2024-09-24T14:00:15.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: DO NOT MISS THIS ONE OPPORTUNITY",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=d2dWy6bfzzE",
           "author": null,
@@ -340,16 +350,6 @@
           "publishedOn": "2024-09-04T14:00:51.000Z",
           "wordCount": null,
           "title": "SunSwap Tutorial (How to Swap Crypto on SunSwap Tron DeX)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GHi12QmCaX4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GHi12QmCaX4",
-          "publishedOn": "2024-09-03T14:00:13.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: MAJORITY MAY LOSE OUT!!",
           "imageUrl": null
         }
       ]

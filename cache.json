@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=o6vbe5G7xNo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o6vbe5G7xNo",
+          "publishedOn": "2024-09-25T14:27:53.000Z",
+          "wordCount": null,
+          "title": "End-to-End Machine Learning Project – AI, MLOps",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=86FAWCzIe_4",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "Spring Boot, Spring Security, JWT Course – Shopping Cart Backend Java Project",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VV8iRJ-DS0A",
-          "publishedOn": "2024-08-27T14:17:51.000Z",
-          "wordCount": null,
-          "title": "Excel Data Visualization Course – Guide to Charts & Dashboards",
-          "imageUrl": null
         }
       ]
     },
@@ -202,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Edjd0oZZJyw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Edjd0oZZJyw",
+          "publishedOn": "2024-09-25T14:00:11.000Z",
+          "wordCount": null,
+          "title": "Binance P2P Trading Tutorial (Deposit Money & Buy Crypto Fast)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HU37a921zPc",
           "author": null,
@@ -340,16 +350,6 @@
           "publishedOn": "2024-09-05T14:00:10.000Z",
           "wordCount": null,
           "title": "How to Find Bybit Deposit Address (Deposit Crypto)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wAJQgMiotl0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wAJQgMiotl0",
-          "publishedOn": "2024-09-04T14:00:51.000Z",
-          "wordCount": null,
-          "title": "SunSwap Tutorial (How to Swap Crypto on SunSwap Tron DeX)",
           "imageUrl": null
         }
       ]

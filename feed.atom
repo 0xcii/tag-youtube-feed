@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-25T14:07:19.941Z</id>
+    <id>urn:2024-09-25T15:07:43.248Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-25T14:07:19.941Z</updated>
+    <updated>2024-09-25T15:07:43.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[End-to-End Machine Learning Project – AI, MLOps]]></title>
+        <id>https://www.youtube.com/watch?v=o6vbe5G7xNo</id>
+        <link href="https://www.youtube.com/watch?v=o6vbe5G7xNo"/>
+        <updated>2024-09-25T14:27:53.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance P2P Trading Tutorial (Deposit Money & Buy Crypto Fast)]]></title>
+        <id>https://www.youtube.com/watch?v=Edjd0oZZJyw</id>
+        <link href="https://www.youtube.com/watch?v=Edjd0oZZJyw"/>
+        <updated>2024-09-25T14:00:11.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CUDA Programming Course – High-Performance Computing with GPUs]]></title>
         <id>https://www.youtube.com/watch?v=86FAWCzIe_4</id>
@@ -294,15 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SunSwap Tutorial (How to Swap Crypto on SunSwap Tron DeX)]]></title>
-        <id>https://www.youtube.com/watch?v=wAJQgMiotl0</id>
-        <link href="https://www.youtube.com/watch?v=wAJQgMiotl0"/>
-        <updated>2024-09-04T14:00:51.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MERN Stack Tutorial with Deployment – Beginner's Course]]></title>
         <id>https://www.youtube.com/watch?v=O3BUHwfHf84</id>
         <link href="https://www.youtube.com/watch?v=O3BUHwfHf84"/>
@@ -372,15 +381,6 @@
         <updated>2024-08-27T19:00:23.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel Data Visualization Course – Guide to Charts & Dashboards]]></title>
-        <id>https://www.youtube.com/watch?v=VV8iRJ-DS0A</id>
-        <link href="https://www.youtube.com/watch?v=VV8iRJ-DS0A"/>
-        <updated>2024-08-27T14:17:51.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

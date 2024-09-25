@@ -397,6 +397,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NvvqTltm-6g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NvvqTltm-6g",
+          "publishedOn": "2024-09-25T18:00:11.000Z",
+          "wordCount": null,
+          "title": "New blockchain network could be the next Solana (SUI)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QfxmJH2J_7I",
           "author": null,
           "description": "",

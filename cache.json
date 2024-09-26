@@ -203,6 +203,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Xp0DgjltNHQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xp0DgjltNHQ",
+          "publishedOn": "2024-09-26T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Best Bybit Crypto Trading Strategies!! (Beginner to Advanced)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Edjd0oZZJyw",
           "author": null,
           "description": "",
@@ -340,16 +350,6 @@
           "publishedOn": "2024-09-06T14:00:09.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: IT'S NOT LOOKING GOOD!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7GBNEInnyVg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7GBNEInnyVg",
-          "publishedOn": "2024-09-05T14:00:10.000Z",
-          "wordCount": null,
-          "title": "How to Find Bybit Deposit Address (Deposit Crypto)",
           "imageUrl": null
         }
       ]

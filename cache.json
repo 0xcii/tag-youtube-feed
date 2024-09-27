@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qL7kc2eS57A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qL7kc2eS57A",
+          "publishedOn": "2024-09-27T14:00:52.000Z",
+          "wordCount": null,
+          "title": "The reality of the developer job market with ex-Googler YK Sugi [Podcast #143]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1n4B5ewretY",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "Multimodal Data Analysis with LLMs and Python – Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sPLlG5EGw2g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sPLlG5EGw2g",
-          "publishedOn": "2024-08-30T14:30:48.000Z",
-          "wordCount": null,
-          "title": "Spotify Developer Emma Bostian Talks Coding, Hiring Devs, and European Work Culture [Podcast #139]",
-          "imageUrl": null
         }
       ]
     },
@@ -202,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7kuFQeNX-_Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7kuFQeNX-_Q",
+          "publishedOn": "2024-09-27T14:00:11.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: BEARS ARE REKT!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Xp0DgjltNHQ",
           "author": null,
@@ -340,16 +350,6 @@
           "publishedOn": "2024-09-09T14:00:18.000Z",
           "wordCount": null,
           "title": "How to Swap Crypto in Ledger Live (DeX & CeX)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C6jAqL9tV8g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C6jAqL9tV8g",
-          "publishedOn": "2024-09-06T14:00:09.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: IT'S NOT LOOKING GOOD!!",
           "imageUrl": null
         }
       ]

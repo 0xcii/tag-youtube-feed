@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-27T14:07:31.115Z</id>
+    <id>urn:2024-09-27T15:07:33.995Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-27T14:07:31.115Z</updated>
+    <updated>2024-09-27T15:07:33.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The reality of the developer job market with ex-Googler YK Sugi [Podcast #143]]]></title>
+        <id>https://www.youtube.com/watch?v=qL7kc2eS57A</id>
+        <link href="https://www.youtube.com/watch?v=qL7kc2eS57A"/>
+        <updated>2024-09-27T14:00:52.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO: BEARS ARE REKT!!]]></title>
+        <id>https://www.youtube.com/watch?v=7kuFQeNX-_Q</id>
+        <link href="https://www.youtube.com/watch?v=7kuFQeNX-_Q"/>
+        <updated>2024-09-27T14:00:11.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Certified Fundamentals (MS-900) Certification Course – Prepare For and Pass the Exam]]></title>
         <id>https://www.youtube.com/watch?v=1n4B5ewretY</id>
@@ -303,15 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: IT'S NOT LOOKING GOOD!!]]></title>
-        <id>https://www.youtube.com/watch?v=C6jAqL9tV8g</id>
-        <link href="https://www.youtube.com/watch?v=C6jAqL9tV8g"/>
-        <updated>2024-09-06T14:00:09.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🔴 Reactive Network - Workshop for developers]]></title>
         <id>https://www.youtube.com/watch?v=bNXmyipHoBM</id>
         <link href="https://www.youtube.com/watch?v=bNXmyipHoBM"/>
@@ -354,15 +363,6 @@
         <updated>2024-09-02T19:00:11.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify Developer Emma Bostian Talks Coding, Hiring Devs, and European Work Culture [Podcast #139]]]></title>
-        <id>https://www.youtube.com/watch?v=sPLlG5EGw2g</id>
-        <link href="https://www.youtube.com/watch?v=sPLlG5EGw2g"/>
-        <updated>2024-08-30T14:30:48.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

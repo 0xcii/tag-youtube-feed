@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-28T06:09:39.261Z</id>
+    <id>urn:2024-09-28T07:06:40.581Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-28T06:09:39.261Z</updated>
+    <updated>2024-09-28T07:06:40.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,7 +15,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRYPTO: BEARS ARE REKT!!]]></title>
+        <title type="html"><![CDATA[CRYPTO ALERT: WE FLIPPED A KEY LEVEL!!]]></title>
         <id>https://www.youtube.com/watch?v=7kuFQeNX-_Q</id>
         <link href="https://www.youtube.com/watch?v=7kuFQeNX-_Q"/>
         <updated>2024-09-27T14:00:11.000Z</updated>

@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kGCIYOrGnvk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kGCIYOrGnvk",
+          "publishedOn": "2024-09-30T14:00:44.000Z",
+          "wordCount": null,
+          "title": "Crypto.com Tutorial for Beginners (Buy, Sell, Deposit, Withdraw)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7kuFQeNX-_Q",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-09-10T14:01:00.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: GOING ALL IN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PyWnypfsnlw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PyWnypfsnlw",
-          "publishedOn": "2024-09-09T14:00:18.000Z",
-          "wordCount": null,
-          "title": "How to Swap Crypto in Ledger Live (DeX & CeX)",
           "imageUrl": null
         }
       ]

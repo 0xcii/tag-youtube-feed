@@ -376,6 +376,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SxyVTDTN-iE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SxyVTDTN-iE",
+          "publishedOn": "2024-10-01T19:00:19.000Z",
+          "wordCount": null,
+          "title": "This crypto arbitrage bot is making insane $$$",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NvvqTltm-6g",
           "author": null,
           "description": "",

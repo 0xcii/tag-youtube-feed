@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Blv57PTm0Ok",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Blv57PTm0Ok",
+          "publishedOn": "2024-10-03T14:00:10.000Z",
+          "wordCount": null,
+          "title": "Bybit Card Tutorial & Review (Bybit Crypto Debit Card)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Vp0dp_CB94c",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-09-13T14:00:58.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: IT'S OVER?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4JerU8wjWg8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4JerU8wjWg8",
-          "publishedOn": "2024-09-12T14:00:05.000Z",
-          "wordCount": null,
-          "title": "Binance Loans Tutorial (How to Take a Crypto Loan on Binance)",
           "imageUrl": null
         }
       ]

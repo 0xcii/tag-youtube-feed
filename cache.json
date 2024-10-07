@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=srdwLyXet1A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=srdwLyXet1A",
+          "publishedOn": "2024-10-07T14:01:00.000Z",
+          "wordCount": null,
+          "title": "BEST Bollinger Bands Trading Strategy That WORKS",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Blv57PTm0Ok",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-09-16T14:01:01.000Z",
           "wordCount": null,
           "title": "How to Cash Out from Coinbase Wallet (Sell Crypto to Cash)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=re8iz__LWGI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=re8iz__LWGI",
-          "publishedOn": "2024-09-13T14:00:58.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: IT'S OVER?",
           "imageUrl": null
         }
       ]

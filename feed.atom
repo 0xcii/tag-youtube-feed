@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-07T15:08:04.436Z</id>
+    <id>urn:2024-10-07T16:08:50.184Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-07T15:08:04.436Z</updated>
+    <updated>2024-10-07T16:08:50.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Electron Course - Code Desktop Applications (inc. React and Typescript)]]></title>
+        <id>https://www.youtube.com/watch?v=fP-371MN0Ck</id>
+        <link href="https://www.youtube.com/watch?v=fP-371MN0Ck"/>
+        <updated>2024-10-07T15:56:15.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BEST Bollinger Bands Trading Strategy That WORKS]]></title>
         <id>https://www.youtube.com/watch?v=srdwLyXet1A</id>
@@ -327,15 +336,6 @@
         <updated>2024-09-13T04:09:34.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Productivity as a Developer – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=C_jQahOnGUU</id>
-        <link href="https://www.youtube.com/watch?v=C_jQahOnGUU"/>
-        <updated>2024-09-12T14:38:14.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

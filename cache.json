@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gW7zBn7HmRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gW7zBn7HmRI",
+          "publishedOn": "2024-10-08T14:00:42.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: This is an Important Moment!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=srdwLyXet1A",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-09-17T14:00:13.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: THIS IS UNPRECEDENTED",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wkkl1FMavAU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wkkl1FMavAU",
-          "publishedOn": "2024-09-16T14:01:01.000Z",
-          "wordCount": null,
-          "title": "How to Cash Out from Coinbase Wallet (Sell Crypto to Cash)",
           "imageUrl": null
         }
       ]

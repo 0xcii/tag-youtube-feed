@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cut1qj8P9RE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cut1qj8P9RE",
+          "publishedOn": "2024-10-10T14:00:39.000Z",
+          "wordCount": null,
+          "title": "How to Deposit Money to Crypto.com (& Buy Crypto)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sYfsCJci5t8",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-09-19T14:00:14.000Z",
           "wordCount": null,
           "title": "How to Import MetaMask into Trust Wallet (Easy)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4QF0Cli2Xqw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4QF0Cli2Xqw",
-          "publishedOn": "2024-09-18T14:00:04.000Z",
-          "wordCount": null,
-          "title": "How to Trade Crypto with Leverage (on Apex Exchange)",
           "imageUrl": null
         }
       ]

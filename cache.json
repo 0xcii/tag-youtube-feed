@@ -336,18 +336,7 @@
       "title": "EatTheBlocks",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=XiYx9cEtXko",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XiYx9cEtXko",
-          "publishedOn": "2024-09-13T04:09:34.000Z",
-          "wordCount": null,
-          "title": "🔴 Full Guide To Start Your Career as a Blockchain Developer",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Dapp University",

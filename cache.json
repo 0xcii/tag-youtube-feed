@@ -181,6 +181,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x30BMJh3Oag",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x30BMJh3Oag",
+          "publishedOn": "2024-10-14T14:00:53.000Z",
+          "wordCount": null,
+          "title": "Bybit Web3 Tutorial (Create Wallet, Deposit, Trade)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ep3jw8QcY4c",
           "author": null,
           "description": "",
@@ -318,16 +328,6 @@
           "publishedOn": "2024-09-23T14:00:27.000Z",
           "wordCount": null,
           "title": "How to TRADE on MEXC Crypto Exchange - 2024 Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mCGJYYPykG0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mCGJYYPykG0",
-          "publishedOn": "2024-09-20T14:00:53.000Z",
-          "wordCount": null,
-          "title": "CRYPTO: GOING MUCH HIGHER",
           "imageUrl": null
         }
       ]

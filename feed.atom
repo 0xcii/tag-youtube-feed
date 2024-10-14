@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-14T13:17:37.702Z</id>
+    <id>urn:2024-10-14T14:07:48.324Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-14T13:17:37.702Z</updated>
+    <updated>2024-10-14T14:07:48.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit Web3 Tutorial (Create Wallet, Deposit, Trade)]]></title>
+        <id>https://www.youtube.com/watch?v=x30BMJh3Oag</id>
+        <link href="https://www.youtube.com/watch?v=x30BMJh3Oag"/>
+        <updated>2024-10-14T14:00:53.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The #1 memecoin that will make millionaires]]></title>
         <id>https://www.youtube.com/watch?v=aqyTlDSZru0</id>
@@ -309,15 +318,6 @@
         <updated>2024-09-20T20:00:18.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: GOING MUCH HIGHER]]></title>
-        <id>https://www.youtube.com/watch?v=mCGJYYPykG0</id>
-        <link href="https://www.youtube.com/watch?v=mCGJYYPykG0"/>
-        <updated>2024-09-20T14:00:53.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-14T15:07:50.768Z</id>
+    <id>urn:2024-10-14T16:08:35.143Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-14T15:07:50.768Z</updated>
+    <updated>2024-10-14T16:08:35.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Full Stack Book Store App Using React, Node, MongoDB]]></title>
+        <id>https://www.youtube.com/watch?v=pgw2KPfgK1E</id>
+        <link href="https://www.youtube.com/watch?v=pgw2KPfgK1E"/>
+        <updated>2024-10-14T15:37:49.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bybit Web3 Tutorial (Create Wallet, Deposit, Trade)]]></title>
         <id>https://www.youtube.com/watch?v=x30BMJh3Oag</id>
@@ -282,15 +291,6 @@
         <updated>2024-09-25T14:00:11.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUDA Programming Course – High-Performance Computing with GPUs]]></title>
-        <id>https://www.youtube.com/watch?v=86FAWCzIe_4</id>
-        <link href="https://www.youtube.com/watch?v=86FAWCzIe_4"/>
-        <updated>2024-09-24T14:05:13.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

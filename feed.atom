@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-15T13:17:18.354Z</id>
+    <id>urn:2024-10-15T14:07:25.937Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-15T13:17:18.354Z</updated>
+    <updated>2024-10-15T14:07:25.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: A Major Breakout Is Close!!]]></title>
+        <id>https://www.youtube.com/watch?v=jokkkbzz5z0</id>
+        <link href="https://www.youtube.com/watch?v=jokkkbzz5z0"/>
+        <updated>2024-10-15T14:00:48.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Full Stack Book Store App Using React, Node, MongoDB]]></title>
         <id>https://www.youtube.com/watch?v=pgw2KPfgK1E</id>
@@ -298,15 +307,6 @@
         <id>https://www.youtube.com/watch?v=HU37a921zPc</id>
         <link href="https://www.youtube.com/watch?v=HU37a921zPc"/>
         <updated>2024-09-24T14:00:15.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to TRADE on MEXC Crypto Exchange - 2024 Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=d2dWy6bfzzE</id>
-        <link href="https://www.youtube.com/watch?v=d2dWy6bfzzE"/>
-        <updated>2024-09-23T14:00:27.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

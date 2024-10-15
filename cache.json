@@ -181,6 +181,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jokkkbzz5z0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jokkkbzz5z0",
+          "publishedOn": "2024-10-15T14:00:48.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: A Major Breakout Is Close!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=x30BMJh3Oag",
           "author": null,
           "description": "",
@@ -318,16 +328,6 @@
           "publishedOn": "2024-09-24T14:00:15.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: DO NOT MISS THIS ONE OPPORTUNITY",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d2dWy6bfzzE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d2dWy6bfzzE",
-          "publishedOn": "2024-09-23T14:00:27.000Z",
-          "wordCount": null,
-          "title": "How to TRADE on MEXC Crypto Exchange - 2024 Tutorial",
           "imageUrl": null
         }
       ]

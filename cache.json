@@ -181,6 +181,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xWCfFXmEXX4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xWCfFXmEXX4",
+          "publishedOn": "2024-10-16T14:01:02.000Z",
+          "wordCount": null,
+          "title": "Simple Millionaire Crypto Trading Strategy (EASY To Implement!!)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jokkkbzz5z0",
           "author": null,
           "description": "",
@@ -318,16 +328,6 @@
           "publishedOn": "2024-09-25T14:00:11.000Z",
           "wordCount": null,
           "title": "Binance P2P Trading Tutorial (Deposit Money & Buy Crypto Fast)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HU37a921zPc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HU37a921zPc",
-          "publishedOn": "2024-09-24T14:00:15.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: DO NOT MISS THIS ONE OPPORTUNITY",
           "imageUrl": null
         }
       ]

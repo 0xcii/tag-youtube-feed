@@ -181,6 +181,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mZ2WbpO79Wc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mZ2WbpO79Wc",
+          "publishedOn": "2024-10-21T14:00:48.000Z",
+          "wordCount": null,
+          "title": "How to Cash Out & Withdraw from Crypto.com to Bank",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1N4G7fNXxyE",
           "author": null,
           "description": "",
@@ -318,16 +328,6 @@
           "publishedOn": "2024-09-30T14:00:44.000Z",
           "wordCount": null,
           "title": "Crypto.com Tutorial for Beginners (Buy, Sell, Deposit, Withdraw)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7kuFQeNX-_Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7kuFQeNX-_Q",
-          "publishedOn": "2024-09-27T14:00:11.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: WE FLIPPED A KEY LEVEL!!",
           "imageUrl": null
         }
       ]

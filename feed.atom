@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-21T14:07:42.896Z</id>
+    <id>urn:2024-10-21T15:08:09.280Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-21T14:07:42.896Z</updated>
+    <updated>2024-10-21T15:08:09.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Cash Out & Withdraw from Crypto.com to Bank]]></title>
+        <id>https://www.youtube.com/watch?v=mZ2WbpO79Wc</id>
+        <link href="https://www.youtube.com/watch?v=mZ2WbpO79Wc"/>
+        <updated>2024-10-21T14:00:48.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #147]]]></title>
         <id>https://www.youtube.com/watch?v=mv43iltQggI</id>
@@ -298,15 +307,6 @@
         <id>https://www.youtube.com/watch?v=kGCIYOrGnvk</id>
         <link href="https://www.youtube.com/watch?v=kGCIYOrGnvk"/>
         <updated>2024-09-30T14:00:44.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: WE FLIPPED A KEY LEVEL!!]]></title>
-        <id>https://www.youtube.com/watch?v=7kuFQeNX-_Q</id>
-        <link href="https://www.youtube.com/watch?v=7kuFQeNX-_Q"/>
-        <updated>2024-09-27T14:00:11.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

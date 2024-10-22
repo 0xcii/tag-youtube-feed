@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-22T20:09:02.264Z</id>
+    <id>urn:2024-10-22T21:07:05.685Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-22T20:09:02.264Z</updated>
+    <updated>2024-10-22T21:07:05.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This AI robot just made $1,000,000 in crypto]]></title>
+        <id>https://www.youtube.com/watch?v=oE3DgabI2Is</id>
+        <link href="https://www.youtube.com/watch?v=oE3DgabI2Is"/>
+        <updated>2024-10-22T20:30:04.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Claude AI – Build Text Summarizers, Image Describers, and More with the Anthropic API]]></title>
         <id>https://www.youtube.com/watch?v=QfJB9d0J3Iw</id>

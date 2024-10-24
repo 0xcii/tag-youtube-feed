@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-24T14:07:35.076Z</id>
+    <id>urn:2024-10-24T15:07:57.893Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-24T14:07:35.076Z</updated>
+    <updated>2024-10-24T15:07:57.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Email SaaS Course – Build and Deploy with Next JS 14, Prisma, OpenAI, Stripe, TypeScript, Tailwind]]></title>
+        <id>https://www.youtube.com/watch?v=zMJSyzg63o0</id>
+        <link href="https://www.youtube.com/watch?v=zMJSyzg63o0"/>
+        <updated>2024-10-24T14:16:20.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMAZING TradingView Volume Indicator for Day Trading (Tutorial)]]></title>
         <id>https://www.youtube.com/watch?v=4HfZaMHEPpU</id>
@@ -300,15 +309,6 @@
         <updated>2024-10-03T14:00:10.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Device Drivers Development Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=iSiyDHobXHA</id>
-        <link href="https://www.youtube.com/watch?v=iSiyDHobXHA"/>
-        <updated>2024-10-02T15:42:44.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=q85XZnkaVpU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q85XZnkaVpU",
+          "publishedOn": "2024-10-25T14:39:52.000Z",
+          "wordCount": null,
+          "title": "From Stealing Cars to Self-Taught Software Engineer with Dorian Develops [Podcast #147]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zMJSyzg63o0",
           "author": null,
           "description": "",
@@ -48,7 +58,7 @@
           "link": "https://www.youtube.com/watch?v=mv43iltQggI",
           "publishedOn": "2024-10-21T13:02:44.000Z",
           "wordCount": null,
-          "title": "From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #147]",
+          "title": "From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #146]",
           "imageUrl": null
         },
         {
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "How to Become a Street Smart Developer – From Dropout to Selling his Company w/ Dennis Ivy [#144]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aZZrEE_UsIk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aZZrEE_UsIk",
-          "publishedOn": "2024-10-03T17:04:57.000Z",
-          "wordCount": null,
-          "title": "Front End Portfolio Website Tutorial – Next.js, Three.js, Tailwind CSS",
-          "imageUrl": null
         }
       ]
     },
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Bx071w5hMDY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bx071w5hMDY",
+          "publishedOn": "2024-10-25T14:00:11.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: This is Actually Insane",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4HfZaMHEPpU",
           "author": null,
@@ -329,16 +339,6 @@
           "publishedOn": "2024-10-07T14:01:00.000Z",
           "wordCount": null,
           "title": "BEST Bollinger Bands Trading Strategy That WORKS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Blv57PTm0Ok",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Blv57PTm0Ok",
-          "publishedOn": "2024-10-03T14:00:10.000Z",
-          "wordCount": null,
-          "title": "Bybit Card Tutorial & Review (Bybit Crypto Debit Card)",
           "imageUrl": null
         }
       ]

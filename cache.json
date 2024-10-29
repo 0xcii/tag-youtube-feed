@@ -355,6 +355,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gP_1eZIKXyk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gP_1eZIKXyk",
+          "publishedOn": "2024-10-29T19:30:06.000Z",
+          "wordCount": null,
+          "title": "This new type of crypto makes money on auto pilot",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YPqKpenRSUQ",
           "author": null,
           "description": "",

@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Le4ChQGTfVM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Le4ChQGTfVM",
+          "publishedOn": "2024-10-30T14:00:16.000Z",
+          "wordCount": null,
+          "title": "Crypto.com Exchange Tutorial for Beginners (How to Setup & Trade)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mS0vVM6YsLE",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-10-10T14:00:39.000Z",
           "wordCount": null,
           "title": "How to Deposit Money to Crypto.com (& Buy Crypto)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sYfsCJci5t8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sYfsCJci5t8",
-          "publishedOn": "2024-10-09T14:01:01.000Z",
-          "wordCount": null,
-          "title": "How to Restore MetaMask on Another Device (Browser & Mobile)",
           "imageUrl": null
         }
       ]

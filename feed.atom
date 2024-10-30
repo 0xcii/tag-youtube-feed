@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-30T13:17:14.798Z</id>
+    <id>urn:2024-10-30T14:07:26.193Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-30T13:17:14.798Z</updated>
+    <updated>2024-10-30T14:07:26.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com Exchange Tutorial for Beginners (How to Setup & Trade)]]></title>
+        <id>https://www.youtube.com/watch?v=Le4ChQGTfVM</id>
+        <link href="https://www.youtube.com/watch?v=Le4ChQGTfVM"/>
+        <updated>2024-10-30T14:00:16.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This new type of crypto makes money on auto pilot]]></title>
         <id>https://www.youtube.com/watch?v=gP_1eZIKXyk</id>
@@ -291,15 +300,6 @@
         <updated>2024-10-09T14:15:39.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Restore MetaMask on Another Device (Browser & Mobile)]]></title>
-        <id>https://www.youtube.com/watch?v=sYfsCJci5t8</id>
-        <link href="https://www.youtube.com/watch?v=sYfsCJci5t8"/>
-        <updated>2024-10-09T14:01:01.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

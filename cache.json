@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=F0GQ0l2NfHA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F0GQ0l2NfHA",
+          "publishedOn": "2024-10-31T13:56:09.000Z",
+          "wordCount": null,
+          "title": "Generative AI for Developers – Comprehensive Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1fZ0hTX-ut4",
           "author": null,
           "description": "",
@@ -150,16 +160,6 @@
           "wordCount": null,
           "title": "AWS Certified AI Practitioner (AIF-C01) – Full Course to PASS the Certification Exam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fP-371MN0Ck",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fP-371MN0Ck",
-          "publishedOn": "2024-10-07T15:56:15.000Z",
-          "wordCount": null,
-          "title": "Electron Course - Code Desktop Applications (inc. React and Typescript)",
-          "imageUrl": null
         }
       ]
     },
@@ -191,6 +191,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jOsJCH_s5Ec",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jOsJCH_s5Ec",
+          "publishedOn": "2024-10-31T14:00:48.000Z",
+          "wordCount": null,
+          "title": "Bybit On-Chain Earn Tutorial (Stake Crypto with On-Chain Earn)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Le4ChQGTfVM",
           "author": null,
@@ -329,16 +339,6 @@
           "publishedOn": "2024-10-11T14:00:42.000Z",
           "wordCount": null,
           "title": "Crypto Alert: We're On The Edge...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cut1qj8P9RE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cut1qj8P9RE",
-          "publishedOn": "2024-10-10T14:00:39.000Z",
-          "wordCount": null,
-          "title": "How to Deposit Money to Crypto.com (& Buy Crypto)",
           "imageUrl": null
         }
       ]

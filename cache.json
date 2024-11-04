@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-SnaeWw5JNs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-SnaeWw5JNs",
+          "publishedOn": "2024-11-04T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Binance Staked ETH Tutorial (ETH Staking for wbETH)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V5zdJM22PW8",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-10-15T14:00:48.000Z",
           "wordCount": null,
           "title": "Crypto Alert: A Major Breakout Is Close!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x30BMJh3Oag",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x30BMJh3Oag",
-          "publishedOn": "2024-10-14T14:00:53.000Z",
-          "wordCount": null,
-          "title": "Bybit Web3 Tutorial (Create Wallet, Deposit, Trade)",
           "imageUrl": null
         }
       ]

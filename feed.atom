@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-05T13:15:16.405Z</id>
+    <id>urn:2024-11-05T14:07:28.480Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-05T13:15:16.405Z</updated>
+    <updated>2024-11-05T14:07:28.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: It's DONE. It's OVER Already!!]]></title>
+        <id>https://www.youtube.com/watch?v=iUeRE1oF-Fs</id>
+        <link href="https://www.youtube.com/watch?v=iUeRE1oF-Fs"/>
+        <updated>2024-11-05T14:00:42.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contributing To Open Source – Beginner's Guide]]></title>
         <id>https://www.youtube.com/watch?v=mklEhT_RLos</id>
@@ -282,15 +291,6 @@
         <updated>2024-10-16T12:32:54.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: A Major Breakout Is Close!!]]></title>
-        <id>https://www.youtube.com/watch?v=jokkkbzz5z0</id>
-        <link href="https://www.youtube.com/watch?v=jokkkbzz5z0"/>
-        <updated>2024-10-15T14:00:48.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

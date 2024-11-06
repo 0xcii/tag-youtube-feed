@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-06T14:07:29.669Z</id>
+    <id>urn:2024-11-06T15:07:48.797Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-06T14:07:29.669Z</updated>
+    <updated>2024-11-06T15:07:48.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 5 BEST Crypto Cards for 2025]]></title>
+        <id>https://www.youtube.com/watch?v=EsOY6-SR738</id>
+        <link href="https://www.youtube.com/watch?v=EsOY6-SR738"/>
+        <updated>2024-11-06T14:00:14.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to make crypto passive income GUARANTEED with flash loans]]></title>
         <id>https://www.youtube.com/watch?v=-Ruya_6rlaA</id>
@@ -289,15 +298,6 @@
         <id>https://www.youtube.com/watch?v=qmjeW9Qt2gc</id>
         <link href="https://www.youtube.com/watch?v=qmjeW9Qt2gc"/>
         <updated>2024-10-17T14:00:50.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Millionaire Crypto Trading Strategy (EASY To Implement!!)]]></title>
-        <id>https://www.youtube.com/watch?v=xWCfFXmEXX4</id>
-        <link href="https://www.youtube.com/watch?v=xWCfFXmEXX4"/>
-        <updated>2024-10-16T14:01:02.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

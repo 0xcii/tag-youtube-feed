@@ -347,7 +347,18 @@
       "title": "EatTheBlocks",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=E7BX1CiiRnA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E7BX1CiiRnA",
+          "publishedOn": "2024-11-07T09:23:39.000Z",
+          "wordCount": null,
+          "title": "Why Trump will make Blockchain developers rich",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Dapp University",

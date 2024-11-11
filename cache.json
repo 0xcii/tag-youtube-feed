@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7C7TFaqn6xg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7C7TFaqn6xg",
+          "publishedOn": "2024-11-11T14:00:06.000Z",
+          "wordCount": null,
+          "title": "Bitget App Tutorial (How to Setup & Trade on Bitget App)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7RlN8vqucZc",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-10-22T14:00:29.000Z",
           "wordCount": null,
           "title": "Crypto Alert: They'll 10x Crypto Because of This!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mZ2WbpO79Wc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mZ2WbpO79Wc",
-          "publishedOn": "2024-10-21T14:00:48.000Z",
-          "wordCount": null,
-          "title": "How to Cash Out & Withdraw from Crypto.com to Bank",
           "imageUrl": null
         }
       ]

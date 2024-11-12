@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-12T14:07:38.229Z</id>
+    <id>urn:2024-11-12T15:07:44.392Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-12T14:07:38.229Z</updated>
+    <updated>2024-11-12T15:07:44.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: NOW IS THE TIME!!!]]></title>
+        <id>https://www.youtube.com/watch?v=mKp_mKB7CyQ</id>
+        <link href="https://www.youtube.com/watch?v=mKp_mKB7CyQ"/>
+        <updated>2024-11-12T14:00:47.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitget App Tutorial (How to Setup & Trade on Bitget App)]]></title>
         <id>https://www.youtube.com/watch?v=7C7TFaqn6xg</id>
@@ -318,15 +327,6 @@
         <updated>2024-10-22T14:27:41.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: They'll 10x Crypto Because of This!!]]></title>
-        <id>https://www.youtube.com/watch?v=IQSg5_US_1U</id>
-        <link href="https://www.youtube.com/watch?v=IQSg5_US_1U"/>
-        <updated>2024-10-22T14:00:29.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

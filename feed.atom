@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-12T15:07:44.392Z</id>
+    <id>urn:2024-11-12T16:09:17.113Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-12T15:07:44.392Z</updated>
+    <updated>2024-11-12T16:09:17.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto trading bots don't work. Here is why.]]></title>
+        <id>https://www.youtube.com/watch?v=Xp-Gu62Sf7U</id>
+        <link href="https://www.youtube.com/watch?v=Xp-Gu62Sf7U"/>
+        <updated>2024-11-12T15:55:45.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Stack with Next.js 14, Prisma, NextAuth, Pusher & Cloudinary – Build & Deploy a Dating App]]></title>
+        <id>https://www.youtube.com/watch?v=JTNBJHba_sE</id>
+        <link href="https://www.youtube.com/watch?v=JTNBJHba_sE"/>
+        <updated>2024-11-12T15:24:22.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: NOW IS THE TIME!!!]]></title>
         <id>https://www.youtube.com/watch?v=mKp_mKB7CyQ</id>
@@ -361,15 +379,6 @@
         <id>https://www.youtube.com/watch?v=2esQdKzRUCw</id>
         <link href="https://www.youtube.com/watch?v=2esQdKzRUCw"/>
         <updated>2024-10-16T12:32:54.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Full Stack Book Store App Using React, Node, MongoDB]]></title>
-        <id>https://www.youtube.com/watch?v=pgw2KPfgK1E</id>
-        <link href="https://www.youtube.com/watch?v=pgw2KPfgK1E"/>
-        <updated>2024-10-14T15:37:49.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

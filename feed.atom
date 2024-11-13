@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-13T13:16:03.200Z</id>
+    <id>urn:2024-11-13T14:07:28.645Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-13T13:16:03.200Z</updated>
+    <updated>2024-11-13T14:07:28.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Withdraw Money from OKX to Bank (Sell Crypto & Cash Out)]]></title>
+        <id>https://www.youtube.com/watch?v=EMipe2vVzNA</id>
+        <link href="https://www.youtube.com/watch?v=EMipe2vVzNA"/>
+        <updated>2024-11-13T14:00:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto + Indie Hacking = the next big opportunity]]></title>
         <id>https://www.youtube.com/watch?v=1Kd36K5MmoI</id>
@@ -336,15 +345,6 @@
         <updated>2024-10-23T17:01:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to TRADE on Bitget Crypto Exchange]]></title>
-        <id>https://www.youtube.com/watch?v=V62xxU57NR8</id>
-        <link href="https://www.youtube.com/watch?v=V62xxU57NR8"/>
-        <updated>2024-10-23T14:00:33.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

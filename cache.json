@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EMipe2vVzNA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EMipe2vVzNA",
+          "publishedOn": "2024-11-13T14:00:12.000Z",
+          "wordCount": null,
+          "title": "How to Withdraw Money from OKX to Bank (Sell Crypto & Cash Out)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mKp_mKB7CyQ",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-10-24T14:00:02.000Z",
           "wordCount": null,
           "title": "AMAZING TradingView Volume Indicator for Day Trading (Tutorial)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V62xxU57NR8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V62xxU57NR8",
-          "publishedOn": "2024-10-23T14:00:33.000Z",
-          "wordCount": null,
-          "title": "How to TRADE on Bitget Crypto Exchange",
           "imageUrl": null
         }
       ]

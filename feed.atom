@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-14T16:09:46.152Z</id>
+    <id>urn:2024-11-14T17:07:04.771Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-14T16:09:46.152Z</updated>
+    <updated>2024-11-14T17:07:04.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod]]></title>
+        <id>https://www.youtube.com/watch?v=9gpAtzQhYkY</id>
+        <link href="https://www.youtube.com/watch?v=9gpAtzQhYkY"/>
+        <updated>2024-11-14T16:45:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto.com Card Review & Tutorial 2025 (ALL You Need To Know)]]></title>
         <id>https://www.youtube.com/watch?v=Z_9m_pKMgGM</id>
@@ -415,15 +424,6 @@
         <id>https://www.youtube.com/watch?v=EmMO0yQ7eeY</id>
         <link href="https://www.youtube.com/watch?v=EmMO0yQ7eeY"/>
         <updated>2024-10-17T14:03:17.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile App Development Course with React Native, Supabase, Next.js]]></title>
-        <id>https://www.youtube.com/watch?v=2esQdKzRUCw</id>
-        <link href="https://www.youtube.com/watch?v=2esQdKzRUCw"/>
-        <updated>2024-10-16T12:32:54.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-15T14:08:01.044Z</id>
+    <id>urn:2024-11-15T15:07:56.840Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-15T14:08:01.044Z</updated>
+    <updated>2024-11-15T15:07:56.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO WARNING: IT'S BIGGER THAN WE THOUGHT!!]]></title>
+        <id>https://www.youtube.com/watch?v=uwtDBWjTq88</id>
+        <link href="https://www.youtube.com/watch?v=uwtDBWjTq88"/>
+        <updated>2024-11-15T14:00:57.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why web developers are POOR.. and how to fix it]]></title>
         <id>https://www.youtube.com/watch?v=AxeMQsibk3I</id>
@@ -354,15 +363,6 @@
         <updated>2024-10-25T14:39:52.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: This is Actually Insane]]></title>
-        <id>https://www.youtube.com/watch?v=Bx071w5hMDY</id>
-        <link href="https://www.youtube.com/watch?v=Bx071w5hMDY"/>
-        <updated>2024-10-25T14:00:11.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

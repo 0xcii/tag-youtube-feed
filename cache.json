@@ -436,6 +436,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iFQ_N4rSROQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iFQ_N4rSROQ",
+          "publishedOn": "2024-11-18T20:00:30.000Z",
+          "wordCount": null,
+          "title": "Massive Ethereum update is a GAME CHANGER!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3KzXEE-P6_w",
           "author": null,
           "description": "",

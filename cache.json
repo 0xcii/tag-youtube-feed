@@ -349,6 +349,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=91lfWf4DGik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=91lfWf4DGik",
+          "publishedOn": "2024-11-19T09:59:40.000Z",
+          "wordCount": null,
+          "title": "How to create a FREAKING GOOD Blockchain portfolio",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pPuXfDgd2OE",
           "author": null,
           "description": "",

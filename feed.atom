@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-21T13:18:50.397Z</id>
+    <id>urn:2024-11-21T14:07:55.588Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-21T13:18:50.397Z</updated>
+    <updated>2024-11-21T14:07:55.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to TRADE Crypto (FAST as a COMPLETE Beginner!!)]]></title>
+        <id>https://www.youtube.com/watch?v=BNYvbwmrjoA</id>
+        <link href="https://www.youtube.com/watch?v=BNYvbwmrjoA"/>
+        <updated>2024-11-21T14:00:09.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 100% sure way to LOSE money this bull market]]></title>
         <id>https://www.youtube.com/watch?v=-b287zCY_1E</id>
@@ -379,15 +388,6 @@
         <id>https://www.youtube.com/watch?v=V5zdJM22PW8</id>
         <link href="https://www.youtube.com/watch?v=V5zdJM22PW8"/>
         <updated>2024-11-01T14:00:27.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit On-Chain Earn Tutorial (Stake Crypto with On-Chain Earn)]]></title>
-        <id>https://www.youtube.com/watch?v=jOsJCH_s5Ec</id>
-        <link href="https://www.youtube.com/watch?v=jOsJCH_s5Ec"/>
-        <updated>2024-10-31T14:00:48.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

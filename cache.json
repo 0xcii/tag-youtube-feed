@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BNYvbwmrjoA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BNYvbwmrjoA",
+          "publishedOn": "2024-11-21T14:00:09.000Z",
+          "wordCount": null,
+          "title": "How to TRADE Crypto (FAST as a COMPLETE Beginner!!)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xAk8Qvr_UsA",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-11-01T14:00:27.000Z",
           "wordCount": null,
           "title": "Crypto Alert: An Important Message for Investors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jOsJCH_s5Ec",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jOsJCH_s5Ec",
-          "publishedOn": "2024-10-31T14:00:48.000Z",
-          "wordCount": null,
-          "title": "Bybit On-Chain Earn Tutorial (Stake Crypto with On-Chain Earn)",
           "imageUrl": null
         }
       ]

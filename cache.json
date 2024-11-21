@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "title": "链求君",
+      "title": "OG Crypto",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": []
@@ -49,16 +49,6 @@
           "publishedOn": "2024-11-14T16:45:25.000Z",
           "wordCount": null,
           "title": "Flutter Full Stack Tutorial – Spotify Clone w/ MVVM Architecture, Python, FastAPI, Riverpod",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JTNBJHba_sE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JTNBJHba_sE",
-          "publishedOn": "2024-11-12T15:24:22.000Z",
-          "wordCount": null,
-          "title": "Full Stack with Next.js 14, Prisma, NextAuth, Pusher & Cloudinary – Build & Deploy a Dating App",
           "imageUrl": null
         },
         {

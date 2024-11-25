@@ -445,6 +445,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=p07LG3IULiU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p07LG3IULiU",
+          "publishedOn": "2024-11-25T20:00:22.000Z",
+          "wordCount": null,
+          "title": "How Solana hits $1,000 - developer explains",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4oPZS_CzSKg",
           "author": null,
           "description": "",

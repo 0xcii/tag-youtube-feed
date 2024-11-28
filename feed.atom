@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-28T14:07:55.990Z</id>
+    <id>urn:2024-11-28T15:08:17.863Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-28T14:07:55.990Z</updated>
+    <updated>2024-11-28T15:08:17.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Wallet to Binance Transfer Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=IVoP6O7CkUA</id>
+        <link href="https://www.youtube.com/watch?v=IVoP6O7CkUA"/>
+        <updated>2024-11-28T14:00:16.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full roadmap to learn Blockchain development]]></title>
         <id>https://www.youtube.com/watch?v=GdhogrvF1s8</id>
@@ -408,15 +417,6 @@
         <updated>2024-11-07T16:12:53.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn Crypto Trading FAST]]></title>
-        <id>https://www.youtube.com/watch?v=HpI5oAAph1k</id>
-        <link href="https://www.youtube.com/watch?v=HpI5oAAph1k"/>
-        <updated>2024-11-07T14:00:24.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

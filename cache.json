@@ -298,6 +298,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x26Ctr8ZFBQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x26Ctr8ZFBQ",
+          "publishedOn": "2024-12-02T16:34:31.000Z",
+          "wordCount": null,
+          "title": "AI or Blockchain? The impossible choice for your career",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U10j-rss-MQ",
           "author": null,
           "description": "",
@@ -435,16 +445,6 @@
           "publishedOn": "2024-11-12T15:55:45.000Z",
           "wordCount": null,
           "title": "Crypto trading bots: are they profitable? The truth.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=76HNH3sJrx4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=76HNH3sJrx4",
-          "publishedOn": "2024-11-11T10:23:21.000Z",
-          "wordCount": null,
-          "title": "I made $30k last month as a Blockchain developer",
           "imageUrl": null
         }
       ]

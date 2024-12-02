@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-02T14:08:09.431Z</id>
+    <id>urn:2024-12-02T15:08:54.559Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-02T14:08:09.431Z</updated>
+    <updated>2024-12-02T15:08:54.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ledger Wallet: How to Sell Crypto & Withdraw Money to Bank]]></title>
+        <id>https://www.youtube.com/watch?v=GfNHRMt19W4</id>
+        <link href="https://www.youtube.com/watch?v=GfNHRMt19W4"/>
+        <updated>2024-12-02T14:00:15.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴Urgent message for all blockchain developers]]></title>
         <id>https://www.youtube.com/watch?v=_YuIRpoFKpc</id>
@@ -379,15 +388,6 @@
         <id>https://www.youtube.com/watch?v=mKp_mKB7CyQ</id>
         <link href="https://www.youtube.com/watch?v=mKp_mKB7CyQ"/>
         <updated>2024-11-12T14:00:47.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget App Tutorial (How to Setup & Trade on Bitget App)]]></title>
-        <id>https://www.youtube.com/watch?v=7C7TFaqn6xg</id>
-        <link href="https://www.youtube.com/watch?v=7C7TFaqn6xg"/>
-        <updated>2024-11-11T14:00:06.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

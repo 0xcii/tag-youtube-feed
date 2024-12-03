@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-03T15:08:33.295Z</id>
+    <id>urn:2024-12-03T16:09:52.989Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-03T15:08:33.295Z</updated>
+    <updated>2024-12-03T16:09:52.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to avoid tutorial hell?]]></title>
+        <id>https://www.youtube.com/watch?v=JNoNn4uKlCw</id>
+        <link href="https://www.youtube.com/watch?v=JNoNn4uKlCw"/>
+        <updated>2024-12-03T15:02:23.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Alert: It's About to Get MORE Insane!]]></title>
         <id>https://www.youtube.com/watch?v=8owbNdF_pEQ</id>
@@ -408,15 +417,6 @@
         <updated>2024-11-12T17:00:27.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto trading bots: are they profitable? The truth.]]></title>
-        <id>https://www.youtube.com/watch?v=Xp-Gu62Sf7U</id>
-        <link href="https://www.youtube.com/watch?v=Xp-Gu62Sf7U"/>
-        <updated>2024-11-12T15:55:45.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

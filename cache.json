@@ -319,6 +319,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VDG_Px1jfpw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VDG_Px1jfpw",
+          "publishedOn": "2024-12-04T16:45:51.000Z",
+          "wordCount": null,
+          "title": "Complete roadmap to become a smart contract auditor",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JNoNn4uKlCw",
           "author": null,
           "description": "",
@@ -456,16 +466,6 @@
           "publishedOn": "2024-11-14T09:16:47.000Z",
           "wordCount": null,
           "title": "Debunking the \"No jobs for Blockchain beginners\" myth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1Kd36K5MmoI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1Kd36K5MmoI",
-          "publishedOn": "2024-11-13T10:56:49.000Z",
-          "wordCount": null,
-          "title": "Crypto + Indie Hacking = the next big opportunity",
           "imageUrl": null
         }
       ]

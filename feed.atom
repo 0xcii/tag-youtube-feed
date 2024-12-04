@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-04T14:08:31.518Z</id>
+    <id>urn:2024-12-04T15:08:33.486Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-04T14:08:31.518Z</updated>
+    <updated>2024-12-04T15:08:33.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Stable Diffusion VAE From Scratch using Pytorch]]></title>
+        <id>https://www.youtube.com/watch?v=kG9l41Dtuyo</id>
+        <link href="https://www.youtube.com/watch?v=kG9l41Dtuyo"/>
+        <updated>2024-12-04T14:44:17.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase vs Crypto.com: Best Crypto Exchange?]]></title>
+        <id>https://www.youtube.com/watch?v=vZhwa6r6Z2E</id>
+        <link href="https://www.youtube.com/watch?v=vZhwa6r6Z2E"/>
+        <updated>2024-12-04T14:01:03.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to avoid tutorial hell?]]></title>
         <id>https://www.youtube.com/watch?v=JNoNn4uKlCw</id>
@@ -390,15 +408,6 @@
         <updated>2024-11-13T19:10:31.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Withdraw Money from OKX to Bank (Sell Crypto & Cash Out)]]></title>
-        <id>https://www.youtube.com/watch?v=EMipe2vVzNA</id>
-        <link href="https://www.youtube.com/watch?v=EMipe2vVzNA"/>
-        <updated>2024-11-13T14:00:12.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

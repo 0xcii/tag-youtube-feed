@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kG9l41Dtuyo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kG9l41Dtuyo",
+          "publishedOn": "2024-12-04T14:44:17.000Z",
+          "wordCount": null,
+          "title": "Build a Stable Diffusion VAE From Scratch using Pytorch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cWGQncQxaHI",
           "author": null,
           "description": "",
@@ -152,6 +162,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vZhwa6r6Z2E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vZhwa6r6Z2E",
+          "publishedOn": "2024-12-04T14:01:03.000Z",
+          "wordCount": null,
+          "title": "Coinbase vs Crypto.com: Best Crypto Exchange?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8owbNdF_pEQ",
           "author": null,
           "description": "",
@@ -289,16 +309,6 @@
           "publishedOn": "2024-11-14T14:00:28.000Z",
           "wordCount": null,
           "title": "Crypto.com Card Review & Tutorial 2025 (ALL You Need To Know)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EMipe2vVzNA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EMipe2vVzNA",
-          "publishedOn": "2024-11-13T14:00:12.000Z",
-          "wordCount": null,
-          "title": "How to Withdraw Money from OKX to Bank (Sell Crypto & Cash Out)",
           "imageUrl": null
         }
       ]

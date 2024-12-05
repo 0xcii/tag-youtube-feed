@@ -120,16 +120,6 @@
           "wordCount": null,
           "title": "Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0oyDqO8PjIg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0oyDqO8PjIg",
-          "publishedOn": "2024-11-05T15:32:42.000Z",
-          "wordCount": null,
-          "title": "AI Foundations Course – Python, Machine Learning, Deep Learning, Data Science",
-          "imageUrl": null
         }
       ]
     },

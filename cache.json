@@ -309,6 +309,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h-tIRRvgvsE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h-tIRRvgvsE",
+          "publishedOn": "2024-12-05T15:25:31.000Z",
+          "wordCount": null,
+          "title": "Bitcoin at $100k: what's next for Blockchain devs?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VDG_Px1jfpw",
           "author": null,
           "description": "",
@@ -446,16 +456,6 @@
           "publishedOn": "2024-11-15T10:45:52.000Z",
           "wordCount": null,
           "title": "Why web developers are POOR.. and how to fix it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X_IFYnbJt54",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X_IFYnbJt54",
-          "publishedOn": "2024-11-14T09:16:47.000Z",
-          "wordCount": null,
-          "title": "Debunking the \"No jobs for Blockchain beginners\" myth",
           "imageUrl": null
         }
       ]

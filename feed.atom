@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-05T13:20:25.674Z</id>
+    <id>urn:2024-12-05T14:08:04.955Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-05T13:20:25.674Z</updated>
+    <updated>2024-12-05T14:08:04.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit Conditional Order Tutorial (How to Trade Conditional Order Type)]]></title>
+        <id>https://www.youtube.com/watch?v=QQjoRARdZTI</id>
+        <link href="https://www.youtube.com/watch?v=QQjoRARdZTI"/>
+        <updated>2024-12-05T14:00:25.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to make 100x off Memecoins with Sniping Bots]]></title>
         <id>https://www.youtube.com/watch?v=jBBCVlOOOLU</id>
@@ -390,15 +399,6 @@
         <updated>2024-11-14T16:45:25.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto.com Card Review & Tutorial 2025 (ALL You Need To Know)]]></title>
-        <id>https://www.youtube.com/watch?v=Z_9m_pKMgGM</id>
-        <link href="https://www.youtube.com/watch?v=Z_9m_pKMgGM"/>
-        <updated>2024-11-14T14:00:28.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

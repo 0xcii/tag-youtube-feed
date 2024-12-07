@@ -131,16 +131,6 @@
           "wordCount": null,
           "title": "The State of AI with Stanford Researcher Yifan Mai [Podcast #149]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d-VKYF4Zow0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d-VKYF4Zow0",
-          "publishedOn": "2024-11-07T16:12:53.000Z",
-          "wordCount": null,
-          "title": "Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI",
-          "imageUrl": null
         }
       ]
     },

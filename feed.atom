@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-09T08:12:45.420Z</id>
+    <id>urn:2024-12-09T09:09:54.887Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-09T08:12:45.420Z</updated>
+    <updated>2024-12-09T09:09:54.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -451,15 +451,6 @@
         <id>https://www.youtube.com/watch?v=T6kLt5Gylpc</id>
         <link href="https://www.youtube.com/watch?v=T6kLt5Gylpc"/>
         <updated>2024-11-12T17:00:27.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴URGENT: CRYPTO IS ABOUT TO EXLODE MASSIVELY!]]></title>
-        <id>https://www.youtube.com/watch?v=ULdqcN_cmzQ</id>
-        <link href="https://www.youtube.com/watch?v=ULdqcN_cmzQ"/>
-        <updated>2024-11-09T21:00:23.000Z</updated>
         <author>
             <name>Dapp University</name>
         </author>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-10T19:06:19.849Z</id>
+    <id>urn:2024-12-10T20:09:19.500Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-10T19:06:19.849Z</updated>
+    <updated>2024-12-10T20:09:19.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to get freelance clients as a Blockchain developer?]]></title>
+        <id>https://www.youtube.com/watch?v=aGYf3QsQgEE</id>
+        <link href="https://www.youtube.com/watch?v=aGYf3QsQgEE"/>
+        <updated>2024-12-10T19:15:42.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polyrhythms JavaScript Project Tutorial – How Math Can Make Your Code Better]]></title>
         <id>https://www.youtube.com/watch?v=eX-ODcr3XJg</id>
@@ -397,15 +406,6 @@
         <id>https://www.youtube.com/watch?v=-Wh8qf6blJs</id>
         <link href="https://www.youtube.com/watch?v=-Wh8qf6blJs"/>
         <updated>2024-11-20T12:20:36.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which project to build for your Blockchain portfolio?]]></title>
-        <id>https://www.youtube.com/watch?v=91lfWf4DGik</id>
-        <link href="https://www.youtube.com/watch?v=91lfWf4DGik"/>
-        <updated>2024-11-19T09:59:40.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

@@ -320,6 +320,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0E4rPovVmGw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0E4rPovVmGw",
+          "publishedOn": "2024-12-11T15:34:38.000Z",
+          "wordCount": null,
+          "title": "Top 8 trends for crypto in 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aGYf3QsQgEE",
           "author": null,
           "description": "",
@@ -456,17 +466,7 @@
           "link": "https://www.youtube.com/watch?v=-b287zCY_1E",
           "publishedOn": "2024-11-21T11:21:52.000Z",
           "wordCount": null,
-          "title": "The 100% sure way to LOSE money this bull market",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-Wh8qf6blJs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-Wh8qf6blJs",
-          "publishedOn": "2024-11-20T12:20:36.000Z",
-          "wordCount": null,
-          "title": "Top 5 Most Profitable Niche for Blockchain Development",
+          "title": "Don't do this in crypto...",
           "imageUrl": null
         }
       ]

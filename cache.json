@@ -330,6 +330,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XBMV5tS4qYM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XBMV5tS4qYM",
+          "publishedOn": "2024-12-12T19:32:50.000Z",
+          "wordCount": null,
+          "title": "Pros and cons of learning Solidity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0E4rPovVmGw",
           "author": null,
           "description": "",
@@ -467,16 +477,6 @@
           "publishedOn": "2024-11-22T09:29:25.000Z",
           "wordCount": null,
           "title": "Should you give up on Ethereum?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-b287zCY_1E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-b287zCY_1E",
-          "publishedOn": "2024-11-21T11:21:52.000Z",
-          "wordCount": null,
-          "title": "Don't do this in crypto...",
           "imageUrl": null
         }
       ]

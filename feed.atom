@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-12T20:09:26.372Z</id>
+    <id>urn:2024-12-12T21:07:49.700Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-12T20:09:26.372Z</updated>
+    <updated>2024-12-12T21:07:49.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to earn passive income with crypto in 2025]]></title>
+        <id>https://www.youtube.com/watch?v=Wg-DuAPGNVc</id>
+        <link href="https://www.youtube.com/watch?v=Wg-DuAPGNVc"/>
+        <updated>2024-12-12T21:00:31.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pros and cons of learning Solidity]]></title>
         <id>https://www.youtube.com/watch?v=XBMV5tS4qYM</id>

@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=a0bzf4h4jjg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a0bzf4h4jjg",
+          "publishedOn": "2024-12-13T20:55:46.000Z",
+          "wordCount": null,
+          "title": "How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=a4HBKEda_F8",
           "author": null,
           "description": "",

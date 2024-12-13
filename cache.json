@@ -340,6 +340,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=89qMT7QCSsM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=89qMT7QCSsM",
+          "publishedOn": "2024-12-13T21:14:25.000Z",
+          "wordCount": null,
+          "title": "Blockchain development changed.. (developer survey breakdown)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XBMV5tS4qYM",
           "author": null,
           "description": "",
@@ -477,16 +487,6 @@
           "publishedOn": "2024-11-25T08:13:48.000Z",
           "wordCount": null,
           "title": "How I became millionaire with Solidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BKQPK4kNhIM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BKQPK4kNhIM",
-          "publishedOn": "2024-11-22T09:29:25.000Z",
-          "wordCount": null,
-          "title": "Should you give up on Ethereum?",
           "imageUrl": null
         }
       ]

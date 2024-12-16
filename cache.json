@@ -173,6 +173,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3O4eIEEXOyU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3O4eIEEXOyU",
+          "publishedOn": "2024-12-16T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Binance Spot DCA Trading Bot Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=21wUqUQ60Xs",
           "author": null,
           "description": "",
@@ -310,16 +320,6 @@
           "publishedOn": "2024-11-26T14:00:12.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Imminent Danger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BSvMtnX6zDo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BSvMtnX6zDo",
-          "publishedOn": "2024-11-25T14:00:12.000Z",
-          "wordCount": null,
-          "title": "How to Swap Crypto on Raydium with Phantom Wallet",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-17T14:08:13.418Z</id>
+    <id>urn:2024-12-17T15:08:23.167Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-17T14:08:13.418Z</updated>
+    <updated>2024-12-17T15:08:23.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Big Data Energy: Breaking Down 2024 Electric Capital Report w/ @MariaShen @emilyxlai & @clairekart]]></title>
+        <id>https://www.youtube.com/watch?v=0EYTaV9Nwu4</id>
+        <link href="https://www.youtube.com/watch?v=0EYTaV9Nwu4"/>
+        <updated>2024-12-17T14:14:09.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: YIKES, IT'S GOING AGAIN!!]]></title>
         <id>https://www.youtube.com/watch?v=UkuIoajYN88</id>
@@ -12,15 +21,6 @@
         <updated>2024-12-17T14:00:25.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Data Energy: Breaking Down 2024 Electric Capital Report w/ @MariaShen @emilyxlai & @clairekart]]></title>
-        <id>https://www.youtube.com/watch?v=0EYTaV9Nwu4</id>
-        <link href="https://www.youtube.com/watch?v=0EYTaV9Nwu4"/>
-        <updated>2024-12-16T15:19:53.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
         </author>
     </entry>
     <entry>

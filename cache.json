@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9Crrhz0pm8s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9Crrhz0pm8s",
+          "publishedOn": "2024-12-17T16:58:56.000Z",
+          "wordCount": null,
+          "title": "Spring AI Full Course with Projects – Build Smarter Spring Boot Applications",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=a0bzf4h4jjg",
           "author": null,
           "description": "",

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-19T16:08:52.873Z</id>
+    <id>urn:2024-12-19T17:06:38.202Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-19T16:08:52.873Z</updated>
+    <updated>2024-12-19T17:06:38.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bootcamp student finds Blockchain job | Interview]]></title>
+        <id>https://www.youtube.com/watch?v=e7khgYr5MtI</id>
+        <link href="https://www.youtube.com/watch?v=e7khgYr5MtI"/>
+        <updated>2024-12-19T16:56:17.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Solutions Architect Professional (SAP-C02) Certification Course – Pass the Exam!]]></title>
         <id>https://www.youtube.com/watch?v=hyEw7dQ9-JE</id>
@@ -453,15 +462,6 @@
         <updated>2024-11-25T20:00:22.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I became millionaire with Solidity]]></title>
-        <id>https://www.youtube.com/watch?v=pzL3aBDLcUE</id>
-        <link href="https://www.youtube.com/watch?v=pzL3aBDLcUE"/>
-        <updated>2024-11-25T08:13:48.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
     <entry>

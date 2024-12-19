@@ -193,6 +193,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=u-WxsvHVWN8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u-WxsvHVWN8",
+          "publishedOn": "2024-12-19T14:00:58.000Z",
+          "wordCount": null,
+          "title": "TradingView Paper Trading Tutorial (Easy Setup & Trading)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mV7Q35fLUHY",
           "author": null,
           "description": "",
@@ -330,16 +340,6 @@
           "publishedOn": "2024-11-29T14:00:02.000Z",
           "wordCount": null,
           "title": "Crypto Alert: This is Our ONLY Chance!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IVoP6O7CkUA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IVoP6O7CkUA",
-          "publishedOn": "2024-11-28T14:00:16.000Z",
-          "wordCount": null,
-          "title": "Coinbase Wallet to Binance Transfer Tutorial",
           "imageUrl": null
         }
       ]

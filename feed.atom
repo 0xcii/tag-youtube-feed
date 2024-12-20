@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-20T06:11:21.986Z</id>
+    <id>urn:2024-12-20T07:07:53.066Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-20T06:11:21.986Z</updated>
+    <updated>2024-12-20T07:07:53.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -489,15 +489,6 @@
         <updated>2024-11-21T20:00:01.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects]]></title>
-        <id>https://www.youtube.com/watch?v=x4rFhThSX04</id>
-        <link href="https://www.youtube.com/watch?v=x4rFhThSX04"/>
-        <updated>2024-11-20T18:25:12.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

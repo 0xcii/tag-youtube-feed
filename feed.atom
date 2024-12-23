@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-23T13:15:33.019Z</id>
+    <id>urn:2024-12-23T14:07:14.961Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-23T13:15:33.019Z</updated>
+    <updated>2024-12-23T14:07:14.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com Exchange Arbitrage Bot Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=psr64kogOfU</id>
+        <link href="https://www.youtube.com/watch?v=psr64kogOfU"/>
+        <updated>2024-12-23T14:00:48.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Agent Demo Days - Episode 2]]></title>
         <id>https://www.youtube.com/watch?v=aSkM1KlxXfk</id>
@@ -426,15 +435,6 @@
         <updated>2024-12-02T16:34:31.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger Wallet: How to Sell Crypto & Withdraw Money to Bank]]></title>
-        <id>https://www.youtube.com/watch?v=GfNHRMt19W4</id>
-        <link href="https://www.youtube.com/watch?v=GfNHRMt19W4"/>
-        <updated>2024-12-02T14:00:15.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

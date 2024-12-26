@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-26T21:06:43.333Z</id>
+    <id>urn:2024-12-26T22:06:55.331Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-26T21:06:43.333Z</updated>
+    <updated>2024-12-26T22:06:55.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -489,15 +489,6 @@
         <updated>2024-11-27T15:52:29.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 ways to make money with meme coins as a developer]]></title>
-        <id>https://www.youtube.com/watch?v=2BSkjMoAqpE</id>
-        <link href="https://www.youtube.com/watch?v=2BSkjMoAqpE"/>
-        <updated>2024-11-27T09:07:20.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

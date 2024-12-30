@@ -507,6 +507,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XjBxKkAbq-Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XjBxKkAbq-Q",
+          "publishedOn": "2024-12-30T18:00:19.000Z",
+          "wordCount": null,
+          "title": "How to become a highly paid blockchain developer in 2025 step-by-step",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uLKtF90K_z8",
           "author": null,
           "description": "",

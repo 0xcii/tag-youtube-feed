@@ -213,6 +213,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LTpdF1zUBUI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LTpdF1zUBUI",
+          "publishedOn": "2025-01-01T14:00:30.000Z",
+          "wordCount": null,
+          "title": "Uphold Tutorial for Beginners 2025 (How to Use Uphold)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Fff36EQYlyM",
           "author": null,
           "description": "",
@@ -350,16 +360,6 @@
           "publishedOn": "2024-12-12T14:00:35.000Z",
           "wordCount": null,
           "title": "KuCoin Tutorial 2025 (How to Trade Crypto on KuCoin)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mcUX-TiAaxU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mcUX-TiAaxU",
-          "publishedOn": "2024-12-11T14:00:57.000Z",
-          "wordCount": null,
-          "title": "How to Buy Crypto on Crypto.com",
           "imageUrl": null
         }
       ]

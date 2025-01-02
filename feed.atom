@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-02T13:14:30.960Z</id>
+    <id>urn:2025-01-02T14:07:09.475Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-02T13:14:30.960Z</updated>
+    <updated>2025-01-02T14:07:09.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best Decentralised Exchanges 2025!! (FULL Review & Tips)]]></title>
+        <id>https://www.youtube.com/watch?v=uYGVDCqFd6Q</id>
+        <link href="https://www.youtube.com/watch?v=uYGVDCqFd6Q"/>
+        <updated>2025-01-02T14:00:54.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uphold Tutorial for Beginners 2025 (How to Use Uphold)]]></title>
         <id>https://www.youtube.com/watch?v=LTpdF1zUBUI</id>
@@ -318,15 +327,6 @@
         <updated>2024-12-12T19:32:50.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KuCoin Tutorial 2025 (How to Trade Crypto on KuCoin)]]></title>
-        <id>https://www.youtube.com/watch?v=Z2hVZo8YNSM</id>
-        <link href="https://www.youtube.com/watch?v=Z2hVZo8YNSM"/>
-        <updated>2024-12-12T14:00:35.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

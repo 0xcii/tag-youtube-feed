@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-05T05:07:27.246Z</id>
+    <id>urn:2025-01-05T06:10:31.818Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-05T05:07:27.246Z</updated>
+    <updated>2025-01-05T06:10:31.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -408,15 +408,6 @@
         <updated>2024-12-07T03:39:16.000Z</updated>
         <author>
             <name>OG Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]]]></title>
-        <id>https://www.youtube.com/watch?v=TpNwIgwWVR0</id>
-        <link href="https://www.youtube.com/watch?v=TpNwIgwWVR0"/>
-        <updated>2024-12-06T17:24:53.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

@@ -182,6 +182,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r-hzNw-leQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r-hzNw-leQ0",
+          "publishedOn": "2025-01-06T14:00:54.000Z",
+          "wordCount": null,
+          "title": "Crypto.com Exchange Margin Trading Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XIil0XkziLQ",
           "author": null,
           "description": "",
@@ -319,16 +329,6 @@
           "publishedOn": "2024-12-17T14:00:25.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: YIKES, IT'S GOING AGAIN!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3O4eIEEXOyU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3O4eIEEXOyU",
-          "publishedOn": "2024-12-16T14:00:03.000Z",
-          "wordCount": null,
-          "title": "Binance Spot DCA Trading Bot Tutorial",
           "imageUrl": null
         }
       ]

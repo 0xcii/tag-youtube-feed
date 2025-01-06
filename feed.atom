@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-06T14:07:20.471Z</id>
+    <id>urn:2025-01-06T15:08:02.449Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-06T14:07:20.471Z</updated>
+    <updated>2025-01-06T15:08:02.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com Exchange Margin Trading Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=r-hzNw-leQ0</id>
+        <link href="https://www.youtube.com/watch?v=r-hzNw-leQ0"/>
+        <updated>2025-01-06T14:00:54.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Agent Demo Days - Episode 2]]></title>
         <id>https://www.youtube.com/watch?v=aSkM1KlxXfk</id>
@@ -298,15 +307,6 @@
         <id>https://www.youtube.com/watch?v=UkuIoajYN88</id>
         <link href="https://www.youtube.com/watch?v=UkuIoajYN88"/>
         <updated>2024-12-17T14:00:25.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Spot DCA Trading Bot Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=3O4eIEEXOyU</id>
-        <link href="https://www.youtube.com/watch?v=3O4eIEEXOyU"/>
-        <updated>2024-12-16T14:00:03.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

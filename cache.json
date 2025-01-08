@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HbXBBCnKsO4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HbXBBCnKsO4",
+          "publishedOn": "2025-01-08T14:00:14.000Z",
+          "wordCount": null,
+          "title": "Kraken Tutorial for Beginners 2025 (How to Deposit, Trade, Withdraw)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2Pf9i3XkckA",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2024-12-19T14:00:58.000Z",
           "wordCount": null,
           "title": "TradingView Paper Trading Tutorial (Easy Setup & Trading)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mV7Q35fLUHY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mV7Q35fLUHY",
-          "publishedOn": "2024-12-18T14:01:00.000Z",
-          "wordCount": null,
-          "title": "How to Start DAY TRADING CRYPTO (2025 Guide)",
           "imageUrl": null
         }
       ]

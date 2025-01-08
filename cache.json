@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nJ25yl34Uqw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nJ25yl34Uqw",
+          "publishedOn": "2025-01-08T15:03:08.000Z",
+          "wordCount": null,
+          "title": "GenAI Essentials – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BBk3DXgodmI",
           "author": null,
           "description": "",

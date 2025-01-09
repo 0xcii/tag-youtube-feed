@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-09T07:08:08.003Z</id>
+    <id>urn:2025-01-09T08:10:38.614Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-09T07:08:08.003Z</updated>
+    <updated>2025-01-09T08:10:38.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -388,15 +388,6 @@
         <id>https://www.youtube.com/watch?v=0E4rPovVmGw</id>
         <link href="https://www.youtube.com/watch?v=0E4rPovVmGw"/>
         <updated>2024-12-11T15:34:38.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get freelance clients as a Blockchain developer?]]></title>
-        <id>https://www.youtube.com/watch?v=aGYf3QsQgEE</id>
-        <link href="https://www.youtube.com/watch?v=aGYf3QsQgEE"/>
-        <updated>2024-12-10T19:15:42.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
         </author>

@@ -386,6 +386,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7qygLY8ne8o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7qygLY8ne8o",
+          "publishedOn": "2025-01-10T18:00:06.000Z",
+          "wordCount": null,
+          "title": "Top AI Crypto projects to explode in 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cEGqNS_gxVI",
           "author": null,
           "description": "",

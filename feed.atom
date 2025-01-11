@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-11T07:06:47.963Z</id>
+    <id>urn:2025-01-11T08:09:24.323Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-11T07:06:47.963Z</updated>
+    <updated>2025-01-11T08:09:24.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -381,15 +381,6 @@
         <updated>2024-12-12T21:00:31.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pros and cons of learning Solidity]]></title>
-        <id>https://www.youtube.com/watch?v=XBMV5tS4qYM</id>
-        <link href="https://www.youtube.com/watch?v=XBMV5tS4qYM"/>
-        <updated>2024-12-12T19:32:50.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

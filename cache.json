@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=onU5Hbb3qao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=onU5Hbb3qao",
+          "publishedOn": "2025-01-15T15:55:23.000Z",
+          "wordCount": null,
+          "title": "Understanding Deep Learning Research Tutorial - Theory, Code and Math",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cKK-Y1-jAHM",
           "author": null,
           "description": "",

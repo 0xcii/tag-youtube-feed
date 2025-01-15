@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-15T19:04:39.436Z</id>
+    <id>urn:2025-01-15T20:08:04.590Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-15T19:04:39.436Z</updated>
+    <updated>2025-01-15T20:08:04.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Has the crypto market cycle topped for 2025? Developer Explains]]></title>
+        <id>https://www.youtube.com/watch?v=Y6JA6TZDCtY</id>
+        <link href="https://www.youtube.com/watch?v=Y6JA6TZDCtY"/>
+        <updated>2025-01-15T20:00:15.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Deep Learning Research Tutorial - Theory, Code and Math]]></title>
         <id>https://www.youtube.com/watch?v=onU5Hbb3qao</id>

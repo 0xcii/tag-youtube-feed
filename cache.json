@@ -396,6 +396,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Y6JA6TZDCtY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y6JA6TZDCtY",
+          "publishedOn": "2025-01-15T20:00:15.000Z",
+          "wordCount": null,
+          "title": "Has the crypto market cycle topped for 2025? Developer Explains",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7qygLY8ne8o",
           "author": null,
           "description": "",

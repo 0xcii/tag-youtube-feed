@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-16T08:10:13.409Z</id>
+    <id>urn:2025-01-16T09:07:54.509Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-16T08:10:13.409Z</updated>
+    <updated>2025-01-16T09:07:54.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -363,15 +363,6 @@
         <updated>2024-12-18T18:55:48.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to make 100x off meme coins by copytrading]]></title>
-        <id>https://www.youtube.com/watch?v=rKOBPSiEM9s</id>
-        <link href="https://www.youtube.com/watch?v=rKOBPSiEM9s"/>
-        <updated>2024-12-17T21:00:29.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

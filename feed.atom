@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-16T13:14:21.000Z</id>
+    <id>urn:2025-01-16T14:07:07.240Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-16T13:14:21.000Z</updated>
+    <updated>2025-01-16T14:07:07.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CoW Swap Tutorial (How to Swap Crypto on CoW Swap)]]></title>
+        <id>https://www.youtube.com/watch?v=LWuRc87Zb_o</id>
+        <link href="https://www.youtube.com/watch?v=LWuRc87Zb_o"/>
+        <updated>2025-01-16T14:00:20.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Has the crypto market cycle topped for 2025? Developer Explains]]></title>
         <id>https://www.youtube.com/watch?v=Y6JA6TZDCtY</id>
@@ -262,15 +271,6 @@
         <id>https://www.youtube.com/watch?v=TgLo6pCEkz4</id>
         <link href="https://www.youtube.com/watch?v=TgLo6pCEkz4"/>
         <updated>2024-12-28T14:00:28.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: A Crash Incoming!?]]></title>
-        <id>https://www.youtube.com/watch?v=pASpeXIjKaI</id>
-        <link href="https://www.youtube.com/watch?v=pASpeXIjKaI"/>
-        <updated>2024-12-27T14:00:51.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

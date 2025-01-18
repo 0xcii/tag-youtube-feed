@@ -147,16 +147,6 @@
           "wordCount": null,
           "title": "AI Agent Demo Days - Episode 2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uouSdtcWXTQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uouSdtcWXTQ",
-          "publishedOn": "2024-12-20T03:06:21.000Z",
-          "wordCount": null,
-          "title": "Building an AI Agent with Your Own Personality with Eliza Framework | TypeScript Full Tutorial",
-          "imageUrl": null
         }
       ]
     },

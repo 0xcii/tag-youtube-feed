@@ -4,7 +4,18 @@
       "title": "链求君",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DRRkjc6Jaxg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DRRkjc6Jaxg",
+          "publishedOn": "2025-01-19T03:30:31.000Z",
+          "wordCount": null,
+          "title": "美国总统发币，我用这个平台1天赚了 9万美金 ！ Debot 链上交易教学（完整版）零基础小白 30分钟 搞懂千倍收益如何赚取 ！ #Trump #memes",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "freeCodeCamp.org",

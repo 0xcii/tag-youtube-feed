@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_CXwZ5xyFno",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_CXwZ5xyFno",
+          "publishedOn": "2025-01-28T15:52:11.000Z",
+          "wordCount": null,
+          "title": "DeepSeek-R1 Crash Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Q7mS1VHm3Yw",
           "author": null,
           "description": "",

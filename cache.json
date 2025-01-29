@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8CF-fxIA4a8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8CF-fxIA4a8",
+          "publishedOn": "2025-01-29T14:00:13.000Z",
+          "wordCount": null,
+          "title": "How to Invest in Crypto as a COMPLETE Beginner 2025 Guide",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JlLvqUZegsQ",
           "author": null,
           "description": "",
@@ -390,16 +400,6 @@
           "publishedOn": "2025-01-09T14:00:21.000Z",
           "wordCount": null,
           "title": "EASIEST Crypto Trading Strategy Anyone Can Use ($10,000’s)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HbXBBCnKsO4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HbXBBCnKsO4",
-          "publishedOn": "2025-01-08T14:00:14.000Z",
-          "wordCount": null,
-          "title": "Kraken Tutorial for Beginners 2025 (How to Deposit, Trade, Withdraw)",
           "imageUrl": null
         }
       ]

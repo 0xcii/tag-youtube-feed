@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iLRZi0Gu8Go",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iLRZi0Gu8Go",
+          "publishedOn": "2025-01-29T15:19:09.000Z",
+          "wordCount": null,
+          "title": "Python Object Oriented Programming (OOP) - Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_CXwZ5xyFno",
           "author": null,
           "description": "",
@@ -408,7 +418,18 @@
       "title": "EatTheBlocks",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vLF5O38DOfc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vLF5O38DOfc",
+          "publishedOn": "2025-01-27T17:10:06.000Z",
+          "wordCount": null,
+          "title": "🔴 Reactive Network has a BIG news!",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Dapp University",

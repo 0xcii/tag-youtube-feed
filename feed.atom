@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-30T14:07:17.728Z</id>
+    <id>urn:2025-01-30T15:07:47.163Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-30T14:07:17.728Z</updated>
+    <updated>2025-01-30T15:07:47.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Kraken App (Deposit, Trade, Withdraw)]]></title>
+        <id>https://www.youtube.com/watch?v=YorDuRJqYDw</id>
+        <link href="https://www.youtube.com/watch?v=YorDuRJqYDw"/>
+        <updated>2025-01-30T14:00:43.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Object Oriented Programming (OOP) - Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=iLRZi0Gu8Go</id>
@@ -343,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=tvz9FfsJUl4</id>
         <link href="https://www.youtube.com/watch?v=tvz9FfsJUl4"/>
         <updated>2025-01-10T14:00:58.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EASIEST Crypto Trading Strategy Anyone Can Use ($10,000’s)]]></title>
-        <id>https://www.youtube.com/watch?v=LuLpBhvb5fM</id>
-        <link href="https://www.youtube.com/watch?v=LuLpBhvb5fM"/>
-        <updated>2025-01-09T14:00:21.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

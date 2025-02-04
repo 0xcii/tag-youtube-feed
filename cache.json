@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GNN_YVPlAmI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GNN_YVPlAmI",
+          "publishedOn": "2025-02-04T14:00:28.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: THIS IS SERIOUS",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=es8t94-BKTA",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2025-01-15T14:00:59.000Z",
           "wordCount": null,
           "title": "Kraken Pro Tutorial (How to Trade on Kraken Pro)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RHlU0ewscFk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RHlU0ewscFk",
-          "publishedOn": "2025-01-14T14:00:34.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Don't Be Fooled. It's NOT Over!",
           "imageUrl": null
         }
       ]

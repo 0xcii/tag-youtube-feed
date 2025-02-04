@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-04T14:07:23.712Z</id>
+    <id>urn:2025-02-04T15:07:54.234Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-04T14:07:23.712Z</updated>
+    <updated>2025-02-04T15:07:54.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: THIS IS SERIOUS]]></title>
+        <id>https://www.youtube.com/watch?v=GNN_YVPlAmI</id>
+        <link href="https://www.youtube.com/watch?v=GNN_YVPlAmI"/>
+        <updated>2025-02-04T14:00:28.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Send Crypto from Trust Wallet to Bybit]]></title>
         <id>https://www.youtube.com/watch?v=es8t94-BKTA</id>
@@ -345,15 +354,6 @@
         <updated>2025-01-14T16:03:17.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Don't Be Fooled. It's NOT Over!]]></title>
-        <id>https://www.youtube.com/watch?v=RHlU0ewscFk</id>
-        <link href="https://www.youtube.com/watch?v=RHlU0ewscFk"/>
-        <updated>2025-01-14T14:00:34.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

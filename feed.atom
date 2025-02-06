@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-06T14:07:25.778Z</id>
+    <id>urn:2025-02-06T15:08:00.854Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-06T14:07:25.779Z</updated>
+    <updated>2025-02-06T15:08:00.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BEST Crypto Trading Strategy Could 10x Your Portfolio]]></title>
+        <id>https://www.youtube.com/watch?v=DjTCy8quF-U</id>
+        <link href="https://www.youtube.com/watch?v=DjTCy8quF-U"/>
+        <updated>2025-02-06T14:00:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strapi 5 and Next.js 15 Full Stack Project Course]]></title>
         <id>https://www.youtube.com/watch?v=Q-cPtlYG1cY</id>
@@ -343,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=v8iJLi1DulU</id>
         <link href="https://www.youtube.com/watch?v=v8iJLi1DulU"/>
         <updated>2025-01-17T14:01:08.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoW Swap Tutorial (How to Swap Crypto on CoW Swap)]]></title>
-        <id>https://www.youtube.com/watch?v=LWuRc87Zb_o</id>
-        <link href="https://www.youtube.com/watch?v=LWuRc87Zb_o"/>
-        <updated>2025-01-16T14:00:20.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

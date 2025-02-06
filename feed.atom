@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-06T15:08:00.854Z</id>
+    <id>urn:2025-02-06T16:07:48.596Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-06T15:08:00.854Z</updated>
+    <updated>2025-02-06T16:07:48.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Engineer Roadmap – How to Learn AI in 2025]]></title>
+        <id>https://www.youtube.com/watch?v=nYXVvK-Wmn0</id>
+        <link href="https://www.youtube.com/watch?v=nYXVvK-Wmn0"/>
+        <updated>2025-02-06T15:15:19.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BEST Crypto Trading Strategy Could 10x Your Portfolio]]></title>
         <id>https://www.youtube.com/watch?v=DjTCy8quF-U</id>
@@ -390,15 +399,6 @@
         <updated>2025-01-10T19:28:06.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUDA and GPU Programming with Elliot Arledge [Podcast #155]]]></title>
-        <id>https://www.youtube.com/watch?v=00K8Lw1hZYc</id>
-        <link href="https://www.youtube.com/watch?v=00K8Lw1hZYc"/>
-        <updated>2025-01-10T19:13:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

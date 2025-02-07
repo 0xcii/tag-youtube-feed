@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HKewfJQjdIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HKewfJQjdIk",
+          "publishedOn": "2025-02-07T14:00:29.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: More Pain, Then PUMP!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DjTCy8quF-U",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2025-01-20T14:00:49.000Z",
           "wordCount": null,
           "title": "Crypto Loans Tutorial: How to Borrow Against Bitcoin & Crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v8iJLi1DulU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v8iJLi1DulU",
-          "publishedOn": "2025-01-17T14:01:08.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: VOLATILITY INCOMING (WATCH BEFORE 20TH JAN)",
           "imageUrl": null
         }
       ]

@@ -263,6 +263,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=49xQ_423qqY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=49xQ_423qqY",
+          "publishedOn": "2025-02-10T14:00:03.000Z",
+          "wordCount": null,
+          "title": "How to Take Crypto Profits (2025 Beginners Guide)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HKewfJQjdIk",
           "author": null,
           "description": "",
@@ -400,16 +410,6 @@
           "publishedOn": "2025-01-21T14:01:03.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: ALL IN!!! (URGENT)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eeqV0mnh_9Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eeqV0mnh_9Q",
-          "publishedOn": "2025-01-20T14:00:49.000Z",
-          "wordCount": null,
-          "title": "Crypto Loans Tutorial: How to Borrow Against Bitcoin & Crypto",
           "imageUrl": null
         }
       ]

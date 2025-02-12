@@ -263,6 +263,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k2A-N4eUZBQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k2A-N4eUZBQ",
+          "publishedOn": "2025-02-12T14:01:00.000Z",
+          "wordCount": null,
+          "title": "What are Crypto Perpetual Futures? (How to Trade Crypto Perps)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bCLAa1W7_2Y",
           "author": null,
           "description": "",
@@ -400,16 +410,6 @@
           "publishedOn": "2025-01-23T14:01:12.000Z",
           "wordCount": null,
           "title": "Across Protocol Tutorial (Bridge Crypto Across Ethereum Networks)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Qtwz6YJx_XI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Qtwz6YJx_XI",
-          "publishedOn": "2025-01-22T14:00:24.000Z",
-          "wordCount": null,
-          "title": "How to Sell Crypto & Withdraw Money from Kraken to Bank",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T14:07:55.980Z</id>
+    <id>urn:2025-02-13T15:08:29.068Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-13T14:07:55.980Z</updated>
+    <updated>2025-02-13T15:08:29.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit Card 2025 Full Review & Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=ht47d55wQ4U</id>
+        <link href="https://www.youtube.com/watch?v=ht47d55wQ4U"/>
+        <updated>2025-02-13T14:00:55.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Level Computer Science – Essential Programming Concepts in VB.NET]]></title>
         <id>https://www.youtube.com/watch?v=VvKcxBBqQJ8</id>
@@ -316,15 +325,6 @@
         <id>https://www.youtube.com/watch?v=DifZ1yLvgiM</id>
         <link href="https://www.youtube.com/watch?v=DifZ1yLvgiM"/>
         <updated>2025-01-24T14:00:21.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Across Protocol Tutorial (Bridge Crypto Across Ethereum Networks)]]></title>
-        <id>https://www.youtube.com/watch?v=wwf5E-3u5H4</id>
-        <link href="https://www.youtube.com/watch?v=wwf5E-3u5H4"/>
-        <updated>2025-01-23T14:01:12.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

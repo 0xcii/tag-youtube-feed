@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T15:08:00.656Z</id>
+    <id>urn:2025-02-17T16:09:22.807Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-17T15:08:00.656Z</updated>
+    <updated>2025-02-17T16:09:22.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -370,15 +370,6 @@
         <id>https://www.youtube.com/watch?v=xkLxtB4GBFM</id>
         <link href="https://www.youtube.com/watch?v=xkLxtB4GBFM"/>
         <updated>2025-01-19T18:03:28.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国总统发币，我用这个平台1天赚了 9万美金 ！ Debot 链上交易教学（完整版）零基础小白 30分钟 搞懂千倍收益如何赚取 ！ #Trump #memes]]></title>
-        <id>https://www.youtube.com/watch?v=DRRkjc6Jaxg</id>
-        <link href="https://www.youtube.com/watch?v=DRRkjc6Jaxg"/>
-        <updated>2025-01-19T03:30:31.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

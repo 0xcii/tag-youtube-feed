@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T09:08:28.286Z</id>
+    <id>urn:2025-02-19T10:08:38.698Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-19T09:08:28.286Z</updated>
+    <updated>2025-02-19T10:08:38.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -363,15 +363,6 @@
         <updated>2025-01-22T15:47:07.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 6 crypto predictions for 2025 [MASSIVE GAINS]]]></title>
-        <id>https://www.youtube.com/watch?v=GAg1bBi1NM4</id>
-        <link href="https://www.youtube.com/watch?v=GAg1bBi1NM4"/>
-        <updated>2025-01-20T21:45:00.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

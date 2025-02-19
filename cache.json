@@ -233,6 +233,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZWEImhigAnk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZWEImhigAnk",
+          "publishedOn": "2025-02-19T14:00:48.000Z",
+          "wordCount": null,
+          "title": "Blofin Tutorial for Beginners 2025 (Trade Crypto on Blofin)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=I98sRi_a4MQ",
           "author": null,
           "description": "",
@@ -370,16 +380,6 @@
           "publishedOn": "2025-01-30T14:00:43.000Z",
           "wordCount": null,
           "title": "How to Use Kraken App (Deposit, Trade, Withdraw)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8CF-fxIA4a8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8CF-fxIA4a8",
-          "publishedOn": "2025-01-29T14:00:13.000Z",
-          "wordCount": null,
-          "title": "How to Invest in Crypto as a COMPLETE Beginner 2025 Guide",
           "imageUrl": null
         }
       ]

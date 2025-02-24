@@ -223,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_bse0xQgXXo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_bse0xQgXXo",
+          "publishedOn": "2025-02-24T14:00:47.000Z",
+          "wordCount": null,
+          "title": "EASIEST Bollinger Bands Crypto Trading Strategy You’ll EVER See!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DTRd-FdrSOk",
           "author": null,
           "description": "",
@@ -360,16 +370,6 @@
           "publishedOn": "2025-02-05T14:01:12.000Z",
           "wordCount": null,
           "title": "Ultimate Bybit Tutorial!! (Beginner to Expert Bybit Crypto Trading Guide)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GNN_YVPlAmI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GNN_YVPlAmI",
-          "publishedOn": "2025-02-04T14:00:28.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: THIS IS SERIOUS",
           "imageUrl": null
         }
       ]

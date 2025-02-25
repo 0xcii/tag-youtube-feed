@@ -4,18 +4,7 @@
       "title": "链求君",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=TVhqSai6kbY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TVhqSai6kbY",
-          "publishedOn": "2025-01-27T10:28:52.000Z",
-          "wordCount": null,
-          "title": "Swarm Network 即将上线，早期用户如何通过 AI Agent  获利？",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "freeCodeCamp.org",

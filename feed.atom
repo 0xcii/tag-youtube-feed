@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T18:11:17.404Z</id>
+    <id>urn:2025-02-26T19:06:20.357Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-26T18:11:17.404Z</updated>
+    <updated>2025-02-26T19:06:20.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Full Stack AI-Powered Web App with ChatGPT API]]></title>
+        <id>https://www.youtube.com/watch?v=b-JFDTZ5e1U</id>
+        <link href="https://www.youtube.com/watch?v=b-JFDTZ5e1U"/>
+        <updated>2025-02-26T18:55:19.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitunix Tutorial for Beginners 2025 (Trade Crypto on Bitunix)]]></title>
         <id>https://www.youtube.com/watch?v=GPXKFxurDI4</id>
@@ -345,15 +354,6 @@
         <updated>2025-01-29T07:02:45.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek-R1 Crash Course]]></title>
-        <id>https://www.youtube.com/watch?v=_CXwZ5xyFno</id>
-        <link href="https://www.youtube.com/watch?v=_CXwZ5xyFno"/>
-        <updated>2025-01-28T15:52:11.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

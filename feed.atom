@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T00:38:53.921Z</id>
+    <id>urn:2025-02-26T02:12:20.613Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-26T00:38:53.921Z</updated>
+    <updated>2025-02-26T02:12:20.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[免费使用DeepSeek 拒绝 “服务器繁忙” 问题 ！ 自动化提高 10 倍效率 ！采用高效 AI 工具 Flowith]]></title>
+        <id>https://www.youtube.com/watch?v=2Y8DVuy7cSI</id>
+        <link href="https://www.youtube.com/watch?v=2Y8DVuy7cSI"/>
+        <updated>2025-02-26T01:45:58.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Biggest Crypto Hack in History - Did you get hit!?]]></title>
         <id>https://www.youtube.com/watch?v=uLcai87aYCI</id>

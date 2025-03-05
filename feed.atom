@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T17:07:46.721Z</id>
+    <id>urn:2025-03-05T18:11:28.911Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-05T17:07:46.721Z</updated>
+    <updated>2025-03-05T18:11:28.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intro to Machine Learning featuring Generative AI]]></title>
+        <id>https://www.youtube.com/watch?v=tmB5JIX3Lxk</id>
+        <link href="https://www.youtube.com/watch?v=tmB5JIX3Lxk"/>
+        <updated>2025-03-05T17:44:48.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Sell Crypto on Binance (Cheapest Way!!)]]></title>
         <id>https://www.youtube.com/watch?v=7ySDblfkFbs</id>
@@ -354,15 +363,6 @@
         <updated>2025-02-04T22:30:00.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyper and Python Smart Contracts on Blockchain – Full Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=nWsLw_1OpE0</id>
-        <link href="https://www.youtube.com/watch?v=nWsLw_1OpE0"/>
-        <updated>2025-02-04T14:56:59.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

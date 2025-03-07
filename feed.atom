@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-07T13:16:37.770Z</id>
+    <id>urn:2025-03-07T14:07:43.219Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-07T13:16:37.770Z</updated>
+    <updated>2025-03-07T14:07:43.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: ABSOLUTELY INSANE!!]]></title>
+        <id>https://www.youtube.com/watch?v=22pLmf2_Aew</id>
+        <link href="https://www.youtube.com/watch?v=22pLmf2_Aew"/>
+        <updated>2025-03-07T14:00:02.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn PyTorch in 5 Projects – Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=E0bwEAWmVEM</id>
@@ -291,15 +300,6 @@
         <updated>2025-02-17T20:00:15.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Ledger Live Tips for Beginners (How to Use Ledger Wallets)]]></title>
-        <id>https://www.youtube.com/watch?v=sHuV5Mxtnk8</id>
-        <link href="https://www.youtube.com/watch?v=sHuV5Mxtnk8"/>
-        <updated>2025-02-17T14:01:06.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

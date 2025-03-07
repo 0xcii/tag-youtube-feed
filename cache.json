@@ -375,6 +375,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pMGuTpB8XGw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pMGuTpB8XGw",
+          "publishedOn": "2025-03-07T21:00:45.000Z",
+          "wordCount": null,
+          "title": "This could end crypto for good...",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rvoHL7yjI-U",
           "author": null,
           "description": "",

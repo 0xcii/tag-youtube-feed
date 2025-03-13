@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-13T14:08:12.830Z</id>
+    <id>urn:2025-03-13T15:09:18.388Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-13T14:08:12.830Z</updated>
+    <updated>2025-03-13T15:09:18.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken Pro Futures Trading Tutorial (Trade on Kraken Futures)]]></title>
+        <id>https://www.youtube.com/watch?v=GtQxJIEqIsk</id>
+        <link href="https://www.youtube.com/watch?v=GtQxJIEqIsk"/>
+        <updated>2025-03-13T15:00:21.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cognito Course – Authentication and Authorization]]></title>
+        <id>https://www.youtube.com/watch?v=ajExOgOCJXY</id>
+        <link href="https://www.youtube.com/watch?v=ajExOgOCJXY"/>
+        <updated>2025-03-13T14:37:57.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Essentials Course]]></title>
         <id>https://www.youtube.com/watch?v=876aSEUA_8c</id>
@@ -312,15 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT!! THIS IS VERY BIG!! (IMPORTANT)]]></title>
-        <id>https://www.youtube.com/watch?v=sRmYbA69i9w</id>
-        <link href="https://www.youtube.com/watch?v=sRmYbA69i9w"/>
-        <updated>2025-02-21T14:01:08.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kubernetes and EKS for Beginners – Crash Course with Pulumi]]></title>
         <id>https://www.youtube.com/watch?v=hK8wf18SasY</id>
         <link href="https://www.youtube.com/watch?v=hK8wf18SasY"/>
@@ -352,15 +361,6 @@
         <id>https://www.youtube.com/watch?v=L6Q8TkPA-ao</id>
         <link href="https://www.youtube.com/watch?v=L6Q8TkPA-ao"/>
         <updated>2025-02-15T00:27:47.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A-Level Computer Science – Programming Concepts for Beginners Course in Visual Basic VB.NET]]></title>
-        <id>https://www.youtube.com/watch?v=VvKcxBBqQJ8</id>
-        <link href="https://www.youtube.com/watch?v=VvKcxBBqQJ8"/>
-        <updated>2025-02-12T16:46:51.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

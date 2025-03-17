@@ -367,7 +367,18 @@
       "title": "EatTheBlocks",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WE4heWDSiu0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WE4heWDSiu0",
+          "publishedOn": "2025-03-17T18:43:22.000Z",
+          "wordCount": null,
+          "title": "Learn Remix IDE  - Full Course For Beginners",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Dapp University",

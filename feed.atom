@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-19T15:08:50.225Z</id>
+    <id>urn:2025-03-19T16:10:15.242Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-19T15:08:50.225Z</updated>
+    <updated>2025-03-19T16:10:15.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn ANY Language with AI (Learn English, Learn Spanish, Learn Mandarin Chinese, and more)]]></title>
+        <id>https://www.youtube.com/watch?v=wuVVclLcjuA</id>
+        <link href="https://www.youtube.com/watch?v=wuVVclLcjuA"/>
+        <updated>2025-03-19T15:53:38.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EASY Crypto Trading Strategy I Used to Make 10x]]></title>
         <id>https://www.youtube.com/watch?v=XniK10GsmwA</id>
@@ -372,15 +381,6 @@
         <updated>2025-02-21T21:00:05.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes and EKS for Beginners – Crash Course with Pulumi]]></title>
-        <id>https://www.youtube.com/watch?v=hK8wf18SasY</id>
-        <link href="https://www.youtube.com/watch?v=hK8wf18SasY"/>
-        <updated>2025-02-20T14:54:31.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XniK10GsmwA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XniK10GsmwA",
+          "publishedOn": "2025-03-19T14:00:42.000Z",
+          "wordCount": null,
+          "title": "EASY Crypto Trading Strategy I Used to Make 10x",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TrhIV2wDUbg",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2025-02-27T14:00:48.000Z",
           "wordCount": null,
           "title": "How to Connect Ledger to Phantom Wallet (Solana, Ethereum, Bitcoin etc)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GPXKFxurDI4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GPXKFxurDI4",
-          "publishedOn": "2025-02-26T14:00:18.000Z",
-          "wordCount": null,
-          "title": "Bitunix Tutorial for Beginners 2025 (Trade Crypto on Bitunix)",
           "imageUrl": null
         }
       ]

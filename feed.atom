@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-19T13:18:29.703Z</id>
+    <id>urn:2025-03-19T14:08:16.255Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-19T13:18:29.703Z</updated>
+    <updated>2025-03-19T14:08:16.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EASY Crypto Trading Strategy I Used to Make 10x]]></title>
+        <id>https://www.youtube.com/watch?v=XniK10GsmwA</id>
+        <link href="https://www.youtube.com/watch?v=XniK10GsmwA"/>
+        <updated>2025-03-19T14:00:42.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intro to the Remix IDE - Remix Tutorial 1]]></title>
         <id>https://www.youtube.com/watch?v=fN9A-ATHfuU</id>
@@ -318,15 +327,6 @@
         <updated>2025-02-26T18:55:19.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitunix Tutorial for Beginners 2025 (Trade Crypto on Bitunix)]]></title>
-        <id>https://www.youtube.com/watch?v=GPXKFxurDI4</id>
-        <link href="https://www.youtube.com/watch?v=GPXKFxurDI4"/>
-        <updated>2025-02-26T14:00:18.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=t76UMpwFNs0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t76UMpwFNs0",
+          "publishedOn": "2025-03-25T16:36:01.000Z",
+          "wordCount": null,
+          "title": "Microservices in Nest.js – JavaScript Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YDLDCm3bPfU",
           "author": null,
           "description": "",
@@ -180,16 +190,6 @@
           "publishedOn": "2025-02-26T18:55:19.000Z",
           "wordCount": null,
           "title": "Build a Full Stack AI-Powered Web App with ChatGPT API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4XgDdxpXHEQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4XgDdxpXHEQ",
-          "publishedOn": "2025-02-25T17:15:57.000Z",
-          "wordCount": null,
-          "title": "Vision Transformer from Scratch Tutorial",
           "imageUrl": null
         }
       ]
@@ -379,6 +379,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=tSuhfjPvUwY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tSuhfjPvUwY",
+          "publishedOn": "2025-03-25T16:48:39.000Z",
+          "wordCount": null,
+          "title": "Debugging smart contracts in Remix - Remix Tutorial 8",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zw0oWvYDyDc",
           "author": null,

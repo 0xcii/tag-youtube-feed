@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O3m9m6Ie4gY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O3m9m6Ie4gY",
+          "publishedOn": "2025-03-27T14:02:10.000Z",
+          "wordCount": null,
+          "title": "Excel Formulas & Functions You Should Know",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=t76UMpwFNs0",
           "author": null,
           "description": "",
@@ -181,16 +191,6 @@
           "wordCount": null,
           "title": "Linear Algebra for Machine Learning",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b-JFDTZ5e1U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b-JFDTZ5e1U",
-          "publishedOn": "2025-02-26T18:55:19.000Z",
-          "wordCount": null,
-          "title": "Build a Full Stack AI-Powered Web App with ChatGPT API",
-          "imageUrl": null
         }
       ]
     },
@@ -222,6 +222,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dqN8HNvEvEQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dqN8HNvEvEQ",
+          "publishedOn": "2025-03-27T14:00:51.000Z",
+          "wordCount": null,
+          "title": "Gate.io Tutorial for Beginners 2025 (How to Trade Crypto on Gate.io)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=X6tqWlcvJy4",
           "author": null,
@@ -360,16 +370,6 @@
           "publishedOn": "2025-03-07T14:00:02.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: ABSOLUTELY INSANE!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ht8qBX_57Qg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ht8qBX_57Qg",
-          "publishedOn": "2025-03-06T14:00:28.000Z",
-          "wordCount": null,
-          "title": "Crypto.com Exchange Futures & Leverage Trading Tutorial",
           "imageUrl": null
         }
       ]

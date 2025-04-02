@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VK-2j5CNsvM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VK-2j5CNsvM",
+          "publishedOn": "2025-04-02T14:19:59.000Z",
+          "wordCount": null,
+          "title": "Full Stack Instagram Clone with Laravel and MongoDB – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5avSMc79V-w",
           "author": null,
           "description": "",
@@ -181,16 +191,6 @@
           "wordCount": null,
           "title": "Intro to Machine Learning featuring Generative AI",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=msVwc0IwYl0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=msVwc0IwYl0",
-          "publishedOn": "2025-03-04T14:56:12.000Z",
-          "wordCount": null,
-          "title": "Unity Tutorial – Massive Multiplayer Online (MMO) Game with SpacetimeDB",
-          "imageUrl": null
         }
       ]
     },
@@ -222,6 +222,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Z9ID-6su2zU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z9ID-6su2zU",
+          "publishedOn": "2025-04-02T14:00:42.000Z",
+          "wordCount": null,
+          "title": "Gate.io Futures Trading Tutorial for Beginners",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IxtZAFQnjtE",
           "author": null,
@@ -360,16 +370,6 @@
           "publishedOn": "2025-03-13T15:00:21.000Z",
           "wordCount": null,
           "title": "Kraken Pro Futures Trading Tutorial (Trade on Kraken Futures)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W7VTdVuvQ7o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W7VTdVuvQ7o",
-          "publishedOn": "2025-03-12T14:00:37.000Z",
-          "wordCount": null,
-          "title": "BnB Chain Trust Wallet Tutorial for Beginners (Deposit, Swap, Withdraw)",
           "imageUrl": null
         }
       ]

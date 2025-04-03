@@ -223,6 +223,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KYuY_Q-yhC0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KYuY_Q-yhC0",
+          "publishedOn": "2025-04-03T14:00:26.000Z",
+          "wordCount": null,
+          "title": "How to Buy Crypto on OKX (Buy Crypto with Cash Deposit)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Z9ID-6su2zU",
           "author": null,
           "description": "",
@@ -360,16 +370,6 @@
           "publishedOn": "2025-03-14T14:00:31.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Time To Buy!!!? (Urgent)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GtQxJIEqIsk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GtQxJIEqIsk",
-          "publishedOn": "2025-03-13T15:00:21.000Z",
-          "wordCount": null,
-          "title": "Kraken Pro Futures Trading Tutorial (Trade on Kraken Futures)",
           "imageUrl": null
         }
       ]

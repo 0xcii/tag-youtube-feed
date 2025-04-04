@@ -213,6 +213,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=I5x1SRC_C_U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I5x1SRC_C_U",
+          "publishedOn": "2025-04-04T14:00:16.000Z",
+          "wordCount": null,
+          "title": "CRYPTO: ABSOLUTE CHAOS!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KYuY_Q-yhC0",
           "author": null,
           "description": "",
@@ -350,16 +360,6 @@
           "publishedOn": "2025-03-17T14:00:15.000Z",
           "wordCount": null,
           "title": "Orca Solana DeX Tutorial (How to Swap Crypto on Orca Solana)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LtW6hD13K4w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LtW6hD13K4w",
-          "publishedOn": "2025-03-14T14:00:31.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Time To Buy!!!? (Urgent)",
           "imageUrl": null
         }
       ]

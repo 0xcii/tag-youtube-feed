@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KCQsP91Wor0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KCQsP91Wor0",
+          "publishedOn": "2025-04-09T13:44:52.000Z",
+          "wordCount": null,
+          "title": "Lynx Tutorial – JS Framework for Cross Platform Development",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0ffwhxW-uyw",
           "author": null,
           "description": "",

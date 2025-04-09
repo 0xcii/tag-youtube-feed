@@ -380,6 +380,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qGJZiFlMQS0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qGJZiFlMQS0",
+          "publishedOn": "2025-04-09T15:08:40.000Z",
+          "wordCount": null,
+          "title": "Upgradeable smart contracts - Remix Tutorial 18",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jrQiVV9L_HU",
           "author": null,
           "description": "",
@@ -517,16 +527,6 @@
           "publishedOn": "2025-03-21T14:58:11.000Z",
           "wordCount": null,
           "title": "Remix Desktop - Remix Tutorial 4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q0gh95UQQJA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q0gh95UQQJA",
-          "publishedOn": "2025-03-20T17:36:10.000Z",
-          "wordCount": null,
-          "title": "Code editor of Remix - Remix Tutorial 3",
           "imageUrl": null
         }
       ]

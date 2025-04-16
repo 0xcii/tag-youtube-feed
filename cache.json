@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T23Bs75F7ZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T23Bs75F7ZQ",
+          "publishedOn": "2025-04-16T17:39:21.000Z",
+          "wordCount": null,
+          "title": "Data Engineering with Python and AI/LLMs – Data Loading Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oYMUKagK0n8",
           "author": null,
           "description": "",

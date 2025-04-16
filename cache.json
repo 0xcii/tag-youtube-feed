@@ -203,6 +203,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=auxjl4i3V0Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=auxjl4i3V0Y",
+          "publishedOn": "2025-04-16T14:00:05.000Z",
+          "wordCount": null,
+          "title": "Coinbase Wallet Setup Tutorial 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=81vx0Ysqpzc",
           "author": null,
           "description": "",
@@ -340,16 +350,6 @@
           "publishedOn": "2025-03-27T14:00:51.000Z",
           "wordCount": null,
           "title": "Gate.io Tutorial for Beginners 2025 (How to Trade Crypto on Gate.io)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X6tqWlcvJy4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X6tqWlcvJy4",
-          "publishedOn": "2025-03-26T14:00:39.000Z",
-          "wordCount": null,
-          "title": "How to Transfer Crypto from Binance to Phantom Wallet",
           "imageUrl": null
         }
       ]

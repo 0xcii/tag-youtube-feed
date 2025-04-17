@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-17T02:21:20.654Z</id>
+    <id>urn:2025-04-17T03:28:18.757Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-17T02:21:20.654Z</updated>
+    <updated>2025-04-17T03:28:18.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -451,15 +451,6 @@
         <id>https://www.youtube.com/watch?v=wuVVclLcjuA</id>
         <link href="https://www.youtube.com/watch?v=wuVVclLcjuA"/>
         <updated>2025-03-19T15:53:38.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Full Stack AI Note Taking App with Next.js and Supabase – Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=6ChzCaljcaI</id>
-        <link href="https://www.youtube.com/watch?v=6ChzCaljcaI"/>
-        <updated>2025-03-18T15:12:29.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MG1kt_wiIz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MG1kt_wiIz0",
+          "publishedOn": "2025-04-17T13:41:38.000Z",
+          "wordCount": null,
+          "title": "Learn Laravel by Building a Medium Clone – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T23Bs75F7ZQ",
           "author": null,
           "description": "",

@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ekl6Wimv8A0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ekl6Wimv8A0",
+          "publishedOn": "2025-04-22T14:00:31.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Prepare to Outperform Everything Else",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-fiPjFLNE18",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2025-04-02T14:00:42.000Z",
           "wordCount": null,
           "title": "Gate.io Futures Trading Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IxtZAFQnjtE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IxtZAFQnjtE",
-          "publishedOn": "2025-04-01T14:00:29.000Z",
-          "wordCount": null,
-          "title": "Crypto: Is It All Over Now?!?",
           "imageUrl": null
         }
       ]

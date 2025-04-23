@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gl0cpq4RJhU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gl0cpq4RJhU",
+          "publishedOn": "2025-04-23T13:55:36.000Z",
+          "wordCount": null,
+          "title": "JavaScript Arrays – Full Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PcbuKRNtCUc",
           "author": null,
           "description": "",
@@ -202,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AiIZi1gDGTQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AiIZi1gDGTQ",
+          "publishedOn": "2025-04-23T14:00:21.000Z",
+          "wordCount": null,
+          "title": "How to Use Gate.io App (Trade Crypto on Gate.io)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ekl6Wimv8A0",
           "author": null,
           "description": "",
@@ -339,16 +359,6 @@
           "publishedOn": "2025-04-03T14:00:26.000Z",
           "wordCount": null,
           "title": "How to Buy Crypto on OKX (Buy Crypto with Cash Deposit)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z9ID-6su2zU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z9ID-6su2zU",
-          "publishedOn": "2025-04-02T14:00:42.000Z",
-          "wordCount": null,
-          "title": "Gate.io Futures Trading Tutorial for Beginners",
           "imageUrl": null
         }
       ]

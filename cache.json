@@ -181,16 +181,6 @@
           "wordCount": null,
           "title": "Excel Formulas & Functions You Should Know [Full Course]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t76UMpwFNs0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t76UMpwFNs0",
-          "publishedOn": "2025-03-25T16:36:01.000Z",
-          "wordCount": null,
-          "title": "Microservices in Nest.js – JavaScript Tutorial",
-          "imageUrl": null
         }
       ]
     },
@@ -506,16 +496,6 @@
           "publishedOn": "2025-03-27T02:13:43.000Z",
           "wordCount": null,
           "title": "Using Hardhat & Foundry in Remix - Remix Tutorial 9",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tSuhfjPvUwY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tSuhfjPvUwY",
-          "publishedOn": "2025-03-25T16:48:39.000Z",
-          "wordCount": null,
-          "title": "Debugging smart contracts in Remix - Remix Tutorial 8",
           "imageUrl": null
         }
       ]

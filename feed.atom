@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T19:06:22.654Z</id>
+    <id>urn:2025-04-24T20:09:45.524Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-24T19:06:22.654Z</updated>
+    <updated>2025-04-24T20:09:45.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understand and Code Llama 4 From Scratch]]></title>
+        <title type="html"><![CDATA[Code Your Own Llama 4 LLM from Scratch – Full Course]]></title>
         <id>https://www.youtube.com/watch?v=biveB0gOlak</id>
         <link href="https://www.youtube.com/watch?v=biveB0gOlak"/>
         <updated>2025-04-24T15:33:08.000Z</updated>
@@ -51,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Arrays – Full Course]]></title>
+        <title type="html"><![CDATA[Everything You Need to Know About JavaScript Arrays – Full Course]]></title>
         <id>https://www.youtube.com/watch?v=gl0cpq4RJhU</id>
         <link href="https://www.youtube.com/watch?v=gl0cpq4RJhU"/>
         <updated>2025-04-23T13:55:36.000Z</updated>

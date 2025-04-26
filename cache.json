@@ -497,16 +497,6 @@
           "wordCount": null,
           "title": "LearnETH tutorials - Remix Tutorial 11",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LJ_y0hzS2-w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LJ_y0hzS2-w",
-          "publishedOn": "2025-03-28T08:52:43.000Z",
-          "wordCount": null,
-          "title": "Loading dependencies in Remix - Remix Tutorial 10",
-          "imageUrl": null
         }
       ]
     },

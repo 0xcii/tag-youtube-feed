@@ -202,6 +202,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bgCGE7jt4-g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bgCGE7jt4-g",
+          "publishedOn": "2025-04-28T14:00:53.000Z",
+          "wordCount": null,
+          "title": "How to Begin Trading Crypto (EASY Guide for Beginners)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1R1vZjDHR3w",
           "author": null,
           "description": "",
@@ -339,16 +349,6 @@
           "publishedOn": "2025-04-08T14:00:11.000Z",
           "wordCount": null,
           "title": "CRYPTO URGENT ALERT: ENTERING A CRISIS?!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bQqqqoihw-g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bQqqqoihw-g",
-          "publishedOn": "2025-04-07T14:00:56.000Z",
-          "wordCount": null,
-          "title": "How to Find Trust Wallet Private Key (Export, Import, Save, Recover)",
           "imageUrl": null
         }
       ]

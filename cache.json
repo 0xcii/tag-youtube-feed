@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VDFRpjQVaME",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VDFRpjQVaME",
+          "publishedOn": "2025-04-29T14:42:59.000Z",
+          "wordCount": null,
+          "title": "College Calculus – Full Course with Python Code",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=biveB0gOlak",
           "author": null,
           "description": "",
@@ -358,6 +368,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jOZ8NqfHiGY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jOZ8NqfHiGY",
+          "publishedOn": "2025-04-29T14:37:32.000Z",
+          "wordCount": null,
+          "title": "A big change is coming to EatTheBlocks...",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eG0D0tbQdaY",
           "author": null,

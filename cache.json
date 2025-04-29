@@ -506,6 +506,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qDDJHYiovUI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qDDJHYiovUI",
+          "publishedOn": "2025-04-29T19:00:53.000Z",
+          "wordCount": null,
+          "title": "How to make money as a blockchain dev in 2025 (5 ways)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Nrk7srTuXb8",
           "author": null,
           "description": "",

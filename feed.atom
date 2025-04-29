@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-29T13:25:20.012Z</id>
+    <id>urn:2025-04-29T14:09:14.997Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-29T13:25:20.012Z</updated>
+    <updated>2025-04-29T14:09:14.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: The Fed Have to Flip Soon!!]]></title>
+        <id>https://www.youtube.com/watch?v=grLMh5MpMoM</id>
+        <link href="https://www.youtube.com/watch?v=grLMh5MpMoM"/>
+        <updated>2025-04-29T14:01:04.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Begin Trading Crypto (EASY Guide for Beginners)]]></title>
         <id>https://www.youtube.com/watch?v=bgCGE7jt4-g</id>
@@ -327,15 +336,6 @@
         <updated>2025-04-08T14:08:43.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO URGENT ALERT: ENTERING A CRISIS?!?]]></title>
-        <id>https://www.youtube.com/watch?v=96CPrQlSeaw</id>
-        <link href="https://www.youtube.com/watch?v=96CPrQlSeaw"/>
-        <updated>2025-04-08T14:00:11.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

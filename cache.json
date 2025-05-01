@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0roB7wZMLqI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0roB7wZMLqI",
+          "publishedOn": "2025-05-01T16:08:14.000Z",
+          "wordCount": null,
+          "title": "Django Crash Course – Python Web Framewrok",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SLIlyAy-aZs",
           "author": null,
           "description": "",

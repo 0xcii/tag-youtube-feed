@@ -202,6 +202,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2_PjjbtVAIo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2_PjjbtVAIo",
+          "publishedOn": "2025-05-01T14:00:04.000Z",
+          "wordCount": null,
+          "title": "Crypto EXIT Strategy 2025 (EXACTLY When To Sell)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0o8Zq93ISGU",
           "author": null,
           "description": "",
@@ -339,16 +349,6 @@
           "publishedOn": "2025-04-11T14:00:59.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Data Getting Worse. What Next?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N6DVWw9ugH4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N6DVWw9ugH4",
-          "publishedOn": "2025-04-10T14:00:36.000Z",
-          "wordCount": null,
-          "title": "How to Transfer Crypto from MetaMask to Binance",
           "imageUrl": null
         }
       ]

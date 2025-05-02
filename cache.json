@@ -466,6 +466,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iSd1CBWzEik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iSd1CBWzEik",
+          "publishedOn": "2025-05-02T17:15:07.000Z",
+          "wordCount": null,
+          "title": "How to Code blockchain Apps with AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qDDJHYiovUI",
           "author": null,
           "description": "",

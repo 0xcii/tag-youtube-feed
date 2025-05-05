@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-05T14:08:53.362Z</id>
+    <id>urn:2025-05-05T15:09:08.820Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-05T14:08:53.362Z</updated>
+    <updated>2025-05-05T15:09:08.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Find Your Coinbase Wallet Address (Exchange & Wallet)]]></title>
+        <id>https://www.youtube.com/watch?v=7z_pKx-AcrI</id>
+        <link href="https://www.youtube.com/watch?v=7z_pKx-AcrI"/>
+        <updated>2025-05-05T14:00:11.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Code blockchain Apps with AI]]></title>
         <id>https://www.youtube.com/watch?v=iSd1CBWzEik</id>
@@ -318,15 +327,6 @@
         <updated>2025-04-15T09:55:20.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Crypto Wallets 2025 (Easy Way to Secure Crypto)]]></title>
-        <id>https://www.youtube.com/watch?v=WufagehA6Bo</id>
-        <link href="https://www.youtube.com/watch?v=WufagehA6Bo"/>
-        <updated>2025-04-14T14:00:48.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

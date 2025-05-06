@@ -437,16 +437,6 @@
           "wordCount": null,
           "title": "Circom in Remix - Remix Tutorial 17",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nUs2ZdRjNXQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nUs2ZdRjNXQ",
-          "publishedOn": "2025-04-07T07:14:55.000Z",
-          "wordCount": null,
-          "title": "Deploy & run smart contracts - Remix Tutorial 16",
-          "imageUrl": null
         }
       ]
     },

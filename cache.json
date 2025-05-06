@@ -456,6 +456,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UZLT9qHC4a0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UZLT9qHC4a0",
+          "publishedOn": "2025-05-05T19:00:32.000Z",
+          "wordCount": null,
+          "title": "The secret to making a profitable crypto arbitrage bot in 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iSd1CBWzEik",
           "author": null,
           "description": "",

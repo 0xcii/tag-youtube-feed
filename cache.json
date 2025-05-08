@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gSXyrG4Rzh8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gSXyrG4Rzh8",
+          "publishedOn": "2025-05-08T14:01:03.000Z",
+          "wordCount": null,
+          "title": "How to TRADE on Kraken (Kraken Pro Crypto Trading)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kXcxOyRAUyk",
           "author": null,
           "description": "",
@@ -359,16 +369,6 @@
           "publishedOn": "2025-04-18T14:00:47.000Z",
           "wordCount": null,
           "title": "Crypto Alert: The 2025 Outlook is Scary…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zVSCiYjeMQI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zVSCiYjeMQI",
-          "publishedOn": "2025-04-17T14:01:27.000Z",
-          "wordCount": null,
-          "title": "Uniswap Wallet: How to Swap Crypto (Easy)",
           "imageUrl": null
         }
       ]

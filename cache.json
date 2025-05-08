@@ -69,7 +69,7 @@
           "link": "https://www.youtube.com/watch?v=IcOiX-jynfI",
           "publishedOn": "2025-05-07T15:12:21.000Z",
           "wordCount": null,
-          "title": "Code a Dropbox Clone with NextJS – Tutorial",
+          "title": "Learn Next.js by Coding Your Own Dropbox Clone – Full Tutorial",
           "imageUrl": null
         },
         {
@@ -455,6 +455,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aj7SkW8AwhU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aj7SkW8AwhU",
+          "publishedOn": "2025-05-08T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Major Ethereum Update is Live - What you must know",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UZLT9qHC4a0",
           "author": null,

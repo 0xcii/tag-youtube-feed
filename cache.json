@@ -437,16 +437,6 @@
           "wordCount": null,
           "title": "Languages other than Solidity - Remix Tutorial 19",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qGJZiFlMQS0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qGJZiFlMQS0",
-          "publishedOn": "2025-04-09T15:08:40.000Z",
-          "wordCount": null,
-          "title": "Upgradeable smart contracts - Remix Tutorial 18",
-          "imageUrl": null
         }
       ]
     },

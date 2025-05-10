@@ -437,16 +437,6 @@
           "wordCount": null,
           "title": "Static Analysis in Remix - Remix Tutorial 20",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0OMVfN5hXNM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0OMVfN5hXNM",
-          "publishedOn": "2025-04-10T17:10:07.000Z",
-          "wordCount": null,
-          "title": "Languages other than Solidity - Remix Tutorial 19",
-          "imageUrl": null
         }
       ]
     },

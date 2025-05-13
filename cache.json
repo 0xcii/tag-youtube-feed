@@ -399,6 +399,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=22ZaY9IUgBY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=22ZaY9IUgBY",
+          "publishedOn": "2025-05-13T17:52:27.000Z",
+          "wordCount": null,
+          "title": "19 Tips For Vibe Coding With Cursor",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jOZ8NqfHiGY",
           "author": null,
           "description": "",

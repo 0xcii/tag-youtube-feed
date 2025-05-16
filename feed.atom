@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-16T07:09:25.117Z</id>
+    <id>urn:2025-05-16T08:12:39.064Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-16T07:09:25.117Z</updated>
+    <updated>2025-05-16T08:12:39.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -426,15 +426,6 @@
         <updated>2025-04-21T08:28:18.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive Ethereum Upgrade Coming Soon on this date - what you must know]]></title>
-        <id>https://www.youtube.com/watch?v=KGV-_TtB-Vw</id>
-        <link href="https://www.youtube.com/watch?v=KGV-_TtB-Vw"/>
-        <updated>2025-04-16T20:00:30.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-20T14:09:07.580Z</id>
+    <id>urn:2025-05-20T15:09:36.110Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-20T14:09:07.580Z</updated>
+    <updated>2025-05-20T15:09:36.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: TIME TO PANIC!!]]></title>
+        <id>https://www.youtube.com/watch?v=Dy6FB4-DQeI</id>
+        <link href="https://www.youtube.com/watch?v=Dy6FB4-DQeI"/>
+        <updated>2025-05-20T14:00:21.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LangGraph Complete Course for Beginners – Complex AI Agents]]></title>
         <id>https://www.youtube.com/watch?v=jGg_1h0qzaM</id>
@@ -354,15 +363,6 @@
         <updated>2025-04-29T14:37:32.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: The Fed Have to Flip Soon!!]]></title>
-        <id>https://www.youtube.com/watch?v=grLMh5MpMoM</id>
-        <link href="https://www.youtube.com/watch?v=grLMh5MpMoM"/>
-        <updated>2025-04-29T14:01:04.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

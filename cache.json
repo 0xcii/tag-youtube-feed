@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8pn9KEuXG28",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8pn9KEuXG28",
+          "publishedOn": "2025-05-22T14:03:44.000Z",
+          "wordCount": null,
+          "title": "Vue.js Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NdeeSEknp58",
           "author": null,
           "description": "",
@@ -221,16 +231,6 @@
           "wordCount": null,
           "title": "College Calculus – Full Course with Python Code",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=biveB0gOlak",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=biveB0gOlak",
-          "publishedOn": "2025-04-24T15:33:08.000Z",
-          "wordCount": null,
-          "title": "Code Your Own Llama 4 LLM from Scratch – Full Course",
-          "imageUrl": null
         }
       ]
     },
@@ -251,6 +251,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=G4URQXa7wmQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G4URQXa7wmQ",
+          "publishedOn": "2025-05-22T14:00:32.000Z",
+          "wordCount": null,
+          "title": "TradingView Fibonacci Indicator Tutorial (How to Draw Fibonacci)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4nlFsUma-Gw",
           "author": null,
@@ -389,16 +399,6 @@
           "publishedOn": "2025-05-02T14:00:01.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: ABOUT TO BREAK!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2_PjjbtVAIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2_PjjbtVAIo",
-          "publishedOn": "2025-05-01T14:00:04.000Z",
-          "wordCount": null,
-          "title": "Crypto EXIT Strategy 2025 (EXACTLY When To Sell)",
           "imageUrl": null
         }
       ]

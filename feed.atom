@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-27T14:08:31.370Z</id>
+    <id>urn:2025-05-27T15:09:40.273Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-27T14:08:31.370Z</updated>
+    <updated>2025-05-27T15:09:40.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: ALL IN]]></title>
+        <id>https://www.youtube.com/watch?v=eocrpf1PATY</id>
+        <link href="https://www.youtube.com/watch?v=eocrpf1PATY"/>
+        <updated>2025-05-27T14:01:03.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a Vision Transformer Model from Scratch with PyTorch]]></title>
         <id>https://www.youtube.com/watch?v=7o1jpvapaT0</id>
@@ -327,15 +336,6 @@
         <updated>2025-05-07T06:08:34.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO: A GREAT RESET IS COMING!!]]></title>
-        <id>https://www.youtube.com/watch?v=IiulH5j4fk4</id>
-        <link href="https://www.youtube.com/watch?v=IiulH5j4fk4"/>
-        <updated>2025-05-06T14:00:23.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

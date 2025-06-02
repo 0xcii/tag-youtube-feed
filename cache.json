@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4LcgwgrI-cI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4LcgwgrI-cI",
+          "publishedOn": "2025-06-02T14:00:06.000Z",
+          "wordCount": null,
+          "title": "OKX Spot Trading Tutorial (Start Trading on OKX)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_bYkc2lApso",
           "author": null,
           "description": "",
@@ -369,16 +379,6 @@
           "publishedOn": "2025-05-13T14:00:54.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: WE'RE IN A TRAP!!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1FX4CMutmlM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1FX4CMutmlM",
-          "publishedOn": "2025-05-12T14:00:02.000Z",
-          "wordCount": null,
-          "title": "Best Crypto Trading Platforms 2025 (ALL You Need To Know)",
           "imageUrl": null
         }
       ]

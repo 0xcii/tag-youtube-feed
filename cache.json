@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6OV3tmt9uhs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6OV3tmt9uhs",
+          "publishedOn": "2025-06-03T13:39:40.000Z",
+          "wordCount": null,
+          "title": "General Chemistry – Full University Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=07NdHM6pE6M",
           "author": null,
           "description": "",
@@ -201,16 +211,6 @@
           "wordCount": null,
           "title": "Generative AI Bootcamp – Complete 65-Hour Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IcOiX-jynfI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IcOiX-jynfI",
-          "publishedOn": "2025-05-07T15:12:21.000Z",
-          "wordCount": null,
-          "title": "Learn Next.js by Coding Your Own Dropbox Clone – Full Tutorial",
-          "imageUrl": null
         }
       ]
     },
@@ -231,6 +231,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IHsylFm1m8M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IHsylFm1m8M",
+          "publishedOn": "2025-06-03T14:00:23.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: I FOUND SOMETHING HUGE!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4LcgwgrI-cI",
           "author": null,
@@ -369,16 +379,6 @@
           "publishedOn": "2025-05-14T14:00:10.000Z",
           "wordCount": null,
           "title": "How to Sell Crypto on Bybit (Cash Out & Withdraw Money)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SPL6XjATKOY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SPL6XjATKOY",
-          "publishedOn": "2025-05-13T14:00:54.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: WE'RE IN A TRAP!!?",
           "imageUrl": null
         }
       ]

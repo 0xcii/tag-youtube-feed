@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=onsdXF7mqz4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=onsdXF7mqz4",
+          "publishedOn": "2025-06-04T14:01:16.000Z",
+          "wordCount": null,
+          "title": "EASY Crypto Options Trading Strategy Tutorial (Very SIMPLE Guide)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IHsylFm1m8M",
           "author": null,
           "description": "",
@@ -369,16 +379,6 @@
           "publishedOn": "2025-05-15T14:01:35.000Z",
           "wordCount": null,
           "title": "Revolut Crypto Trading Tutorial (Revolut X Crypto)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7_nclmo77eE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7_nclmo77eE",
-          "publishedOn": "2025-05-14T14:00:10.000Z",
-          "wordCount": null,
-          "title": "How to Sell Crypto on Bybit (Cash Out & Withdraw Money)",
           "imageUrl": null
         }
       ]

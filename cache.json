@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YMsogR7eCDE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YMsogR7eCDE",
+          "publishedOn": "2025-06-05T14:00:49.000Z",
+          "wordCount": null,
+          "title": "TradingView VWAP Indicator Tutorial (How to Use VWAP)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=onsdXF7mqz4",
           "author": null,
           "description": "",
@@ -369,16 +379,6 @@
           "publishedOn": "2025-05-16T14:00:09.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: TIME TO SELL!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yi6ETW4mS3w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yi6ETW4mS3w",
-          "publishedOn": "2025-05-15T14:01:35.000Z",
-          "wordCount": null,
-          "title": "Revolut Crypto Trading Tutorial (Revolut X Crypto)",
           "imageUrl": null
         }
       ]

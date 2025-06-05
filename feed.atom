@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-05T13:24:27.505Z</id>
+    <id>urn:2025-06-05T14:09:13.620Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-05T13:24:27.505Z</updated>
+    <updated>2025-06-05T14:09:13.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TradingView VWAP Indicator Tutorial (How to Use VWAP)]]></title>
+        <id>https://www.youtube.com/watch?v=YMsogR7eCDE</id>
+        <link href="https://www.youtube.com/watch?v=YMsogR7eCDE"/>
+        <updated>2025-06-05T14:00:49.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EASY Crypto Options Trading Strategy Tutorial (Very SIMPLE Guide)]]></title>
         <id>https://www.youtube.com/watch?v=onsdXF7mqz4</id>
@@ -255,15 +264,6 @@
         <updated>2025-05-16T11:01:50.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolut Crypto Trading Tutorial (Revolut X Crypto)]]></title>
-        <id>https://www.youtube.com/watch?v=yi6ETW4mS3w</id>
-        <link href="https://www.youtube.com/watch?v=yi6ETW4mS3w"/>
-        <updated>2025-05-15T14:01:35.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

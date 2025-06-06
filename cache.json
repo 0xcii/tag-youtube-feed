@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8SJhyBDMvIM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8SJhyBDMvIM",
+          "publishedOn": "2025-06-06T14:00:11.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: LET ME SHOW YOU REAL SIGNAL (VS NOISE)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YMsogR7eCDE",
           "author": null,
           "description": "",
@@ -349,16 +359,6 @@
           "publishedOn": "2025-05-19T14:00:29.000Z",
           "wordCount": null,
           "title": "Crypto.com OnChain Wallet Tutorial (Swap, Send, Receive, DeFi)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3G4GmA3_3PQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3G4GmA3_3PQ",
-          "publishedOn": "2025-05-16T14:00:09.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: TIME TO SELL!?",
           "imageUrl": null
         }
       ]

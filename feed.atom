@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-09T13:24:30.479Z</id>
+    <id>urn:2025-06-09T14:09:30.323Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-09T13:24:30.479Z</updated>
+    <updated>2025-06-09T14:09:30.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OKX Dual Investment Tutorial (How to Trade Dual Investment)]]></title>
+        <id>https://www.youtube.com/watch?v=FNe4jvgnK60</id>
+        <link href="https://www.youtube.com/watch?v=FNe4jvgnK60"/>
+        <updated>2025-06-09T14:00:32.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: LET ME SHOW YOU REAL SIGNAL (VS NOISE)]]></title>
         <id>https://www.youtube.com/watch?v=8SJhyBDMvIM</id>
@@ -255,15 +264,6 @@
         <updated>2025-05-20T13:56:22.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto.com OnChain Wallet Tutorial (Swap, Send, Receive, DeFi)]]></title>
-        <id>https://www.youtube.com/watch?v=L17aQBqkDqE</id>
-        <link href="https://www.youtube.com/watch?v=L17aQBqkDqE"/>
-        <updated>2025-05-19T14:00:29.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

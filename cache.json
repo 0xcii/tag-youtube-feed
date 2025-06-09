@@ -202,6 +202,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FNe4jvgnK60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FNe4jvgnK60",
+          "publishedOn": "2025-06-09T14:00:32.000Z",
+          "wordCount": null,
+          "title": "OKX Dual Investment Tutorial (How to Trade Dual Investment)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8SJhyBDMvIM",
           "author": null,
           "description": "",
@@ -339,16 +349,6 @@
           "publishedOn": "2025-05-20T14:00:21.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: TIME TO PANIC!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L17aQBqkDqE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L17aQBqkDqE",
-          "publishedOn": "2025-05-19T14:00:29.000Z",
-          "wordCount": null,
-          "title": "Crypto.com OnChain Wallet Tutorial (Swap, Send, Receive, DeFi)",
           "imageUrl": null
         }
       ]

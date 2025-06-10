@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-10T13:26:00.681Z</id>
+    <id>urn:2025-06-10T14:09:18.988Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-10T13:26:00.681Z</updated>
+    <updated>2025-06-10T14:09:18.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: YES YES YES! BREAKOUT!]]></title>
+        <id>https://www.youtube.com/watch?v=Nmw8KHPXFQA</id>
+        <link href="https://www.youtube.com/watch?v=Nmw8KHPXFQA"/>
+        <updated>2025-06-10T14:00:38.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MERN Stack Tutorial for Beginners with Deployment – 2025]]></title>
+        <id>https://www.youtube.com/watch?v=F9gB5b4jgOI</id>
+        <link href="https://www.youtube.com/watch?v=F9gB5b4jgOI"/>
+        <updated>2025-06-10T13:30:18.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLOBs - Central Limit Order Books - in 3 Minutes: Everything You Need to Know]]></title>
         <id>https://www.youtube.com/watch?v=AtcdmVHka1U</id>
@@ -258,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: TIME TO PANIC!!]]></title>
-        <id>https://www.youtube.com/watch?v=Dy6FB4-DQeI</id>
-        <link href="https://www.youtube.com/watch?v=Dy6FB4-DQeI"/>
-        <updated>2025-05-20T14:00:21.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LangGraph Complete Course for Beginners – Complex AI Agents with Python]]></title>
         <id>https://www.youtube.com/watch?v=jGg_1h0qzaM</id>
         <link href="https://www.youtube.com/watch?v=jGg_1h0qzaM"/>
@@ -327,15 +336,6 @@
         <updated>2025-05-12T20:00:10.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android & Kotlin Development Masterclass – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=blKkRoZPxLc</id>
-        <link href="https://www.youtube.com/watch?v=blKkRoZPxLc"/>
-        <updated>2025-05-12T13:22:06.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

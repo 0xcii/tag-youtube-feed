@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=F9gB5b4jgOI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F9gB5b4jgOI",
+          "publishedOn": "2025-06-10T13:30:18.000Z",
+          "wordCount": null,
+          "title": "MERN Stack Tutorial for Beginners with Deployment – 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7bS52JVHEk0",
           "author": null,
           "description": "",
@@ -161,16 +171,6 @@
           "wordCount": null,
           "title": "Vite Crash Course – Frontend Build Tool",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=blKkRoZPxLc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=blKkRoZPxLc",
-          "publishedOn": "2025-05-12T13:22:06.000Z",
-          "wordCount": null,
-          "title": "Android & Kotlin Development Masterclass – Full Course",
-          "imageUrl": null
         }
       ]
     },
@@ -202,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Nmw8KHPXFQA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Nmw8KHPXFQA",
+          "publishedOn": "2025-06-10T14:00:38.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: YES YES YES! BREAKOUT!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FNe4jvgnK60",
           "author": null,
@@ -340,16 +350,6 @@
           "publishedOn": "2025-05-21T14:00:14.000Z",
           "wordCount": null,
           "title": "How to TRADE Crypto on Blofin (Crypto Day Trading)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dy6FB4-DQeI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dy6FB4-DQeI",
-          "publishedOn": "2025-05-20T14:00:21.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: TIME TO PANIC!!",
           "imageUrl": null
         }
       ]

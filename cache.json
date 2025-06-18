@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wIfUrlHgVrs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wIfUrlHgVrs",
+          "publishedOn": "2025-06-18T14:01:33.000Z",
+          "wordCount": null,
+          "title": "How to Receive USDT to Trust Wallet (Deposit USDT)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2gkoCSuDysQ",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2025-05-29T14:01:11.000Z",
           "wordCount": null,
           "title": "How to Add Money to Revolut from Bank",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sw99sOp1qdA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sw99sOp1qdA",
-          "publishedOn": "2025-05-28T14:01:25.000Z",
-          "wordCount": null,
-          "title": "Gate.io Crypto Arbitrage Bot Tutorial (Crypto Arbitrage Trading)",
           "imageUrl": null
         }
       ]

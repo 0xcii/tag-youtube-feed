@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-19T08:13:11.465Z</id>
+    <id>urn:2025-06-19T09:10:27.034Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-19T08:13:11.465Z</updated>
+    <updated>2025-06-19T09:10:27.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -309,15 +309,6 @@
         <updated>2025-05-21T13:03:10.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I'd learn blockchain if I had to start over in 2025]]></title>
-        <id>https://www.youtube.com/watch?v=hsaKM025MEA</id>
-        <link href="https://www.youtube.com/watch?v=hsaKM025MEA"/>
-        <updated>2025-05-20T21:01:00.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

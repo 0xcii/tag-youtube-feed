@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dwJyVyv4LQc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dwJyVyv4LQc",
+          "publishedOn": "2025-06-19T14:01:04.000Z",
+          "wordCount": null,
+          "title": "How to Buy Crypto on Revolut for Beginners (Revolut X)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wIfUrlHgVrs",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2025-05-30T14:00:52.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: JUST WAIT FOR THIS MASSIVE MOVE!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=go7N_dp-eBw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=go7N_dp-eBw",
-          "publishedOn": "2025-05-29T14:01:11.000Z",
-          "wordCount": null,
-          "title": "How to Add Money to Revolut from Bank",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-20T14:08:44.865Z</id>
+    <id>urn:2025-06-20T15:09:00.663Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-20T14:08:44.865Z</updated>
+    <updated>2025-06-20T15:09:00.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: I'm Selling Right Here]]></title>
+        <id>https://www.youtube.com/watch?v=ujpl0_P5E8k</id>
+        <link href="https://www.youtube.com/watch?v=ujpl0_P5E8k"/>
+        <updated>2025-06-20T14:01:34.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Next Hot Blockchain Is Already Here (And Most People Missed It)]]></title>
         <id>https://www.youtube.com/watch?v=il5ug6qX7M0</id>
@@ -244,15 +253,6 @@
         <id>https://www.youtube.com/watch?v=4LcgwgrI-cI</id>
         <link href="https://www.youtube.com/watch?v=4LcgwgrI-cI"/>
         <updated>2025-06-02T14:00:06.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: JUST WAIT FOR THIS MASSIVE MOVE!!]]></title>
-        <id>https://www.youtube.com/watch?v=_bYkc2lApso</id>
-        <link href="https://www.youtube.com/watch?v=_bYkc2lApso"/>
-        <updated>2025-05-30T14:00:52.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

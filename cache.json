@@ -162,6 +162,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5QRw_5kmJTQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5QRw_5kmJTQ",
+          "publishedOn": "2025-06-23T14:00:08.000Z",
+          "wordCount": null,
+          "title": "TradingView Anchored VWAP Trading Tutorial (Anchored VWAP Day Trading)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ujpl0_P5E8k",
           "author": null,
           "description": "",
@@ -299,16 +309,6 @@
           "publishedOn": "2025-06-03T14:00:23.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: I FOUND SOMETHING HUGE!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4LcgwgrI-cI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4LcgwgrI-cI",
-          "publishedOn": "2025-06-02T14:00:06.000Z",
-          "wordCount": null,
-          "title": "OKX Spot Trading Tutorial (Start Trading on OKX)",
           "imageUrl": null
         }
       ]

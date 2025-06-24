@@ -319,6 +319,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CdIXhtn7Uqg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CdIXhtn7Uqg",
+          "publishedOn": "2025-06-24T11:54:40.000Z",
+          "wordCount": null,
+          "title": "Self-host n8n | Complete Guide For Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UHntzYXcbHA",
           "author": null,
           "description": "",

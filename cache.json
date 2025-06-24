@@ -172,6 +172,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1QNv2pmcogs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1QNv2pmcogs",
+          "publishedOn": "2025-06-24T14:00:02.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: WE ARE ABOUT TO FLIP!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5QRw_5kmJTQ",
           "author": null,
           "description": "",
@@ -309,16 +319,6 @@
           "publishedOn": "2025-06-04T14:01:16.000Z",
           "wordCount": null,
           "title": "EASY Crypto Options Trading Strategy Tutorial (Very SIMPLE Guide)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IHsylFm1m8M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IHsylFm1m8M",
-          "publishedOn": "2025-06-03T14:00:23.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: I FOUND SOMETHING HUGE!!",
           "imageUrl": null
         }
       ]

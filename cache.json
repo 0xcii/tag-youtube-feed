@@ -366,6 +366,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XLkjkw0Y-ok",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XLkjkw0Y-ok",
+          "publishedOn": "2025-06-25T19:00:29.000Z",
+          "wordCount": null,
+          "title": "Master Ethers.js for Blockchain Step-by-Step (Full Course 2025)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=il5ug6qX7M0",
           "author": null,
           "description": "",

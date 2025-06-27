@@ -172,6 +172,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M98WkKWN_ZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M98WkKWN_ZU",
+          "publishedOn": "2025-06-27T14:00:28.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: There is No Other Choice. Act Now!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iqYhEion8Hw",
           "author": null,
           "description": "",
@@ -309,16 +319,6 @@
           "publishedOn": "2025-06-09T14:00:32.000Z",
           "wordCount": null,
           "title": "OKX Dual Investment Tutorial (How to Trade Dual Investment)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8SJhyBDMvIM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8SJhyBDMvIM",
-          "publishedOn": "2025-06-06T14:00:11.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: LET ME SHOW YOU REAL SIGNAL (VS NOISE)",
           "imageUrl": null
         }
       ]

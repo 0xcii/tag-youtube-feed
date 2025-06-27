@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-27T09:10:11.452Z</id>
+    <id>urn:2025-06-27T10:09:31.923Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-27T09:10:11.452Z</updated>
+    <updated>2025-06-27T10:09:31.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Agency owner reveals how he got his 1st project]]></title>
+        <id>https://www.youtube.com/watch?v=nR_BdmuPp7A</id>
+        <link href="https://www.youtube.com/watch?v=nR_BdmuPp7A"/>
+        <updated>2025-06-27T09:40:29.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKX Smart Arbitrage Bot Tutorial (Trade Crypto Arbitrage)]]></title>
         <id>https://www.youtube.com/watch?v=iqYhEion8Hw</id>

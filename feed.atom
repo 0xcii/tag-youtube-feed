@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-27T11:08:04.322Z</id>
+    <id>urn:2025-06-27T12:17:17.147Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-27T11:08:04.322Z</updated>
+    <updated>2025-06-27T12:17:17.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rust VS Go VS TypeScript which back end language is for you with Tai Groot [Podcast #176]]]></title>
+        <id>https://www.youtube.com/watch?v=yDhCweudqyY</id>
+        <link href="https://www.youtube.com/watch?v=yDhCweudqyY"/>
+        <updated>2025-06-27T12:01:56.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Agency owner reveals how he got his 1st project]]></title>
         <id>https://www.youtube.com/watch?v=nR_BdmuPp7A</id>

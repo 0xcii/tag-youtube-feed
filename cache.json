@@ -152,6 +152,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xjYgQjfGCG0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xjYgQjfGCG0",
+          "publishedOn": "2025-06-30T14:01:37.000Z",
+          "wordCount": null,
+          "title": "Easiest RSI Indicator Trading Strategy for Day Trading!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=M98WkKWN_ZU",
           "author": null,
           "description": "",
@@ -289,16 +299,6 @@
           "publishedOn": "2025-06-10T14:00:38.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: YES YES YES! BREAKOUT!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FNe4jvgnK60",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FNe4jvgnK60",
-          "publishedOn": "2025-06-09T14:00:32.000Z",
-          "wordCount": null,
-          "title": "OKX Dual Investment Tutorial (How to Trade Dual Investment)",
           "imageUrl": null
         }
       ]

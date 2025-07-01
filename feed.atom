@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-01T14:09:26.333Z</id>
+    <id>urn:2025-07-01T15:09:49.741Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-01T14:09:26.333Z</updated>
+    <updated>2025-07-01T15:09:49.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: It's Coming!! Trillions To Be Printed!!]]></title>
+        <id>https://www.youtube.com/watch?v=dqITWahciR4</id>
+        <link href="https://www.youtube.com/watch?v=dqITWahciR4"/>
+        <updated>2025-07-01T14:01:14.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Easiest RSI Indicator Trading Strategy for Day Trading!]]></title>
         <id>https://www.youtube.com/watch?v=xjYgQjfGCG0</id>
@@ -244,15 +253,6 @@
         <id>https://www.youtube.com/watch?v=OEuI_stZKUc</id>
         <link href="https://www.youtube.com/watch?v=OEuI_stZKUc"/>
         <updated>2025-06-11T14:00:39.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: YES YES YES! BREAKOUT!]]></title>
-        <id>https://www.youtube.com/watch?v=Nmw8KHPXFQA</id>
-        <link href="https://www.youtube.com/watch?v=Nmw8KHPXFQA"/>
-        <updated>2025-06-10T14:00:38.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

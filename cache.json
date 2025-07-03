@@ -319,6 +319,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=agnmQ2Tnw8g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=agnmQ2Tnw8g",
+          "publishedOn": "2025-07-03T17:58:45.000Z",
+          "wordCount": null,
+          "title": "I built an automated newsletter with n8n (free template)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nR_BdmuPp7A",
           "author": null,
           "description": "",

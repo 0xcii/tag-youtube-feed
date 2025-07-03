@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-03T12:17:36.759Z</id>
+    <id>urn:2025-07-03T13:23:33.329Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-03T12:17:36.759Z</updated>
+    <updated>2025-07-03T13:23:33.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Calendar Clone Tutorial – PHP, MySQL, JavaScript, HTML, and CSS]]></title>
+        <id>https://www.youtube.com/watch?v=pHMtbdGoP_g</id>
+        <link href="https://www.youtube.com/watch?v=pHMtbdGoP_g"/>
+        <updated>2025-07-03T12:45:09.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EASY Crypto Day Trading Strategy Anyone Can Use (Learn FAST)]]></title>
         <id>https://www.youtube.com/watch?v=qVlG5X11Hi4</id>

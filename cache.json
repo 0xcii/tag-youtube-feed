@@ -162,6 +162,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lXRqLeKO15I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lXRqLeKO15I",
+          "publishedOn": "2025-07-03T14:01:17.000Z",
+          "wordCount": null,
+          "title": "How to Swap Crypto in Crypto.com Onchain Wallet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qVlG5X11Hi4",
           "author": null,
           "description": "",
@@ -299,16 +309,6 @@
           "publishedOn": "2025-06-13T14:00:37.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: HERE WE GO AGAIN!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8E6MU7lXh8U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8E6MU7lXh8U",
-          "publishedOn": "2025-06-12T14:00:14.000Z",
-          "wordCount": null,
-          "title": "How to Receive USDT on Binance (From Wallet or Exchange)",
           "imageUrl": null
         }
       ]

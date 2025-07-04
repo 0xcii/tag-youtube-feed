@@ -162,6 +162,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=107kAoVBoW8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=107kAoVBoW8",
+          "publishedOn": "2025-07-04T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: We Have a PERFECT Setup!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lXRqLeKO15I",
           "author": null,
           "description": "",
@@ -299,16 +309,6 @@
           "publishedOn": "2025-06-16T14:01:23.000Z",
           "wordCount": null,
           "title": "TradingView Long/Short Position Tool Trading Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MYwX7djw_ZA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MYwX7djw_ZA",
-          "publishedOn": "2025-06-13T14:00:37.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: HERE WE GO AGAIN!!!",
           "imageUrl": null
         }
       ]

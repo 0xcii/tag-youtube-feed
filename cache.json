@@ -152,6 +152,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Fo6xzWPtLRY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fo6xzWPtLRY",
+          "publishedOn": "2025-07-07T14:00:33.000Z",
+          "wordCount": null,
+          "title": "Bitget Wallet Tutorial (Receive, Send, Swap, Connect)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=107kAoVBoW8",
           "author": null,
           "description": "",
@@ -289,16 +299,6 @@
           "publishedOn": "2025-06-17T14:00:04.000Z",
           "wordCount": null,
           "title": "Crypto Alert: We Must Move Fast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=quJodHmEI1c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=quJodHmEI1c",
-          "publishedOn": "2025-06-16T14:01:23.000Z",
-          "wordCount": null,
-          "title": "TradingView Long/Short Position Tool Trading Tutorial",
           "imageUrl": null
         }
       ]

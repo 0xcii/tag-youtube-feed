@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-09T13:26:19.349Z</id>
+    <id>urn:2025-07-09T14:09:29.568Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-09T13:26:19.349Z</updated>
+    <updated>2025-07-09T14:09:29.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OKX Spread Arbitrage Bot Tutorial (Crypto Arbitrage Strategy)]]></title>
+        <id>https://www.youtube.com/watch?v=CJzQ_9tyExo</id>
+        <link href="https://www.youtube.com/watch?v=CJzQ_9tyExo"/>
+        <updated>2025-07-09T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VGG From Scratch – Deep Learning Theory & PyTorch Implementation (Full Course)]]></title>
+        <id>https://www.youtube.com/watch?v=rhCiuu4AW_w</id>
+        <link href="https://www.youtube.com/watch?v=rhCiuu4AW_w"/>
+        <updated>2025-07-09T13:53:06.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Combine Vibe Coding & n8n to Build Real AI Apps]]></title>
         <id>https://www.youtube.com/watch?v=qDtVzumlb8M</id>
@@ -246,15 +264,6 @@
         <updated>2025-06-19T12:56:01.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Receive USDT to Trust Wallet (Deposit USDT)]]></title>
-        <id>https://www.youtube.com/watch?v=wIfUrlHgVrs</id>
-        <link href="https://www.youtube.com/watch?v=wIfUrlHgVrs"/>
-        <updated>2025-06-18T14:01:33.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

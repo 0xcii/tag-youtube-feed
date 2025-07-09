@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rhCiuu4AW_w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rhCiuu4AW_w",
+          "publishedOn": "2025-07-09T13:53:06.000Z",
+          "wordCount": null,
+          "title": "VGG From Scratch – Deep Learning Theory & PyTorch Implementation (Full Course)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qDtVzumlb8M",
           "author": null,
           "description": "",
@@ -151,6 +161,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CJzQ_9tyExo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CJzQ_9tyExo",
+          "publishedOn": "2025-07-09T14:00:30.000Z",
+          "wordCount": null,
+          "title": "OKX Spread Arbitrage Bot Tutorial (Crypto Arbitrage Strategy)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kfdQJqemIvg",
           "author": null,
           "description": "",
@@ -288,16 +308,6 @@
           "publishedOn": "2025-06-19T14:01:04.000Z",
           "wordCount": null,
           "title": "How to Buy Crypto on Revolut for Beginners (Revolut X)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wIfUrlHgVrs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wIfUrlHgVrs",
-          "publishedOn": "2025-06-18T14:01:33.000Z",
-          "wordCount": null,
-          "title": "How to Receive USDT to Trust Wallet (Deposit USDT)",
           "imageUrl": null
         }
       ]

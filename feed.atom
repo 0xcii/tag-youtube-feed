@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-10T13:26:45.908Z</id>
+    <id>urn:2025-07-10T14:10:08.068Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-10T13:26:45.908Z</updated>
+    <updated>2025-07-10T14:10:08.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com Card Review & Tutorial (After 6 Months Usage)]]></title>
+        <id>https://www.youtube.com/watch?v=NwW4mmTcUbs</id>
+        <link href="https://www.youtube.com/watch?v=NwW4mmTcUbs"/>
+        <updated>2025-07-10T14:00:42.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and Deploy a Polished AI Project and Get Sales]]></title>
         <id>https://www.youtube.com/watch?v=ObiAWFqgpMg</id>
@@ -255,15 +264,6 @@
         <updated>2025-06-19T21:00:47.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Buy Crypto on Revolut for Beginners (Revolut X)]]></title>
-        <id>https://www.youtube.com/watch?v=dwJyVyv4LQc</id>
-        <link href="https://www.youtube.com/watch?v=dwJyVyv4LQc"/>
-        <updated>2025-06-19T14:01:04.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

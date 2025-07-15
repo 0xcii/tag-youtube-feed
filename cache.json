@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0xah5jMflcI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0xah5jMflcI",
+          "publishedOn": "2025-07-15T13:35:29.000Z",
+          "wordCount": null,
+          "title": "Building ‍Security into AI – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ilotANpzN7I",
           "author": null,
           "description": "",
@@ -151,6 +161,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MFgbkSBl6p0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MFgbkSBl6p0",
+          "publishedOn": "2025-07-15T14:00:38.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Don't Make A Big Mistake",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1k67mrQ59ZQ",
           "author": null,
           "description": "",
@@ -288,16 +308,6 @@
           "publishedOn": "2025-06-25T14:01:24.000Z",
           "wordCount": null,
           "title": "How to Receive USDT to Bybit (Deposit Crypto)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1QNv2pmcogs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1QNv2pmcogs",
-          "publishedOn": "2025-06-24T14:00:02.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: WE ARE ABOUT TO FLIP!!",
           "imageUrl": null
         }
       ]

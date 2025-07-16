@@ -172,6 +172,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YfOggt8ANmY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YfOggt8ANmY",
+          "publishedOn": "2025-07-16T14:01:02.000Z",
+          "wordCount": null,
+          "title": "How to Use Bybit (Deposit, Trade, Withdraw)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MFgbkSBl6p0",
           "author": null,
           "description": "",
@@ -309,16 +319,6 @@
           "publishedOn": "2025-06-26T14:01:11.000Z",
           "wordCount": null,
           "title": "OKX Smart Arbitrage Bot Tutorial (Trade Crypto Arbitrage)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uDnKfCBUYvc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uDnKfCBUYvc",
-          "publishedOn": "2025-06-25T14:01:24.000Z",
-          "wordCount": null,
-          "title": "How to Receive USDT to Bybit (Deposit Crypto)",
           "imageUrl": null
         }
       ]

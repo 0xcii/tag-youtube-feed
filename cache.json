@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XSJD5ay1D_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XSJD5ay1D_8",
+          "publishedOn": "2025-07-16T14:06:03.000Z",
+          "wordCount": null,
+          "title": "Data Viz w/ Svelte and D3 Tutorial – Custom and Interactive Data Visualization",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0xah5jMflcI",
           "author": null,
           "description": "",

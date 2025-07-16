@@ -386,6 +386,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=B_N04EF_qh0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B_N04EF_qh0",
+          "publishedOn": "2025-07-16T20:45:00.000Z",
+          "wordCount": null,
+          "title": "The Bull Market Is Real (And You’re Not Ready)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tNzkupP5lmY",
           "author": null,
           "description": "",

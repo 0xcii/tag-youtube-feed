@@ -329,6 +329,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/35IWGkyKsgM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/35IWGkyKsgM",
+          "publishedOn": "2025-07-17T19:30:49.000Z",
+          "wordCount": 2005,
+          "title": "This chart shows which jobs AI will replace",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rNn2hI4VEgI",
           "author": null,
           "description": "",

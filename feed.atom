@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-17T14:09:04.111Z</id>
+    <id>urn:2025-07-17T15:10:04.055Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-17T14:09:04.111Z</updated>
+    <updated>2025-07-17T15:10:04.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Borrow Against Bitcoin (Bitcoin Loans Tutorial)]]></title>
+        <id>https://www.youtube.com/watch?v=HnXMxyfc4vU</id>
+        <link href="https://www.youtube.com/watch?v=HnXMxyfc4vU"/>
+        <updated>2025-07-17T14:00:34.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Bull Market Is Real (And You’re Not Ready)]]></title>
         <id>https://www.youtube.com/watch?v=B_N04EF_qh0</id>
@@ -273,15 +282,6 @@
         <updated>2025-06-27T09:40:29.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Smart Arbitrage Bot Tutorial (Trade Crypto Arbitrage)]]></title>
-        <id>https://www.youtube.com/watch?v=iqYhEion8Hw</id>
-        <link href="https://www.youtube.com/watch?v=iqYhEion8Hw"/>
-        <updated>2025-06-26T14:01:11.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

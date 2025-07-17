@@ -172,6 +172,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HnXMxyfc4vU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HnXMxyfc4vU",
+          "publishedOn": "2025-07-17T14:00:34.000Z",
+          "wordCount": null,
+          "title": "How to Borrow Against Bitcoin (Bitcoin Loans Tutorial)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YfOggt8ANmY",
           "author": null,
           "description": "",
@@ -309,16 +319,6 @@
           "publishedOn": "2025-06-27T14:00:28.000Z",
           "wordCount": null,
           "title": "Crypto Alert: There is No Other Choice. Act Now!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iqYhEion8Hw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iqYhEion8Hw",
-          "publishedOn": "2025-06-26T14:01:11.000Z",
-          "wordCount": null,
-          "title": "OKX Smart Arbitrage Bot Tutorial (Trade Crypto Arbitrage)",
           "imageUrl": null
         }
       ]

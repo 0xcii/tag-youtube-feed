@@ -329,12 +329,22 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/2eNGEiG9_zw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/2eNGEiG9_zw",
+          "publishedOn": "2025-07-21T05:25:56.000Z",
+          "wordCount": 2023,
+          "title": "The ONLY job that will survive AI is...",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/35IWGkyKsgM",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/35IWGkyKsgM",
           "publishedOn": "2025-07-17T19:30:49.000Z",
-          "wordCount": 2043,
+          "wordCount": 1981,
           "title": "This chart shows which jobs AI will replace",
           "imageUrl": null
         },
@@ -345,7 +355,7 @@
           "link": "https://www.youtube.com/watch?v=rNn2hI4VEgI",
           "publishedOn": "2025-07-14T15:06:51.000Z",
           "wordCount": null,
-          "title": "Only one job will survive AI…",
+          "title": "Why CEO is the safest job in an AI world",
           "imageUrl": null
         },
         {

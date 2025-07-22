@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Z_c4byLrNBU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z_c4byLrNBU",
+          "publishedOn": "2025-07-22T14:32:52.000Z",
+          "wordCount": null,
+          "title": "Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=clTpnp0TlYg",
           "author": null,
           "description": "",
@@ -172,6 +182,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jU3EZkYR2Z0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jU3EZkYR2Z0",
+          "publishedOn": "2025-07-22T14:01:12.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: It's NOT Over (They're Telling Us!!)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xiDxmYGSrrc",
           "author": null,
           "description": "",
@@ -310,16 +330,6 @@
           "wordCount": null,
           "title": "EASY Crypto Day Trading Strategy Anyone Can Use (Learn FAST)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dqITWahciR4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dqITWahciR4",
-          "publishedOn": "2025-07-01T14:01:14.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: It's Coming!! Trillions To Be Printed!!",
-          "imageUrl": null
         }
       ]
     },
@@ -334,7 +344,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/AfBzx-0T6Uk",
           "publishedOn": "2025-07-21T17:30:03.000Z",
-          "wordCount": 2001,
+          "wordCount": 1997,
           "title": "This chart reveals which AI Automation ideas to sell",
           "imageUrl": null
         },
@@ -344,7 +354,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/2eNGEiG9_zw",
           "publishedOn": "2025-07-21T05:25:56.000Z",
-          "wordCount": 2002,
+          "wordCount": 1967,
           "title": "The ONLY job that will survive AI is...",
           "imageUrl": null
         },
@@ -354,7 +364,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/35IWGkyKsgM",
           "publishedOn": "2025-07-17T19:30:49.000Z",
-          "wordCount": 1994,
+          "wordCount": 2026,
           "title": "This chart shows which jobs AI will replace",
           "imageUrl": null
         },

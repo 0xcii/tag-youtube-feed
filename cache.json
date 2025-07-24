@@ -349,12 +349,22 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/a6huns3f9Y4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/a6huns3f9Y4",
+          "publishedOn": "2025-07-24T18:19:06.000Z",
+          "wordCount": 1975,
+          "title": "No, chatGPT Agents DIDN'T kill AI Agents startups",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/yo8cnAyDxiE",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yo8cnAyDxiE",
           "publishedOn": "2025-07-23T16:49:15.000Z",
-          "wordCount": 2012,
+          "wordCount": 1987,
           "title": "AI Automation Agencies SUCK!",
           "imageUrl": null
         },
@@ -374,7 +384,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/AfBzx-0T6Uk",
           "publishedOn": "2025-07-21T17:30:03.000Z",
-          "wordCount": 1991,
+          "wordCount": 1993,
           "title": "This chart reveals which AI Automation ideas to sell",
           "imageUrl": null
         },
@@ -384,7 +394,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/2eNGEiG9_zw",
           "publishedOn": "2025-07-21T05:25:56.000Z",
-          "wordCount": 1984,
+          "wordCount": 2001,
           "title": "The ONLY job that will survive AI is...",
           "imageUrl": null
         },
@@ -394,7 +404,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/35IWGkyKsgM",
           "publishedOn": "2025-07-17T19:30:49.000Z",
-          "wordCount": 1986,
+          "wordCount": 2088,
           "title": "This chart shows which jobs AI will replace",
           "imageUrl": null
         },

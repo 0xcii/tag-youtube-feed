@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-24T20:09:02.495Z</id>
+    <id>urn:2025-07-24T21:09:35.550Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-24T20:09:02.495Z</updated>
+    <updated>2025-07-24T21:09:35.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Could 10x Crypto Soon™— No Joke]]></title>
+        <id>https://www.youtube.com/watch?v=p5ZMQszFmhg</id>
+        <link href="https://www.youtube.com/watch?v=p5ZMQszFmhg"/>
+        <updated>2025-07-24T21:01:02.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT agents was just released]]></title>
         <id>https://www.youtube.com/shorts/a6huns3f9Y4</id>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-23T23:09:32.095Z</id>
+    <id>urn:2025-07-24T00:49:55.935Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-23T23:09:32.095Z</updated>
+    <updated>2025-07-24T00:49:55.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -385,15 +385,6 @@
         <updated>2025-06-24T13:12:29.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-host n8n | Complete Guide For Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=CdIXhtn7Uqg</id>
-        <link href="https://www.youtube.com/watch?v=CdIXhtn7Uqg"/>
-        <updated>2025-06-24T11:54:40.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

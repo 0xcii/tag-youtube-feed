@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-25T12:18:02.314Z</id>
+    <id>urn:2025-07-25T13:29:01.232Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-25T12:18:02.314Z</updated>
+    <updated>2025-07-25T13:29:01.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to turn Open Source into a Job with Nick Taylor [Podcast #181]]]></title>
+        <id>https://www.youtube.com/watch?v=m7nkioXNiik</id>
+        <link href="https://www.youtube.com/watch?v=m7nkioXNiik"/>
+        <updated>2025-07-25T13:01:36.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Could 10x Crypto Soon™— No Joke]]></title>
         <id>https://www.youtube.com/watch?v=p5ZMQszFmhg</id>
@@ -386,15 +395,6 @@
         <updated>2025-06-27T09:40:29.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolution of the Transformer Architecture Used in LLMs (2017–2025) – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=8WBS0dT0h2I</id>
-        <link href="https://www.youtube.com/watch?v=8WBS0dT0h2I"/>
-        <updated>2025-06-26T12:58:58.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

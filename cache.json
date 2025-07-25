@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m7nkioXNiik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m7nkioXNiik",
+          "publishedOn": "2025-07-25T13:01:36.000Z",
+          "wordCount": null,
+          "title": "How to turn Open Source into a Job with Nick Taylor [Podcast #181]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HaUe2AN210g",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2025-06-27T12:01:56.000Z",
           "wordCount": null,
           "title": "Rust VS Go VS TypeScript which back end language is for you with Tai Groot [Podcast #176]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8WBS0dT0h2I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8WBS0dT0h2I",
-          "publishedOn": "2025-06-26T12:58:58.000Z",
-          "wordCount": null,
-          "title": "Evolution of the Transformer Architecture Used in LLMs (2017–2025) – Full Course",
           "imageUrl": null
         }
       ]
@@ -354,7 +354,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a6huns3f9Y4",
           "publishedOn": "2025-07-24T18:19:06.000Z",
-          "wordCount": 1951,
+          "wordCount": 2082,
           "title": "ChatGPT agents was just released",
           "imageUrl": null
         },
@@ -364,7 +364,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yo8cnAyDxiE",
           "publishedOn": "2025-07-23T16:49:15.000Z",
-          "wordCount": 1941,
+          "wordCount": 1990,
           "title": "AI Automation Agencies SUCK!",
           "imageUrl": null
         },
@@ -384,7 +384,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/AfBzx-0T6Uk",
           "publishedOn": "2025-07-21T17:30:03.000Z",
-          "wordCount": 2008,
+          "wordCount": 1967,
           "title": "This chart reveals which AI Automation ideas to sell",
           "imageUrl": null
         },
@@ -394,7 +394,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/2eNGEiG9_zw",
           "publishedOn": "2025-07-21T05:25:56.000Z",
-          "wordCount": 1990,
+          "wordCount": 2005,
           "title": "The ONLY job that will survive AI is...",
           "imageUrl": null
         },
@@ -404,7 +404,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/35IWGkyKsgM",
           "publishedOn": "2025-07-17T19:30:49.000Z",
-          "wordCount": 1990,
+          "wordCount": 2153,
           "title": "This chart shows which jobs AI will replace",
           "imageUrl": null
         },

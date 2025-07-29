@@ -4,7 +4,18 @@
       "title": "链求君",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ziETkwN1Hr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ziETkwN1Hr4",
+          "publishedOn": "2025-07-29T09:59:27.000Z",
+          "wordCount": null,
+          "title": "Solana 有 Jupiter，Ethereum 有 Uniswap，XRP 终于也有了它！",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "freeCodeCamp.org",
@@ -344,7 +355,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a6huns3f9Y4",
           "publishedOn": "2025-07-24T18:19:06.000Z",
-          "wordCount": 2001,
+          "wordCount": 2005,
           "title": "ChatGPT agents was just released",
           "imageUrl": null
         },
@@ -354,7 +365,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yo8cnAyDxiE",
           "publishedOn": "2025-07-23T16:49:15.000Z",
-          "wordCount": 1941,
+          "wordCount": 2072,
           "title": "AI Automation Agencies SUCK!",
           "imageUrl": null
         },
@@ -374,7 +385,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/AfBzx-0T6Uk",
           "publishedOn": "2025-07-21T17:30:03.000Z",
-          "wordCount": 2000,
+          "wordCount": 2025,
           "title": "This chart reveals which AI Automation ideas to sell",
           "imageUrl": null
         },
@@ -384,7 +395,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/2eNGEiG9_zw",
           "publishedOn": "2025-07-21T05:25:56.000Z",
-          "wordCount": 1960,
+          "wordCount": 1963,
           "title": "The ONLY job that will survive AI is...",
           "imageUrl": null
         },
@@ -394,7 +405,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/35IWGkyKsgM",
           "publishedOn": "2025-07-17T19:30:49.000Z",
-          "wordCount": 1911,
+          "wordCount": 2022,
           "title": "This chart shows which jobs AI will replace",
           "imageUrl": null
         },

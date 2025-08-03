@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=t-vx-f_x9To",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t-vx-f_x9To",
+          "publishedOn": "2025-08-03T00:31:17.000Z",
+          "wordCount": null,
+          "title": "我是如何发现早期潜力项目的 ！ 为什么你总是错过早期Alpha ？因为你没发现这个工具！ #moni #alpha #crypto",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V_qmUFEcVJs",
           "author": null,
           "description": "",
@@ -200,16 +210,6 @@
           "publishedOn": "2025-07-08T14:04:11.000Z",
           "wordCount": null,
           "title": "Combine Vibe Coding & n8n to Build Real AI Apps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cMOz7Tyq7aE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cMOz7Tyq7aE",
-          "publishedOn": "2025-07-04T12:01:15.000Z",
-          "wordCount": null,
-          "title": "From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]",
           "imageUrl": null
         }
       ]
@@ -425,7 +425,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a6huns3f9Y4",
           "publishedOn": "2025-07-24T18:19:06.000Z",
-          "wordCount": 1956,
+          "wordCount": 1970,
           "title": "ChatGPT agents was just released",
           "imageUrl": null
         },
@@ -435,7 +435,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yo8cnAyDxiE",
           "publishedOn": "2025-07-23T16:49:15.000Z",
-          "wordCount": 1966,
+          "wordCount": 2000,
           "title": "AI Automation Agencies SUCK!",
           "imageUrl": null
         },
@@ -455,7 +455,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/AfBzx-0T6Uk",
           "publishedOn": "2025-07-21T17:30:03.000Z",
-          "wordCount": 2017,
+          "wordCount": 1982,
           "title": "This chart reveals which AI Automation ideas to sell",
           "imageUrl": null
         },
@@ -465,7 +465,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/2eNGEiG9_zw",
           "publishedOn": "2025-07-21T05:25:56.000Z",
-          "wordCount": 2008,
+          "wordCount": 2012,
           "title": "The ONLY job that will survive AI is...",
           "imageUrl": null
         },
@@ -475,7 +475,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/35IWGkyKsgM",
           "publishedOn": "2025-07-17T19:30:49.000Z",
-          "wordCount": 1952,
+          "wordCount": 1958,
           "title": "This chart shows which jobs AI will replace",
           "imageUrl": null
         },

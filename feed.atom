@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-06T13:34:44.708Z</id>
+    <id>urn:2025-08-06T14:13:58.790Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-06T13:34:44.708Z</updated>
+    <updated>2025-08-06T14:13:58.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Tutorial for Beginners (Trade Crypto on Hyperliquid)]]></title>
+        <id>https://www.youtube.com/watch?v=OkDGq7PT_Og</id>
+        <link href="https://www.youtube.com/watch?v=OkDGq7PT_Og"/>
+        <updated>2025-08-06T14:00:43.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全网最“贵”加密货币投资工具! Nansen AI 也是全网最专业的AI助手！10 个问题，展现它的强大！每月 $1299 我也一定要用   #nansen #ai #crypto]]></title>
         <id>https://www.youtube.com/watch?v=KyJwtBubGwg</id>
@@ -425,15 +434,6 @@
         <updated>2025-07-16T14:06:03.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Bybit (Deposit, Trade, Withdraw)]]></title>
-        <id>https://www.youtube.com/watch?v=YfOggt8ANmY</id>
-        <link href="https://www.youtube.com/watch?v=YfOggt8ANmY"/>
-        <updated>2025-07-16T14:01:02.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

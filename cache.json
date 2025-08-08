@@ -93,6 +93,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=N0K0m7dZBJI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N0K0m7dZBJI",
+          "publishedOn": "2025-08-08T13:00:45.000Z",
+          "wordCount": null,
+          "title": "Abandoning med school to become a software engineer with Edidiong Asikpo [Podcast #182]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fxx_E0ojKrc",
           "author": null,
           "description": "",
@@ -230,16 +240,6 @@
           "publishedOn": "2025-07-11T13:01:26.000Z",
           "wordCount": null,
           "title": "799 rejections... but he got the job! Braydon Coyer developer interview [Podcast #179]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ObiAWFqgpMg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ObiAWFqgpMg",
-          "publishedOn": "2025-07-10T13:00:56.000Z",
-          "wordCount": null,
-          "title": "Build and Deploy a Polished AI Project and Get Sales",
           "imageUrl": null
         }
       ]
@@ -435,7 +435,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Vple8j-xogc",
           "publishedOn": "2025-08-06T15:01:06.000Z",
-          "wordCount": 2023,
+          "wordCount": 2029,
           "title": "SaaS Founders: Pick a tech stack you already know",
           "imageUrl": null
         },
@@ -445,7 +445,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/t8Read-C0bg",
           "publishedOn": "2025-08-05T15:01:34.000Z",
-          "wordCount": 1954,
+          "wordCount": 1930,
           "title": "Most Marketing Gurus SUCK",
           "imageUrl": null
         },
@@ -455,7 +455,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Xod3lib8rLU",
           "publishedOn": "2025-08-04T15:01:51.000Z",
-          "wordCount": 1976,
+          "wordCount": 1986,
           "title": "3 Lessons learned from running a $2M business",
           "imageUrl": null
         },
@@ -475,7 +475,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/POQ01OYyC1A",
           "publishedOn": "2025-07-30T15:15:28.000Z",
-          "wordCount": 2058,
+          "wordCount": 2045,
           "title": "3 Amazing Tips to Use Cursor Like a Pro",
           "imageUrl": null
         },
@@ -485,7 +485,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a6huns3f9Y4",
           "publishedOn": "2025-07-24T18:19:06.000Z",
-          "wordCount": 1952,
+          "wordCount": 1966,
           "title": "ChatGPT agents was just released",
           "imageUrl": null
         },
@@ -495,7 +495,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yo8cnAyDxiE",
           "publishedOn": "2025-07-23T16:49:15.000Z",
-          "wordCount": 1955,
+          "wordCount": 1992,
           "title": "AI Automation Agencies SUCK!",
           "imageUrl": null
         },
@@ -515,7 +515,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/AfBzx-0T6Uk",
           "publishedOn": "2025-07-21T17:30:03.000Z",
-          "wordCount": 1972,
+          "wordCount": 2029,
           "title": "This chart reveals which AI Automation ideas to sell",
           "imageUrl": null
         },
@@ -525,7 +525,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/2eNGEiG9_zw",
           "publishedOn": "2025-07-21T05:25:56.000Z",
-          "wordCount": 2040,
+          "wordCount": 1981,
           "title": "The ONLY job that will survive AI is...",
           "imageUrl": null
         },
@@ -535,7 +535,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/35IWGkyKsgM",
           "publishedOn": "2025-07-17T19:30:49.000Z",
-          "wordCount": 2012,
+          "wordCount": 1981,
           "title": "This chart shows which jobs AI will replace",
           "imageUrl": null
         },

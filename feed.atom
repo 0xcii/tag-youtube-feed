@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-11T14:11:46.011Z</id>
+    <id>urn:2025-08-11T15:10:40.734Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-11T14:11:46.011Z</updated>
+    <updated>2025-08-11T15:10:40.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit Trading Bots Tutorial (TWAP, Martingale, Grids, Chase Limits etc)]]></title>
+        <id>https://www.youtube.com/watch?v=qAHRSHzBW0E</id>
+        <link href="https://www.youtube.com/watch?v=qAHRSHzBW0E"/>
+        <updated>2025-08-11T14:01:20.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Alert: Enjoy The Bull Market While It Lasts!!]]></title>
         <id>https://www.youtube.com/watch?v=9HF9irmrfoo</id>
@@ -406,15 +415,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TradingView Multiple Chart Layout Tutorial - Best Tips!]]></title>
-        <id>https://www.youtube.com/watch?v=xiDxmYGSrrc</id>
-        <link href="https://www.youtube.com/watch?v=xiDxmYGSrrc"/>
-        <updated>2025-07-21T14:01:30.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

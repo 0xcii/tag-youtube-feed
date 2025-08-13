@@ -93,6 +93,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qYk_BqGHXEg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qYk_BqGHXEg",
+          "publishedOn": "2025-08-13T15:53:12.000Z",
+          "wordCount": null,
+          "title": "Next.js Caching & Rendering Tutorial – Full Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JfiWi8RjN-8",
           "author": null,
           "description": "",
@@ -230,16 +240,6 @@
           "publishedOn": "2025-07-16T14:06:03.000Z",
           "wordCount": null,
           "title": "Data Viz w/ Svelte and D3 Tutorial – Custom and Interactive Data Visualization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0xah5jMflcI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0xah5jMflcI",
-          "publishedOn": "2025-07-15T13:35:29.000Z",
-          "wordCount": null,
-          "title": "Building ‍Security into AI – Tutorial",
           "imageUrl": null
         }
       ]
@@ -435,7 +435,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Vple8j-xogc",
           "publishedOn": "2025-08-06T15:01:06.000Z",
-          "wordCount": 1977,
+          "wordCount": 1993,
           "title": "SaaS Founders: Pick a tech stack you already know",
           "imageUrl": null
         },
@@ -445,7 +445,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/t8Read-C0bg",
           "publishedOn": "2025-08-05T15:01:34.000Z",
-          "wordCount": 1954,
+          "wordCount": 1940,
           "title": "Most Marketing Gurus SUCK",
           "imageUrl": null
         },
@@ -455,7 +455,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Xod3lib8rLU",
           "publishedOn": "2025-08-04T15:01:51.000Z",
-          "wordCount": 1970,
+          "wordCount": 1958,
           "title": "3 Lessons learned from running a $2M business",
           "imageUrl": null
         },
@@ -475,7 +475,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/POQ01OYyC1A",
           "publishedOn": "2025-07-30T15:15:28.000Z",
-          "wordCount": 1903,
+          "wordCount": 2045,
           "title": "3 Amazing Tips to Use Cursor Like a Pro",
           "imageUrl": null
         },
@@ -485,7 +485,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a6huns3f9Y4",
           "publishedOn": "2025-07-24T18:19:06.000Z",
-          "wordCount": 1939,
+          "wordCount": 1932,
           "title": "ChatGPT agents was just released",
           "imageUrl": null
         },
@@ -515,7 +515,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/AfBzx-0T6Uk",
           "publishedOn": "2025-07-21T17:30:03.000Z",
-          "wordCount": 1972,
+          "wordCount": 2023,
           "title": "This chart reveals which AI Automation ideas to sell",
           "imageUrl": null
         },
@@ -525,7 +525,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/2eNGEiG9_zw",
           "publishedOn": "2025-07-21T05:25:56.000Z",
-          "wordCount": 2010,
+          "wordCount": 1967,
           "title": "The ONLY job that will survive AI is...",
           "imageUrl": null
         },
@@ -535,7 +535,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/35IWGkyKsgM",
           "publishedOn": "2025-07-17T19:30:49.000Z",
-          "wordCount": 2007,
+          "wordCount": 1963,
           "title": "This chart shows which jobs AI will replace",
           "imageUrl": null
         }

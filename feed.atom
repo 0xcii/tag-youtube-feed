@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-18T13:28:27.883Z</id>
+    <id>urn:2025-08-18T14:10:55.134Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-18T13:28:27.883Z</updated>
+    <updated>2025-08-18T14:10:55.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken Margin Trading Tutorial (How to Trade with Margin on Kraken)]]></title>
+        <id>https://www.youtube.com/watch?v=2hlo9HnZ2Yg</id>
+        <link href="https://www.youtube.com/watch?v=2hlo9HnZ2Yg"/>
+        <updated>2025-08-18T14:00:05.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未来链上领军者！ Debot 解放双手AI自动交易获利！ 链上小白专用AI   #debot  #meme]]></title>
         <id>https://www.youtube.com/watch?v=4fy0Tjxkcyk</id>
@@ -376,15 +385,6 @@
         <updated>2025-07-29T09:59:27.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Withdraw & Cash Out from Crypto.com Onchain Wallet]]></title>
-        <id>https://www.youtube.com/watch?v=1Uq9m03OMl0</id>
-        <link href="https://www.youtube.com/watch?v=1Uq9m03OMl0"/>
-        <updated>2025-07-28T14:00:03.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

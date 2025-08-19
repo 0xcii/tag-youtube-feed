@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-19T07:09:32.700Z</id>
+    <id>urn:2025-08-19T08:12:43.866Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-19T07:09:32.700Z</updated>
+    <updated>2025-08-19T08:12:43.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I Built 6 Apps with ChatGPT-5 (Vibe Coding Test)]]></title>
+        <id>https://www.youtube.com/watch?v=rB0soVsiBLI</id>
+        <link href="https://www.youtube.com/watch?v=rB0soVsiBLI"/>
+        <updated>2025-08-19T07:59:56.000Z</updated>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken Margin Trading Tutorial (How to Trade with Margin on Kraken)]]></title>
         <id>https://www.youtube.com/watch?v=2hlo9HnZ2Yg</id>

@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9tANiA0LKn4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9tANiA0LKn4",
+          "publishedOn": "2025-08-20T13:19:46.000Z",
+          "wordCount": null,
+          "title": "Building an AI-Powered E-commerce Chat Assistant with MongoDB – Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Jaj_SQsF-BI",
           "author": null,
           "description": "",
@@ -261,16 +271,6 @@
           "wordCount": null,
           "title": "Learn TypeScript – Crash Course for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z_c4byLrNBU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z_c4byLrNBU",
-          "publishedOn": "2025-07-22T14:32:52.000Z",
-          "wordCount": null,
-          "title": "Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial",
-          "imageUrl": null
         }
       ]
     },
@@ -291,6 +291,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HR6BeUiUshQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HR6BeUiUshQ",
+          "publishedOn": "2025-08-20T14:00:20.000Z",
+          "wordCount": null,
+          "title": "Coinbase vs Kraken: Best Crypto Exchange?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HOCMRan_Pw8",
           "author": null,
@@ -430,16 +440,6 @@
           "wordCount": null,
           "title": "Best VWAP Trading Strategy for Day Trading (Very EASY to Use)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BdPUIlzMbi4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BdPUIlzMbi4",
-          "publishedOn": "2025-07-30T14:00:26.000Z",
-          "wordCount": null,
-          "title": "How to Swap Crypto in Bitget Wallet",
-          "imageUrl": null
         }
       ]
     },
@@ -464,7 +464,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Vple8j-xogc",
           "publishedOn": "2025-08-06T15:01:06.000Z",
-          "wordCount": 2131,
+          "wordCount": 2008,
           "title": "SaaS Founders: Pick a tech stack you already know",
           "imageUrl": null
         },
@@ -474,7 +474,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/t8Read-C0bg",
           "publishedOn": "2025-08-05T15:01:34.000Z",
-          "wordCount": 2093,
+          "wordCount": 2147,
           "title": "Most Marketing Gurus SUCK",
           "imageUrl": null
         },
@@ -484,7 +484,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Xod3lib8rLU",
           "publishedOn": "2025-08-04T15:01:51.000Z",
-          "wordCount": 2029,
+          "wordCount": 2003,
           "title": "3 Lessons learned from running a $2M business",
           "imageUrl": null
         },
@@ -504,7 +504,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/POQ01OYyC1A",
           "publishedOn": "2025-07-30T15:15:28.000Z",
-          "wordCount": 2155,
+          "wordCount": 1967,
           "title": "3 Amazing Tips to Use Cursor Like a Pro",
           "imageUrl": null
         },
@@ -514,7 +514,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a6huns3f9Y4",
           "publishedOn": "2025-07-24T18:19:06.000Z",
-          "wordCount": 2005,
+          "wordCount": 2135,
           "title": "ChatGPT agents was just released",
           "imageUrl": null
         },
@@ -524,7 +524,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yo8cnAyDxiE",
           "publishedOn": "2025-07-23T16:49:15.000Z",
-          "wordCount": 2150,
+          "wordCount": 1900,
           "title": "AI Automation Agencies SUCK!",
           "imageUrl": null
         },

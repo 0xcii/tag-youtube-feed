@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-20T05:09:22.652Z</id>
+    <id>urn:2025-08-20T06:14:06.505Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-20T05:09:22.652Z</updated>
+    <updated>2025-08-20T06:14:06.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -477,16 +477,6 @@
         <updated>2025-07-22T14:32:52.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This chart reveals which AI Automation ideas to sell]]></title>
-        <id>https://www.youtube.com/shorts/AfBzx-0T6Uk</id>
-        <link href="https://www.youtube.com/shorts/AfBzx-0T6Uk"/>
-        <updated>2025-07-21T17:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

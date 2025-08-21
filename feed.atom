@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-21T15:09:50.072Z</id>
+    <id>urn:2025-08-21T16:15:33.863Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-21T15:09:50.072Z</updated>
+    <updated>2025-08-21T16:15:33.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Lose ALL Your Crypto in 1 Click]]></title>
+        <id>https://www.youtube.com/watch?v=Qs_Ylfs1544</id>
+        <link href="https://www.youtube.com/watch?v=Qs_Ylfs1544"/>
+        <updated>2025-08-21T16:00:53.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Transfer Crypto from Binance to Coinbase]]></title>
         <id>https://www.youtube.com/watch?v=dR2z5tbfxjg</id>

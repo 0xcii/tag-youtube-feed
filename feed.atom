@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-26T14:08:27.737Z</id>
+    <id>urn:2025-08-26T15:08:53.573Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-26T14:08:27.737Z</updated>
+    <updated>2025-08-26T15:08:53.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CRYPTO ALERT: URGENT UPDATE NOW]]></title>
+        <id>https://www.youtube.com/watch?v=7B1Jq63IH0k</id>
+        <link href="https://www.youtube.com/watch?v=7B1Jq63IH0k"/>
+        <updated>2025-08-26T14:00:19.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Professional Cloud Architect Certification Course – Pass the Exam!]]></title>
         <id>https://www.youtube.com/watch?v=u43gJJrVa1I</id>
@@ -321,15 +330,6 @@
         <updated>2025-08-05T14:16:26.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: All Eyes on Bitcoin & Ethereum!!]]></title>
-        <id>https://www.youtube.com/watch?v=nEhgr9-2z84</id>
-        <link href="https://www.youtube.com/watch?v=nEhgr9-2z84"/>
-        <updated>2025-08-05T14:01:12.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

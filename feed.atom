@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-27T12:16:35.407Z</id>
+    <id>urn:2025-08-27T13:19:59.818Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-27T12:16:35.407Z</updated>
+    <updated>2025-08-27T13:19:59.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I have vibe coded a landscape generator in 10 mins]]></title>
+        <id>https://www.youtube.com/shorts/V4--iiMEkJM</id>
+        <link href="https://www.youtube.com/shorts/V4--iiMEkJM"/>
+        <updated>2025-08-27T13:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>EatTheBlocks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial with Three.js – 5 Projects for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=tPkJLnDqAKk</id>
+        <link href="https://www.youtube.com/watch?v=tPkJLnDqAKk"/>
+        <updated>2025-08-27T12:50:36.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: URGENT UPDATE NOW]]></title>
         <id>https://www.youtube.com/watch?v=7B1Jq63IH0k</id>
@@ -431,15 +450,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Algorithms Work – Algorithm Analysis Deep Dive Course]]></title>
-        <id>https://www.youtube.com/watch?v=ku6HZ_k9qgY</id>
-        <link href="https://www.youtube.com/watch?v=ku6HZ_k9qgY"/>
-        <updated>2025-07-30T14:33:21.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tPkJLnDqAKk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tPkJLnDqAKk",
+          "publishedOn": "2025-08-27T12:50:36.000Z",
+          "wordCount": null,
+          "title": "JavaScript Tutorial with Three.js – 5 Projects for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=u43gJJrVa1I",
           "author": null,
           "description": "",
@@ -260,16 +270,6 @@
           "publishedOn": "2025-08-01T13:30:09.000Z",
           "wordCount": null,
           "title": "Senior Playstation Engineer's tips for learning new tools and getting things done [Podcast #184]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ku6HZ_k9qgY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ku6HZ_k9qgY",
-          "publishedOn": "2025-07-30T14:33:21.000Z",
-          "wordCount": null,
-          "title": "Why Algorithms Work – Algorithm Analysis Deep Dive Course",
           "imageUrl": null
         }
       ]
@@ -449,12 +449,22 @@
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/V4--iiMEkJM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/V4--iiMEkJM",
+          "publishedOn": "2025-08-27T13:00:58.000Z",
+          "wordCount": 2039,
+          "title": "I have vibe coded a landscape generator in 10 mins",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/vAmJHdpQJ8Q",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vAmJHdpQJ8Q",
           "publishedOn": "2025-08-26T07:31:54.000Z",
-          "wordCount": 2006,
+          "wordCount": 2000,
           "title": "I have vibe coded 6 apps with chatGPT 5",
           "imageUrl": null
         },
@@ -474,7 +484,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Vple8j-xogc",
           "publishedOn": "2025-08-06T15:01:06.000Z",
-          "wordCount": 1997,
+          "wordCount": 2007,
           "title": "SaaS Founders: Pick a tech stack you already know",
           "imageUrl": null
         },
@@ -484,7 +494,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/t8Read-C0bg",
           "publishedOn": "2025-08-05T15:01:34.000Z",
-          "wordCount": 1966,
+          "wordCount": 1970,
           "title": "Most Marketing Gurus SUCK",
           "imageUrl": null
         },
@@ -494,7 +504,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Xod3lib8rLU",
           "publishedOn": "2025-08-04T15:01:51.000Z",
-          "wordCount": 1971,
+          "wordCount": 2000,
           "title": "3 Lessons learned from running a $2M business",
           "imageUrl": null
         },
@@ -514,7 +524,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/POQ01OYyC1A",
           "publishedOn": "2025-07-30T15:15:28.000Z",
-          "wordCount": 2023,
+          "wordCount": 1973,
           "title": "3 Amazing Tips to Use Cursor Like a Pro",
           "imageUrl": null
         }

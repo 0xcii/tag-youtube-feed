@@ -103,6 +103,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ebarbEsoHzg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ebarbEsoHzg",
+          "publishedOn": "2025-08-29T01:20:24.000Z",
+          "wordCount": null,
+          "title": "How to use AI as an accelerator, not a crutch, with freelance engineer Ankur Tyagi  [Podcast #186]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tPkJLnDqAKk",
           "author": null,
           "description": "",
@@ -240,16 +250,6 @@
           "publishedOn": "2025-08-04T13:56:59.000Z",
           "wordCount": null,
           "title": "React Course for Beginners w/ Tailwind CSS [2025]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C7UI_4jIGSQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C7UI_4jIGSQ",
-          "publishedOn": "2025-08-01T13:30:09.000Z",
-          "wordCount": null,
-          "title": "Senior Playstation Engineer's tips for learning new tools and getting things done [Podcast #184]",
           "imageUrl": null
         }
       ]
@@ -434,7 +434,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3aYh78mNNrM",
           "publishedOn": "2025-08-28T13:00:08.000Z",
-          "wordCount": 2013,
+          "wordCount": 2075,
           "title": "I have vibe coded a Coinmarketcap clone with chatGPT5",
           "imageUrl": null
         },
@@ -444,7 +444,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V4--iiMEkJM",
           "publishedOn": "2025-08-27T13:00:58.000Z",
-          "wordCount": 2024,
+          "wordCount": 2020,
           "title": "I have vibe coded a landscape generator in 10 mins",
           "imageUrl": null
         },
@@ -454,7 +454,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vAmJHdpQJ8Q",
           "publishedOn": "2025-08-26T07:31:54.000Z",
-          "wordCount": 2004,
+          "wordCount": 2015,
           "title": "I have vibe coded 6 apps with chatGPT 5",
           "imageUrl": null
         },
@@ -474,7 +474,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Vple8j-xogc",
           "publishedOn": "2025-08-06T15:01:06.000Z",
-          "wordCount": 1990,
+          "wordCount": 1992,
           "title": "SaaS Founders: Pick a tech stack you already know",
           "imageUrl": null
         },
@@ -484,7 +484,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/t8Read-C0bg",
           "publishedOn": "2025-08-05T15:01:34.000Z",
-          "wordCount": 1987,
+          "wordCount": 2023,
           "title": "Most Marketing Gurus SUCK",
           "imageUrl": null
         },
@@ -494,7 +494,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Xod3lib8rLU",
           "publishedOn": "2025-08-04T15:01:51.000Z",
-          "wordCount": 2014,
+          "wordCount": 1977,
           "title": "3 Lessons learned from running a $2M business",
           "imageUrl": null
         },
@@ -514,7 +514,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/POQ01OYyC1A",
           "publishedOn": "2025-07-30T15:15:28.000Z",
-          "wordCount": 2083,
+          "wordCount": 2011,
           "title": "3 Amazing Tips to Use Cursor Like a Pro",
           "imageUrl": null
         }

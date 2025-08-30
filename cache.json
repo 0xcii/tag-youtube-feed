@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r8ddhqF0sxk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r8ddhqF0sxk",
+          "publishedOn": "2025-08-30T15:10:31.000Z",
+          "wordCount": null,
+          "title": "XRP 上的跨链借贷协议 Flary ！ XRP + Flary = 🔥",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9cHVI0VDOBg",
           "author": null,
           "description": "",
@@ -83,16 +93,6 @@
           "publishedOn": "2025-08-01T23:50:18.000Z",
           "wordCount": null,
           "title": "90%人不知道的链上暴富机会！ polymarket 预测市场：未来所有交易都将在链上完成？揭秘万亿新赛道！   #polymarket #polycule #limitless",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JHHgagAWwb4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JHHgagAWwb4",
-          "publishedOn": "2025-08-01T04:00:27.000Z",
-          "wordCount": null,
-          "title": "Nansen AI 如何 1 分钟找到任何代币的庄钱包 ？「快速演示版」",
           "imageUrl": null
         }
       ]
@@ -445,7 +445,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UMITDxsQpXI",
           "publishedOn": "2025-08-29T13:01:00.000Z",
-          "wordCount": 2054,
+          "wordCount": 2071,
           "title": "ChatGPT 5 is crazy! I have vibe coded a Spaceship game",
           "imageUrl": null
         },
@@ -455,7 +455,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3aYh78mNNrM",
           "publishedOn": "2025-08-28T13:00:08.000Z",
-          "wordCount": 2051,
+          "wordCount": 2176,
           "title": "I have vibe coded a Coinmarketcap clone with chatGPT5",
           "imageUrl": null
         },
@@ -465,7 +465,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V4--iiMEkJM",
           "publishedOn": "2025-08-27T13:00:58.000Z",
-          "wordCount": 2026,
+          "wordCount": 2122,
           "title": "I have vibe coded a landscape generator in 10 mins",
           "imageUrl": null
         },
@@ -475,7 +475,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vAmJHdpQJ8Q",
           "publishedOn": "2025-08-26T07:31:54.000Z",
-          "wordCount": 2033,
+          "wordCount": 2086,
           "title": "I have vibe coded 6 apps with chatGPT 5",
           "imageUrl": null
         },
@@ -495,7 +495,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Vple8j-xogc",
           "publishedOn": "2025-08-06T15:01:06.000Z",
-          "wordCount": 2046,
+          "wordCount": 2214,
           "title": "SaaS Founders: Pick a tech stack you already know",
           "imageUrl": null
         },
@@ -505,7 +505,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/t8Read-C0bg",
           "publishedOn": "2025-08-05T15:01:34.000Z",
-          "wordCount": 1994,
+          "wordCount": 1980,
           "title": "Most Marketing Gurus SUCK",
           "imageUrl": null
         },
@@ -515,7 +515,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Xod3lib8rLU",
           "publishedOn": "2025-08-04T15:01:51.000Z",
-          "wordCount": 1993,
+          "wordCount": 2041,
           "title": "3 Lessons learned from running a $2M business",
           "imageUrl": null
         }

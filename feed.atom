@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-01T12:17:00.474Z</id>
+    <id>urn:2025-09-01T13:21:29.181Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-01T12:17:00.474Z</updated>
+    <updated>2025-09-01T13:21:29.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -440,15 +440,6 @@
         <id>https://www.youtube.com/watch?v=N6ISvEnLTV0</id>
         <link href="https://www.youtube.com/watch?v=N6ISvEnLTV0"/>
         <updated>2025-08-04T02:21:22.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是如何发现早期潜力项目的 ！ 为什么你总是错过早期Alpha ？因为你没发现这个工具！ #moni #alpha #crypto]]></title>
-        <id>https://www.youtube.com/watch?v=t-vx-f_x9To</id>
-        <link href="https://www.youtube.com/watch?v=t-vx-f_x9To"/>
-        <updated>2025-08-03T00:31:17.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

@@ -77,7 +77,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=Zv2a6ixXEQc",
-          "publishedOn": "2025-09-04T23:27:39.000Z",
+          "publishedOn": "2025-09-05T14:00:06.000Z",
           "wordCount": null,
           "title": "How to focus on building your skills when everything's so distracting with Ania Kubów [Podcast #187]",
           "imageUrl": null
@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_Wmghz_AmfY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_Wmghz_AmfY",
+          "publishedOn": "2025-09-05T14:01:04.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Time to Start Selling Soon!??",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ANEHEVHO6GI",
           "author": null,
           "description": "",
@@ -391,16 +401,6 @@
           "wordCount": null,
           "title": "Kraken Margin Trading Tutorial (How to Trade with Margin on Kraken)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6ovHfvkuKMs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6ovHfvkuKMs",
-          "publishedOn": "2025-08-15T14:00:10.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: DON'T BE FOOLED BY THIS DIP!!",
-          "imageUrl": null
         }
       ]
     },
@@ -415,7 +415,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UMITDxsQpXI",
           "publishedOn": "2025-08-29T13:01:00.000Z",
-          "wordCount": 2089,
+          "wordCount": 2040,
           "title": "ChatGPT 5 is crazy! I have vibe coded a Spaceship game",
           "imageUrl": null
         },
@@ -425,7 +425,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3aYh78mNNrM",
           "publishedOn": "2025-08-28T13:00:08.000Z",
-          "wordCount": 2056,
+          "wordCount": 2057,
           "title": "I have vibe coded a Coinmarketcap clone with chatGPT5",
           "imageUrl": null
         },
@@ -435,7 +435,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V4--iiMEkJM",
           "publishedOn": "2025-08-27T13:00:58.000Z",
-          "wordCount": 2056,
+          "wordCount": 2057,
           "title": "I have vibe coded a landscape generator in 10 mins",
           "imageUrl": null
         },
@@ -445,7 +445,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vAmJHdpQJ8Q",
           "publishedOn": "2025-08-26T07:31:54.000Z",
-          "wordCount": 1976,
+          "wordCount": 2016,
           "title": "I have vibe coded 6 apps with chatGPT 5",
           "imageUrl": null
         },

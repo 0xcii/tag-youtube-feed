@@ -73,6 +73,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Zv2a6ixXEQc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zv2a6ixXEQc",
+          "publishedOn": "2025-09-04T23:27:39.000Z",
+          "wordCount": null,
+          "title": "How to Make Companies Beg You to Join with Ania Kubów [Podcast #187]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=H-oCV5brtU4",
           "author": null,
           "description": "",
@@ -210,16 +220,6 @@
           "publishedOn": "2025-08-12T13:48:57.000Z",
           "wordCount": null,
           "title": "DevSecOps Course for Beginners – API Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N0K0m7dZBJI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N0K0m7dZBJI",
-          "publishedOn": "2025-08-08T13:00:45.000Z",
-          "wordCount": null,
-          "title": "Abandoning med school to become a software engineer with Edidiong Asikpo [Podcast #182]",
           "imageUrl": null
         }
       ]
@@ -415,7 +415,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UMITDxsQpXI",
           "publishedOn": "2025-08-29T13:01:00.000Z",
-          "wordCount": 2009,
+          "wordCount": 2047,
           "title": "ChatGPT 5 is crazy! I have vibe coded a Spaceship game",
           "imageUrl": null
         },
@@ -465,7 +465,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Vple8j-xogc",
           "publishedOn": "2025-08-06T15:01:06.000Z",
-          "wordCount": 2040,
+          "wordCount": 2203,
           "title": "SaaS Founders: Pick a tech stack you already know",
           "imageUrl": null
         }

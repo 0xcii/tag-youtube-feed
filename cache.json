@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9vkkJ4tC4SQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9vkkJ4tC4SQ",
+          "publishedOn": "2025-09-08T14:50:28.000Z",
+          "wordCount": null,
+          "title": "iOS App Store Submission Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Zv2a6ixXEQc",
           "author": null,
           "description": "",
@@ -220,16 +230,6 @@
           "publishedOn": "2025-08-13T15:53:12.000Z",
           "wordCount": null,
           "title": "Next.js Caching & Rendering Tutorial – Full Course for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JfiWi8RjN-8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JfiWi8RjN-8",
-          "publishedOn": "2025-08-12T13:48:57.000Z",
-          "wordCount": null,
-          "title": "DevSecOps Course for Beginners – API Security",
           "imageUrl": null
         }
       ]
@@ -425,7 +425,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UMITDxsQpXI",
           "publishedOn": "2025-08-29T13:01:00.000Z",
-          "wordCount": 2297,
+          "wordCount": 2009,
           "title": "ChatGPT 5 is crazy! I have vibe coded a Spaceship game",
           "imageUrl": null
         },
@@ -435,7 +435,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3aYh78mNNrM",
           "publishedOn": "2025-08-28T13:00:08.000Z",
-          "wordCount": 2061,
+          "wordCount": 1985,
           "title": "I have vibe coded a Coinmarketcap clone with chatGPT5",
           "imageUrl": null
         },
@@ -445,7 +445,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V4--iiMEkJM",
           "publishedOn": "2025-08-27T13:00:58.000Z",
-          "wordCount": 2083,
+          "wordCount": 2027,
           "title": "I have vibe coded a landscape generator in 10 mins",
           "imageUrl": null
         },
@@ -455,7 +455,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vAmJHdpQJ8Q",
           "publishedOn": "2025-08-26T07:31:54.000Z",
-          "wordCount": 2023,
+          "wordCount": 1988,
           "title": "I have vibe coded 6 apps with chatGPT 5",
           "imageUrl": null
         },

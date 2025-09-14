@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-14T11:03:04.390Z</id>
+    <id>urn:2025-09-14T12:13:53.203Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-14T11:03:04.390Z</updated>
+    <updated>2025-09-14T12:13:53.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -410,15 +410,6 @@
         <id>https://www.youtube.com/watch?v=3NEqYy32l-o</id>
         <link href="https://www.youtube.com/watch?v=3NEqYy32l-o"/>
         <updated>2025-08-16T04:13:44.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费的钱，即将结束的 4倍机会仅剩20% 了，  XRP 上的 Uniswap 终于要上线啦！ DeXRP 订单簿与 AMM 的混合交易   #xrp #uniswap]]></title>
-        <id>https://www.youtube.com/watch?v=zE6TGnF5pZ4</id>
-        <link href="https://www.youtube.com/watch?v=zE6TGnF5pZ4"/>
-        <updated>2025-08-16T00:12:39.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

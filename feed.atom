@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-15T15:09:53.233Z</id>
+    <id>urn:2025-09-15T16:10:32.113Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-15T15:09:53.233Z</updated>
+    <updated>2025-09-15T16:10:32.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -394,15 +394,6 @@
         <updated>2025-08-19T07:59:56.000Z</updated>
         <author>
             <name>EatTheBlocks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未来链上领军者！ Debot 解放双手AI自动交易获利！ 链上小白专用AI   #debot  #meme]]></title>
-        <id>https://www.youtube.com/watch?v=4fy0Tjxkcyk</id>
-        <link href="https://www.youtube.com/watch?v=4fy0Tjxkcyk"/>
-        <updated>2025-08-17T03:31:29.000Z</updated>
-        <author>
-            <name>链求君</name>
         </author>
     </entry>
 </feed>

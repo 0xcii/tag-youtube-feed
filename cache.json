@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Vs4hQsDpxww",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vs4hQsDpxww",
+          "publishedOn": "2025-09-15T14:42:47.000Z",
+          "wordCount": null,
+          "title": "Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6_qwLx8jwBY",
           "author": null,
           "description": "",
@@ -201,16 +211,6 @@
           "wordCount": null,
           "title": "Checkmate Patterns for Beginners – Full Chess Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9tANiA0LKn4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9tANiA0LKn4",
-          "publishedOn": "2025-08-20T13:19:46.000Z",
-          "wordCount": null,
-          "title": "Building an AI-Powered E-commerce Chat Assistant with MongoDB – Tutorial",
-          "imageUrl": null
         }
       ]
     },
@@ -242,6 +242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sMgkAIQpizc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sMgkAIQpizc",
+          "publishedOn": "2025-09-15T14:01:31.000Z",
+          "wordCount": null,
+          "title": "How to Send Crypto from Uphold to Another Wallet or Exchange",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QE20Ybcokzs",
           "author": null,
@@ -381,16 +391,6 @@
           "wordCount": null,
           "title": "CRYPTO ALERT: URGENT UPDATE NOW",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rGlOxzcvapA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rGlOxzcvapA",
-          "publishedOn": "2025-08-25T14:01:14.000Z",
-          "wordCount": null,
-          "title": "Trust Wallet: How to Cash Out & Withdraw to Bank (Detailed Guide)",
-          "imageUrl": null
         }
       ]
     },
@@ -405,7 +405,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UMITDxsQpXI",
           "publishedOn": "2025-08-29T13:01:00.000Z",
-          "wordCount": 2094,
+          "wordCount": 2015,
           "title": "ChatGPT 5 is crazy! I have vibe coded a Spaceship game",
           "imageUrl": null
         },
@@ -415,7 +415,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3aYh78mNNrM",
           "publishedOn": "2025-08-28T13:00:08.000Z",
-          "wordCount": 2014,
+          "wordCount": 2277,
           "title": "I have vibe coded a Coinmarketcap clone with chatGPT5",
           "imageUrl": null
         },
@@ -425,7 +425,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V4--iiMEkJM",
           "publishedOn": "2025-08-27T13:00:58.000Z",
-          "wordCount": 2095,
+          "wordCount": 2024,
           "title": "I have vibe coded a landscape generator in 10 mins",
           "imageUrl": null
         },
@@ -435,7 +435,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vAmJHdpQJ8Q",
           "publishedOn": "2025-08-26T07:31:54.000Z",
-          "wordCount": 2002,
+          "wordCount": 1984,
           "title": "I have vibe coded 6 apps with chatGPT 5",
           "imageUrl": null
         },

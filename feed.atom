@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-16T14:09:22.139Z</id>
+    <id>urn:2025-09-16T15:09:08.849Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-16T14:09:22.139Z</updated>
+    <updated>2025-09-16T15:09:08.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[OpenRouter - the Open Source Alternative of OpenRouter]]></title>
+        <title type="html"><![CDATA[LLM Gateway - the Open Source Alternative of OpenRouter]]></title>
         <id>https://www.youtube.com/watch?v=Qeb6qwjm5Kk</id>
         <link href="https://www.youtube.com/watch?v=Qeb6qwjm5Kk"/>
         <updated>2025-09-16T14:05:58.000Z</updated>
         <author>
             <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: What *Just* Happened!!?]]></title>
+        <id>https://www.youtube.com/watch?v=ymL3-EXmUs0</id>
+        <link href="https://www.youtube.com/watch?v=ymL3-EXmUs0"/>
+        <updated>2025-09-16T14:01:41.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -330,15 +339,6 @@
         <updated>2025-08-27T12:50:36.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: URGENT UPDATE NOW]]></title>
-        <id>https://www.youtube.com/watch?v=7B1Jq63IH0k</id>
-        <link href="https://www.youtube.com/watch?v=7B1Jq63IH0k"/>
-        <updated>2025-08-26T14:00:19.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

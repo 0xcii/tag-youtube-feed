@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-16T13:19:58.204Z</id>
+    <id>urn:2025-09-16T14:09:22.139Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-16T13:19:58.205Z</updated>
+    <updated>2025-09-16T14:09:22.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenRouter - the Open Source Alternative of OpenRouter]]></title>
+        <id>https://www.youtube.com/watch?v=Qeb6qwjm5Kk</id>
+        <link href="https://www.youtube.com/watch?v=Qeb6qwjm5Kk"/>
+        <updated>2025-09-16T14:05:58.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=Vs4hQsDpxww</id>

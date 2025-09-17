@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-17T19:04:54.733Z</id>
+    <id>urn:2025-09-17T20:09:04.937Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-17T19:04:54.733Z</updated>
+    <updated>2025-09-17T20:09:04.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -394,15 +394,6 @@
         <updated>2025-08-21T16:00:53.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built 6 Apps with ChatGPT-5 (Vibe Coding Test)]]></title>
-        <id>https://www.youtube.com/watch?v=rB0soVsiBLI</id>
-        <link href="https://www.youtube.com/watch?v=rB0soVsiBLI"/>
-        <updated>2025-08-19T07:59:56.000Z</updated>
-        <author>
-            <name>EatTheBlocks</name>
         </author>
     </entry>
 </feed>

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-22T14:09:42.332Z</id>
+    <id>urn:2025-09-22T15:09:45.361Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-22T14:09:42.332Z</updated>
+    <updated>2025-09-22T15:09:45.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)]]></title>
+        <id>https://www.youtube.com/watch?v=B0TJC4lmzEM</id>
+        <link href="https://www.youtube.com/watch?v=B0TJC4lmzEM"/>
+        <updated>2025-09-22T14:35:42.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken Pro Stop Loss Order Tutorial (How to Set a Stop Loss)]]></title>
+        <id>https://www.youtube.com/watch?v=jBoBpWqOdfw</id>
+        <link href="https://www.youtube.com/watch?v=jBoBpWqOdfw"/>
+        <updated>2025-09-22T14:01:19.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Massive Ethereum Upgrade nobody's talking about]]></title>
         <id>https://www.youtube.com/watch?v=OBUFxrFB8Qg</id>
@@ -285,15 +303,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blofin Futures Trading Tutorial for Beginners (EVERYTHING You Need to Know)]]></title>
-        <id>https://www.youtube.com/watch?v=zrx0OP3iJC0</id>
-        <link href="https://www.youtube.com/watch?v=zrx0OP3iJC0"/>
-        <updated>2025-09-01T14:01:38.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[XRP 上的跨链借贷协议 Flary ！ XRP + Flary = 🔥]]></title>
         <id>https://www.youtube.com/watch?v=r8ddhqF0sxk</id>
         <link href="https://www.youtube.com/watch?v=r8ddhqF0sxk"/>
@@ -373,15 +382,6 @@
         <id>https://www.youtube.com/watch?v=tPkJLnDqAKk</id>
         <link href="https://www.youtube.com/watch?v=tPkJLnDqAKk"/>
         <updated>2025-08-27T12:50:36.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Professional Cloud Architect Certification Course – Pass the Exam!]]></title>
-        <id>https://www.youtube.com/watch?v=u43gJJrVa1I</id>
-        <link href="https://www.youtube.com/watch?v=u43gJJrVa1I"/>
-        <updated>2025-08-26T13:42:34.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

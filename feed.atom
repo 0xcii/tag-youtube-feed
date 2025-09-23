@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-23T13:20:06.042Z</id>
+    <id>urn:2025-09-23T14:09:02.771Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-23T13:20:06.042Z</updated>
+    <updated>2025-09-23T14:09:02.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Worried About This "Dip"!!!!??]]></title>
+        <id>https://www.youtube.com/watch?v=ppq-JeaA4kk</id>
+        <link href="https://www.youtube.com/watch?v=ppq-JeaA4kk"/>
+        <updated>2025-09-23T14:01:25.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LLMs from Scratch – Practical Engineering from Base Model to PPO RLHF]]></title>
         <id>https://www.youtube.com/watch?v=p3sij8QzONQ</id>
@@ -291,15 +300,6 @@
         <updated>2025-09-03T05:24:04.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: THE CHARTS LOOK VERY VERY GOOD!!]]></title>
-        <id>https://www.youtube.com/watch?v=1utawrR1jeU</id>
-        <link href="https://www.youtube.com/watch?v=1utawrR1jeU"/>
-        <updated>2025-09-02T14:00:03.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

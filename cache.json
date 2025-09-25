@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yguDjZcUpH8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yguDjZcUpH8",
+          "publishedOn": "2025-09-25T20:17:53.000Z",
+          "wordCount": null,
+          "title": "Lone Wolf Dev turned Open Source Super Contributor Tom Mondloch [Podcast #190]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mvleESOUTRw",
           "author": null,
           "description": "",
@@ -190,16 +200,6 @@
           "publishedOn": "2025-09-03T13:37:24.000Z",
           "wordCount": null,
           "title": "Guide to Agentic AI – Build a Python Coding Agent with Gemini",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tpIyum0ERIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tpIyum0ERIo",
-          "publishedOn": "2025-09-02T13:51:56.000Z",
-          "wordCount": null,
-          "title": "Mandarin Chinese Language Beginners Course – Learn HSK1 Level Mandarin",
           "imageUrl": null
         }
       ]
@@ -405,7 +405,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UMITDxsQpXI",
           "publishedOn": "2025-08-29T13:01:00.000Z",
-          "wordCount": 2042,
+          "wordCount": 2066,
           "title": "ChatGPT 5 is crazy! I have vibe coded a Spaceship game",
           "imageUrl": null
         },
@@ -415,7 +415,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3aYh78mNNrM",
           "publishedOn": "2025-08-28T13:00:08.000Z",
-          "wordCount": 2079,
+          "wordCount": 2065,
           "title": "I have vibe coded a Coinmarketcap clone with chatGPT5",
           "imageUrl": null
         },
@@ -425,7 +425,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V4--iiMEkJM",
           "publishedOn": "2025-08-27T13:00:58.000Z",
-          "wordCount": 1988,
+          "wordCount": 2011,
           "title": "I have vibe coded a landscape generator in 10 mins",
           "imageUrl": null
         }

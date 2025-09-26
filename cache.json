@@ -253,6 +253,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iaVqbsIXYPE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iaVqbsIXYPE",
+          "publishedOn": "2025-09-26T14:01:24.000Z",
+          "wordCount": null,
+          "title": "Crypto Update: Biggest Warning About This Bull Market!!?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5pMjFIPyzhI",
           "author": null,
           "description": "",
@@ -391,16 +401,6 @@
           "wordCount": null,
           "title": "How to Send Crypto from Revolut to Another Exchange or Wallet",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_Wmghz_AmfY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_Wmghz_AmfY",
-          "publishedOn": "2025-09-05T14:01:04.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Time to Start Selling Soon!??",
-          "imageUrl": null
         }
       ]
     },
@@ -415,7 +415,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UMITDxsQpXI",
           "publishedOn": "2025-08-29T13:01:00.000Z",
-          "wordCount": 2073,
+          "wordCount": 2380,
           "title": "ChatGPT 5 is crazy! I have vibe coded a Spaceship game",
           "imageUrl": null
         },
@@ -425,7 +425,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3aYh78mNNrM",
           "publishedOn": "2025-08-28T13:00:08.000Z",
-          "wordCount": 2048,
+          "wordCount": 2071,
           "title": "I have vibe coded a Coinmarketcap clone with chatGPT5",
           "imageUrl": null
         }

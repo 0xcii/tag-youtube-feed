@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Bm_cq9gAPhE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bm_cq9gAPhE",
+          "publishedOn": "2025-09-26T22:14:05.000Z",
+          "wordCount": null,
+          "title": "如何通过 SafePal 足不出户免费开通瑞士银行账户 ？ 独享加密货币合规出入金！ 20分钟拥有一套完整、合规的金融账户体系！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U6h13cDh2kA",
           "author": null,
           "description": "",
@@ -415,7 +425,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UMITDxsQpXI",
           "publishedOn": "2025-08-29T13:01:00.000Z",
-          "wordCount": 2108,
+          "wordCount": 2077,
           "title": "ChatGPT 5 is crazy! I have vibe coded a Spaceship game",
           "imageUrl": null
         },
@@ -425,7 +435,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3aYh78mNNrM",
           "publishedOn": "2025-08-28T13:00:08.000Z",
-          "wordCount": 2118,
+          "wordCount": 2079,
           "title": "I have vibe coded a Coinmarketcap clone with chatGPT5",
           "imageUrl": null
         }

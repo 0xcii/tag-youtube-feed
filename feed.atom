@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-29T02:19:20.851Z</id>
+    <id>urn:2025-09-29T03:30:13.356Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-29T02:19:20.851Z</updated>
+    <updated>2025-09-29T03:30:13.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -352,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=bmOtIwqpiWQ</id>
         <link href="https://www.youtube.com/watch?v=bmOtIwqpiWQ"/>
         <updated>2025-09-03T05:24:04.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP 上的跨链借贷协议 Flary ！ XRP + Flary = 🔥]]></title>
-        <id>https://www.youtube.com/watch?v=r8ddhqF0sxk</id>
-        <link href="https://www.youtube.com/watch?v=r8ddhqF0sxk"/>
-        <updated>2025-08-30T15:10:31.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

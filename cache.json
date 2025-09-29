@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wO7eT5wd0nY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wO7eT5wd0nY",
+          "publishedOn": "2025-09-29T14:01:37.000Z",
+          "wordCount": null,
+          "title": "OKX Stop Loss & Take Profit Tutorial (How to use TP/SL on OKX)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iaVqbsIXYPE",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2025-09-09T14:01:21.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: AN URGENT MESSAGE TO INVESTORS!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=el7kE60fdT4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=el7kE60fdT4",
-          "publishedOn": "2025-09-08T14:01:05.000Z",
-          "wordCount": null,
-          "title": "How to Send Crypto from Revolut to Another Exchange or Wallet",
           "imageUrl": null
         }
       ]

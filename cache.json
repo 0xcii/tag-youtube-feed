@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IYtPFOC__zo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IYtPFOC__zo",
+          "publishedOn": "2025-09-30T13:01:13.000Z",
+          "wordCount": null,
+          "title": "【Base链专场】顶级空投全搞定！ 有哪些你忽略的Base黑马？ 详细教程演示 4个空投潜力项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=P_bRVKTY-ro",
           "author": null,
           "description": "",
@@ -92,6 +102,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jBf7of9JTV8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jBf7of9JTV8",
+          "publishedOn": "2025-09-30T12:28:36.000Z",
+          "wordCount": null,
+          "title": "Build a Full Stack Movie Streaming App – Go, React, MongoDB, OpenAI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5JTBS09e7ew",
           "author": null,
@@ -230,16 +250,6 @@
           "publishedOn": "2025-09-05T14:00:06.000Z",
           "wordCount": null,
           "title": "How to focus on building your skills when everything's so distracting with Ania Kubów [Podcast #187]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H-oCV5brtU4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H-oCV5brtU4",
-          "publishedOn": "2025-09-04T14:09:42.000Z",
-          "wordCount": null,
-          "title": "Intro to Fine-Tuning Large Language Models",
           "imageUrl": null
         }
       ]

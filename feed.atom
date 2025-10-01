@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-01T14:09:14.123Z</id>
+    <id>urn:2025-10-01T15:08:54.102Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-01T14:09:14.123Z</updated>
+    <updated>2025-10-01T15:08:54.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Morpho Tutorial for Beginners (How to Lend & Borrow Crypto on Morpho)]]></title>
+        <id>https://www.youtube.com/watch?v=X4t-awFzvTA</id>
+        <link href="https://www.youtube.com/watch?v=X4t-awFzvTA"/>
+        <updated>2025-10-01T14:00:53.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Alert: Time to Pay Attention!!!]]></title>
         <id>https://www.youtube.com/watch?v=wlKWx9V5G3M</id>
@@ -318,15 +327,6 @@
         <updated>2025-09-11T13:01:06.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Apex DEX for Beginners (Connect, Deposit, Trade, Withdraw)]]></title>
-        <id>https://www.youtube.com/watch?v=iJZLMDJ_Ne0</id>
-        <link href="https://www.youtube.com/watch?v=iJZLMDJ_Ne0"/>
-        <updated>2025-09-10T14:01:20.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

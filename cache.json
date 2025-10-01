@@ -446,6 +446,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=V0RYv4HoUws",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V0RYv4HoUws",
+          "publishedOn": "2025-10-01T19:00:29.000Z",
+          "wordCount": null,
+          "title": "Stop Learning Blockchain The Wrong Way",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OBUFxrFB8Qg",
           "author": null,
           "description": "",

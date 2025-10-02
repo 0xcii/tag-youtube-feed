@@ -283,6 +283,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pv2C6rh8i40",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pv2C6rh8i40",
+          "publishedOn": "2025-10-02T14:01:28.000Z",
+          "wordCount": null,
+          "title": "Best Crypto Perp DEXs 2025 (Hyperliquid vs Apex vs Aster etc)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X4t-awFzvTA",
           "author": null,
           "description": "",
@@ -420,16 +430,6 @@
           "publishedOn": "2025-09-12T14:00:40.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Will it Crash Now!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e4T9l-n2x9A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e4T9l-n2x9A",
-          "publishedOn": "2025-09-11T14:01:11.000Z",
-          "wordCount": null,
-          "title": "How to Find Kraken Deposit Address (Deposit Crypto to Kraken & Kraken Pro)",
           "imageUrl": null
         }
       ]

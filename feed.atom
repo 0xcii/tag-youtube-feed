@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-02T14:09:02.269Z</id>
+    <id>urn:2025-10-02T15:08:52.639Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-02T14:09:02.269Z</updated>
+    <updated>2025-10-02T15:08:52.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best Crypto Perp DEXs 2025 (Hyperliquid vs Apex vs Aster etc)]]></title>
+        <id>https://www.youtube.com/watch?v=pv2C6rh8i40</id>
+        <link href="https://www.youtube.com/watch?v=pv2C6rh8i40"/>
+        <updated>2025-10-02T14:01:28.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop Learning Blockchain The Wrong Way]]></title>
         <id>https://www.youtube.com/watch?v=V0RYv4HoUws</id>
@@ -327,15 +336,6 @@
         <updated>2025-09-12T14:00:17.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find Kraken Deposit Address (Deposit Crypto to Kraken & Kraken Pro)]]></title>
-        <id>https://www.youtube.com/watch?v=e4T9l-n2x9A</id>
-        <link href="https://www.youtube.com/watch?v=e4T9l-n2x9A"/>
-        <updated>2025-09-11T14:01:11.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

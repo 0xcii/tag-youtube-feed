@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-02T17:03:46.079Z</id>
+    <id>urn:2025-10-02T18:12:15.467Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-02T17:03:46.079Z</updated>
+    <updated>2025-10-02T18:12:15.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -381,15 +381,6 @@
         <updated>2025-09-05T16:00:12.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Predictify教学】预测市场， 上手太难啦，新手避坑指南！ Polymarket 首个中文交易机器人 🤖 万亿新赛道，人少，钱多，机会充足 ！ #polymarket #预测市场 #web3]]></title>
-        <id>https://www.youtube.com/watch?v=bmOtIwqpiWQ</id>
-        <link href="https://www.youtube.com/watch?v=bmOtIwqpiWQ"/>
-        <updated>2025-09-03T05:24:04.000Z</updated>
-        <author>
-            <name>链求君</name>
         </author>
     </entry>
 </feed>

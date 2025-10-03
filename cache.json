@@ -97,7 +97,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=jaDi29eRYps",
-          "publishedOn": "2025-10-02T23:51:12.000Z",
+          "publishedOn": "2025-10-03T14:00:06.000Z",
           "wordCount": null,
           "title": "From manufacturing worker to first developer job at age 43 with Thomas Gooch [Podcast #191]",
           "imageUrl": null
@@ -273,6 +273,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cSGPZf1_1jM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cSGPZf1_1jM",
+          "publishedOn": "2025-10-03T14:01:07.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Urgent Update As We Break Out!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pv2C6rh8i40",
           "author": null,
           "description": "",
@@ -410,16 +420,6 @@
           "publishedOn": "2025-09-15T14:01:31.000Z",
           "wordCount": null,
           "title": "How to Send Crypto from Uphold to Another Wallet or Exchange",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QE20Ybcokzs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QE20Ybcokzs",
-          "publishedOn": "2025-09-12T14:00:40.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Will it Crash Now!?",
           "imageUrl": null
         }
       ]

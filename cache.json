@@ -293,6 +293,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r7FCu183Io4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r7FCu183Io4",
+          "publishedOn": "2025-10-07T14:01:22.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: We Must Prepare Now!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=e5A1BpqhbnM",
           "author": null,
           "description": "",
@@ -430,16 +440,6 @@
           "publishedOn": "2025-09-17T14:01:23.000Z",
           "wordCount": null,
           "title": "How to Trade Crypto Futures (Crypto Day Trading for Beginners)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ymL3-EXmUs0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ymL3-EXmUs0",
-          "publishedOn": "2025-09-16T14:01:41.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: What *Just* Happened!!?",
           "imageUrl": null
         }
       ]

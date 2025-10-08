@@ -446,6 +446,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=n4anW1MSkUU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n4anW1MSkUU",
+          "publishedOn": "2025-10-08T19:00:52.000Z",
+          "wordCount": null,
+          "title": "How to create a profitable crypto trading bot with $0",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V0RYv4HoUws",
           "author": null,
           "description": "",

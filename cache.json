@@ -113,6 +113,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WXk7yDqsKxs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WXk7yDqsKxs",
+          "publishedOn": "2025-10-09T13:48:27.000Z",
+          "wordCount": null,
+          "title": "Harvard CS50’s Intro to Databases with SQL – Full University Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=W4M-g9wsEC4",
           "author": null,
           "description": "",
@@ -251,16 +261,6 @@
           "wordCount": null,
           "title": "Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6_qwLx8jwBY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6_qwLx8jwBY",
-          "publishedOn": "2025-09-12T14:00:17.000Z",
-          "wordCount": null,
-          "title": "Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]",
-          "imageUrl": null
         }
       ]
     },
@@ -292,6 +292,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uyIJKTAsF-E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uyIJKTAsF-E",
+          "publishedOn": "2025-10-09T14:01:24.000Z",
+          "wordCount": null,
+          "title": "Aster DEX Tutorial for Beginners (How to Trade Crypto on Aster DEX)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ffUuAM2YNoM",
           "author": null,
@@ -430,16 +440,6 @@
           "publishedOn": "2025-09-19T14:01:21.000Z",
           "wordCount": null,
           "title": "Crypto Alert: BEWARE This Huge Bitcoin Signal!!!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IbTuNfbpgco",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IbTuNfbpgco",
-          "publishedOn": "2025-09-18T14:00:36.000Z",
-          "wordCount": null,
-          "title": "Revolut vs Crypto.com (Best for Cards, Crypto, Exchange & More?)",
           "imageUrl": null
         }
       ]

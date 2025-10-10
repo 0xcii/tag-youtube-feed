@@ -303,6 +303,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sL12ereb158",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sL12ereb158",
+          "publishedOn": "2025-10-10T14:01:34.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: On The Edge of Failure!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uyIJKTAsF-E",
           "author": null,
           "description": "",
@@ -440,16 +450,6 @@
           "publishedOn": "2025-09-22T14:01:19.000Z",
           "wordCount": null,
           "title": "Kraken Pro Stop Loss Order Tutorial (How to Set a Stop Loss)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hR7hae3vipU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hR7hae3vipU",
-          "publishedOn": "2025-09-19T14:01:21.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: BEWARE This Huge Bitcoin Signal!!!?",
           "imageUrl": null
         }
       ]

@@ -133,6 +133,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=30diF8dKpAY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=30diF8dKpAY",
+          "publishedOn": "2025-10-13T13:49:05.000Z",
+          "wordCount": null,
+          "title": "Google Generative AI Leader Certification Course – Pass the Exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xH9ZKsTY73Y",
           "author": null,
           "description": "",
@@ -271,16 +281,6 @@
           "wordCount": null,
           "title": "ASP.NET Web API – Token Based Authentication Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0Hd5vYqin7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0Hd5vYqin7w",
-          "publishedOn": "2025-09-17T13:52:14.000Z",
-          "wordCount": null,
-          "title": "Databricks Data Engineer Associate Certification Course – Pass the Exam!",
-          "imageUrl": null
         }
       ]
     },
@@ -312,6 +312,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=y0p-sYD2-Rk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y0p-sYD2-Rk",
+          "publishedOn": "2025-10-13T14:01:35.000Z",
+          "wordCount": null,
+          "title": "How to Use Moving Averages in TradingView (SMA vs EMA)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sL12ereb158",
           "author": null,
@@ -450,16 +460,6 @@
           "publishedOn": "2025-09-23T14:01:25.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Worried About This \"Dip\"!!!!??",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jBoBpWqOdfw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jBoBpWqOdfw",
-          "publishedOn": "2025-09-22T14:01:19.000Z",
-          "wordCount": null,
-          "title": "Kraken Pro Stop Loss Order Tutorial (How to Set a Stop Loss)",
           "imageUrl": null
         }
       ]

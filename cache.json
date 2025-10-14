@@ -323,6 +323,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KU9kGL0WmYk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KU9kGL0WmYk",
+          "publishedOn": "2025-10-14T14:00:38.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Rekt. It's All Over?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=y0p-sYD2-Rk",
           "author": null,
           "description": "",
@@ -460,16 +470,6 @@
           "publishedOn": "2025-09-24T14:00:25.000Z",
           "wordCount": null,
           "title": "How to Swap Crypto in Phantom Wallet (Browser Extension)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ppq-JeaA4kk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ppq-JeaA4kk",
-          "publishedOn": "2025-09-23T14:01:25.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Worried About This \"Dip\"!!!!??",
           "imageUrl": null
         }
       ]

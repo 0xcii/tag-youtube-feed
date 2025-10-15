@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-15T13:24:08.060Z</id>
+    <id>urn:2025-10-15T14:09:27.126Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-15T13:24:08.060Z</updated>
+    <updated>2025-10-15T14:09:27.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Intro to MCP Servers – Course for Beginners]]></title>
+        <title type="html"><![CDATA[Intro to MCP Servers – Model Context Protocol with Python Course]]></title>
         <id>https://www.youtube.com/watch?v=DosHnyq78xY</id>
         <link href="https://www.youtube.com/watch?v=DosHnyq78xY"/>
         <updated>2025-10-15T12:55:53.000Z</updated>

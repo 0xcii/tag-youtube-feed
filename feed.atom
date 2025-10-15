@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-15T14:09:27.126Z</id>
+    <id>urn:2025-10-15T15:09:36.721Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-15T14:09:27.126Z</updated>
+    <updated>2025-10-15T15:09:36.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Send Bitcoin from Kraken to Another Wallet or Exchange]]></title>
+        <id>https://www.youtube.com/watch?v=iFj2AQ1uDNE</id>
+        <link href="https://www.youtube.com/watch?v=iFj2AQ1uDNE"/>
+        <updated>2025-10-15T14:01:17.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intro to MCP Servers – Model Context Protocol with Python Course]]></title>
         <id>https://www.youtube.com/watch?v=DosHnyq78xY</id>
@@ -382,15 +391,6 @@
         <updated>2025-09-25T13:58:50.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Swap Crypto in Phantom Wallet (Browser Extension)]]></title>
-        <id>https://www.youtube.com/watch?v=G2A33YFmoQg</id>
-        <link href="https://www.youtube.com/watch?v=G2A33YFmoQg"/>
-        <updated>2025-09-24T14:00:25.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

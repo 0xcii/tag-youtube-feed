@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y9m_Chx1joE",
           "publishedOn": "2025-10-15T22:52:59.000Z",
-          "wordCount": 1989,
+          "wordCount": 1977,
           "title": "Why you should surround yourself with the smartest, most driven people",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EzyJpHz2awM",
           "publishedOn": "2025-10-14T23:29:14.000Z",
-          "wordCount": 2398,
+          "wordCount": 2024,
           "title": "How to make heart shapes in HTML",
           "imageUrl": null
         },
@@ -323,6 +323,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=byVMypY_Ut8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=byVMypY_Ut8",
+          "publishedOn": "2025-10-16T14:01:03.000Z",
+          "wordCount": null,
+          "title": "Binance Cross vs Isolated Margin Explained (How to Use Binance Futures Margin Modes)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iFj2AQ1uDNE",
           "author": null,
           "description": "",
@@ -460,16 +470,6 @@
           "publishedOn": "2025-09-26T14:01:24.000Z",
           "wordCount": null,
           "title": "Crypto Update: Biggest Warning About This Bull Market!!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5pMjFIPyzhI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5pMjFIPyzhI",
-          "publishedOn": "2025-09-25T14:00:14.000Z",
-          "wordCount": null,
-          "title": "How to Trade on Binance for COMPLETE Beginners (Binance Spot Trading Tutorial)",
           "imageUrl": null
         }
       ]

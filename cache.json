@@ -143,12 +143,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=c6IyCwAV6BY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c6IyCwAV6BY",
+          "publishedOn": "2025-10-16T17:58:03.000Z",
+          "wordCount": null,
+          "title": "What is the JavaScript DOM?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/Y9m_Chx1joE",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y9m_Chx1joE",
           "publishedOn": "2025-10-15T22:52:59.000Z",
-          "wordCount": 1989,
+          "wordCount": 1950,
           "title": "Why you should surround yourself with the smartest, most driven people",
           "imageUrl": null
         },
@@ -168,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EzyJpHz2awM",
           "publishedOn": "2025-10-14T23:29:14.000Z",
-          "wordCount": 1976,
+          "wordCount": 1969,
           "title": "How to make heart shapes in HTML",
           "imageUrl": null
         },
@@ -280,16 +290,6 @@
           "publishedOn": "2025-09-25T13:58:50.000Z",
           "wordCount": null,
           "title": "Production-Grade AI Project Tutorial – Build & Deploy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p3sij8QzONQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p3sij8QzONQ",
-          "publishedOn": "2025-09-23T12:32:33.000Z",
-          "wordCount": null,
-          "title": "LLMs from Scratch – Practical Engineering from Base Model to PPO RLHF",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-16T17:07:48.543Z</id>
+    <id>urn:2025-10-16T18:12:59.087Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-16T17:07:48.543Z</updated>
+    <updated>2025-10-16T18:12:59.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is the JavaScript DOM?]]></title>
+        <id>https://www.youtube.com/watch?v=c6IyCwAV6BY</id>
+        <link href="https://www.youtube.com/watch?v=c6IyCwAV6BY"/>
+        <updated>2025-10-16T17:58:03.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Cross vs Isolated Margin Explained (How to Use Binance Futures Margin Modes)]]></title>
         <id>https://www.youtube.com/watch?v=byVMypY_Ut8</id>
@@ -399,15 +408,6 @@
         <id>https://www.youtube.com/watch?v=mvleESOUTRw</id>
         <link href="https://www.youtube.com/watch?v=mvleESOUTRw"/>
         <updated>2025-09-25T13:58:50.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLMs from Scratch – Practical Engineering from Base Model to PPO RLHF]]></title>
-        <id>https://www.youtube.com/watch?v=p3sij8QzONQ</id>
-        <link href="https://www.youtube.com/watch?v=p3sij8QzONQ"/>
-        <updated>2025-09-23T12:32:33.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

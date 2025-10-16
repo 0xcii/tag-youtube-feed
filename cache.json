@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y9m_Chx1joE",
           "publishedOn": "2025-10-15T22:52:59.000Z",
-          "wordCount": 1977,
+          "wordCount": 2675,
           "title": "Why you should surround yourself with the smartest, most driven people",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EzyJpHz2awM",
           "publishedOn": "2025-10-14T23:29:14.000Z",
-          "wordCount": 2024,
+          "wordCount": 1940,
           "title": "How to make heart shapes in HTML",
           "imageUrl": null
         },
@@ -298,18 +298,7 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Qeb6qwjm5Kk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Qeb6qwjm5Kk",
-          "publishedOn": "2025-09-17T02:52:47.000Z",
-          "wordCount": null,
-          "title": "LLM Gateway - the Open Source Alternative of OpenRouter",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Chico Crypto",

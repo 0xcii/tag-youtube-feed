@@ -143,6 +143,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/Ufy1FyqvfKM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Ufy1FyqvfKM",
+          "publishedOn": "2025-10-17T23:32:25.000Z",
+          "wordCount": 2034,
+          "title": "Audit the advice you're getting - it's not all gonna be good",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hM2T45qbIPI",
           "author": null,
           "description": "",
@@ -158,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_dCn4WrWnBw",
           "publishedOn": "2025-10-16T23:18:24.000Z",
-          "wordCount": 1974,
+          "wordCount": 1949,
           "title": "How to use Python's .isprintable() method",
           "imageUrl": null
         },
@@ -178,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y9m_Chx1joE",
           "publishedOn": "2025-10-15T22:52:59.000Z",
-          "wordCount": 2119,
+          "wordCount": 2045,
           "title": "Why you should surround yourself with the smartest, most driven people",
           "imageUrl": null
         },
@@ -198,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EzyJpHz2awM",
           "publishedOn": "2025-10-14T23:29:14.000Z",
-          "wordCount": 1978,
+          "wordCount": 1996,
           "title": "How to make heart shapes in HTML",
           "imageUrl": null
         },
@@ -280,16 +290,6 @@
           "publishedOn": "2025-09-30T12:28:36.000Z",
           "wordCount": null,
           "title": "Build a Full Stack Movie Streaming App in Go – Golang, React, MongoDB, OpenAI API Project Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5JTBS09e7ew",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5JTBS09e7ew",
-          "publishedOn": "2025-09-29T15:33:57.000Z",
-          "wordCount": null,
-          "title": "AWS CloudOps Engineer Associate (SOA-C03) Certification Course – Pass the Exam!",
           "imageUrl": null
         }
       ]

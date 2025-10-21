@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-21T14:08:48.785Z</id>
+    <id>urn:2025-10-21T15:10:01.869Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-21T14:08:48.785Z</updated>
+    <updated>2025-10-21T15:10:01.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: 11 Days to Save The Bull Market]]></title>
+        <id>https://www.youtube.com/watch?v=qDZuqpiMYHg</id>
+        <link href="https://www.youtube.com/watch?v=qDZuqpiMYHg"/>
+        <updated>2025-10-21T14:01:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Structures and Algorithms Mega Course – Master Technical Interviews in 49 Hours]]></title>
         <id>https://www.youtube.com/watch?v=xwI5OBEnsZU</id>
@@ -350,15 +359,6 @@
         <id>https://www.youtube.com/watch?v=X4t-awFzvTA</id>
         <link href="https://www.youtube.com/watch?v=X4t-awFzvTA"/>
         <updated>2025-10-01T14:00:53.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Time to Pay Attention!!!]]></title>
-        <id>https://www.youtube.com/watch?v=wlKWx9V5G3M</id>
-        <link href="https://www.youtube.com/watch?v=wlKWx9V5G3M"/>
-        <updated>2025-09-30T14:01:36.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

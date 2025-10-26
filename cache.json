@@ -143,12 +143,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/FHBBaSUQk1Y",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/FHBBaSUQk1Y",
+          "publishedOn": "2025-10-25T23:43:32.000Z",
+          "wordCount": 2104,
+          "title": "How contributing to Open Source can lead to tech jobs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/baYjd4pFjlw",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/baYjd4pFjlw",
           "publishedOn": "2025-10-24T23:32:22.000Z",
-          "wordCount": 2103,
+          "wordCount": 2027,
           "title": "Learn how to make any div resizable",
           "imageUrl": null
         },
@@ -178,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xTg_pBgr_vA",
           "publishedOn": "2025-10-22T22:52:29.000Z",
-          "wordCount": 1961,
+          "wordCount": 2039,
           "title": "Danny Thompson's \"Why hire me\" experiment",
           "imageUrl": null
         },
@@ -188,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
           "publishedOn": "2025-10-21T23:29:23.000Z",
-          "wordCount": 2066,
+          "wordCount": 1998,
           "title": "Make highlighted text match your brand or color scheme",
           "imageUrl": null
         },
@@ -208,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Hfo5uvbmDaY",
           "publishedOn": "2025-10-20T23:05:25.000Z",
-          "wordCount": 2014,
+          "wordCount": 1984,
           "title": "Flexbox spacing made easy",
           "imageUrl": null
         },
@@ -228,7 +238,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/BRksIg2jkbo",
           "publishedOn": "2025-10-19T23:17:28.000Z",
-          "wordCount": 2080,
+          "wordCount": 2097,
           "title": "How Ania Kubów uses time blocking to make the most of her day",
           "imageUrl": null
         },
@@ -238,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-KRTTe__qy8",
           "publishedOn": "2025-10-18T23:43:24.000Z",
-          "wordCount": 2136,
+          "wordCount": 1988,
           "title": "How to style your input cursor in CSS",
           "imageUrl": null
         },
@@ -248,7 +258,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ufy1FyqvfKM",
           "publishedOn": "2025-10-17T23:32:25.000Z",
-          "wordCount": 2292,
+          "wordCount": 2016,
           "title": "Audit the advice you're getting - it's not all gonna be good",
           "imageUrl": null
         },
@@ -268,7 +278,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_dCn4WrWnBw",
           "publishedOn": "2025-10-16T23:18:24.000Z",
-          "wordCount": 2099,
+          "wordCount": 1972,
           "title": "How to use Python's .isprintable() method",
           "imageUrl": null
         },
@@ -280,16 +290,6 @@
           "publishedOn": "2025-10-16T17:58:03.000Z",
           "wordCount": null,
           "title": "What is the JavaScript DOM?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Y9m_Chx1joE",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Y9m_Chx1joE",
-          "publishedOn": "2025-10-15T22:52:59.000Z",
-          "wordCount": 2000,
-          "title": "Why you should surround yourself with the smartest, most driven people",
           "imageUrl": null
         }
       ]

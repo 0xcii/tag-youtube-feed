@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-27T05:10:29.309Z</id>
+    <id>urn:2025-10-27T06:15:55.156Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-27T05:10:29.309Z</updated>
+    <updated>2025-10-27T06:15:55.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Predictify 首个AI 自动交易的预测市场平台，最后参与的机会！ Polymarket 400次交易，实盘胜率 82% ！]]></title>
+        <id>https://www.youtube.com/watch?v=JSyclFmH4R0</id>
+        <link href="https://www.youtube.com/watch?v=JSyclFmH4R0"/>
+        <updated>2025-10-27T05:29:48.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop using padding hacks to make squares]]></title>
         <id>https://www.youtube.com/shorts/utxq6LY1ero</id>

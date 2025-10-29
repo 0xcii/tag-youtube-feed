@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-28T23:08:28.547Z</id>
+    <id>urn:2025-10-29T00:44:54.303Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-28T23:08:28.547Z</updated>
+    <updated>2025-10-29T00:44:54.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why you should always negotiate - in the job search and in life]]></title>
+        <id>https://www.youtube.com/shorts/RwDvIaoJeAs</id>
+        <link href="https://www.youtube.com/shorts/RwDvIaoJeAs"/>
+        <updated>2025-10-28T23:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Update: 97% Won't Get This!!]]></title>
         <id>https://www.youtube.com/watch?v=v0XgG8TlLHI</id>
@@ -228,16 +238,6 @@
         <updated>2025-10-18T10:02:37.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audit the advice you're getting - it's not all gonna be good]]></title>
-        <id>https://www.youtube.com/shorts/Ufy1FyqvfKM</id>
-        <link href="https://www.youtube.com/shorts/Ufy1FyqvfKM"/>
-        <updated>2025-10-17T23:32:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

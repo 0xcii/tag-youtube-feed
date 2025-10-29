@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RwDvIaoJeAs",
           "publishedOn": "2025-10-28T23:29:27.000Z",
-          "wordCount": 2068,
+          "wordCount": 2011,
           "title": "Why you should always negotiate - in the job search and in life",
           "imageUrl": null
         },
@@ -118,7 +118,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r6jVezXnBMQ",
           "publishedOn": "2025-10-27T23:05:26.000Z",
-          "wordCount": 2060,
+          "wordCount": 2071,
           "title": "How to package yourself as a problem solver companies want to hire",
           "imageUrl": null
         },
@@ -138,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/utxq6LY1ero",
           "publishedOn": "2025-10-26T23:17:23.000Z",
-          "wordCount": 1974,
+          "wordCount": 2023,
           "title": "Stop using padding hacks to make squares",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FHBBaSUQk1Y",
           "publishedOn": "2025-10-25T23:43:32.000Z",
-          "wordCount": 2040,
+          "wordCount": 2221,
           "title": "How contributing to Open Source can lead to tech jobs",
           "imageUrl": null
         },
@@ -158,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/baYjd4pFjlw",
           "publishedOn": "2025-10-24T23:32:22.000Z",
-          "wordCount": 1998,
+          "wordCount": 1980,
           "title": "Learn how to make any div resizable",
           "imageUrl": null
         },
@@ -188,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xTg_pBgr_vA",
           "publishedOn": "2025-10-22T22:52:29.000Z",
-          "wordCount": 2047,
+          "wordCount": 2016,
           "title": "Danny Thompson's \"Why hire me\" experiment",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/83Kgx-Xe_DI",
           "publishedOn": "2025-10-21T23:29:23.000Z",
-          "wordCount": 2341,
+          "wordCount": 2022,
           "title": "Make highlighted text match your brand or color scheme",
           "imageUrl": null
         },
@@ -218,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Hfo5uvbmDaY",
           "publishedOn": "2025-10-20T23:05:25.000Z",
-          "wordCount": 1974,
+          "wordCount": 1995,
           "title": "Flexbox spacing made easy",
           "imageUrl": null
         },
@@ -238,7 +238,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/BRksIg2jkbo",
           "publishedOn": "2025-10-19T23:17:28.000Z",
-          "wordCount": 2080,
+          "wordCount": 2102,
           "title": "How Ania Kubów uses time blocking to make the most of her day",
           "imageUrl": null
         },
@@ -248,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-KRTTe__qy8",
           "publishedOn": "2025-10-18T23:43:24.000Z",
-          "wordCount": 1975,
+          "wordCount": 2071,
           "title": "How to style your input cursor in CSS",
           "imageUrl": null
         }
@@ -271,6 +271,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=L4tCga-4PuM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L4tCga-4PuM",
+          "publishedOn": "2025-10-29T14:00:40.000Z",
+          "wordCount": null,
+          "title": "How to Use Crypto.com Exchange (Deposit, Trade, Withdraw)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=v0XgG8TlLHI",
           "author": null,
@@ -409,16 +419,6 @@
           "publishedOn": "2025-10-09T14:01:24.000Z",
           "wordCount": null,
           "title": "Aster DEX Tutorial for Beginners (How to Trade Crypto on Aster DEX)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ffUuAM2YNoM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ffUuAM2YNoM",
-          "publishedOn": "2025-10-08T14:01:09.000Z",
-          "wordCount": null,
-          "title": "Binance Trailing Stop Tutorial (How to Use Trailing Stop)",
           "imageUrl": null
         }
       ]

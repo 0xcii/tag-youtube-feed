@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fQ51cM44o7I",
           "publishedOn": "2025-10-31T12:18:20.000Z",
-          "wordCount": 2095,
+          "wordCount": 2212,
           "title": "What does a double !! do in code?",
           "imageUrl": null
         },
@@ -118,7 +118,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vc5T3VmCar0",
           "publishedOn": "2025-10-30T23:18:27.000Z",
-          "wordCount": 2507,
+          "wordCount": 2095,
           "title": "Playing chess is a lot like software development",
           "imageUrl": null
         },
@@ -138,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/svOjqXjMvGI",
           "publishedOn": "2025-10-30T11:52:27.000Z",
-          "wordCount": 2051,
+          "wordCount": 2030,
           "title": "🧛Hoisting Horror! Everyone says variables are hoisted. So why does this break?",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ykvHQwgCjro",
           "publishedOn": "2025-10-29T22:52:24.000Z",
-          "wordCount": 1953,
+          "wordCount": 1962,
           "title": "Perfect image cropping every time...",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RwDvIaoJeAs",
           "publishedOn": "2025-10-28T23:29:27.000Z",
-          "wordCount": 2031,
+          "wordCount": 2055,
           "title": "Why you should always negotiate - in the job search and in life",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r6jVezXnBMQ",
           "publishedOn": "2025-10-27T23:05:26.000Z",
-          "wordCount": 2003,
+          "wordCount": 2047,
           "title": "How to package yourself as a problem solver companies want to hire",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/utxq6LY1ero",
           "publishedOn": "2025-10-26T23:17:23.000Z",
-          "wordCount": 2398,
+          "wordCount": 1973,
           "title": "Stop using padding hacks to make squares",
           "imageUrl": null
         },
@@ -208,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FHBBaSUQk1Y",
           "publishedOn": "2025-10-25T23:43:32.000Z",
-          "wordCount": 2118,
+          "wordCount": 2086,
           "title": "How contributing to Open Source can lead to tech jobs",
           "imageUrl": null
         },
@@ -218,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/baYjd4pFjlw",
           "publishedOn": "2025-10-24T23:32:22.000Z",
-          "wordCount": 1982,
+          "wordCount": 2479,
           "title": "Learn how to make any div resizable",
           "imageUrl": null
         },
@@ -248,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xTg_pBgr_vA",
           "publishedOn": "2025-10-22T22:52:29.000Z",
-          "wordCount": 2225,
+          "wordCount": 2029,
           "title": "Danny Thompson's \"Why hire me\" experiment",
           "imageUrl": null
         }
@@ -271,6 +271,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kwgEryNjxso",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kwgEryNjxso",
+          "publishedOn": "2025-10-31T14:01:23.000Z",
+          "wordCount": null,
+          "title": "Crypto Update: More Bad News. Ignore It.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=6oNsN1VmWEQ",
           "author": null,
@@ -409,16 +419,6 @@
           "publishedOn": "2025-10-13T14:01:35.000Z",
           "wordCount": null,
           "title": "How to Use Moving Averages in TradingView (SMA vs EMA)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sL12ereb158",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sL12ereb158",
-          "publishedOn": "2025-10-10T14:01:34.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: On The Edge of Failure!!",
           "imageUrl": null
         }
       ]

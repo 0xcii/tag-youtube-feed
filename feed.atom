@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-04T14:10:10.332Z</id>
+    <id>urn:2025-11-04T15:10:06.179Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-04T14:10:10.332Z</updated>
+    <updated>2025-11-04T15:10:06.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Getting Worse]]></title>
+        <id>https://www.youtube.com/watch?v=SobPfDwProQ</id>
+        <link href="https://www.youtube.com/watch?v=SobPfDwProQ"/>
+        <updated>2025-11-04T14:00:51.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why you should support your favorite open source projects]]></title>
         <id>https://www.youtube.com/shorts/7lEWtEG3vd0</id>
@@ -318,15 +327,6 @@
         <id>https://www.youtube.com/watch?v=iFj2AQ1uDNE</id>
         <link href="https://www.youtube.com/watch?v=iFj2AQ1uDNE"/>
         <updated>2025-10-15T14:01:17.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Rekt. It's All Over?]]></title>
-        <id>https://www.youtube.com/watch?v=KU9kGL0WmYk</id>
-        <link href="https://www.youtube.com/watch?v=KU9kGL0WmYk"/>
-        <updated>2025-10-14T14:00:38.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

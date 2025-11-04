@@ -83,12 +83,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kb_scuDUHls",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kb_scuDUHls",
+          "publishedOn": "2025-11-04T15:35:10.000Z",
+          "wordCount": null,
+          "title": "Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/7lEWtEG3vd0",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/7lEWtEG3vd0",
           "publishedOn": "2025-11-04T13:05:31.000Z",
-          "wordCount": 2078,
+          "wordCount": 2024,
           "title": "Why you should support your favorite open source projects",
           "imageUrl": null
         },
@@ -108,7 +118,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/siMP-22x5Ck",
           "publishedOn": "2025-11-03T13:17:25.000Z",
-          "wordCount": 2017,
+          "wordCount": 1981,
           "title": "How to brand your form controls",
           "imageUrl": null
         },
@@ -118,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/et7u_tnlS0Q",
           "publishedOn": "2025-11-02T13:43:24.000Z",
-          "wordCount": 1985,
+          "wordCount": 2233,
           "title": "The inventor of HTML gave away the web for free...",
           "imageUrl": null
         },
@@ -128,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/nHqeMW0iLBU",
           "publishedOn": "2025-11-01T12:32:25.000Z",
-          "wordCount": 2057,
+          "wordCount": 2065,
           "title": "What was it like growing up in Dubai?",
           "imageUrl": null
         },
@@ -138,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lYhi86Zaetg",
           "publishedOn": "2025-10-31T23:32:22.000Z",
-          "wordCount": 2395,
+          "wordCount": 2022,
           "title": "The world's first website is still live...so retro.",
           "imageUrl": null
         },
@@ -158,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fQ51cM44o7I",
           "publishedOn": "2025-10-31T12:18:20.000Z",
-          "wordCount": 1994,
+          "wordCount": 1998,
           "title": "What does a double !! do in code?",
           "imageUrl": null
         },
@@ -168,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vc5T3VmCar0",
           "publishedOn": "2025-10-30T23:18:27.000Z",
-          "wordCount": 2053,
+          "wordCount": 2237,
           "title": "Playing chess is a lot like software development",
           "imageUrl": null
         },
@@ -188,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/svOjqXjMvGI",
           "publishedOn": "2025-10-30T11:52:27.000Z",
-          "wordCount": 2031,
+          "wordCount": 2013,
           "title": "🧛Hoisting Horror! Everyone says variables are hoisted. So why does this break?",
           "imageUrl": null
         },
@@ -198,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ykvHQwgCjro",
           "publishedOn": "2025-10-29T22:52:24.000Z",
-          "wordCount": 1977,
+          "wordCount": 1976,
           "title": "Perfect image cropping every time...",
           "imageUrl": null
         },
@@ -218,18 +228,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RwDvIaoJeAs",
           "publishedOn": "2025-10-28T23:29:27.000Z",
-          "wordCount": 2096,
+          "wordCount": 2230,
           "title": "Why you should always negotiate - in the job search and in life",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/r6jVezXnBMQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/r6jVezXnBMQ",
-          "publishedOn": "2025-10-27T23:05:26.000Z",
-          "wordCount": 2087,
-          "title": "How to package yourself as a problem solver companies want to hire",
           "imageUrl": null
         }
       ]

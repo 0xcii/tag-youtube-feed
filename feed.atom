@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-12T13:25:33.943Z</id>
+    <id>urn:2025-11-12T14:10:06.845Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-12T13:25:33.943Z</updated>
+    <updated>2025-11-12T14:10:06.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Coinbase Advanced (Trade Crypto on Coinbase)]]></title>
+        <id>https://www.youtube.com/watch?v=qkAsxha-txo</id>
+        <link href="https://www.youtube.com/watch?v=qkAsxha-txo"/>
+        <updated>2025-11-12T14:01:33.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n8n Workflow Automation Tutorial – Create an Interview Scheduler & More Step-by-Step]]></title>
+        <id>https://www.youtube.com/watch?v=GIZzRGYpCbM</id>
+        <link href="https://www.youtube.com/watch?v=GIZzRGYpCbM"/>
+        <updated>2025-11-12T14:00:26.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guess how many bugs NASA's space shuttle software had?]]></title>
+        <id>https://www.youtube.com/shorts/oeWLnnjFmf8</id>
+        <link href="https://www.youtube.com/shorts/oeWLnnjFmf8"/>
+        <updated>2025-11-12T13:29:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Alert: Crucial 3 Months Ahead (Position Now!)]]></title>
         <id>https://www.youtube.com/watch?v=WXlA_1c_bzo</id>
@@ -203,26 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to brand your form controls]]></title>
-        <id>https://www.youtube.com/shorts/siMP-22x5Ck</id>
-        <link href="https://www.youtube.com/shorts/siMP-22x5Ck"/>
-        <updated>2025-11-03T13:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The inventor of HTML gave away the web for free...]]></title>
-        <id>https://www.youtube.com/shorts/et7u_tnlS0Q</id>
-        <link href="https://www.youtube.com/shorts/et7u_tnlS0Q"/>
-        <updated>2025-11-02T13:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Update: More Bad News. Ignore It.]]></title>
         <id>https://www.youtube.com/watch?v=kwgEryNjxso</id>
         <link href="https://www.youtube.com/watch?v=kwgEryNjxso"/>
@@ -317,15 +325,6 @@
         <id>https://www.youtube.com/watch?v=mJDhHiiAZK0</id>
         <link href="https://www.youtube.com/watch?v=mJDhHiiAZK0"/>
         <updated>2025-10-23T14:01:18.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Buy & Sell Crypto on Kraken Pro (EASY Step-by-Step)]]></title>
-        <id>https://www.youtube.com/watch?v=6uQOvl3iPiY</id>
-        <link href="https://www.youtube.com/watch?v=6uQOvl3iPiY"/>
-        <updated>2025-10-22T14:00:24.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

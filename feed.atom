@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-13T12:18:30.429Z</id>
+    <id>urn:2025-11-13T13:25:28.961Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-13T12:18:30.429Z</updated>
+    <updated>2025-11-13T13:25:28.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[If you're struggling, don't isolate yourself - find someone you can talk to.]]></title>
+        <id>https://www.youtube.com/shorts/f0Yq_wF_cIQ</id>
+        <link href="https://www.youtube.com/shorts/f0Yq_wF_cIQ"/>
+        <updated>2025-11-13T12:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Coinbase Advanced (Trade Crypto on Coinbase)]]></title>
         <id>https://www.youtube.com/watch?v=qkAsxha-txo</id>
@@ -208,15 +218,6 @@
         <link href="https://www.youtube.com/shorts/7lEWtEG3vd0"/>
         <updated>2025-11-04T13:05:31.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creative Web Development with Three.js and Blender – 3D Portfolio for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=yhtdkuw9mbM</id>
-        <link href="https://www.youtube.com/watch?v=yhtdkuw9mbM"/>
-        <updated>2025-11-03T16:22:59.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

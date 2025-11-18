@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-18T14:09:11.886Z</id>
+    <id>urn:2025-11-18T15:10:56.607Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-18T14:09:11.886Z</updated>
+    <updated>2025-11-18T15:10:56.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: What A Mess!]]></title>
+        <id>https://www.youtube.com/watch?v=QevnzpO-KyU</id>
+        <link href="https://www.youtube.com/watch?v=QevnzpO-KyU"/>
+        <updated>2025-11-18T14:00:49.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Clean Code Course – Fix Code Smells & Refactor]]></title>
         <id>https://www.youtube.com/watch?v=626BcUO84og</id>
@@ -334,15 +343,6 @@
         <id>https://www.youtube.com/watch?v=L4tCga-4PuM</id>
         <link href="https://www.youtube.com/watch?v=L4tCga-4PuM"/>
         <updated>2025-10-29T14:00:40.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Update: 97% Won't Get This!!]]></title>
-        <id>https://www.youtube.com/watch?v=v0XgG8TlLHI</id>
-        <link href="https://www.youtube.com/watch?v=v0XgG8TlLHI"/>
-        <updated>2025-10-28T14:01:45.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/9q24hqwm4QM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9q24hqwm4QM",
+          "publishedOn": "2025-11-19T13:29:26.000Z",
+          "wordCount": 1978,
+          "title": "From laser-etching microchips to rediscovering a love of coding",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tdsQwuyS6DQ",
           "author": null,
           "description": "",
@@ -88,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zwzjaNmh-r4",
           "publishedOn": "2025-11-18T13:05:24.000Z",
-          "wordCount": 2466,
+          "wordCount": 2064,
           "title": "Did you know that you can buy a domain name that's an emoji?",
           "imageUrl": null
         },
@@ -118,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/VplSjvnwG_Y",
           "publishedOn": "2025-11-16T13:43:23.000Z",
-          "wordCount": 1997,
+          "wordCount": 2268,
           "title": "Boost your app's performance with CSS containment",
           "imageUrl": null
         },
@@ -128,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/I2LoiJWCKxc",
           "publishedOn": "2025-11-15T13:32:35.000Z",
-          "wordCount": 2021,
+          "wordCount": 2084,
           "title": "Vue.js grew organically thanks in large part to the community - which Evan You discusses here.",
           "imageUrl": null
         },
@@ -148,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MkeawaniGts",
           "publishedOn": "2025-11-14T13:18:21.000Z",
-          "wordCount": 2027,
+          "wordCount": 2076,
           "title": "Don't settle for boring text underlines...make them more fun!",
           "imageUrl": null
         },
@@ -168,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f0Yq_wF_cIQ",
           "publishedOn": "2025-11-13T12:52:30.000Z",
-          "wordCount": 2104,
+          "wordCount": 2061,
           "title": "If you're struggling, don't isolate yourself - find someone you can talk to.",
           "imageUrl": null
         },
@@ -188,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oeWLnnjFmf8",
           "publishedOn": "2025-11-12T13:29:31.000Z",
-          "wordCount": 2055,
+          "wordCount": 2017,
           "title": "Guess how many bugs NASA's space shuttle software had?",
           "imageUrl": null
         },
@@ -198,18 +208,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/a7B-JvPgTQs",
           "publishedOn": "2025-11-11T13:05:37.000Z",
-          "wordCount": 2539,
+          "wordCount": 2301,
           "title": "This hackathon team built a tool to help blind and visually impaired people learn Braille",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Kt2E8nblvXU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Kt2E8nblvXU",
-          "publishedOn": "2025-11-10T15:54:13.000Z",
-          "wordCount": null,
-          "title": "Learn Vue.js – Tutorial for Beginners",
           "imageUrl": null
         }
       ]
@@ -231,6 +231,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Nh-cB2zcqCg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Nh-cB2zcqCg",
+          "publishedOn": "2025-11-19T14:00:42.000Z",
+          "wordCount": null,
+          "title": "Coinbase Advanced Limit Order Tutorial for Beginners",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QevnzpO-KyU",
           "author": null,
@@ -369,16 +379,6 @@
           "publishedOn": "2025-10-30T14:00:09.000Z",
           "wordCount": null,
           "title": "Kraken Staking & Earn Tutorial (How to Stake Crypto & Earn on Kraken)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L4tCga-4PuM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L4tCga-4PuM",
-          "publishedOn": "2025-10-29T14:00:40.000Z",
-          "wordCount": null,
-          "title": "How to Use Crypto.com Exchange (Deposit, Trade, Withdraw)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-19T13:24:30.681Z</id>
+    <id>urn:2025-11-19T14:09:09.574Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-19T13:24:30.681Z</updated>
+    <updated>2025-11-19T14:09:09.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Advanced Limit Order Tutorial for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=Nh-cB2zcqCg</id>
+        <link href="https://www.youtube.com/watch?v=Nh-cB2zcqCg"/>
+        <updated>2025-11-19T14:00:42.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From laser-etching microchips to rediscovering a love of coding]]></title>
+        <id>https://www.youtube.com/shorts/9q24hqwm4QM</id>
+        <link href="https://www.youtube.com/shorts/9q24hqwm4QM"/>
+        <updated>2025-11-19T13:29:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a Cute Room Portfolio with Blender, Three.js, JavaScript – Beginner Course]]></title>
         <id>https://www.youtube.com/watch?v=tdsQwuyS6DQ</id>
@@ -230,15 +249,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Vue.js – Tutorial for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=Kt2E8nblvXU</id>
-        <link href="https://www.youtube.com/watch?v=Kt2E8nblvXU"/>
-        <updated>2025-11-10T15:54:13.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Use Wise App (Setup, Receive, Send, Exchange & Wise Card)]]></title>
         <id>https://www.youtube.com/watch?v=94i3gUn7sDc</id>
         <link href="https://www.youtube.com/watch?v=94i3gUn7sDc"/>
@@ -335,15 +345,6 @@
         <updated>2025-10-29T19:00:21.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Crypto.com Exchange (Deposit, Trade, Withdraw)]]></title>
-        <id>https://www.youtube.com/watch?v=L4tCga-4PuM</id>
-        <link href="https://www.youtube.com/watch?v=L4tCga-4PuM"/>
-        <updated>2025-10-29T14:00:40.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

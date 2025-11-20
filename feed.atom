@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-20T14:09:01.026Z</id>
+    <id>urn:2025-11-20T15:09:32.601Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-20T14:09:01.026Z</updated>
+    <updated>2025-11-20T15:09:32.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Swap Crypto in Kraken Wallet]]></title>
+        <id>https://www.youtube.com/watch?v=TBis3pZiC5E</id>
+        <link href="https://www.youtube.com/watch?v=TBis3pZiC5E"/>
+        <updated>2025-11-20T14:00:47.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do you know who the first computer programmer was?]]></title>
         <id>https://www.youtube.com/shorts/LsY7U2Muau8</id>
@@ -327,15 +336,6 @@
         <updated>2025-10-31T04:20:52.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Staking & Earn Tutorial (How to Stake Crypto & Earn on Kraken)]]></title>
-        <id>https://www.youtube.com/watch?v=6oNsN1VmWEQ</id>
-        <link href="https://www.youtube.com/watch?v=6oNsN1VmWEQ"/>
-        <updated>2025-10-30T14:00:09.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

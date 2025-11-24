@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-24T13:25:35.566Z</id>
+    <id>urn:2025-11-24T14:10:01.024Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-24T13:25:35.566Z</updated>
+    <updated>2025-11-24T14:10:01.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Revolut vs Wise: Best for Exchange, Transfers, Investing, Cards & More?]]></title>
+        <id>https://www.youtube.com/watch?v=CipAhgVHxVU</id>
+        <link href="https://www.youtube.com/watch?v=CipAhgVHxVU"/>
+        <updated>2025-11-24T14:00:25.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you guess what this code logs?]]></title>
+        <id>https://www.youtube.com/shorts/iMLGy2wEE_g</id>
+        <link href="https://www.youtube.com/shorts/iMLGy2wEE_g"/>
+        <updated>2025-11-24T13:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What it's like living with daily migraines - and how Thomas manages them]]></title>
         <id>https://www.youtube.com/shorts/P6fLZFJsH7Y</id>
@@ -222,16 +241,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't settle for boring text underlines...make them more fun!]]></title>
-        <id>https://www.youtube.com/shorts/MkeawaniGts</id>
-        <link href="https://www.youtube.com/shorts/MkeawaniGts"/>
-        <updated>2025-11-14T13:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Massive Ethereum Upgrade Coming Soon - What You Must Know]]></title>
         <id>https://www.youtube.com/watch?v=AY5lXHIMmsw</id>
         <link href="https://www.youtube.com/watch?v=AY5lXHIMmsw"/>
@@ -317,15 +326,6 @@
         <id>https://www.youtube.com/watch?v=SobPfDwProQ</id>
         <link href="https://www.youtube.com/watch?v=SobPfDwProQ"/>
         <updated>2025-11-04T14:00:51.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Short Sell Crypto on Bybit Futures]]></title>
-        <id>https://www.youtube.com/watch?v=WAK-NNxCApU</id>
-        <link href="https://www.youtube.com/watch?v=WAK-NNxCApU"/>
-        <updated>2025-11-03T14:01:01.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

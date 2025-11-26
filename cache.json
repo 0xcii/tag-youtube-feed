@@ -53,12 +53,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/j-Mc04RlGXc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/j-Mc04RlGXc",
+          "publishedOn": "2025-11-26T13:29:18.000Z",
+          "wordCount": 2218,
+          "title": "Pop quiz: does '5' equal 5 in code?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/q4Ovbh3tpU0",
           "publishedOn": "2025-11-25T13:05:25.000Z",
-          "wordCount": 2109,
+          "wordCount": 2029,
           "title": "Do something toward learning programming every day - even if it's just 10 minutes",
           "imageUrl": null
         },
@@ -78,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/iMLGy2wEE_g",
           "publishedOn": "2025-11-24T13:17:33.000Z",
-          "wordCount": 2020,
+          "wordCount": 2005,
           "title": "Can you guess what this code logs?",
           "imageUrl": null
         },
@@ -98,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EWHWX1yJsS0",
           "publishedOn": "2025-11-22T13:32:20.000Z",
-          "wordCount": 2009,
+          "wordCount": 1978,
           "title": "Remember floppy disks?",
           "imageUrl": null
         },
@@ -118,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MZVyASCY8sQ",
           "publishedOn": "2025-11-21T13:18:21.000Z",
-          "wordCount": 2144,
+          "wordCount": 2030,
           "title": "Learn programming fundamentals first. Then you can use AI to help you become more efficient.",
           "imageUrl": null
         },
@@ -128,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/LsY7U2Muau8",
           "publishedOn": "2025-11-20T12:52:30.000Z",
-          "wordCount": 2030,
+          "wordCount": 2017,
           "title": "Do you know who the first computer programmer was?",
           "imageUrl": null
         },
@@ -138,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9q24hqwm4QM",
           "publishedOn": "2025-11-19T13:29:26.000Z",
-          "wordCount": 2038,
+          "wordCount": 2039,
           "title": "From laser-etching microchips to rediscovering a love of coding",
           "imageUrl": null
         },
@@ -168,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zwzjaNmh-r4",
           "publishedOn": "2025-11-18T13:05:24.000Z",
-          "wordCount": 2054,
+          "wordCount": 2080,
           "title": "Did you know that you can buy a domain name that's an emoji?",
           "imageUrl": null
         },
@@ -188,18 +198,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/H6gHXV6OgFU",
           "publishedOn": "2025-11-17T13:17:35.000Z",
-          "wordCount": 1980,
+          "wordCount": 2008,
           "title": "How to get back into coding after years away",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/VplSjvnwG_Y",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/VplSjvnwG_Y",
-          "publishedOn": "2025-11-16T13:43:23.000Z",
-          "wordCount": 2011,
-          "title": "Boost your app's performance with CSS containment",
           "imageUrl": null
         }
       ]
@@ -221,6 +221,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lbWdRUEC1kQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lbWdRUEC1kQ",
+          "publishedOn": "2025-11-26T14:01:25.000Z",
+          "wordCount": null,
+          "title": "Coinbase Advanced Stop Limit Order Tutorial for Beginners (Stop Loss)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=08BwAK33_Us",
           "author": null,
@@ -359,16 +369,6 @@
           "publishedOn": "2025-11-06T14:01:27.000Z",
           "wordCount": null,
           "title": "How to Withdraw Money from Kraken (Sell Crypto & Cash Out)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jzKUNhBCHqI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jzKUNhBCHqI",
-          "publishedOn": "2025-11-05T14:01:24.000Z",
-          "wordCount": null,
-          "title": "How to Set TradingView EMA Indicator (Exponential Moving Average)",
           "imageUrl": null
         }
       ]

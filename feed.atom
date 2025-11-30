@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-30T14:08:01.379Z</id>
+    <id>urn:2025-11-30T15:08:20.121Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-30T14:08:01.379Z</updated>
+    <updated>2025-11-30T15:08:20.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -208,7 +208,7 @@
         <id>https://www.youtube.com/shorts/MZVyASCY8sQ</id>
         <link href="https://www.youtube.com/shorts/MZVyASCY8sQ"/>
         <updated>2025-11-21T13:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[Consensus is: learn programming fundamentals first. Then you can use AI to help you become more efficient. Thomas discusses this with Quincy on the freeCodeC...]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

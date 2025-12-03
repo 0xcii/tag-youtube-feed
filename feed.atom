@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-03T14:10:21.469Z</id>
+    <id>urn:2025-12-03T15:11:58.042Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-03T14:10:21.469Z</updated>
+    <updated>2025-12-03T15:11:58.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers]]></title>
+        <id>https://www.youtube.com/watch?v=wu8npoU37cI</id>
+        <link href="https://www.youtube.com/watch?v=wu8npoU37cI"/>
+        <updated>2025-12-03T14:28:01.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKX DEX Trading Tutorial (How to Setup & Trade on DEX Trading)]]></title>
         <id>https://www.youtube.com/watch?v=j7Kix62rwNk</id>
@@ -246,16 +255,6 @@
         <updated>2025-11-24T14:00:25.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you guess what this code logs?]]></title>
-        <id>https://www.youtube.com/shorts/iMLGy2wEE_g</id>
-        <link href="https://www.youtube.com/shorts/iMLGy2wEE_g"/>
-        <updated>2025-11-24T13:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

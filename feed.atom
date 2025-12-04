@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-04T13:28:44.993Z</id>
+    <id>urn:2025-12-04T14:10:35.803Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-04T13:28:44.993Z</updated>
+    <updated>2025-12-04T14:10:35.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Moving Average Trading Secrets To Trade Like A Pro!!]]></title>
+        <id>https://www.youtube.com/watch?v=a7RULW2hwug</id>
+        <link href="https://www.youtube.com/watch?v=a7RULW2hwug"/>
+        <updated>2025-12-04T14:00:00.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning to code on the job - right in the browser]]></title>
         <id>https://www.youtube.com/shorts/QpGTmAoEINA</id>
@@ -346,15 +355,6 @@
         <updated>2025-11-13T20:00:09.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit USD-M vs Inverse (Coin-M) Futures Explained]]></title>
-        <id>https://www.youtube.com/watch?v=QhCUxrVo9g0</id>
-        <link href="https://www.youtube.com/watch?v=QhCUxrVo9g0"/>
-        <updated>2025-11-13T14:00:44.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

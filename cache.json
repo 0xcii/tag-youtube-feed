@@ -63,12 +63,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/gpm1hRv6WL8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/gpm1hRv6WL8",
+          "publishedOn": "2025-12-08T13:17:27.000Z",
+          "wordCount": 2009,
+          "title": "The life of a software developer after work hours",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/ja4OAzPLuM8",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ja4OAzPLuM8",
           "publishedOn": "2025-12-07T13:43:22.000Z",
-          "wordCount": 2026,
+          "wordCount": 2021,
           "title": "Type coercion in JavaScript can get a little wild...",
           "imageUrl": null
         },
@@ -78,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/O3Q7WA38JXc",
           "publishedOn": "2025-12-06T13:32:27.000Z",
-          "wordCount": 2060,
+          "wordCount": 2253,
           "title": "How to negotiate your salary like a pro using anchoring",
           "imageUrl": null
         },
@@ -98,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9UxVhurASxU",
           "publishedOn": "2025-12-05T13:18:28.000Z",
-          "wordCount": 2130,
+          "wordCount": 2026,
           "title": "The \"this\" keyword can be tricky. Ania helps you sort out one of its quirks here.",
           "imageUrl": null
         },
@@ -118,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QpGTmAoEINA",
           "publishedOn": "2025-12-04T12:52:33.000Z",
-          "wordCount": 2054,
+          "wordCount": 2020,
           "title": "Learning to code on the job - right in the browser",
           "imageUrl": null
         },
@@ -138,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ikXDYsdg15c",
           "publishedOn": "2025-12-03T13:29:23.000Z",
-          "wordCount": 2031,
+          "wordCount": 2000,
           "title": "Function declaration vs expression - what's the difference?",
           "imageUrl": null
         },
@@ -158,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zkJt9y7ixiY",
           "publishedOn": "2025-12-02T13:05:26.000Z",
-          "wordCount": 2054,
+          "wordCount": 2043,
           "title": "AI tools can be super helpful - but they're not the answer to everything",
           "imageUrl": null
         },
@@ -178,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OarYObjva0E",
           "publishedOn": "2025-12-01T13:17:33.000Z",
-          "wordCount": 2085,
+          "wordCount": 2135,
           "title": "Only 6 values are falsey in JavaScript. Do you know what they are?",
           "imageUrl": null
         },
@@ -188,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zfUP1tIC64o",
           "publishedOn": "2025-11-30T13:43:26.000Z",
-          "wordCount": 2087,
+          "wordCount": 2108,
           "title": "Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.",
           "imageUrl": null
         },
@@ -198,18 +208,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/URJBQ3b9n6Y",
           "publishedOn": "2025-11-29T13:32:19.000Z",
-          "wordCount": 2075,
+          "wordCount": 2261,
           "title": "Classic JavaScript gotcha: why does this print 3, 3, 3 instead of 0, 1, 2?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=voPcxCFMbbM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=voPcxCFMbbM",
-          "publishedOn": "2025-11-28T15:01:40.000Z",
-          "wordCount": null,
-          "title": "How to teach yourself programming with GitHub's Andrea Griffiths [Podcast #199]",
           "imageUrl": null
         }
       ]
@@ -242,6 +242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=44TZZzK19AQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=44TZZzK19AQ",
+          "publishedOn": "2025-12-08T14:00:08.000Z",
+          "wordCount": null,
+          "title": "How to Send Crypto from Coinbase to Another Wallet or Exchange",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1SvvvzpgDME",
           "author": null,
@@ -380,16 +390,6 @@
           "publishedOn": "2025-11-18T14:00:49.000Z",
           "wordCount": null,
           "title": "Crypto Alert: What A Mess!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ON6kuBk-51w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ON6kuBk-51w",
-          "publishedOn": "2025-11-17T14:00:43.000Z",
-          "wordCount": null,
-          "title": "How to Send Money with Wise (EASY Step-by-Step Tutorial)",
           "imageUrl": null
         }
       ]

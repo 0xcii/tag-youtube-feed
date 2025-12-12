@@ -63,6 +63,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lIghF_OewYg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lIghF_OewYg",
+          "publishedOn": "2025-12-12T14:01:21.000Z",
+          "wordCount": null,
+          "title": "The \"AI is going to replace devs\" hype is over – 22-year dev veteran Jason Lengstorf [Podcast #201]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/jF2FnVVc4AU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/jF2FnVVc4AU",
+          "publishedOn": "2025-12-12T13:18:29.000Z",
+          "wordCount": 2013,
+          "title": "How to use the .swapcase() method in Python",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UIf-SlmMays",
           "author": null,
           "description": "",
@@ -78,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yhTipwdwe9w",
           "publishedOn": "2025-12-11T12:52:21.000Z",
-          "wordCount": 2450,
+          "wordCount": 2018,
           "title": "Fun fact about JavaScript",
           "imageUrl": null
         },
@@ -98,7 +118,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fLnkVdDPgso",
           "publishedOn": "2025-12-10T13:29:24.000Z",
-          "wordCount": 2118,
+          "wordCount": 2137,
           "title": "How to split a string in Python",
           "imageUrl": null
         },
@@ -108,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9kKNFP9srjc",
           "publishedOn": "2025-12-09T13:05:16.000Z",
-          "wordCount": 2010,
+          "wordCount": 2080,
           "title": "So how do closures work again...?",
           "imageUrl": null
         },
@@ -128,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gpm1hRv6WL8",
           "publishedOn": "2025-12-08T13:17:27.000Z",
-          "wordCount": 2043,
+          "wordCount": 2071,
           "title": "The life of a software developer after work hours",
           "imageUrl": null
         },
@@ -138,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ja4OAzPLuM8",
           "publishedOn": "2025-12-07T13:43:22.000Z",
-          "wordCount": 2081,
+          "wordCount": 2047,
           "title": "Type coercion in JavaScript can get a little wild...",
           "imageUrl": null
         },
@@ -148,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/O3Q7WA38JXc",
           "publishedOn": "2025-12-06T13:32:27.000Z",
-          "wordCount": 2024,
+          "wordCount": 2076,
           "title": "How to negotiate your salary like a pro using anchoring",
           "imageUrl": null
         },
@@ -168,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9UxVhurASxU",
           "publishedOn": "2025-12-05T13:18:28.000Z",
-          "wordCount": 2101,
+          "wordCount": 2064,
           "title": "The \"this\" keyword can be tricky. Ania helps you sort out one of its quirks here.",
           "imageUrl": null
         },
@@ -188,28 +208,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QpGTmAoEINA",
           "publishedOn": "2025-12-04T12:52:33.000Z",
-          "wordCount": 2063,
+          "wordCount": 2002,
           "title": "Learning to code on the job - right in the browser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wu8npoU37cI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wu8npoU37cI",
-          "publishedOn": "2025-12-03T14:28:01.000Z",
-          "wordCount": null,
-          "title": "Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/ikXDYsdg15c",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/ikXDYsdg15c",
-          "publishedOn": "2025-12-03T13:29:23.000Z",
-          "wordCount": 2057,
-          "title": "Function declaration vs expression - what's the difference?",
           "imageUrl": null
         }
       ]
@@ -242,6 +242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=E1_3LMLlvYc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E1_3LMLlvYc",
+          "publishedOn": "2025-12-12T14:00:22.000Z",
+          "wordCount": null,
+          "title": "Crypto Update: Everything Just Changed!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Y3E8o1B-99A",
           "author": null,
@@ -380,16 +390,6 @@
           "publishedOn": "2025-11-24T14:00:25.000Z",
           "wordCount": null,
           "title": "Revolut vs Wise: Best for Exchange, Transfers, Investing, Cards & More?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qV6y-kqcrek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qV6y-kqcrek",
-          "publishedOn": "2025-11-21T14:01:33.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Abysmal Price Action",
           "imageUrl": null
         }
       ]

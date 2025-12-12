@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-12T00:47:29.760Z</id>
+    <id>urn:2025-12-12T02:45:11.299Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-12T00:47:29.760Z</updated>
+    <updated>2025-12-12T02:45:11.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -34,7 +34,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code 7 Landmark NLP Papers in PyTorch (Full NMT Course)]]></title>
+        <title type="html"><![CDATA[From RNNs to Transformers: The Complete Neural Machine Translation Journey]]></title>
         <id>https://www.youtube.com/watch?v=kRv2ElPNAdY</id>
         <link href="https://www.youtube.com/watch?v=kRv2ElPNAdY"/>
         <updated>2025-12-10T14:42:03.000Z</updated>

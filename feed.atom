@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-13T13:19:10.242Z</id>
+    <id>urn:2025-12-13T14:08:12.024Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-13T13:19:10.242Z</updated>
+    <updated>2025-12-13T14:08:12.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[It's both really hard and really easy to make money. How can this be?]]></title>
+        <id>https://www.youtube.com/shorts/slfaeQLn1cY</id>
+        <link href="https://www.youtube.com/shorts/slfaeQLn1cY"/>
+        <updated>2025-12-13T13:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This new crypto protocol can lead to mass adoption]]></title>
         <id>https://www.youtube.com/watch?v=03K9shgBw34</id>
@@ -218,16 +228,6 @@
         <updated>2025-12-04T14:00:00.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning to code on the job - right in the browser]]></title>
-        <id>https://www.youtube.com/shorts/QpGTmAoEINA</id>
-        <link href="https://www.youtube.com/shorts/QpGTmAoEINA"/>
-        <updated>2025-12-04T12:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

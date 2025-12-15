@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-15T08:16:23.947Z</id>
+    <id>urn:2025-12-15T09:19:15.063Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-15T08:16:23.947Z</updated>
+    <updated>2025-12-15T09:19:15.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,15 +116,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TradingView Triangle Drawing Tools Tutorial (& Trading Example)]]></title>
-        <id>https://www.youtube.com/watch?v=2Voyoj-fsZE</id>
-        <link href="https://www.youtube.com/watch?v=2Voyoj-fsZE"/>
-        <updated>2025-12-10T07:11:53.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -335,6 +326,15 @@
         <id>https://www.youtube.com/watch?v=08BwAK33_Us</id>
         <link href="https://www.youtube.com/watch?v=08BwAK33_Us"/>
         <updated>2025-11-25T14:00:02.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolut vs Wise: Best for Exchange, Transfers, Investing, Cards & More?]]></title>
+        <id>https://www.youtube.com/watch?v=CipAhgVHxVU</id>
+        <link href="https://www.youtube.com/watch?v=CipAhgVHxVU"/>
+        <updated>2025-11-24T14:00:25.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

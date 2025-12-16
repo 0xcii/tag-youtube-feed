@@ -54,16 +54,6 @@
           "wordCount": null,
           "title": "HyperSui ：一个基于Sui区块链的去中心化交易所",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4NK7rbFTLYw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4NK7rbFTLYw",
-          "publishedOn": "2025-11-17T02:40:48.000Z",
-          "wordCount": null,
-          "title": "从0开始打金狗！使用神器 XXYY ， 高效监控追踪扫链交易！",
-          "imageUrl": null
         }
       ]
     },
@@ -73,12 +63,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Q7P20fHJlm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q7P20fHJlm4",
+          "publishedOn": "2025-12-16T14:43:47.000Z",
+          "wordCount": null,
+          "title": "Intro to Supabase – Full Tutorial for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/qG2g1iv6ZbY",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/qG2g1iv6ZbY",
           "publishedOn": "2025-12-16T13:05:26.000Z",
-          "wordCount": 2038,
+          "wordCount": 2014,
           "title": "Event loop race: which one logs first?",
           "imageUrl": null
         },
@@ -88,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/N2nbig3WjAI",
           "publishedOn": "2025-12-15T13:17:30.000Z",
-          "wordCount": 2029,
+          "wordCount": 2403,
           "title": "How to use the .title() method in Python",
           "imageUrl": null
         },
@@ -98,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QgZoz4xFfLE",
           "publishedOn": "2025-12-14T13:43:24.000Z",
-          "wordCount": 2045,
+          "wordCount": 2432,
           "title": "Array vs object gotcha in JavaScript",
           "imageUrl": null
         },
@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/slfaeQLn1cY",
           "publishedOn": "2025-12-13T13:32:23.000Z",
-          "wordCount": 2093,
+          "wordCount": 2099,
           "title": "It's both really hard and really easy to make money. How can this be?",
           "imageUrl": null
         },
@@ -128,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jF2FnVVc4AU",
           "publishedOn": "2025-12-12T13:18:29.000Z",
-          "wordCount": 2032,
+          "wordCount": 2033,
           "title": "How to use the .swapcase() method in Python",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yhTipwdwe9w",
           "publishedOn": "2025-12-11T12:52:21.000Z",
-          "wordCount": 2024,
+          "wordCount": 2047,
           "title": "Fun fact about JavaScript",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fLnkVdDPgso",
           "publishedOn": "2025-12-10T13:29:24.000Z",
-          "wordCount": 2046,
+          "wordCount": 2776,
           "title": "How to split a string in Python",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9kKNFP9srjc",
           "publishedOn": "2025-12-09T13:05:16.000Z",
-          "wordCount": 2016,
+          "wordCount": 1985,
           "title": "So how do closures work again...?",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gpm1hRv6WL8",
           "publishedOn": "2025-12-08T13:17:27.000Z",
-          "wordCount": 2060,
+          "wordCount": 2041,
           "title": "The life of a software developer after work hours",
           "imageUrl": null
         },
@@ -208,18 +208,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ja4OAzPLuM8",
           "publishedOn": "2025-12-07T13:43:22.000Z",
-          "wordCount": 2029,
+          "wordCount": 2036,
           "title": "Type coercion in JavaScript can get a little wild...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/O3Q7WA38JXc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/O3Q7WA38JXc",
-          "publishedOn": "2025-12-06T13:32:27.000Z",
-          "wordCount": 2113,
-          "title": "How to negotiate your salary like a pro using anchoring",
           "imageUrl": null
         }
       ]
@@ -252,6 +242,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FyRkINgsAo4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FyRkINgsAo4",
+          "publishedOn": "2025-12-16T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: What’s The Worst Case Scenario?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4rSxxKmWdGQ",
           "author": null,
@@ -390,16 +390,6 @@
           "publishedOn": "2025-11-26T14:01:25.000Z",
           "wordCount": null,
           "title": "Coinbase Advanced Stop Limit Order Tutorial for Beginners (Stop Loss)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=08BwAK33_Us",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=08BwAK33_Us",
-          "publishedOn": "2025-11-25T14:00:02.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: The Fed Chickened Out",
           "imageUrl": null
         }
       ]

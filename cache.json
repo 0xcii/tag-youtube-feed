@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "我们破解了链上密码：如何用Nansen提前发现‘拉盘信号’？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WPambsyjTZ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WPambsyjTZ4",
-          "publishedOn": "2025-11-18T08:09:29.000Z",
-          "wordCount": null,
-          "title": "HyperSui ：一个基于Sui区块链的去中心化交易所",
-          "imageUrl": null
         }
       ]
     },
@@ -68,7 +58,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vZHhmzT9TL8",
           "publishedOn": "2025-12-17T13:29:40.000Z",
-          "wordCount": 2063,
+          "wordCount": 2046,
           "title": "How to use the .append() method in Python",
           "imageUrl": null
         },
@@ -88,7 +78,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/qG2g1iv6ZbY",
           "publishedOn": "2025-12-16T13:05:26.000Z",
-          "wordCount": 2180,
+          "wordCount": 1924,
           "title": "Event loop race: which one logs first?",
           "imageUrl": null
         },
@@ -98,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/N2nbig3WjAI",
           "publishedOn": "2025-12-15T13:17:30.000Z",
-          "wordCount": 2057,
+          "wordCount": 1926,
           "title": "How to use the .title() method in Python",
           "imageUrl": null
         },
@@ -108,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QgZoz4xFfLE",
           "publishedOn": "2025-12-14T13:43:24.000Z",
-          "wordCount": 2022,
+          "wordCount": 1968,
           "title": "Array vs object gotcha in JavaScript",
           "imageUrl": null
         },
@@ -118,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/slfaeQLn1cY",
           "publishedOn": "2025-12-13T13:32:23.000Z",
-          "wordCount": 2094,
+          "wordCount": 1992,
           "title": "It's both really hard and really easy to make money. How can this be?",
           "imageUrl": null
         },
@@ -138,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jF2FnVVc4AU",
           "publishedOn": "2025-12-12T13:18:29.000Z",
-          "wordCount": 1908,
+          "wordCount": 1929,
           "title": "How to use the .swapcase() method in Python",
           "imageUrl": null
         },
@@ -158,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yhTipwdwe9w",
           "publishedOn": "2025-12-11T12:52:21.000Z",
-          "wordCount": 2228,
+          "wordCount": 2035,
           "title": "Fun fact about JavaScript",
           "imageUrl": null
         },
@@ -178,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fLnkVdDPgso",
           "publishedOn": "2025-12-10T13:29:24.000Z",
-          "wordCount": 2037,
+          "wordCount": 1958,
           "title": "How to split a string in Python",
           "imageUrl": null
         },
@@ -188,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9kKNFP9srjc",
           "publishedOn": "2025-12-09T13:05:16.000Z",
-          "wordCount": 2089,
+          "wordCount": 2011,
           "title": "So how do closures work again...?",
           "imageUrl": null
         },
@@ -208,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gpm1hRv6WL8",
           "publishedOn": "2025-12-08T13:17:27.000Z",
-          "wordCount": 2029,
+          "wordCount": 1936,
           "title": "The life of a software developer after work hours",
           "imageUrl": null
         }

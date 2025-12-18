@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-18T13:28:40.848Z</id>
+    <id>urn:2025-12-18T14:12:28.567Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-18T13:28:40.848Z</updated>
+    <updated>2025-12-18T14:12:28.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deposit Money to Crypto.com via Card or Bank Transfer]]></title>
+        <id>https://www.youtube.com/watch?v=rpFcxy2gBSc</id>
+        <link href="https://www.youtube.com/watch?v=rpFcxy2gBSc"/>
+        <updated>2025-12-18T14:01:39.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don't chase a path that looks good just because you feel like you're supposed to]]></title>
         <id>https://www.youtube.com/shorts/uNS75JWOmBI</id>
@@ -335,15 +344,6 @@
         <id>https://www.youtube.com/watch?v=REwgqWI9zUY</id>
         <link href="https://www.youtube.com/watch?v=REwgqWI9zUY"/>
         <updated>2025-11-28T14:00:47.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trust Wallet Browser Extension Tutorial (Setup, Deposit, Withdraw, Swap)]]></title>
-        <id>https://www.youtube.com/watch?v=DWKQ5lDuXA4</id>
-        <link href="https://www.youtube.com/watch?v=DWKQ5lDuXA4"/>
-        <updated>2025-11-27T14:00:31.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

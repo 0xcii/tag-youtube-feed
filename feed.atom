@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-18T12:19:06.803Z</id>
+    <id>urn:2025-12-18T13:28:40.848Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-18T12:19:06.803Z</updated>
+    <updated>2025-12-18T13:28:40.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don't chase a path that looks good just because you feel like you're supposed to]]></title>
+        <id>https://www.youtube.com/shorts/uNS75JWOmBI</id>
+        <link href="https://www.youtube.com/shorts/uNS75JWOmBI"/>
+        <updated>2025-12-18T12:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Withdraw Money from Wise (Back to Bank)]]></title>
         <id>https://www.youtube.com/watch?v=7FVX9EkLr-I</id>
@@ -228,16 +238,6 @@
         <updated>2025-12-08T14:00:08.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The life of a software developer after work hours]]></title>
-        <id>https://www.youtube.com/shorts/gpm1hRv6WL8</id>
-        <link href="https://www.youtube.com/shorts/gpm1hRv6WL8"/>
-        <updated>2025-12-08T13:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

@@ -78,7 +78,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/f9-Vf_WNvT0",
           "publishedOn": "2025-12-19T13:18:33.000Z",
-          "wordCount": 1927,
+          "wordCount": 1946,
           "title": "How to check if a string only contains whitespace in Python",
           "imageUrl": null
         },
@@ -98,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/uNS75JWOmBI",
           "publishedOn": "2025-12-18T12:52:39.000Z",
-          "wordCount": 2436,
+          "wordCount": 2416,
           "title": "Don't chase a path that looks good just because you feel like you're supposed to",
           "imageUrl": null
         },
@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vZHhmzT9TL8",
           "publishedOn": "2025-12-17T13:29:40.000Z",
-          "wordCount": 1970,
+          "wordCount": 1976,
           "title": "How to use the .append() method in Python",
           "imageUrl": null
         },
@@ -128,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/qG2g1iv6ZbY",
           "publishedOn": "2025-12-16T13:05:26.000Z",
-          "wordCount": 1931,
+          "wordCount": 2358,
           "title": "Event loop race: which one logs first?",
           "imageUrl": null
         },
@@ -138,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/N2nbig3WjAI",
           "publishedOn": "2025-12-15T13:17:30.000Z",
-          "wordCount": 1930,
+          "wordCount": 1966,
           "title": "How to use the .title() method in Python",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QgZoz4xFfLE",
           "publishedOn": "2025-12-14T13:43:24.000Z",
-          "wordCount": 2035,
+          "wordCount": 2044,
           "title": "Array vs object gotcha in JavaScript",
           "imageUrl": null
         },
@@ -158,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/slfaeQLn1cY",
           "publishedOn": "2025-12-13T13:32:23.000Z",
-          "wordCount": 1986,
+          "wordCount": 2901,
           "title": "It's both really hard and really easy to make money. How can this be?",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jF2FnVVc4AU",
           "publishedOn": "2025-12-12T13:18:29.000Z",
-          "wordCount": 1931,
+          "wordCount": 2056,
           "title": "How to use the .swapcase() method in Python",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yhTipwdwe9w",
           "publishedOn": "2025-12-11T12:52:21.000Z",
-          "wordCount": 1906,
+          "wordCount": 1944,
           "title": "Fun fact about JavaScript",
           "imageUrl": null
         },
@@ -218,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fLnkVdDPgso",
           "publishedOn": "2025-12-10T13:29:24.000Z",
-          "wordCount": 2063,
+          "wordCount": 2058,
           "title": "How to split a string in Python",
           "imageUrl": null
         }
@@ -246,6 +246,163 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": []
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Tf0zIRQQYZo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tf0zIRQQYZo",
+          "publishedOn": "2025-12-19T14:01:01.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Time For The Liquidity Flood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rpFcxy2gBSc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rpFcxy2gBSc",
+          "publishedOn": "2025-12-18T14:01:39.000Z",
+          "wordCount": null,
+          "title": "How to Deposit Money to Crypto.com via Card or Bank Transfer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7FVX9EkLr-I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7FVX9EkLr-I",
+          "publishedOn": "2025-12-17T14:00:21.000Z",
+          "wordCount": null,
+          "title": "How to Withdraw Money from Wise (Back to Bank)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FyRkINgsAo4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FyRkINgsAo4",
+          "publishedOn": "2025-12-16T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: What’s The Worst Case Scenario?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4rSxxKmWdGQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4rSxxKmWdGQ",
+          "publishedOn": "2025-12-15T14:00:09.000Z",
+          "wordCount": null,
+          "title": "How to Send Crypto from OKX to Binance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E1_3LMLlvYc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E1_3LMLlvYc",
+          "publishedOn": "2025-12-12T14:00:22.000Z",
+          "wordCount": null,
+          "title": "Crypto Update: Everything Just Changed!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Y3E8o1B-99A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y3E8o1B-99A",
+          "publishedOn": "2025-12-11T14:00:55.000Z",
+          "wordCount": null,
+          "title": "Kraken Limit Order Tutorial (Trade Limit Orders on Kraken pro)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XS72CfCMZ3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XS72CfCMZ3s",
+          "publishedOn": "2025-12-10T14:00:59.000Z",
+          "wordCount": null,
+          "title": "How to Convert Currency in Wise App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mgfFMSO7hvY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mgfFMSO7hvY",
+          "publishedOn": "2025-12-09T14:01:22.000Z",
+          "wordCount": null,
+          "title": "Crypto Update: A Big Move Coming In 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=44TZZzK19AQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=44TZZzK19AQ",
+          "publishedOn": "2025-12-08T14:00:08.000Z",
+          "wordCount": null,
+          "title": "How to Send Crypto from Coinbase to Another Wallet or Exchange",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1SvvvzpgDME",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1SvvvzpgDME",
+          "publishedOn": "2025-12-05T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Here's What Bitcoin Is Signalling Now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=a7RULW2hwug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a7RULW2hwug",
+          "publishedOn": "2025-12-04T14:00:00.000Z",
+          "wordCount": null,
+          "title": "10 Moving Average Trading Secrets To Trade Like A Pro!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j7Kix62rwNk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j7Kix62rwNk",
+          "publishedOn": "2025-12-03T14:01:31.000Z",
+          "wordCount": null,
+          "title": "OKX DEX Trading Tutorial (How to Setup & Trade on DEX Trading)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pKgPIsjFu9Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pKgPIsjFu9Y",
+          "publishedOn": "2025-12-02T14:01:30.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Falling Into a Bear Market?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Yqktuzrk9Oo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Yqktuzrk9Oo",
+          "publishedOn": "2025-12-01T14:01:04.000Z",
+          "wordCount": null,
+          "title": "Uphold Mobile App Tutorial (Deposit, Trade, Withdraw)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "EatTheBlocks",

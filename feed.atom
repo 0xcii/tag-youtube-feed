@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-28T13:22:08.432Z</id>
+    <id>urn:2025-12-28T14:08:59.525Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-28T13:22:08.432Z</updated>
+    <updated>2025-12-28T14:08:59.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All you need to start learning to code with freeCodeCamp is the will to do so.]]></title>
+        <id>https://www.youtube.com/shorts/lw1vTtFyfgg</id>
+        <link href="https://www.youtube.com/shorts/lw1vTtFyfgg"/>
+        <updated>2025-12-28T13:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did you know that HTML doesn't care about mistakes?]]></title>
         <id>https://www.youtube.com/shorts/w_BIYb6WbtU</id>
@@ -246,15 +256,6 @@
         <link href="https://www.youtube.com/shorts/vZHhmzT9TL8"/>
         <updated>2025-12-17T13:29:40.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro to Supabase – Full Tutorial for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=Q7P20fHJlm4</id>
-        <link href="https://www.youtube.com/watch?v=Q7P20fHJlm4"/>
-        <updated>2025-12-16T14:43:47.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

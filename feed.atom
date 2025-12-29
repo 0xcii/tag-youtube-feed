@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-29T12:20:00.125Z</id>
+    <id>urn:2025-12-29T13:29:29.007Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-29T12:20:00.125Z</updated>
+    <updated>2025-12-29T13:29:29.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Browsers fight over who renders HTML the best. Which one do you think usually wins?]]></title>
+        <id>https://www.youtube.com/shorts/8Si7eCfEpB0</id>
+        <link href="https://www.youtube.com/shorts/8Si7eCfEpB0"/>
+        <updated>2025-12-29T13:17:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All you need to start learning to code with freeCodeCamp is the will to do so.]]></title>
         <id>https://www.youtube.com/shorts/lw1vTtFyfgg</id>
@@ -248,16 +258,6 @@
         <updated>2025-12-17T14:00:21.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use the .append() method in Python]]></title>
-        <id>https://www.youtube.com/shorts/vZHhmzT9TL8</id>
-        <link href="https://www.youtube.com/shorts/vZHhmzT9TL8"/>
-        <updated>2025-12-17T13:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

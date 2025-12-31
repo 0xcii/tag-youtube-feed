@@ -1,10 +1,470 @@
 {
   "sources": [
     {
+      "title": "链求君",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gBprBbsPkEc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gBprBbsPkEc",
+          "publishedOn": "2025-12-27T00:30:51.000Z",
+          "wordCount": null,
+          "title": "预测市场 1个月 60 倍，他用 $208 冲刺到 $128000 仅在 Polymarket 上交易单一事件 ！ 它是如何做到的？ 我们如何学习借鉴 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KLcsJfiXJ9I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KLcsJfiXJ9I",
+          "publishedOn": "2025-12-26T02:05:53.000Z",
+          "wordCount": null,
+          "title": "2025 年末福利 ！ 新手不容错过的大礼包 ！ 我踩过的坑，一次性帮你扫清！【截止2026.1.1】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qyJF-jFTflg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qyJF-jFTflg",
+          "publishedOn": "2025-12-22T02:00:59.000Z",
+          "wordCount": null,
+          "title": "用 AI 推演你的一生 ？  紫薇斗术 K 线版 ： 命运的源代码，等待被你解码。  #人生K线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6_MuN8UsDdE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6_MuN8UsDdE",
+          "publishedOn": "2025-12-20T22:11:43.000Z",
+          "wordCount": null,
+          "title": "预测市场扫尾盘神器 TradeFox ， 复制跟单、止盈止损 ，最佳组合。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=f6IjlZb4urw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f6IjlZb4urw",
+          "publishedOn": "2025-12-19T14:09:06.000Z",
+          "wordCount": null,
+          "title": "Base 上的永续交易平台，BasePerp 首个原生永续 DEX ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hk_Xcj9-v6s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hk_Xcj9-v6s",
+          "publishedOn": "2025-12-18T15:15:44.000Z",
+          "wordCount": null,
+          "title": "如何用 Nansen 帮助你进行 AI 交易 BTC ？ 改变现有交易方式 ！ Vibe Trading ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xmAxnzFcgnM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xmAxnzFcgnM",
+          "publishedOn": "2025-12-15T10:19:24.000Z",
+          "wordCount": null,
+          "title": "Unich 首个场外交易平台， 盘前交易和预购模式的先驱 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9iScdw1I6AA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9iScdw1I6AA",
+          "publishedOn": "2025-12-04T21:30:01.000Z",
+          "wordCount": null,
+          "title": "告别盯盘！这个Polymarket机器人比我更会交易，80%胜率全程自动化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8BYU5J2S_m8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8BYU5J2S_m8",
+          "publishedOn": "2025-12-02T16:00:20.000Z",
+          "wordCount": null,
+          "title": "我是如何一周内，从担心被盗到淡定跟庄的：币安钱包与Nansen实战指南",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/Fi8vnYgMiHA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Fi8vnYgMiHA",
+          "publishedOn": "2025-12-30T13:05:47.000Z",
+          "wordCount": 2082,
+          "title": "So why should you still learn C programming in 2025 and beyond? Dr. David J. Malan has an answer.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/8Si7eCfEpB0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/8Si7eCfEpB0",
+          "publishedOn": "2025-12-29T13:17:22.000Z",
+          "wordCount": 2088,
+          "title": "Browsers fight over who renders HTML the best. Which one do you think usually wins?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/lw1vTtFyfgg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/lw1vTtFyfgg",
+          "publishedOn": "2025-12-28T13:43:24.000Z",
+          "wordCount": 2143,
+          "title": "All you need to start learning to code with freeCodeCamp is the will to do so.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/w_BIYb6WbtU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/w_BIYb6WbtU",
+          "publishedOn": "2025-12-27T13:32:31.000Z",
+          "wordCount": 2029,
+          "title": "Did you know that HTML doesn't care about mistakes?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Zo8AxO6sTQA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Zo8AxO6sTQA",
+          "publishedOn": "2025-12-26T13:18:26.000Z",
+          "wordCount": 2163,
+          "title": "What's CS50's 72-hour Regret Clause? Dr. David J. Malan explains here.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Iapgr6t6Nv0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Iapgr6t6Nv0",
+          "publishedOn": "2025-12-25T12:52:30.000Z",
+          "wordCount": 3199,
+          "title": "Candy cane conditional: everyone gets a candy cane only once the tree is decorated...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/QZTOm8YVAW8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/QZTOm8YVAW8",
+          "publishedOn": "2025-12-24T13:29:30.000Z",
+          "wordCount": 1985,
+          "title": "Which elf gets the candy cane?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WKIjkxxNH0c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WKIjkxxNH0c",
+          "publishedOn": "2025-12-23T16:11:53.000Z",
+          "wordCount": null,
+          "title": "Build a Support Agent with Vercel AI SDK – Full Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/_fvW2bruZ2M",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/_fvW2bruZ2M",
+          "publishedOn": "2025-12-23T13:05:27.000Z",
+          "wordCount": 2151,
+          "title": "Take ownership. Advocate for yourself. Get to know the support team.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/QCSKhLuGR5c",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/QCSKhLuGR5c",
+          "publishedOn": "2025-12-22T13:17:20.000Z",
+          "wordCount": 2083,
+          "title": "How to remove trailing characters from a Python string using the .rstrip() method",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_-Tj3bPSYCI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_-Tj3bPSYCI",
+          "publishedOn": "2025-12-22T12:40:45.000Z",
+          "wordCount": null,
+          "title": "How to get promoted as a dev w/out becoming a manager – Staff Engineer Santosh Yadav [Podcast #202]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/taSwtU-sldo",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/taSwtU-sldo",
+          "publishedOn": "2025-12-21T13:43:34.000Z",
+          "wordCount": 2494,
+          "title": "What happens when you spread a string in JavaScript?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/FAKgFhWX8pQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/FAKgFhWX8pQ",
+          "publishedOn": "2025-12-20T13:32:25.000Z",
+          "wordCount": 2102,
+          "title": "This looks simple, but can you predict the output?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/f9-Vf_WNvT0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/f9-Vf_WNvT0",
+          "publishedOn": "2025-12-19T13:18:33.000Z",
+          "wordCount": 2060,
+          "title": "How to check if a string only contains whitespace in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dSIVVX0vAsY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dSIVVX0vAsY",
+          "publishedOn": "2025-12-18T14:58:24.000Z",
+          "wordCount": null,
+          "title": "Unity 2D Pixel Art Game Tutorial",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": []
+    },
+    {
       "title": "Chico Crypto",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": []
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=n7rD8UzcdZs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n7rD8UzcdZs",
+          "publishedOn": "2025-12-30T14:01:31.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Bitcoin Going Nowhere Whilst Everything Else Pumps...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2Voyoj-fsZE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2Voyoj-fsZE",
+          "publishedOn": "2025-12-29T14:00:11.000Z",
+          "wordCount": null,
+          "title": "TradingView Triangle Drawing Tools Tutorial (& Trading Example)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wr6SDIvNhbg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wr6SDIvNhbg",
+          "publishedOn": "2025-12-24T14:01:43.000Z",
+          "wordCount": null,
+          "title": "Revolut Tutorial for Beginners (How to Use Revolut App)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_AxDcgITXpE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_AxDcgITXpE",
+          "publishedOn": "2025-12-22T14:00:59.000Z",
+          "wordCount": null,
+          "title": "TradingView Trend Strength Indicator Tutorial (& Trading Tips)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Tf0zIRQQYZo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tf0zIRQQYZo",
+          "publishedOn": "2025-12-19T14:01:01.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Time For The Liquidity Flood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rpFcxy2gBSc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rpFcxy2gBSc",
+          "publishedOn": "2025-12-18T14:01:39.000Z",
+          "wordCount": null,
+          "title": "How to Deposit Money to Crypto.com via Card or Bank Transfer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7FVX9EkLr-I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7FVX9EkLr-I",
+          "publishedOn": "2025-12-17T14:00:21.000Z",
+          "wordCount": null,
+          "title": "How to Withdraw Money from Wise (Back to Bank)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FyRkINgsAo4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FyRkINgsAo4",
+          "publishedOn": "2025-12-16T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: What’s The Worst Case Scenario?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4rSxxKmWdGQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4rSxxKmWdGQ",
+          "publishedOn": "2025-12-15T14:00:09.000Z",
+          "wordCount": null,
+          "title": "How to Send Crypto from OKX to Binance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E1_3LMLlvYc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E1_3LMLlvYc",
+          "publishedOn": "2025-12-12T14:00:22.000Z",
+          "wordCount": null,
+          "title": "Crypto Update: Everything Just Changed!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Y3E8o1B-99A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y3E8o1B-99A",
+          "publishedOn": "2025-12-11T14:00:55.000Z",
+          "wordCount": null,
+          "title": "Kraken Limit Order Tutorial (Trade Limit Orders on Kraken pro)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XS72CfCMZ3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XS72CfCMZ3s",
+          "publishedOn": "2025-12-10T14:00:59.000Z",
+          "wordCount": null,
+          "title": "How to Convert Currency in Wise App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mgfFMSO7hvY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mgfFMSO7hvY",
+          "publishedOn": "2025-12-09T14:01:22.000Z",
+          "wordCount": null,
+          "title": "Crypto Update: A Big Move Coming In 2026?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=44TZZzK19AQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=44TZZzK19AQ",
+          "publishedOn": "2025-12-08T14:00:08.000Z",
+          "wordCount": null,
+          "title": "How to Send Crypto from Coinbase to Another Wallet or Exchange",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1SvvvzpgDME",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1SvvvzpgDME",
+          "publishedOn": "2025-12-05T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Here's What Bitcoin Is Signalling Now",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CIm36mlggdI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CIm36mlggdI",
+          "publishedOn": "2025-12-29T20:00:21.000Z",
+          "wordCount": null,
+          "title": "Master Viem For Blockchain Step-by-Step (Full Course 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nZDD5XsnmO8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nZDD5XsnmO8",
+          "publishedOn": "2025-12-18T20:00:50.000Z",
+          "wordCount": null,
+          "title": "Worried about the Crypto Bear Market? Watch this.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=03K9shgBw34",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=03K9shgBw34",
+          "publishedOn": "2025-12-12T16:00:02.000Z",
+          "wordCount": null,
+          "title": "This new crypto protocol can lead to mass adoption",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

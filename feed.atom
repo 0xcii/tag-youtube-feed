@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-31T16:12:13.510Z</id>
+    <id>urn:2025-12-31T17:08:42.655Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-31T16:12:13.510Z</updated>
+    <updated>2025-12-31T17:08:42.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -86,7 +86,7 @@
         <id>https://www.youtube.com/shorts/w_BIYb6WbtU</id>
         <link href="https://www.youtube.com/shorts/w_BIYb6WbtU"/>
         <updated>2025-12-27T13:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that HTML doesn't care about mistakes? Ania shows you what that means here.]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-01T03:01:56.539Z</id>
+    <id>urn:2026-01-01T04:38:25.397Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-01T03:01:56.539Z</updated>
+    <updated>2026-01-01T04:38:25.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -383,15 +383,6 @@
         <id>https://www.youtube.com/watch?v=9iScdw1I6AA</id>
         <link href="https://www.youtube.com/watch?v=9iScdw1I6AA"/>
         <updated>2025-12-04T21:30:01.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是如何一周内，从担心被盗到淡定跟庄的：币安钱包与Nansen实战指南]]></title>
-        <id>https://www.youtube.com/watch?v=8BYU5J2S_m8</id>
-        <link href="https://www.youtube.com/watch?v=8BYU5J2S_m8"/>
-        <updated>2025-12-02T16:00:20.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-02T14:10:07.748Z</id>
+    <id>urn:2026-01-02T15:10:16.790Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-02T14:10:07.748Z</updated>
+    <updated>2026-01-02T15:10:16.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Music Production 101 – Master Sound Design, Mixing, and Mastering in FL Studio]]></title>
+        <id>https://www.youtube.com/watch?v=r36xQmTJe1c</id>
+        <link href="https://www.youtube.com/watch?v=r36xQmTJe1c"/>
+        <updated>2026-01-02T14:29:46.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: 2026 Outlook Is Changing Fast!]]></title>
+        <id>https://www.youtube.com/watch?v=fWlKBRhCoK4</id>
+        <link href="https://www.youtube.com/watch?v=fWlKBRhCoK4"/>
+        <updated>2026-01-02T14:01:10.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's a little array method mystery for you...]]></title>
         <id>https://www.youtube.com/shorts/HwFw1abJkUs</id>
@@ -234,16 +252,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What happens when you spread a string in JavaScript?]]></title>
-        <id>https://www.youtube.com/shorts/taSwtU-sldo</id>
-        <link href="https://www.youtube.com/shorts/taSwtU-sldo"/>
-        <updated>2025-12-21T13:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[预测市场扫尾盘神器 TradeFox ， 复制跟单、止盈止损 ，最佳组合。]]></title>
         <id>https://www.youtube.com/watch?v=6_MuN8UsDdE</id>
         <link href="https://www.youtube.com/watch?v=6_MuN8UsDdE"/>
@@ -365,15 +373,6 @@
         <id>https://www.youtube.com/watch?v=XS72CfCMZ3s</id>
         <link href="https://www.youtube.com/watch?v=XS72CfCMZ3s"/>
         <updated>2025-12-10T14:00:59.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Update: A Big Move Coming In 2026?]]></title>
-        <id>https://www.youtube.com/watch?v=mgfFMSO7hvY</id>
-        <link href="https://www.youtube.com/watch?v=mgfFMSO7hvY"/>
-        <updated>2025-12-09T14:01:22.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

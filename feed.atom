@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-05T13:33:07.009Z</id>
+    <id>urn:2026-01-05T14:13:13.725Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-05T13:33:07.009Z</updated>
+    <updated>2026-01-05T14:13:13.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TradingView Average True Range Indicator Tutorial (ATR)]]></title>
+        <id>https://www.youtube.com/watch?v=V0vLbAoqF68</id>
+        <link href="https://www.youtube.com/watch?v=V0vLbAoqF68"/>
+        <updated>2026-01-05T14:01:01.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript ecosystem is huge - and Vue's founder, Evan You, is trying to simplify it]]></title>
+        <id>https://www.youtube.com/shorts/y5aKEyPfLKs</id>
+        <link href="https://www.youtube.com/shorts/y5aKEyPfLKs"/>
+        <updated>2026-01-05T13:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript coercion chaos at its finest]]></title>
         <id>https://www.youtube.com/shorts/kFEBs8wuhiU</id>
@@ -225,16 +244,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Take ownership. Advocate for yourself. Get to know the support team.]]></title>
-        <id>https://www.youtube.com/shorts/_fvW2bruZ2M</id>
-        <link href="https://www.youtube.com/shorts/_fvW2bruZ2M"/>
-        <updated>2025-12-23T13:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TradingView Trend Strength Indicator Tutorial (& Trading Tips)]]></title>
         <id>https://www.youtube.com/watch?v=_AxDcgITXpE</id>
         <link href="https://www.youtube.com/watch?v=_AxDcgITXpE"/>
@@ -365,15 +374,6 @@
         <id>https://www.youtube.com/watch?v=Y3E8o1B-99A</id>
         <link href="https://www.youtube.com/watch?v=Y3E8o1B-99A"/>
         <updated>2025-12-11T14:00:55.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert Currency in Wise App]]></title>
-        <id>https://www.youtube.com/watch?v=XS72CfCMZ3s</id>
-        <link href="https://www.youtube.com/watch?v=XS72CfCMZ3s"/>
-        <updated>2025-12-10T14:00:59.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

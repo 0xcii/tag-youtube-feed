@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-07T13:31:19.119Z</id>
+    <id>urn:2026-01-07T14:12:54.581Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-07T13:31:19.119Z</updated>
+    <updated>2026-01-07T14:12:54.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken Trailing Stop Order Tutorial (How to Use Trailing Stop)]]></title>
+        <id>https://www.youtube.com/watch?v=u3nQRiY2Eso</id>
+        <link href="https://www.youtube.com/watch?v=u3nQRiY2Eso"/>
+        <updated>2026-01-07T14:01:46.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need some coding experience? Contribute to Open Source.]]></title>
+        <id>https://www.youtube.com/shorts/HihwnUepmdg</id>
+        <link href="https://www.youtube.com/shorts/HihwnUepmdg"/>
+        <updated>2026-01-07T13:29:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Agentic AI Workloads – Crash Course]]></title>
         <id>https://www.youtube.com/watch?v=tr5Fapv80Cw</id>
@@ -224,16 +243,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's CS50's 72-hour Regret Clause? Dr. David J. Malan explains here.]]></title>
-        <id>https://www.youtube.com/shorts/Zo8AxO6sTQA</id>
-        <link href="https://www.youtube.com/shorts/Zo8AxO6sTQA"/>
-        <updated>2025-12-26T13:18:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025 年末福利 ！ 新手不容错过的大礼包 ！ 我踩过的坑，一次性帮你扫清！【截止2026.1.1】]]></title>
         <id>https://www.youtube.com/watch?v=KLcsJfiXJ9I</id>
         <link href="https://www.youtube.com/watch?v=KLcsJfiXJ9I"/>
@@ -366,15 +375,6 @@
         <updated>2025-12-12T16:00:02.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Update: Everything Just Changed!!]]></title>
-        <id>https://www.youtube.com/watch?v=E1_3LMLlvYc</id>
-        <link href="https://www.youtube.com/watch?v=E1_3LMLlvYc"/>
-        <updated>2025-12-12T14:00:22.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
 </feed>

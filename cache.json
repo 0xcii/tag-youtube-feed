@@ -88,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tPeyD3ELDHw",
           "publishedOn": "2026-01-08T12:52:20.000Z",
-          "wordCount": 2105,
+          "wordCount": 2011,
           "title": "Did you know - Harvard's CS50 isn't just a coding course. There are many variants...",
           "imageUrl": null
         },
@@ -98,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HihwnUepmdg",
           "publishedOn": "2026-01-07T13:29:25.000Z",
-          "wordCount": 2024,
+          "wordCount": 2066,
           "title": "Need some coding experience? Contribute to Open Source.",
           "imageUrl": null
         },
@@ -118,7 +118,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DIRnYM2dOs0",
           "publishedOn": "2026-01-06T13:08:42.000Z",
-          "wordCount": 2029,
+          "wordCount": 2395,
           "title": "Have you ever tried rubber duck debugging?",
           "imageUrl": null
         },
@@ -138,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y5aKEyPfLKs",
           "publishedOn": "2026-01-05T13:24:09.000Z",
-          "wordCount": 2084,
+          "wordCount": 2087,
           "title": "The JavaScript ecosystem is huge - and Vue's founder, Evan You, is trying to simplify it",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/kFEBs8wuhiU",
           "publishedOn": "2026-01-04T13:55:51.000Z",
-          "wordCount": 2046,
+          "wordCount": 2014,
           "title": "JavaScript coercion chaos at its finest",
           "imageUrl": null
         },
@@ -158,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EQH9MBHGyag",
           "publishedOn": "2026-01-03T13:32:21.000Z",
-          "wordCount": 2476,
+          "wordCount": 2061,
           "title": "Why it's important to take ownership of your work - the way Dr. David J Malan sees it",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HwFw1abJkUs",
           "publishedOn": "2026-01-02T13:18:24.000Z",
-          "wordCount": 2129,
+          "wordCount": 2165,
           "title": "Here's a little array method mystery for you...",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jHInoiWHe0Q",
           "publishedOn": "2025-12-31T13:29:32.000Z",
-          "wordCount": 2073,
+          "wordCount": 2032,
           "title": "The RACECAR challenge - Ready: GO!",
           "imageUrl": null
         },
@@ -208,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Fi8vnYgMiHA",
           "publishedOn": "2025-12-30T13:05:47.000Z",
-          "wordCount": 2129,
+          "wordCount": 2082,
           "title": "So why should you still learn C programming in 2025 and beyond? Dr. David J. Malan has an answer.",
           "imageUrl": null
         },
@@ -218,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8Si7eCfEpB0",
           "publishedOn": "2025-12-29T13:17:22.000Z",
-          "wordCount": 2072,
+          "wordCount": 2106,
           "title": "Browsers fight over who renders HTML the best. Which one do you think usually wins?",
           "imageUrl": null
         },
@@ -228,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lw1vTtFyfgg",
           "publishedOn": "2025-12-28T13:43:24.000Z",
-          "wordCount": 2414,
+          "wordCount": 2452,
           "title": "All you need to start learning to code with freeCodeCamp is the will to do so.",
           "imageUrl": null
         }
@@ -251,6 +251,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Q6MAGI4lQyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q6MAGI4lQyc",
+          "publishedOn": "2026-01-08T14:00:44.000Z",
+          "wordCount": null,
+          "title": "Blofin Wallet Tutorial (Setup, Deposit, Withdraw & Blofin Debit Card)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=u3nQRiY2Eso",
           "author": null,
@@ -389,16 +399,6 @@
           "publishedOn": "2025-12-16T14:00:34.000Z",
           "wordCount": null,
           "title": "Crypto Alert: What’s The Worst Case Scenario?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4rSxxKmWdGQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4rSxxKmWdGQ",
-          "publishedOn": "2025-12-15T14:00:09.000Z",
-          "wordCount": null,
-          "title": "How to Send Crypto from OKX to Binance",
           "imageUrl": null
         }
       ]

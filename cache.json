@@ -83,12 +83,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/davl7UFG-Ls",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/davl7UFG-Ls",
+          "publishedOn": "2026-01-12T13:17:21.000Z",
+          "wordCount": 2168,
+          "title": "Can you guess the output here?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/RI8ELvtbUmU",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RI8ELvtbUmU",
           "publishedOn": "2026-01-11T13:43:40.000Z",
-          "wordCount": 2099,
+          "wordCount": 2201,
           "title": "When you're learning or doing something new, get comfortable being uncomfortable",
           "imageUrl": null
         },
@@ -98,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TFhGTw4RXI4",
           "publishedOn": "2026-01-10T13:43:34.000Z",
-          "wordCount": 2048,
+          "wordCount": 2013,
           "title": "How to insert list items at a specific index in Python",
           "imageUrl": null
         },
@@ -118,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ry_mcAPVTOc",
           "publishedOn": "2026-01-09T13:18:42.000Z",
-          "wordCount": 2066,
+          "wordCount": 2123,
           "title": "What's the difference between call vs apply in JavaScript?",
           "imageUrl": null
         },
@@ -138,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tPeyD3ELDHw",
           "publishedOn": "2026-01-08T12:52:20.000Z",
-          "wordCount": 2273,
+          "wordCount": 2083,
           "title": "Did you know - Harvard's CS50 isn't just a coding course. There are many variants...",
           "imageUrl": null
         },
@@ -188,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y5aKEyPfLKs",
           "publishedOn": "2026-01-05T13:24:09.000Z",
-          "wordCount": 2110,
+          "wordCount": 2093,
           "title": "The JavaScript ecosystem is huge - and Vue's founder, Evan You, is trying to simplify it",
           "imageUrl": null
         },
@@ -198,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/kFEBs8wuhiU",
           "publishedOn": "2026-01-04T13:55:51.000Z",
-          "wordCount": 2061,
+          "wordCount": 2016,
           "title": "JavaScript coercion chaos at its finest",
           "imageUrl": null
         },
@@ -208,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/EQH9MBHGyag",
           "publishedOn": "2026-01-03T13:32:21.000Z",
-          "wordCount": 2088,
+          "wordCount": 2494,
           "title": "Why it's important to take ownership of your work - the way Dr. David J Malan sees it",
           "imageUrl": null
         },
@@ -220,16 +230,6 @@
           "publishedOn": "2026-01-02T14:29:46.000Z",
           "wordCount": null,
           "title": "Music Production 101 – Master Sound Design, Mixing, and Mastering in FL Studio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/HwFw1abJkUs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/HwFw1abJkUs",
-          "publishedOn": "2026-01-02T13:18:24.000Z",
-          "wordCount": 2019,
-          "title": "Here's a little array method mystery for you...",
           "imageUrl": null
         }
       ]

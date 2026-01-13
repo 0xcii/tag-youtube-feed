@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-13T22:10:36.725Z</id>
+    <id>urn:2026-01-13T23:10:21.167Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-13T22:10:36.725Z</updated>
+    <updated>2026-01-13T23:10:21.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -353,15 +353,6 @@
         <id>https://www.youtube.com/watch?v=hk_Xcj9-v6s</id>
         <link href="https://www.youtube.com/watch?v=hk_Xcj9-v6s"/>
         <updated>2025-12-18T15:15:44.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unich 首个场外交易平台， 盘前交易和预购模式的先驱 ！]]></title>
-        <id>https://www.youtube.com/watch?v=xmAxnzFcgnM</id>
-        <link href="https://www.youtube.com/watch?v=xmAxnzFcgnM"/>
-        <updated>2025-12-15T10:19:24.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

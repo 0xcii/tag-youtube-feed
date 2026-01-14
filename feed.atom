@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-14T12:19:53.209Z</id>
+    <id>urn:2026-01-14T13:32:28.466Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-14T12:19:53.209Z</updated>
+    <updated>2026-01-14T13:32:28.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to remove a list item by its value in Python]]></title>
+        <id>https://www.youtube.com/shorts/9KnVcWXUL8w</id>
+        <link href="https://www.youtube.com/shorts/9KnVcWXUL8w"/>
+        <updated>2026-01-14T13:29:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRYPTO ALERT: WATCH OUT FOR THIS!!!]]></title>
         <id>https://www.youtube.com/watch?v=fvhf1Za6Eys</id>
@@ -198,16 +208,6 @@
         <id>https://www.youtube.com/shorts/y5aKEyPfLKs</id>
         <link href="https://www.youtube.com/shorts/y5aKEyPfLKs"/>
         <updated>2026-01-05T13:24:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript coercion chaos at its finest]]></title>
-        <id>https://www.youtube.com/shorts/kFEBs8wuhiU</id>
-        <link href="https://www.youtube.com/shorts/kFEBs8wuhiU"/>
-        <updated>2026-01-04T13:55:51.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>

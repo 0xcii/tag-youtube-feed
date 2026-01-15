@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-15T21:10:35.609Z</id>
+    <id>urn:2026-01-15T22:10:48.474Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-15T21:10:35.609Z</updated>
+    <updated>2026-01-15T22:10:48.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,7 +43,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The World's Biggest Hackathon – Full Documentary on Cal Hacks 2025]]></title>
+        <title type="html"><![CDATA[Inside The World's Biggest Hackathon – Full Documentary on UC Berkeley's Cal Hacks]]></title>
         <id>https://www.youtube.com/watch?v=3PD-vQbpwA8</id>
         <link href="https://www.youtube.com/watch?v=3PD-vQbpwA8"/>
         <updated>2026-01-14T17:28:53.000Z</updated>

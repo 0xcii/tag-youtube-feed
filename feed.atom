@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-18T00:54:46.688Z</id>
+    <id>urn:2026-01-18T03:00:09.346Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-18T00:54:46.688Z</updated>
+    <updated>2026-01-18T03:00:09.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -334,15 +334,6 @@
         <id>https://www.youtube.com/watch?v=6_MuN8UsDdE</id>
         <link href="https://www.youtube.com/watch?v=6_MuN8UsDdE"/>
         <updated>2025-12-20T22:11:43.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base 上的永续交易平台，BasePerp 首个原生永续 DEX ！]]></title>
-        <id>https://www.youtube.com/watch?v=f6IjlZb4urw</id>
-        <link href="https://www.youtube.com/watch?v=f6IjlZb4urw"/>
-        <updated>2025-12-19T14:09:06.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

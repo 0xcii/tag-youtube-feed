@@ -1,6 +1,220 @@
 {
   "sources": [
     {
+      "title": "链求君",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Eslv8V9QyiQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Eslv8V9QyiQ",
+          "publishedOn": "2026-01-18T05:29:23.000Z",
+          "wordCount": null,
+          "title": "300ms 极速冲土狗！Alph.ai 实测：$20 本金无风险套利 $100 ？ MPC钱包，安全第一 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gBprBbsPkEc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gBprBbsPkEc",
+          "publishedOn": "2025-12-27T00:30:51.000Z",
+          "wordCount": null,
+          "title": "预测市场 1个月 60 倍，他用 $208 冲刺到 $128000 仅在 Polymarket 上交易单一事件 ！ 它是如何做到的？ 我们如何学习借鉴 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KLcsJfiXJ9I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KLcsJfiXJ9I",
+          "publishedOn": "2025-12-26T02:05:53.000Z",
+          "wordCount": null,
+          "title": "2025 年末福利 ！ 新手不容错过的大礼包 ！ 我踩过的坑，一次性帮你扫清！【截止2026.1.1】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qyJF-jFTflg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qyJF-jFTflg",
+          "publishedOn": "2025-12-22T02:00:59.000Z",
+          "wordCount": null,
+          "title": "用 AI 推演你的一生 ？  紫薇斗术 K 线版 ： 命运的源代码，等待被你解码。  #人生K线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6_MuN8UsDdE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6_MuN8UsDdE",
+          "publishedOn": "2025-12-20T22:11:43.000Z",
+          "wordCount": null,
+          "title": "预测市场扫尾盘神器 TradeFox ， 复制跟单、止盈止损 ，最佳组合。",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/l2Z9f42HGpY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/l2Z9f42HGpY",
+          "publishedOn": "2026-01-18T13:43:26.000Z",
+          "wordCount": 2141,
+          "title": "Why you don't necessarily need to go to a big-name school to get into tech",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Bufi2i2fLT0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Bufi2i2fLT0",
+          "publishedOn": "2026-01-17T13:32:23.000Z",
+          "wordCount": 2043,
+          "title": "You never know where career inspiration will come from",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=58Tn2xB8kIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=58Tn2xB8kIE",
+          "publishedOn": "2026-01-16T14:30:05.000Z",
+          "wordCount": null,
+          "title": "The Most Important Skills Going Forward with CTO + Homebrew Maintainer Mike McQuaid [Podcast #204]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/UtV8MfnuIEg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/UtV8MfnuIEg",
+          "publishedOn": "2026-01-16T13:18:25.000Z",
+          "wordCount": 2248,
+          "title": "The \"this\" keyword can be confusing in JavaScript. Do you understand how this works?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=odP153inZUo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=odP153inZUo",
+          "publishedOn": "2026-01-15T17:41:46.000Z",
+          "wordCount": null,
+          "title": "Build Your Own Kubernetes Operators with Go and Kubebuilder – Full Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/9tyZL5KIiGU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9tyZL5KIiGU",
+          "publishedOn": "2026-01-15T12:52:35.000Z",
+          "wordCount": 2069,
+          "title": "Why you should prioritize networking if you're in tech",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3PD-vQbpwA8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3PD-vQbpwA8",
+          "publishedOn": "2026-01-14T17:28:53.000Z",
+          "wordCount": null,
+          "title": "Inside The World's Biggest Hackathon – Full Documentary on UC Berkeley's Cal Hacks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/9KnVcWXUL8w",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9KnVcWXUL8w",
+          "publishedOn": "2026-01-14T13:29:37.000Z",
+          "wordCount": 2036,
+          "title": "How to remove a list item by its value in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/wck2LmaMaB4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/wck2LmaMaB4",
+          "publishedOn": "2026-01-13T13:05:25.000Z",
+          "wordCount": 2046,
+          "title": "Why cybersecurity basics are important for everyone to know - not just devs.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7G9q_5q82hY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7G9q_5q82hY",
+          "publishedOn": "2026-01-12T16:38:04.000Z",
+          "wordCount": null,
+          "title": "How to Benchmark Embedding Models On Your Own Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/davl7UFG-Ls",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/davl7UFG-Ls",
+          "publishedOn": "2026-01-12T13:17:21.000Z",
+          "wordCount": 2029,
+          "title": "Can you guess the output here?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/RI8ELvtbUmU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/RI8ELvtbUmU",
+          "publishedOn": "2026-01-11T13:43:40.000Z",
+          "wordCount": 2063,
+          "title": "When you're learning or doing something new, get comfortable being uncomfortable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/TFhGTw4RXI4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/TFhGTw4RXI4",
+          "publishedOn": "2026-01-10T13:43:34.000Z",
+          "wordCount": 2046,
+          "title": "How to insert list items at a specific index in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DzVm161M4Kk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DzVm161M4Kk",
+          "publishedOn": "2026-01-09T14:30:11.000Z",
+          "wordCount": null,
+          "title": "First developer job at age 38 with lawyer turned software engineer Zubin Pratap [Podcast #203]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ry_mcAPVTOc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ry_mcAPVTOc",
+          "publishedOn": "2026-01-09T13:18:42.000Z",
+          "wordCount": 2027,
+          "title": "What's the difference between call vs apply in JavaScript?",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
@@ -13,6 +227,202 @@
           "publishedOn": "2026-01-19T03:45:12.000Z",
           "wordCount": null,
           "title": "How to Build an Effective Long Running Coding Agent Loop in 7 minutes.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
+      "articles": []
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0AleZFnd7Xc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0AleZFnd7Xc",
+          "publishedOn": "2026-01-16T14:00:02.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: No One Is Ready For What's Coming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7AqZJGMHzvI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7AqZJGMHzvI",
+          "publishedOn": "2026-01-15T14:00:14.000Z",
+          "wordCount": null,
+          "title": "2026 Best Crypto Exchanges!! (Best Trading & Lowest Fees)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pYu-3uQRkrw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pYu-3uQRkrw",
+          "publishedOn": "2026-01-14T14:01:34.000Z",
+          "wordCount": null,
+          "title": "Best Moving Averages Trading Strategy for Day Trading",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fvhf1Za6Eys",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fvhf1Za6Eys",
+          "publishedOn": "2026-01-13T14:01:23.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: WATCH OUT FOR THIS!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1z7RsXq6_EE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1z7RsXq6_EE",
+          "publishedOn": "2026-01-12T08:00:02.000Z",
+          "wordCount": null,
+          "title": "2026 Best Crypto Cards: Actually Worth Using These Cards!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ltbKhNMH2Ic",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ltbKhNMH2Ic",
+          "publishedOn": "2026-01-09T14:01:30.000Z",
+          "wordCount": null,
+          "title": "CRYPTO ALERT: THE FLOOD IS COMING!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Q6MAGI4lQyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q6MAGI4lQyc",
+          "publishedOn": "2026-01-08T14:00:44.000Z",
+          "wordCount": null,
+          "title": "Blofin Wallet Tutorial (Setup, Deposit, Withdraw & Blofin Debit Card)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u3nQRiY2Eso",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u3nQRiY2Eso",
+          "publishedOn": "2026-01-07T14:01:46.000Z",
+          "wordCount": null,
+          "title": "Kraken Trailing Stop Order Tutorial (How to Use Trailing Stop)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zNJty7178uw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zNJty7178uw",
+          "publishedOn": "2026-01-06T14:01:51.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Bitcoin Is Looking Upwards!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=V0vLbAoqF68",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V0vLbAoqF68",
+          "publishedOn": "2026-01-05T14:01:01.000Z",
+          "wordCount": null,
+          "title": "TradingView Average True Range Indicator Tutorial (ATR)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fWlKBRhCoK4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fWlKBRhCoK4",
+          "publishedOn": "2026-01-02T14:01:10.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: 2026 Outlook Is Changing Fast!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gCDTramBhTA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gCDTramBhTA",
+          "publishedOn": "2026-01-01T14:01:10.000Z",
+          "wordCount": null,
+          "title": "How to Short Sell Crypto (On Binance, Bybit etc)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZOd7RGQHhmo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZOd7RGQHhmo",
+          "publishedOn": "2025-12-31T14:00:56.000Z",
+          "wordCount": null,
+          "title": "Bybit Alpha Tutorial (How to Trade on Bybit Alpha)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n7rD8UzcdZs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n7rD8UzcdZs",
+          "publishedOn": "2025-12-30T14:01:31.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Bitcoin Going Nowhere Whilst Everything Else Pumps...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2Voyoj-fsZE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2Voyoj-fsZE",
+          "publishedOn": "2025-12-29T14:00:11.000Z",
+          "wordCount": null,
+          "title": "TradingView Triangle Drawing Tools Tutorial (& Trading Example)",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-PWyM6adiIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-PWyM6adiIE",
+          "publishedOn": "2026-01-14T21:00:00.000Z",
+          "wordCount": null,
+          "title": "How to create a profitable crypto arbitrage bot in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CIm36mlggdI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CIm36mlggdI",
+          "publishedOn": "2025-12-29T20:00:21.000Z",
+          "wordCount": null,
+          "title": "Master Viem For Blockchain Step-by-Step (Full Course 2026)",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-21T15:18:21.544Z</id>
+    <id>urn:2026-01-21T16:21:21.501Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-21T15:18:21.544Z</updated>
+    <updated>2026-01-21T16:21:21.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lean Dynamic Programming with Animations – Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=66hDgWottdA</id>
+        <link href="https://www.youtube.com/watch?v=66hDgWottdA"/>
+        <updated>2026-01-21T15:31:14.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Buy Tokenized Stocks in Crypto (Binance, Kraken, Phantom, Solana etc)]]></title>
         <id>https://www.youtube.com/watch?v=4ytUM8j5u_k</id>
@@ -237,16 +246,6 @@
         <updated>2026-01-12T08:00:02.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When you're learning or doing something new, get comfortable being uncomfortable]]></title>
-        <id>https://www.youtube.com/shorts/RI8ELvtbUmU</id>
-        <link href="https://www.youtube.com/shorts/RI8ELvtbUmU"/>
-        <updated>2026-01-11T13:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

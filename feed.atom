@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-21T13:36:28.341Z</id>
+    <id>urn:2026-01-21T14:18:35.942Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-21T13:36:28.341Z</updated>
+    <updated>2026-01-21T14:18:35.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Buy Tokenized Stocks in Crypto (Binance, Kraken, Phantom, Solana etc)]]></title>
+        <id>https://www.youtube.com/watch?v=4ytUM8j5u_k</id>
+        <link href="https://www.youtube.com/watch?v=4ytUM8j5u_k"/>
+        <updated>2026-01-21T14:00:17.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build your own The Backrooms horror game with Unreal Engine 5 & Blueprints – Full GameDev Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=2Kw3e-1vbBQ</id>
@@ -299,15 +308,6 @@
         <id>https://www.youtube.com/watch?v=gCDTramBhTA</id>
         <link href="https://www.youtube.com/watch?v=gCDTramBhTA"/>
         <updated>2026-01-01T14:01:10.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit Alpha Tutorial (How to Trade on Bybit Alpha)]]></title>
-        <id>https://www.youtube.com/watch?v=ZOd7RGQHhmo</id>
-        <link href="https://www.youtube.com/watch?v=ZOd7RGQHhmo"/>
-        <updated>2025-12-31T14:00:56.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

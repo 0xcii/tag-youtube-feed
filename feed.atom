@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-22T13:37:47.489Z</id>
+    <id>urn:2026-01-22T14:19:59.245Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-22T13:37:47.489Z</updated>
+    <updated>2026-01-22T14:19:59.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit Margin & Leverage Trading Tutorial (How to Trade on Bybit EU Margin)]]></title>
+        <id>https://www.youtube.com/watch?v=8M3uKCFX0Bs</id>
+        <link href="https://www.youtube.com/watch?v=8M3uKCFX0Bs"/>
+        <updated>2026-01-22T14:00:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The challenges of turning a powerful braille learning prototype into real hardware]]></title>
         <id>https://www.youtube.com/shorts/ojkbIKjRLIM</id>
@@ -75,7 +84,7 @@
         <id>https://www.youtube.com/shorts/ekXUXu7Eejs</id>
         <link href="https://www.youtube.com/shorts/ekXUXu7Eejs"/>
         <updated>2026-01-19T13:17:32.000Z</updated>
-        <summary type="html"><![CDATA[These days, you need more than just coding skills to get a good internship or job. You need some key "soft skills" as well, like good communication, teamwork...]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -298,15 +307,6 @@
         <id>https://www.youtube.com/watch?v=fWlKBRhCoK4</id>
         <link href="https://www.youtube.com/watch?v=fWlKBRhCoK4"/>
         <updated>2026-01-02T14:01:10.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Short Sell Crypto (On Binance, Bybit etc)]]></title>
-        <id>https://www.youtube.com/watch?v=gCDTramBhTA</id>
-        <link href="https://www.youtube.com/watch?v=gCDTramBhTA"/>
-        <updated>2026-01-01T14:01:10.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-22T12:22:25.165Z</id>
+    <id>urn:2026-01-22T13:37:47.489Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-22T12:22:25.165Z</updated>
+    <updated>2026-01-22T13:37:47.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The challenges of turning a powerful braille learning prototype into real hardware]]></title>
+        <id>https://www.youtube.com/shorts/ojkbIKjRLIM</id>
+        <link href="https://www.youtube.com/shorts/ojkbIKjRLIM"/>
+        <updated>2026-01-22T12:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lean Dynamic Programming with Animations – Full Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=66hDgWottdA</id>
@@ -65,7 +75,7 @@
         <id>https://www.youtube.com/shorts/ekXUXu7Eejs</id>
         <link href="https://www.youtube.com/shorts/ekXUXu7Eejs"/>
         <updated>2026-01-19T13:17:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[These days, you need more than just coding skills to get a good internship or job. You need some key "soft skills" as well, like good communication, teamwork...]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -225,16 +235,6 @@
         <id>https://www.youtube.com/watch?v=7G9q_5q82hY</id>
         <link href="https://www.youtube.com/watch?v=7G9q_5q82hY"/>
         <updated>2026-01-12T16:38:04.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you guess the output here?]]></title>
-        <id>https://www.youtube.com/shorts/davl7UFG-Ls</id>
-        <link href="https://www.youtube.com/shorts/davl7UFG-Ls"/>
-        <updated>2026-01-12T13:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

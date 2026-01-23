@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/3GqiUg3Ree4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/3GqiUg3Ree4",
+          "publishedOn": "2026-01-23T13:18:28.000Z",
+          "wordCount": 2109,
+          "title": "From not growing up with computers to senior engineer - thanks to Prince of Persia",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=I7_WXKhyGms",
           "author": null,
           "description": "",
@@ -68,7 +78,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ojkbIKjRLIM",
           "publishedOn": "2026-01-22T12:52:23.000Z",
-          "wordCount": 2053,
+          "wordCount": 2454,
           "title": "The challenges of turning a powerful braille learning prototype into real hardware",
           "imageUrl": null
         },
@@ -98,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tVf_5pvz5ck",
           "publishedOn": "2026-01-20T13:05:35.000Z",
-          "wordCount": 2201,
+          "wordCount": 2131,
           "title": "Be transparent about your career goals - it makes it easier for people to help you advance",
           "imageUrl": null
         },
@@ -108,7 +118,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ekXUXu7Eejs",
           "publishedOn": "2026-01-19T13:17:32.000Z",
-          "wordCount": 2081,
+          "wordCount": 2162,
           "title": "These days, you need more than just coding skills to get a good internship or job",
           "imageUrl": null
         },
@@ -118,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/l2Z9f42HGpY",
           "publishedOn": "2026-01-18T13:43:26.000Z",
-          "wordCount": 2208,
+          "wordCount": 2072,
           "title": "Why you don't necessarily need to go to a big-name school to get into tech",
           "imageUrl": null
         },
@@ -128,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Bufi2i2fLT0",
           "publishedOn": "2026-01-17T13:32:23.000Z",
-          "wordCount": 2031,
+          "wordCount": 2026,
           "title": "You never know where career inspiration will come from",
           "imageUrl": null
         },
@@ -148,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UtV8MfnuIEg",
           "publishedOn": "2026-01-16T13:18:25.000Z",
-          "wordCount": 2089,
+          "wordCount": 2069,
           "title": "The \"this\" keyword can be confusing in JavaScript. Do you understand how this works?",
           "imageUrl": null
         },
@@ -168,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9tyZL5KIiGU",
           "publishedOn": "2026-01-15T12:52:35.000Z",
-          "wordCount": 2066,
+          "wordCount": 2180,
           "title": "Why you should prioritize networking if you're in tech",
           "imageUrl": null
         },
@@ -188,18 +198,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9KnVcWXUL8w",
           "publishedOn": "2026-01-14T13:29:37.000Z",
-          "wordCount": 2075,
+          "wordCount": 2100,
           "title": "How to remove a list item by its value in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/wck2LmaMaB4",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/wck2LmaMaB4",
-          "publishedOn": "2026-01-13T13:05:25.000Z",
-          "wordCount": 2035,
-          "title": "Why cybersecurity basics are important for everyone to know - not just devs.",
           "imageUrl": null
         }
       ]
@@ -232,6 +232,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PGk3KKupGB0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PGk3KKupGB0",
+          "publishedOn": "2026-01-23T14:00:42.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: 99% Will Make A Big Mistake",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8M3uKCFX0Bs",
           "author": null,
@@ -370,16 +380,6 @@
           "publishedOn": "2026-01-05T14:01:01.000Z",
           "wordCount": null,
           "title": "TradingView Average True Range Indicator Tutorial (ATR)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fWlKBRhCoK4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fWlKBRhCoK4",
-          "publishedOn": "2026-01-02T14:01:10.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: 2026 Outlook Is Changing Fast!",
           "imageUrl": null
         }
       ]

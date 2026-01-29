@@ -58,7 +58,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MdEexYakkHw",
           "publishedOn": "2026-01-29T12:52:39.000Z",
-          "wordCount": 2052,
+          "wordCount": 2054,
           "title": "How can you, as a dev, get the most out of AI tools?",
           "imageUrl": null
         },
@@ -68,7 +68,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5y9nVwPwX_o",
           "publishedOn": "2026-01-28T13:29:32.000Z",
-          "wordCount": 2079,
+          "wordCount": 2193,
           "title": "Raise your hand if you've been through these or other adjustments when starting remote work...",
           "imageUrl": null
         },
@@ -88,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/boH7_Ate4LM",
           "publishedOn": "2026-01-27T13:05:26.000Z",
-          "wordCount": 2051,
+          "wordCount": 2056,
           "title": "Remember your first hackathon? While it was probably scary, you probably learned a ton.",
           "imageUrl": null
         },
@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/0aKV-JGtDMA",
           "publishedOn": "2026-01-26T13:17:20.000Z",
-          "wordCount": 2136,
+          "wordCount": 2243,
           "title": "It's easy to get sucked into working too much - but the costs become pretty clear pretty quickly.",
           "imageUrl": null
         },
@@ -128,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y6JJgOqroAI",
           "publishedOn": "2026-01-24T13:32:27.000Z",
-          "wordCount": 2093,
+          "wordCount": 2189,
           "title": "Sure, grades matter in school - but on the job market, hands-on experience is more meaningful",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/3GqiUg3Ree4",
           "publishedOn": "2026-01-23T13:18:28.000Z",
-          "wordCount": 2072,
+          "wordCount": 2186,
           "title": "From not growing up with computers to senior engineer - thanks to Prince of Persia",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ojkbIKjRLIM",
           "publishedOn": "2026-01-22T12:52:23.000Z",
-          "wordCount": 2055,
+          "wordCount": 2091,
           "title": "The challenges of turning a powerful braille learning prototype into real hardware",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tVf_5pvz5ck",
           "publishedOn": "2026-01-20T13:05:35.000Z",
-          "wordCount": 2202,
+          "wordCount": 2088,
           "title": "Be transparent about your career goals - it makes it easier for people to help you advance",
           "imageUrl": null
         }
@@ -232,6 +232,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HHMICjsmlBY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HHMICjsmlBY",
+          "publishedOn": "2026-01-29T14:00:33.000Z",
+          "wordCount": null,
+          "title": "How to Transfer Crypto from Bitget Wallet to Bitget Exchange",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=azmgmv0O9Vw",
           "author": null,
@@ -370,16 +380,6 @@
           "publishedOn": "2026-01-09T14:01:30.000Z",
           "wordCount": null,
           "title": "CRYPTO ALERT: THE FLOOD IS COMING!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q6MAGI4lQyc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q6MAGI4lQyc",
-          "publishedOn": "2026-01-08T14:00:44.000Z",
-          "wordCount": null,
-          "title": "Blofin Wallet Tutorial (Setup, Deposit, Withdraw & Blofin Debit Card)",
           "imageUrl": null
         }
       ]

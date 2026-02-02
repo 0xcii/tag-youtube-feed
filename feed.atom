@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-02T13:52:36.557Z</id>
+    <id>urn:2026-02-02T14:32:12.362Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-02T13:52:36.557Z</updated>
+    <updated>2026-02-02T14:32:12.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Wallet to Binance Exchange Transfer Tutorial (Transfer Crypto)]]></title>
+        <id>https://www.youtube.com/watch?v=6Yc6kVOdIvs</id>
+        <link href="https://www.youtube.com/watch?v=6Yc6kVOdIvs"/>
+        <updated>2026-02-02T14:00:16.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Being a manager isn't for everyone...]]></title>
         <id>https://www.youtube.com/shorts/h3nn7MsCmsQ</id>
@@ -336,15 +345,6 @@
         <id>https://www.youtube.com/watch?v=fvhf1Za6Eys</id>
         <link href="https://www.youtube.com/watch?v=fvhf1Za6Eys"/>
         <updated>2026-01-13T14:01:23.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Best Crypto Cards: Actually Worth Using These Cards!?]]></title>
-        <id>https://www.youtube.com/watch?v=1z7RsXq6_EE</id>
-        <link href="https://www.youtube.com/watch?v=1z7RsXq6_EE"/>
-        <updated>2026-01-12T08:00:02.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

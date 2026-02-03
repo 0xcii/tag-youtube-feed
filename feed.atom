@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-03T13:54:24.818Z</id>
+    <id>urn:2026-02-03T14:35:37.666Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-03T13:54:24.818Z</updated>
+    <updated>2026-02-03T14:35:37.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: It's Actively Collapsing]]></title>
+        <id>https://www.youtube.com/watch?v=wBoClETejPw</id>
+        <link href="https://www.youtube.com/watch?v=wBoClETejPw"/>
+        <updated>2026-02-03T14:01:34.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To understand what AI can do, we have to first understand what it CAN'T do.]]></title>
         <id>https://www.youtube.com/shorts/aokdrllzkFQ</id>
@@ -337,15 +346,6 @@
         <id>https://www.youtube.com/watch?v=pYu-3uQRkrw</id>
         <link href="https://www.youtube.com/watch?v=pYu-3uQRkrw"/>
         <updated>2026-01-14T14:01:34.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYPTO ALERT: WATCH OUT FOR THIS!!!]]></title>
-        <id>https://www.youtube.com/watch?v=fvhf1Za6Eys</id>
-        <link href="https://www.youtube.com/watch?v=fvhf1Za6Eys"/>
-        <updated>2026-01-13T14:01:23.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

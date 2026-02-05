@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-05T07:41:09.334Z</id>
+    <id>urn:2026-02-05T08:28:00.255Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-05T07:41:09.334Z</updated>
+    <updated>2026-02-05T08:28:00.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deposit to Hyperliquid (Deposit Crypto & Trade on Hyperliquid)]]></title>
+        <id>https://www.youtube.com/watch?v=Jyx5UTJAr4w</id>
+        <link href="https://www.youtube.com/watch?v=Jyx5UTJAr4w"/>
+        <updated>2026-02-04T14:00:36.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a colleague helped Santosh realize he was performing at a higher level at work than his title]]></title>
         <id>https://www.youtube.com/shorts/Sk72ZCDAEsk</id>
@@ -25,6 +34,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crypto Alert: It's Actively Collapsing]]></title>
+        <id>https://www.youtube.com/watch?v=wBoClETejPw</id>
+        <link href="https://www.youtube.com/watch?v=wBoClETejPw"/>
+        <updated>2026-02-03T14:01:34.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[To understand what AI can do, we have to first understand what it CAN'T do.]]></title>
         <id>https://www.youtube.com/shorts/aokdrllzkFQ</id>
         <link href="https://www.youtube.com/shorts/aokdrllzkFQ"/>
@@ -32,6 +50,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Wallet to Binance Exchange Transfer Tutorial (Transfer Crypto)]]></title>
+        <id>https://www.youtube.com/watch?v=6Yc6kVOdIvs</id>
+        <link href="https://www.youtube.com/watch?v=6Yc6kVOdIvs"/>
+        <updated>2026-02-02T14:00:16.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -74,6 +101,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crypto Alert: This is Serious. The Chart is Abysmal.]]></title>
+        <id>https://www.youtube.com/watch?v=GFU8PCDuhT0</id>
+        <link href="https://www.youtube.com/watch?v=GFU8PCDuhT0"/>
+        <updated>2026-01-30T14:00:24.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Getting into computer science thanks to a supportive teacher and skipping a favorite class]]></title>
         <id>https://www.youtube.com/shorts/xMrOFhk6Rng</id>
         <link href="https://www.youtube.com/shorts/xMrOFhk6Rng"/>
@@ -84,6 +120,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Transfer Crypto from Bitget Wallet to Bitget Exchange]]></title>
+        <id>https://www.youtube.com/watch?v=HHMICjsmlBY</id>
+        <link href="https://www.youtube.com/watch?v=HHMICjsmlBY"/>
+        <updated>2026-01-29T14:00:33.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How can you, as a dev, get the most out of AI tools?]]></title>
         <id>https://www.youtube.com/shorts/MdEexYakkHw</id>
         <link href="https://www.youtube.com/shorts/MdEexYakkHw"/>
@@ -91,6 +136,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post Only Order Tutorial (Binance, Bybit Post Only Order Type)]]></title>
+        <id>https://www.youtube.com/watch?v=azmgmv0O9Vw</id>
+        <link href="https://www.youtube.com/watch?v=azmgmv0O9Vw"/>
+        <updated>2026-01-28T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -122,6 +176,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crypto Alert: This Is Just The Start!!!]]></title>
+        <id>https://www.youtube.com/watch?v=BrEXmLaCfXI</id>
+        <link href="https://www.youtube.com/watch?v=BrEXmLaCfXI"/>
+        <updated>2026-01-27T14:00:31.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Remember your first hackathon? While it was probably scary, you probably learned a ton.]]></title>
         <id>https://www.youtube.com/shorts/boH7_Ate4LM</id>
         <link href="https://www.youtube.com/shorts/boH7_Ate4LM"/>
@@ -138,6 +201,15 @@
         <updated>2026-01-26T17:35:28.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cash Out Crypto From Any Hardware Wallet to Bank]]></title>
+        <id>https://www.youtube.com/watch?v=Vbf_o_XS3b0</id>
+        <link href="https://www.youtube.com/watch?v=Vbf_o_XS3b0"/>
+        <updated>2026-01-26T14:00:57.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -180,6 +252,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crypto Alert: 99% Will Make A Big Mistake]]></title>
+        <id>https://www.youtube.com/watch?v=PGk3KKupGB0</id>
+        <link href="https://www.youtube.com/watch?v=PGk3KKupGB0"/>
+        <updated>2026-01-23T14:00:42.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[先别卷 Polymarket 了！ Limitless 第二期空投还有 120 小时结束，人少速来！]]></title>
         <id>https://www.youtube.com/watch?v=bxnQIUyStXk</id>
         <link href="https://www.youtube.com/watch?v=bxnQIUyStXk"/>
@@ -189,12 +270,84 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bybit Margin & Leverage Trading Tutorial (How to Trade on Bybit EU Margin)]]></title>
+        <id>https://www.youtube.com/watch?v=8M3uKCFX0Bs</id>
+        <link href="https://www.youtube.com/watch?v=8M3uKCFX0Bs"/>
+        <updated>2026-01-22T14:00:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Buy Tokenized Stocks in Crypto (Binance, Kraken, Phantom, Solana etc)]]></title>
+        <id>https://www.youtube.com/watch?v=4ytUM8j5u_k</id>
+        <link href="https://www.youtube.com/watch?v=4ytUM8j5u_k"/>
+        <updated>2026-01-21T14:00:17.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: This Is Hurting Bitcoin Right Now]]></title>
+        <id>https://www.youtube.com/watch?v=DNjitiORR-I</id>
+        <link href="https://www.youtube.com/watch?v=DNjitiORR-I"/>
+        <updated>2026-01-20T14:00:31.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Send Crypto To Any Hardware Wallet (Ledger, Trezor etc)]]></title>
+        <id>https://www.youtube.com/watch?v=EJ5NsFUYxXM</id>
+        <link href="https://www.youtube.com/watch?v=EJ5NsFUYxXM"/>
+        <updated>2026-01-19T14:00:23.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Effective Long Running Coding Agent Loop in 7 minutes.]]></title>
+        <id>https://www.youtube.com/watch?v=vg2Qt-RYrUM</id>
+        <link href="https://www.youtube.com/watch?v=vg2Qt-RYrUM"/>
+        <updated>2026-01-19T03:45:12.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[300ms 极速冲土狗！Alph.ai 实测：$20 本金无风险套利 $100 ？ MPC钱包，安全第一 ！]]></title>
         <id>https://www.youtube.com/watch?v=Eslv8V9QyiQ</id>
         <link href="https://www.youtube.com/watch?v=Eslv8V9QyiQ"/>
         <updated>2026-01-18T05:29:23.000Z</updated>
         <author>
             <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: No One Is Ready For What's Coming]]></title>
+        <id>https://www.youtube.com/watch?v=0AleZFnd7Xc</id>
+        <link href="https://www.youtube.com/watch?v=0AleZFnd7Xc"/>
+        <updated>2026-01-16T14:00:02.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Best Crypto Exchanges!! (Best Trading & Lowest Fees)]]></title>
+        <id>https://www.youtube.com/watch?v=7AqZJGMHzvI</id>
+        <link href="https://www.youtube.com/watch?v=7AqZJGMHzvI"/>
+        <updated>2026-01-15T14:00:14.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a profitable crypto arbitrage bot in 2026]]></title>
+        <id>https://www.youtube.com/watch?v=-PWyM6adiIE</id>
+        <link href="https://www.youtube.com/watch?v=-PWyM6adiIE"/>
+        <updated>2026-01-14T21:00:00.000Z</updated>
+        <author>
+            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

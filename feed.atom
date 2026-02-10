@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-10T12:42:07.689Z</id>
+    <id>urn:2026-02-10T14:13:30.000Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-10T12:42:07.689Z</updated>
+    <updated>2026-02-10T14:13:30.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Absolute Fear Is The Opportunity]]></title>
+        <id>https://www.youtube.com/watch?v=S5PLCfkXJNg</id>
+        <link href="https://www.youtube.com/watch?v=S5PLCfkXJNg"/>
+        <updated>2026-02-10T14:00:46.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sometimes it's about balancing what your boss wants you to do with what you want to do]]></title>
+        <id>https://www.youtube.com/shorts/J7sQe2n0z6Q</id>
+        <link href="https://www.youtube.com/shorts/J7sQe2n0z6Q"/>
+        <updated>2026-02-10T13:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Course – Certified Kubernetes Administrator Exam Preparation (2026 Update)]]></title>
         <id>https://www.youtube.com/watch?v=l57xKN6OBhY</id>
@@ -223,16 +242,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting into computer science thanks to a supportive teacher and skipping a favorite class]]></title>
-        <id>https://www.youtube.com/shorts/xMrOFhk6Rng</id>
-        <link href="https://www.youtube.com/shorts/xMrOFhk6Rng"/>
-        <updated>2026-01-30T13:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Transfer Crypto from Bitget Wallet to Bitget Exchange]]></title>
         <id>https://www.youtube.com/watch?v=HHMICjsmlBY</id>
         <link href="https://www.youtube.com/watch?v=HHMICjsmlBY"/>
@@ -318,15 +327,6 @@
         <id>https://www.youtube.com/watch?v=4ytUM8j5u_k</id>
         <link href="https://www.youtube.com/watch?v=4ytUM8j5u_k"/>
         <updated>2026-01-21T14:00:17.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: This Is Hurting Bitcoin Right Now]]></title>
-        <id>https://www.youtube.com/watch?v=DNjitiORR-I</id>
-        <link href="https://www.youtube.com/watch?v=DNjitiORR-I"/>
-        <updated>2026-01-20T14:00:31.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

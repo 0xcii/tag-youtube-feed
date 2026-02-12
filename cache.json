@@ -1,63 +1,6 @@
 {
   "sources": [
     {
-      "title": "链求君",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=tDK1gvq1690",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tDK1gvq1690",
-          "publishedOn": "2026-01-31T01:00:00.000Z",
-          "wordCount": null,
-          "title": "币安钱包： 新手入门，安全第一 ！ 推荐所有加密新手都开始用币安钱包， 链上功能竟然如此丰富？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sIXlPGodGd4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sIXlPGodGd4",
-          "publishedOn": "2026-01-28T02:32:47.000Z",
-          "wordCount": null,
-          "title": "Nansen AI：AI交易分析神器！订阅享50+空投福利，金铲子一鱼多吃，链上印钞机！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gDEg7kxlbzA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gDEg7kxlbzA",
-          "publishedOn": "2026-01-24T02:59:56.000Z",
-          "wordCount": null,
-          "title": "Polymarket 难用？ 这个“开挂级”工具终于来了！(止盈止损 + 自动跟单 + 闪电交易)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bxnQIUyStXk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bxnQIUyStXk",
-          "publishedOn": "2026-01-22T15:35:49.000Z",
-          "wordCount": null,
-          "title": "先别卷 Polymarket 了！ Limitless 第二期空投还有 120 小时结束，人少速来！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Eslv8V9QyiQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Eslv8V9QyiQ",
-          "publishedOn": "2026-01-18T05:29:23.000Z",
-          "wordCount": null,
-          "title": "300ms 极速冲土狗！Alph.ai 实测：$20 本金无风险套利 $100 ？ MPC钱包，安全第一 ！",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -78,7 +21,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/KUbbb0T1YZ8",
           "publishedOn": "2026-02-11T13:29:30.000Z",
-          "wordCount": 2057,
+          "wordCount": 2109,
           "title": "Have you ever wondered where Python got its name?",
           "imageUrl": null
         },
@@ -88,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/J7sQe2n0z6Q",
           "publishedOn": "2026-02-10T13:05:25.000Z",
-          "wordCount": 2076,
+          "wordCount": 2450,
           "title": "Sometimes it's about balancing what your boss wants you to do with what you want to do",
           "imageUrl": null
         },
@@ -108,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/2yF62QE59G8",
           "publishedOn": "2026-02-09T13:17:45.000Z",
-          "wordCount": 2106,
+          "wordCount": 2094,
           "title": "AI tools aren't necessarily going to replace you - they're going to move you up the value chain",
           "imageUrl": null
         },
@@ -118,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MtQhSMoHXMY",
           "publishedOn": "2026-02-08T13:43:31.000Z",
-          "wordCount": 2118,
+          "wordCount": 2150,
           "title": "Why Vite needs a new bundler - from Evan You himself",
           "imageUrl": null
         },
@@ -128,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/56Hv0LDjtWM",
           "publishedOn": "2026-02-07T13:32:19.000Z",
-          "wordCount": 2176,
+          "wordCount": 2120,
           "title": "Why humans are still necessary in the technical writing and research process",
           "imageUrl": null
         },
@@ -138,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/WbZDt-ubm48",
           "publishedOn": "2026-02-06T13:18:26.000Z",
-          "wordCount": 2142,
+          "wordCount": 2117,
           "title": "\"This is what people mean by focus, ok!\" - Abbey, after being diagnosed with ADHD at 28",
           "imageUrl": null
         },
@@ -168,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/b_6KoSdgHiA",
           "publishedOn": "2026-02-05T12:52:24.000Z",
-          "wordCount": 2083,
+          "wordCount": 2052,
           "title": "How much is a little loading spinner costing your website? It's worth thinking about...",
           "imageUrl": null
         },
@@ -178,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Sk72ZCDAEsk",
           "publishedOn": "2026-02-04T13:29:22.000Z",
-          "wordCount": 2106,
+          "wordCount": 2113,
           "title": "How a colleague helped Santosh realize he was performing at a higher level at work than his title",
           "imageUrl": null
         },
@@ -198,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/aokdrllzkFQ",
           "publishedOn": "2026-02-03T13:05:34.000Z",
-          "wordCount": 2118,
+          "wordCount": 2100,
           "title": "To understand what AI can do, we have to first understand what it CAN'T do.",
           "imageUrl": null
         },
@@ -208,34 +151,11 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/h3nn7MsCmsQ",
           "publishedOn": "2026-02-02T13:17:28.000Z",
-          "wordCount": 2184,
+          "wordCount": 2050,
           "title": "Being a manager isn't for everyone...",
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Nader Dabit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
-      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=vg2Qt-RYrUM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vg2Qt-RYrUM",
-          "publishedOn": "2026-01-19T03:45:12.000Z",
-          "wordCount": null,
-          "title": "How to Build an Effective Long Running Coding Agent Loop in 7 minutes.",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Chico Crypto",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
-      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
-      "articles": []
     },
     {
       "title": "MoneyZG",

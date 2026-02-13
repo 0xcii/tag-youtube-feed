@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-13T13:52:44.565Z</id>
+    <id>urn:2026-02-13T14:32:45.314Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-13T13:52:44.565Z</updated>
+    <updated>2026-02-13T14:32:45.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Extreme Warning Level Just Hit!]]></title>
+        <id>https://www.youtube.com/watch?v=yMnIPBrximw</id>
+        <link href="https://www.youtube.com/watch?v=yMnIPBrximw"/>
+        <updated>2026-02-13T14:01:37.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Knowing how to ask the right question is a valuable skill to cultivate]]></title>
         <id>https://www.youtube.com/shorts/UJjKVceWmdM</id>
@@ -327,15 +336,6 @@
         <updated>2026-01-24T02:59:56.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: 99% Will Make A Big Mistake]]></title>
-        <id>https://www.youtube.com/watch?v=PGk3KKupGB0</id>
-        <link href="https://www.youtube.com/watch?v=PGk3KKupGB0"/>
-        <updated>2026-01-23T14:00:42.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

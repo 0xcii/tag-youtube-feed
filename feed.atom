@@ -1,8 +1,368 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-14T07:25:37.704Z</id>
+    <id>urn:2026-02-14T08:16:48.320Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-14T07:25:37.704Z</updated>
+    <updated>2026-02-14T08:16:48.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Extreme Warning Level Just Hit!]]></title>
+        <id>https://www.youtube.com/watch?v=yMnIPBrximw</id>
+        <link href="https://www.youtube.com/watch?v=yMnIPBrximw"/>
+        <updated>2026-02-13T14:01:37.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowing how to ask the right question is a valuable skill to cultivate]]></title>
+        <id>https://www.youtube.com/shorts/UJjKVceWmdM</id>
+        <link href="https://www.youtube.com/shorts/UJjKVceWmdM"/>
+        <updated>2026-02-13T13:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why maintaining a codebase is so damn hard – with OhMyZSH creator Robby Russell [Podcast #207]]]></title>
+        <id>https://www.youtube.com/watch?v=cjam-BWAaL8</id>
+        <link href="https://www.youtube.com/watch?v=cjam-BWAaL8"/>
+        <updated>2026-02-13T11:01:10.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普通人翻身的最新窗口：如何用 AI 自动化在 Polymarket 被动收入 $500 ？（BiyaPay  钱包红包惊喜， 注册领取）]]></title>
+        <id>https://www.youtube.com/watch?v=EhjkKfUPlZA</id>
+        <link href="https://www.youtube.com/watch?v=EhjkKfUPlZA"/>
+        <updated>2026-02-13T10:13:32.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Full-Stack Docker & CI/CD – Build a Production-Ready Pipeline]]></title>
+        <id>https://www.youtube.com/watch?v=lEcULR30-GM</id>
+        <link href="https://www.youtube.com/watch?v=lEcULR30-GM"/>
+        <updated>2026-02-12T14:02:47.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Coinbase Advanced Mobile App]]></title>
+        <id>https://www.youtube.com/watch?v=4gUfl1Lbe5I</id>
+        <link href="https://www.youtube.com/watch?v=4gUfl1Lbe5I"/>
+        <updated>2026-02-12T14:00:08.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't get so wrapped up in the details that you forget the joy of coding]]></title>
+        <id>https://www.youtube.com/shorts/7ysrM5BMe6Q</id>
+        <link href="https://www.youtube.com/shorts/7ysrM5BMe6Q"/>
+        <updated>2026-02-12T12:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make passive Income with Flash Loans in 2026]]></title>
+        <id>https://www.youtube.com/watch?v=oZ0AY70vZ9w</id>
+        <link href="https://www.youtube.com/watch?v=oZ0AY70vZ9w"/>
+        <updated>2026-02-11T20:00:46.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-On Cybersecurity and Ethical Hacking – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=ug8W0sFiVJo</id>
+        <link href="https://www.youtube.com/watch?v=ug8W0sFiVJo"/>
+        <updated>2026-02-11T14:37:23.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Withdraw Crypto from Hyperliquid]]></title>
+        <id>https://www.youtube.com/watch?v=JCZ0ADY44o8</id>
+        <link href="https://www.youtube.com/watch?v=JCZ0ADY44o8"/>
+        <updated>2026-02-11T14:00:27.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have you ever wondered where Python got its name?]]></title>
+        <id>https://www.youtube.com/shorts/KUbbb0T1YZ8</id>
+        <link href="https://www.youtube.com/shorts/KUbbb0T1YZ8"/>
+        <updated>2026-02-11T13:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Absolute Fear Is The Opportunity]]></title>
+        <id>https://www.youtube.com/watch?v=S5PLCfkXJNg</id>
+        <link href="https://www.youtube.com/watch?v=S5PLCfkXJNg"/>
+        <updated>2026-02-10T14:00:46.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sometimes it's about balancing what your boss wants you to do with what you want to do]]></title>
+        <id>https://www.youtube.com/shorts/J7sQe2n0z6Q</id>
+        <link href="https://www.youtube.com/shorts/J7sQe2n0z6Q"/>
+        <updated>2026-02-10T13:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Course – Certified Kubernetes Administrator Exam Preparation (2026 Update)]]></title>
+        <id>https://www.youtube.com/watch?v=l57xKN6OBhY</id>
+        <link href="https://www.youtube.com/watch?v=l57xKN6OBhY"/>
+        <updated>2026-02-10T11:01:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Withdraw Money from Binance to Bank Account]]></title>
+        <id>https://www.youtube.com/watch?v=Q_sgqDomqpA</id>
+        <link href="https://www.youtube.com/watch?v=Q_sgqDomqpA"/>
+        <updated>2026-02-09T14:00:42.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI tools aren't necessarily going to replace you - they're going to move you up the value chain]]></title>
+        <id>https://www.youtube.com/shorts/2yF62QE59G8</id>
+        <link href="https://www.youtube.com/shorts/2yF62QE59G8"/>
+        <updated>2026-02-09T13:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Vite needs a new bundler - from Evan You himself]]></title>
+        <id>https://www.youtube.com/shorts/MtQhSMoHXMY</id>
+        <link href="https://www.youtube.com/shorts/MtQhSMoHXMY"/>
+        <updated>2026-02-08T13:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why humans are still necessary in the technical writing and research process]]></title>
+        <id>https://www.youtube.com/shorts/56Hv0LDjtWM</id>
+        <link href="https://www.youtube.com/shorts/56Hv0LDjtWM"/>
+        <updated>2026-02-07T13:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to code a blockchain app with X402 step by step]]></title>
+        <id>https://www.youtube.com/watch?v=HZyQI1GneCc</id>
+        <link href="https://www.youtube.com/watch?v=HZyQI1GneCc"/>
+        <updated>2026-02-06T20:00:19.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urgent Crypto Alert: Crypto Is Evaporating]]></title>
+        <id>https://www.youtube.com/watch?v=-GSsalQV19Y</id>
+        <link href="https://www.youtube.com/watch?v=-GSsalQV19Y"/>
+        <updated>2026-02-06T14:00:01.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["This is what people mean by focus, ok!" - Abbey, after being diagnosed with ADHD at 28]]></title>
+        <id>https://www.youtube.com/shorts/WbZDt-ubm48</id>
+        <link href="https://www.youtube.com/shorts/WbZDt-ubm48"/>
+        <updated>2026-02-06T13:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips from a 20-year developer veteran turned consultancy founder – Tapas Adhikary [Podcast #206]]]></title>
+        <id>https://www.youtube.com/watch?v=GAZkxw6DJJE</id>
+        <link href="https://www.youtube.com/watch?v=GAZkxw6DJJE"/>
+        <updated>2026-02-06T11:00:27.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TradingView Alerts Setup Fast & Easy Tutorial!!]]></title>
+        <id>https://www.youtube.com/watch?v=tdImiAEC4q4</id>
+        <link href="https://www.youtube.com/watch?v=tdImiAEC4q4"/>
+        <updated>2026-02-05T14:01:34.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50 (2026) – Full Computer Science University Course]]></title>
+        <id>https://www.youtube.com/watch?v=gmuTjeQUbTM</id>
+        <link href="https://www.youtube.com/watch?v=gmuTjeQUbTM"/>
+        <updated>2026-02-05T13:45:14.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much is a little loading spinner costing your website? It's worth thinking about...]]></title>
+        <id>https://www.youtube.com/shorts/b_6KoSdgHiA</id>
+        <link href="https://www.youtube.com/shorts/b_6KoSdgHiA"/>
+        <updated>2026-02-05T12:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deposit to Hyperliquid (Deposit Crypto & Trade on Hyperliquid)]]></title>
+        <id>https://www.youtube.com/watch?v=Jyx5UTJAr4w</id>
+        <link href="https://www.youtube.com/watch?v=Jyx5UTJAr4w"/>
+        <updated>2026-02-04T14:00:36.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: It's Actively Collapsing]]></title>
+        <id>https://www.youtube.com/watch?v=wBoClETejPw</id>
+        <link href="https://www.youtube.com/watch?v=wBoClETejPw"/>
+        <updated>2026-02-03T14:01:34.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Wallet to Binance Exchange Transfer Tutorial (Transfer Crypto)]]></title>
+        <id>https://www.youtube.com/watch?v=6Yc6kVOdIvs</id>
+        <link href="https://www.youtube.com/watch?v=6Yc6kVOdIvs"/>
+        <updated>2026-02-02T14:00:16.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安钱包： 新手入门，安全第一 ！ 推荐所有加密新手都开始用币安钱包， 链上功能竟然如此丰富？]]></title>
+        <id>https://www.youtube.com/watch?v=tDK1gvq1690</id>
+        <link href="https://www.youtube.com/watch?v=tDK1gvq1690"/>
+        <updated>2026-01-31T01:00:00.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: This is Serious. The Chart is Abysmal.]]></title>
+        <id>https://www.youtube.com/watch?v=GFU8PCDuhT0</id>
+        <link href="https://www.youtube.com/watch?v=GFU8PCDuhT0"/>
+        <updated>2026-01-30T14:00:24.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Transfer Crypto from Bitget Wallet to Bitget Exchange]]></title>
+        <id>https://www.youtube.com/watch?v=HHMICjsmlBY</id>
+        <link href="https://www.youtube.com/watch?v=HHMICjsmlBY"/>
+        <updated>2026-01-29T14:00:33.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post Only Order Tutorial (Binance, Bybit Post Only Order Type)]]></title>
+        <id>https://www.youtube.com/watch?v=azmgmv0O9Vw</id>
+        <link href="https://www.youtube.com/watch?v=azmgmv0O9Vw"/>
+        <updated>2026-01-28T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nansen AI：AI交易分析神器！订阅享50+空投福利，金铲子一鱼多吃，链上印钞机！]]></title>
+        <id>https://www.youtube.com/watch?v=sIXlPGodGd4</id>
+        <link href="https://www.youtube.com/watch?v=sIXlPGodGd4"/>
+        <updated>2026-01-28T02:32:47.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: This Is Just The Start!!!]]></title>
+        <id>https://www.youtube.com/watch?v=BrEXmLaCfXI</id>
+        <link href="https://www.youtube.com/watch?v=BrEXmLaCfXI"/>
+        <updated>2026-01-27T14:00:31.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cash Out Crypto From Any Hardware Wallet to Bank]]></title>
+        <id>https://www.youtube.com/watch?v=Vbf_o_XS3b0</id>
+        <link href="https://www.youtube.com/watch?v=Vbf_o_XS3b0"/>
+        <updated>2026-01-26T14:00:57.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket 难用？ 这个“开挂级”工具终于来了！(止盈止损 + 自动跟单 + 闪电交易)]]></title>
+        <id>https://www.youtube.com/watch?v=gDEg7kxlbzA</id>
+        <link href="https://www.youtube.com/watch?v=gDEg7kxlbzA"/>
+        <updated>2026-01-24T02:59:56.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先别卷 Polymarket 了！ Limitless 第二期空投还有 120 小时结束，人少速来！]]></title>
+        <id>https://www.youtube.com/watch?v=bxnQIUyStXk</id>
+        <link href="https://www.youtube.com/watch?v=bxnQIUyStXk"/>
+        <updated>2026-01-22T15:35:49.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Effective Long Running Coding Agent Loop in 7 minutes.]]></title>
+        <id>https://www.youtube.com/watch?v=vg2Qt-RYrUM</id>
+        <link href="https://www.youtube.com/watch?v=vg2Qt-RYrUM"/>
+        <updated>2026-01-19T03:45:12.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[300ms 极速冲土狗！Alph.ai 实测：$20 本金无风险套利 $100 ？ MPC钱包，安全第一 ！]]></title>
+        <id>https://www.youtube.com/watch?v=Eslv8V9QyiQ</id>
+        <link href="https://www.youtube.com/watch?v=Eslv8V9QyiQ"/>
+        <updated>2026-01-18T05:29:23.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
 </feed>

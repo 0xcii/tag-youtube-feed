@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-19T12:33:42.103Z</id>
+    <id>urn:2026-02-19T14:00:03.288Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-19T12:33:42.103Z</updated>
+    <updated>2026-02-19T14:00:03.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Prepping for interviews? Here are some practical tips to help you out.]]></title>
+        <id>https://www.youtube.com/shorts/BrBMM2gIQN8</id>
+        <link href="https://www.youtube.com/shorts/BrBMM2gIQN8"/>
+        <updated>2026-02-19T12:52:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Computer Networking Fundamentals Course]]></title>
         <id>https://www.youtube.com/watch?v=fQbBPa0ADvs</id>
@@ -217,15 +227,6 @@
         <link href="https://www.youtube.com/shorts/J7sQe2n0z6Q"/>
         <updated>2026-02-10T13:05:25.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes Course – Certified Kubernetes Administrator Exam Preparation (2026 Update)]]></title>
-        <id>https://www.youtube.com/watch?v=l57xKN6OBhY</id>
-        <link href="https://www.youtube.com/watch?v=l57xKN6OBhY"/>
-        <updated>2026-02-10T11:01:25.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

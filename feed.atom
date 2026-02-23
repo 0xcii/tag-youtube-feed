@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-23T12:33:47.028Z</id>
+    <id>urn:2026-02-23T13:59:12.898Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-23T12:33:47.028Z</updated>
+    <updated>2026-02-23T13:59:12.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[True or false: computers only understand 1s and 0s...?]]></title>
+        <id>https://www.youtube.com/shorts/Ai00MsNabaE</id>
+        <link href="https://www.youtube.com/shorts/Ai00MsNabaE"/>
+        <updated>2026-02-23T13:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When you're working, work hard. And when you relax, relax hard.]]></title>
         <id>https://www.youtube.com/shorts/QMgIovzpYVw</id>
@@ -202,15 +212,6 @@
         <updated>2026-02-13T10:13:32.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Full-Stack Docker & CI/CD – Build a Production-Ready Pipeline]]></title>
-        <id>https://www.youtube.com/watch?v=lEcULR30-GM</id>
-        <link href="https://www.youtube.com/watch?v=lEcULR30-GM"/>
-        <updated>2026-02-12T14:02:47.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

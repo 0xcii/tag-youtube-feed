@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-24T14:01:33.681Z</id>
+    <id>urn:2026-02-24T15:42:26.018Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-24T14:01:33.681Z</updated>
+    <updated>2026-02-24T15:42:26.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: A Huge Problem Right Now!!]]></title>
+        <id>https://www.youtube.com/watch?v=q4x1lpqqpFY</id>
+        <link href="https://www.youtube.com/watch?v=q4x1lpqqpFY"/>
+        <updated>2026-02-24T14:01:19.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Closures in JavaScript explained with a simple backpack analogy]]></title>
         <id>https://www.youtube.com/shorts/U6-RekkuORI</id>
@@ -300,15 +309,6 @@
         <id>https://www.youtube.com/watch?v=Jyx5UTJAr4w</id>
         <link href="https://www.youtube.com/watch?v=Jyx5UTJAr4w"/>
         <updated>2026-02-04T14:00:36.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: It's Actively Collapsing]]></title>
-        <id>https://www.youtube.com/watch?v=wBoClETejPw</id>
-        <link href="https://www.youtube.com/watch?v=wBoClETejPw"/>
-        <updated>2026-02-03T14:01:34.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

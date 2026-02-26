@@ -24,16 +24,6 @@
           "wordCount": null,
           "title": "币安钱包： 新手入门，安全第一 ！ 推荐所有加密新手都开始用币安钱包， 链上功能竟然如此丰富？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sIXlPGodGd4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sIXlPGodGd4",
-          "publishedOn": "2026-01-28T02:32:47.000Z",
-          "wordCount": null,
-          "title": "Nansen AI：AI交易分析神器！订阅享50+空投福利，金铲子一鱼多吃，链上印钞机！",
-          "imageUrl": null
         }
       ]
     },
@@ -43,12 +33,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_4uQI4ihGVU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_4uQI4ihGVU",
+          "publishedOn": "2026-02-26T13:58:14.000Z",
+          "wordCount": null,
+          "title": "Learn Kubernetes in 6 Hours – Full Course with Real-World Project",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/o54etZM-DrY",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/o54etZM-DrY",
           "publishedOn": "2026-02-26T12:52:35.000Z",
-          "wordCount": 2078,
+          "wordCount": 2119,
           "title": "Programming isn't always fun - but you can still find joy in the boring bits",
           "imageUrl": null
         },
@@ -58,7 +58,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/4RGkpzTJjfg",
           "publishedOn": "2026-02-25T13:29:55.000Z",
-          "wordCount": 2123,
+          "wordCount": 2482,
           "title": "Contributing to open source has many benefits - but it doesn't guarantee you a job",
           "imageUrl": null
         },
@@ -78,7 +78,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/U6-RekkuORI",
           "publishedOn": "2026-02-24T13:05:28.000Z",
-          "wordCount": 2111,
+          "wordCount": 2058,
           "title": "Closures in JavaScript explained with a simple backpack analogy",
           "imageUrl": null
         },
@@ -98,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ai00MsNabaE",
           "publishedOn": "2026-02-23T13:17:29.000Z",
-          "wordCount": 2055,
+          "wordCount": 2175,
           "title": "True or false: computers only understand 1s and 0s...?",
           "imageUrl": null
         },
@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QMgIovzpYVw",
           "publishedOn": "2026-02-22T13:43:36.000Z",
-          "wordCount": 2104,
+          "wordCount": 2050,
           "title": "When you're working, work hard. And when you relax, relax hard.",
           "imageUrl": null
         },
@@ -118,7 +118,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Tbqmz0ZP8q8",
           "publishedOn": "2026-02-21T13:32:20.000Z",
-          "wordCount": 2110,
+          "wordCount": 2163,
           "title": "Coding and chess are similar - they're both require deep thinking, patience, and creativity",
           "imageUrl": null
         },
@@ -128,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/uJAUeXLXHrY",
           "publishedOn": "2026-02-20T13:18:30.000Z",
-          "wordCount": 2052,
+          "wordCount": 2031,
           "title": "Learn Regex basics in 60 seconds from Beau Carnes",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/BrBMM2gIQN8",
           "publishedOn": "2026-02-19T12:52:33.000Z",
-          "wordCount": 2085,
+          "wordCount": 2054,
           "title": "Prepping for interviews? Here are some practical tips to help you out.",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HEGrkgpe7-Y",
           "publishedOn": "2026-02-18T13:29:33.000Z",
-          "wordCount": 2080,
+          "wordCount": 2117,
           "title": "JavaScript was famously designed in 10 days - so how'd it evolve to handle complex apps?",
           "imageUrl": null
         },
@@ -178,18 +178,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oRZouQxC5Gw",
           "publishedOn": "2026-02-17T13:10:39.000Z",
-          "wordCount": 2103,
+          "wordCount": 2513,
           "title": "When you're learning a new skill, you've gotta be consistent for long enough to make a difference",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NDdCrvC79eg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NDdCrvC79eg",
-          "publishedOn": "2026-02-16T14:36:05.000Z",
-          "wordCount": null,
-          "title": "Chess Strategy – Master the Italian Game and Avoid Common Traps",
           "imageUrl": null
         }
       ]
@@ -211,6 +201,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4x2odUnwyrA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4x2odUnwyrA",
+          "publishedOn": "2026-02-26T14:00:15.000Z",
+          "wordCount": null,
+          "title": "How to Recover Ledger Hardware Wallet Step by Step",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_n_f4ggum_w",
           "author": null,
@@ -349,16 +349,6 @@
           "publishedOn": "2026-02-06T14:00:01.000Z",
           "wordCount": null,
           "title": "Urgent Crypto Alert: Crypto Is Evaporating",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tdImiAEC4q4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tdImiAEC4q4",
-          "publishedOn": "2026-02-05T14:01:34.000Z",
-          "wordCount": null,
-          "title": "TradingView Alerts Setup Fast & Easy Tutorial!!",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T13:49:57.878Z</id>
+    <id>urn:2026-02-27T14:29:56.177Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-27T13:49:57.878Z</updated>
+    <updated>2026-02-27T14:29:56.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Very Unfortunate Truth for Investors!!]]></title>
+        <id>https://www.youtube.com/watch?v=krA85im-Ldw</id>
+        <link href="https://www.youtube.com/watch?v=krA85im-Ldw"/>
+        <updated>2026-02-27T14:01:15.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can a single semicolon break an entire app?]]></title>
         <id>https://www.youtube.com/shorts/TcZFJrjxOYQ</id>
@@ -301,15 +310,6 @@
         <updated>2026-02-06T20:00:19.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urgent Crypto Alert: Crypto Is Evaporating]]></title>
-        <id>https://www.youtube.com/watch?v=-GSsalQV19Y</id>
-        <link href="https://www.youtube.com/watch?v=-GSsalQV19Y"/>
-        <updated>2026-02-06T14:00:01.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

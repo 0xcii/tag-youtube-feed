@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T04:02:16.971Z</id>
+    <id>urn:2026-03-03T05:39:29.274Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-03T04:02:16.971Z</updated>
+    <updated>2026-03-03T05:39:29.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chico Crypto Live Stream]]></title>
+        <id>https://www.youtube.com/watch?v=RmivubKg-zE</id>
+        <link href="https://www.youtube.com/watch?v=RmivubKg-zE"/>
+        <updated>2026-03-03T03:56:42.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chico Crypto RETURNS!! Is He SATOSHI NAKAMOTO!?]]></title>
         <id>https://www.youtube.com/shorts/z8x942lO9Y8</id>

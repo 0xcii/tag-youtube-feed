@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T23:14:11.844Z</id>
+    <id>urn:2026-03-04T00:59:11.792Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-03T23:14:11.844Z</updated>
+    <updated>2026-03-04T00:59:11.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum]]></title>
+        <id>https://www.youtube.com/shorts/se7slstdhlc</id>
+        <link href="https://www.youtube.com/shorts/se7slstdhlc"/>
+        <updated>2026-03-04T00:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chico Crypto is BACK!! The *SECRET* Coins I've Been BUYING!!!]]></title>
+        <id>https://www.youtube.com/watch?v=cu641hdrcYE</id>
+        <link href="https://www.youtube.com/watch?v=cu641hdrcYE"/>
+        <updated>2026-03-03T23:43:18.000Z</updated>
+        <author>
+            <name>Chico Crypto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urgent Crypto Alert: This Changes Everything!!]]></title>
         <id>https://www.youtube.com/watch?v=LONCqCT-0Ls</id>
@@ -39,15 +58,6 @@
         <link href="https://www.youtube.com/shorts/z8x942lO9Y8"/>
         <updated>2026-03-02T21:43:12.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Chico Crypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chico Crypto is BACK!! The *SECRET* Coins I've Been BUYING!!!]]></title>
-        <id>https://www.youtube.com/watch?v=cu641hdrcYE</id>
-        <link href="https://www.youtube.com/watch?v=cu641hdrcYE"/>
-        <updated>2026-03-02T20:54:43.000Z</updated>
         <author>
             <name>Chico Crypto</name>
         </author>

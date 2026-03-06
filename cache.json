@@ -1,6 +1,186 @@
 {
   "sources": [
     {
+      "title": "链求君",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EhjkKfUPlZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EhjkKfUPlZA",
+          "publishedOn": "2026-02-13T10:13:32.000Z",
+          "wordCount": null,
+          "title": "普通人翻身的最新窗口：如何用 AI 自动化在 Polymarket 被动收入 $500 ？（BiyaPay  钱包红包惊喜， 注册领取）",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=tVskbekONlw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tVskbekONlw",
+          "publishedOn": "2026-03-05T14:21:18.000Z",
+          "wordCount": null,
+          "title": "Learn MLOps with MLflow and Databricks – Full Course for Machine Learning Engineers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/OGRyln02De4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/OGRyln02De4",
+          "publishedOn": "2026-03-05T12:52:31.000Z",
+          "wordCount": 2557,
+          "title": "Sometimes breaking your code and figuring out how to fix it is the best way to understand it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/cw02dMpWStI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/cw02dMpWStI",
+          "publishedOn": "2026-03-04T13:29:25.000Z",
+          "wordCount": 2231,
+          "title": "How to find good open source projects to contribute to - from Tapas Adhikary",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0WjfKQdfeMU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0WjfKQdfeMU",
+          "publishedOn": "2026-03-04T11:00:02.000Z",
+          "wordCount": null,
+          "title": "NVIDIA-Certified Associate AI Infrastructure and Operations (NCA AIIO) Free Study Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ZldNCx4AvEM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ZldNCx4AvEM",
+          "publishedOn": "2026-03-03T13:05:25.000Z",
+          "wordCount": 2206,
+          "title": "Learn the basics of Git in 60 seconds with Beau Carnes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/E7o_WdfKszU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/E7o_WdfKszU",
+          "publishedOn": "2026-03-02T13:17:28.000Z",
+          "wordCount": 2100,
+          "title": "There's so much to learn - so how do you focus to get you closer to your goals?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IBTx5aGj-6U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IBTx5aGj-6U",
+          "publishedOn": "2026-03-02T11:00:33.000Z",
+          "wordCount": null,
+          "title": "Build Your Own Video Sharing App – Loom Clone with Next.js and Mux JavaScript Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/c1Op7YSTwhg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/c1Op7YSTwhg",
+          "publishedOn": "2026-03-01T13:43:25.000Z",
+          "wordCount": 2174,
+          "title": "How do you monetize open source? Evan You shares his tips.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Bc4blwgFF-o",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Bc4blwgFF-o",
+          "publishedOn": "2026-02-28T13:32:29.000Z",
+          "wordCount": 2076,
+          "title": "Sometimes constraints in your learning translate into really focused action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/TcZFJrjxOYQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/TcZFJrjxOYQ",
+          "publishedOn": "2026-02-27T13:18:26.000Z",
+          "wordCount": 2379,
+          "title": "Can a single semicolon break an entire app?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=s950xhRvqYQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s950xhRvqYQ",
+          "publishedOn": "2026-02-27T11:01:36.000Z",
+          "wordCount": null,
+          "title": "The ultimate dev skill is Integration Testing feat. Internet of Bugs [Podcast #209]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Yygu7TBWdPs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Yygu7TBWdPs",
+          "publishedOn": "2026-02-26T19:46:12.000Z",
+          "wordCount": 2137,
+          "title": "Easily Create E2E Tests with KaneAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_4uQI4ihGVU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_4uQI4ihGVU",
+          "publishedOn": "2026-02-26T13:58:14.000Z",
+          "wordCount": null,
+          "title": "Learn Kubernetes in 6 Hours – Full Course with Real-World Project",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/o54etZM-DrY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/o54etZM-DrY",
+          "publishedOn": "2026-02-26T12:52:35.000Z",
+          "wordCount": 2207,
+          "title": "Programming isn't always fun - but you can still find joy in the boring bits",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/4RGkpzTJjfg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/4RGkpzTJjfg",
+          "publishedOn": "2026-02-25T13:29:55.000Z",
+          "wordCount": 2256,
+          "title": "Contributing to open source has many benefits - but it doesn't guarantee you a job",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": []
+    },
+    {
       "title": "Chico Crypto",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
       "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
@@ -21,7 +201,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/se7slstdhlc",
           "publishedOn": "2026-03-04T00:30:41.000Z",
-          "wordCount": 2258,
+          "wordCount": 2137,
           "title": "WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum",
           "imageUrl": null
         },
@@ -51,7 +231,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z8x942lO9Y8",
           "publishedOn": "2026-03-02T21:43:12.000Z",
-          "wordCount": 2097,
+          "wordCount": 2038,
           "title": "Chico Crypto RETURNS!! Is He SATOSHI NAKAMOTO!?",
           "imageUrl": null
         }
@@ -210,6 +390,39 @@
           "publishedOn": "2026-02-13T14:01:37.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Extreme Warning Level Just Hit!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oZ0AY70vZ9w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oZ0AY70vZ9w",
+          "publishedOn": "2026-02-11T20:00:46.000Z",
+          "wordCount": null,
+          "title": "How to make passive Income with Flash Loans in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HZyQI1GneCc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HZyQI1GneCc",
+          "publishedOn": "2026-02-06T20:00:19.000Z",
+          "wordCount": null,
+          "title": "How to code a blockchain app with X402 step by step",
           "imageUrl": null
         }
       ]

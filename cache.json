@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hP931079TMw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hP931079TMw",
+          "publishedOn": "2026-03-06T11:01:15.000Z",
+          "wordCount": null,
+          "title": "There are 2 kinds of devs. One of them is screwed. Justin Searls interview [Podcast #210]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tVskbekONlw",
           "author": null,
           "description": "",
@@ -38,7 +48,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OGRyln02De4",
           "publishedOn": "2026-03-05T12:52:31.000Z",
-          "wordCount": 2123,
+          "wordCount": 2118,
           "title": "Sometimes breaking your code and figuring out how to fix it is the best way to understand it",
           "imageUrl": null
         },
@@ -48,7 +58,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/cw02dMpWStI",
           "publishedOn": "2026-03-04T13:29:25.000Z",
-          "wordCount": 2235,
+          "wordCount": 2083,
           "title": "How to find good open source projects to contribute to - from Tapas Adhikary",
           "imageUrl": null
         },
@@ -68,7 +78,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ZldNCx4AvEM",
           "publishedOn": "2026-03-03T13:05:25.000Z",
-          "wordCount": 2477,
+          "wordCount": 2056,
           "title": "Learn the basics of Git in 60 seconds with Beau Carnes",
           "imageUrl": null
         },
@@ -78,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/E7o_WdfKszU",
           "publishedOn": "2026-03-02T13:17:28.000Z",
-          "wordCount": 2126,
+          "wordCount": 2114,
           "title": "There's so much to learn - so how do you focus to get you closer to your goals?",
           "imageUrl": null
         },
@@ -98,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/c1Op7YSTwhg",
           "publishedOn": "2026-03-01T13:43:25.000Z",
-          "wordCount": 2233,
+          "wordCount": 2143,
           "title": "How do you monetize open source? Evan You shares his tips.",
           "imageUrl": null
         },
@@ -108,7 +118,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Bc4blwgFF-o",
           "publishedOn": "2026-02-28T13:32:29.000Z",
-          "wordCount": 2098,
+          "wordCount": 2091,
           "title": "Sometimes constraints in your learning translate into really focused action",
           "imageUrl": null
         },
@@ -118,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TcZFJrjxOYQ",
           "publishedOn": "2026-02-27T13:18:26.000Z",
-          "wordCount": 2167,
+          "wordCount": 2024,
           "title": "Can a single semicolon break an entire app?",
           "imageUrl": null
         },
@@ -138,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Yygu7TBWdPs",
           "publishedOn": "2026-02-26T19:46:12.000Z",
-          "wordCount": 2338,
+          "wordCount": 2037,
           "title": "Easily Create E2E Tests with KaneAI",
           "imageUrl": null
         },
@@ -158,18 +168,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/o54etZM-DrY",
           "publishedOn": "2026-02-26T12:52:35.000Z",
-          "wordCount": 2094,
+          "wordCount": 2174,
           "title": "Programming isn't always fun - but you can still find joy in the boring bits",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/4RGkpzTJjfg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/4RGkpzTJjfg",
-          "publishedOn": "2026-02-25T13:29:55.000Z",
-          "wordCount": 2085,
-          "title": "Contributing to open source has many benefits - but it doesn't guarantee you a job",
           "imageUrl": null
         }
       ]
@@ -201,7 +201,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/se7slstdhlc",
           "publishedOn": "2026-03-04T00:30:41.000Z",
-          "wordCount": 2121,
+          "wordCount": 2133,
           "title": "WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum",
           "imageUrl": null
         },
@@ -231,7 +231,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z8x942lO9Y8",
           "publishedOn": "2026-03-02T21:43:12.000Z",
-          "wordCount": 2078,
+          "wordCount": 2070,
           "title": "Chico Crypto RETURNS!! Is He SATOSHI NAKAMOTO!?",
           "imageUrl": null
         }

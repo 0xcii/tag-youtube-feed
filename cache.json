@@ -11,7 +11,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jie_039IekA",
           "publishedOn": "2026-03-07T13:32:30.000Z",
-          "wordCount": 2130,
+          "wordCount": 2085,
           "title": "Why you shouldn't chase people to get what you need from them - info, payment, etc.",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/mrRfPVm9nAY",
           "publishedOn": "2026-03-06T13:18:50.000Z",
-          "wordCount": 2213,
+          "wordCount": 2223,
           "title": "Learn the basics of Data Structures in 60 seconds with Beau Carnes.",
           "imageUrl": null
         },
@@ -51,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OGRyln02De4",
           "publishedOn": "2026-03-05T12:52:31.000Z",
-          "wordCount": 2069,
+          "wordCount": 2093,
           "title": "Sometimes breaking your code and figuring out how to fix it is the best way to understand it",
           "imageUrl": null
         },
@@ -61,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/cw02dMpWStI",
           "publishedOn": "2026-03-04T13:29:25.000Z",
-          "wordCount": 2076,
+          "wordCount": 2088,
           "title": "How to find good open source projects to contribute to - from Tapas Adhikary",
           "imageUrl": null
         },
@@ -81,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ZldNCx4AvEM",
           "publishedOn": "2026-03-03T13:05:25.000Z",
-          "wordCount": 2378,
+          "wordCount": 2078,
           "title": "Learn the basics of Git in 60 seconds with Beau Carnes",
           "imageUrl": null
         },
@@ -91,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/E7o_WdfKszU",
           "publishedOn": "2026-03-02T13:17:28.000Z",
-          "wordCount": 2233,
+          "wordCount": 2735,
           "title": "There's so much to learn - so how do you focus to get you closer to your goals?",
           "imageUrl": null
         },
@@ -111,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/c1Op7YSTwhg",
           "publishedOn": "2026-03-01T13:43:25.000Z",
-          "wordCount": 2102,
+          "wordCount": 2054,
           "title": "How do you monetize open source? Evan You shares his tips.",
           "imageUrl": null
         },
@@ -121,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Bc4blwgFF-o",
           "publishedOn": "2026-02-28T13:32:29.000Z",
-          "wordCount": 2081,
+          "wordCount": 2076,
           "title": "Sometimes constraints in your learning translate into really focused action",
           "imageUrl": null
         },
@@ -131,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TcZFJrjxOYQ",
           "publishedOn": "2026-02-27T13:18:26.000Z",
-          "wordCount": 2009,
+          "wordCount": 2015,
           "title": "Can a single semicolon break an entire app?",
           "imageUrl": null
         },
@@ -151,23 +151,11 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Yygu7TBWdPs",
           "publishedOn": "2026-02-26T19:46:12.000Z",
-          "wordCount": 2078,
+          "wordCount": 2058,
           "title": "Easily Create E2E Tests with KaneAI",
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Nader Dabit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
-      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": []
-    },
-    {
-      "title": "EatTheBlocks",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
-      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

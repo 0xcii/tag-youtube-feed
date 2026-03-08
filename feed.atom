@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-08T12:21:31.282Z</id>
+    <id>urn:2026-03-08T13:32:12.656Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-08T12:21:31.282Z</updated>
+    <updated>2026-03-08T13:32:12.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to handle being thrown into an existing codebase and being expected to figure it out]]></title>
+        <id>https://www.youtube.com/shorts/ldkfMvE36FI</id>
+        <link href="https://www.youtube.com/shorts/ldkfMvE36FI"/>
+        <updated>2026-03-08T12:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why you shouldn't chase people to get what you need from them - info, payment, etc.]]></title>
         <id>https://www.youtube.com/shorts/jie_039IekA</id>
@@ -247,16 +257,6 @@
         <id>https://www.youtube.com/watch?v=s950xhRvqYQ</id>
         <link href="https://www.youtube.com/watch?v=s950xhRvqYQ"/>
         <updated>2026-02-27T11:01:36.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easily Create E2E Tests with KaneAI]]></title>
-        <id>https://www.youtube.com/shorts/Yygu7TBWdPs</id>
-        <link href="https://www.youtube.com/shorts/Yygu7TBWdPs"/>
-        <updated>2026-02-26T19:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

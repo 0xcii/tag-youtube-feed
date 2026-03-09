@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T13:56:13.331Z</id>
+    <id>urn:2026-03-09T14:41:03.415Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-09T13:56:13.331Z</updated>
+    <updated>2026-03-09T14:41:03.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TradingView RSI Indicator Tutorial (How to Use RSI)]]></title>
+        <id>https://www.youtube.com/watch?v=z3fbVK5e5Io</id>
+        <link href="https://www.youtube.com/watch?v=z3fbVK5e5Io"/>
+        <updated>2026-03-09T14:01:28.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can you guess what this is? Wrong answers only!]]></title>
         <id>https://www.youtube.com/shorts/0XMdbWy2j1w</id>
@@ -330,15 +339,6 @@
         <id>https://www.youtube.com/watch?v=pCS-HnV_-oE</id>
         <link href="https://www.youtube.com/watch?v=pCS-HnV_-oE"/>
         <updated>2026-02-17T14:01:22.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TradingView Auto-Fibonacci Tool Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=r7UrLmFv1v4</id>
-        <link href="https://www.youtube.com/watch?v=r7UrLmFv1v4"/>
-        <updated>2026-02-16T14:01:18.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

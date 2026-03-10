@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-10T13:52:32.564Z</id>
+    <id>urn:2026-03-10T14:37:57.535Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-10T13:52:32.565Z</updated>
+    <updated>2026-03-10T14:37:57.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Recovery Starting Now!?]]></title>
+        <id>https://www.youtube.com/watch?v=r8E0UAxK-TQ</id>
+        <link href="https://www.youtube.com/watch?v=r8E0UAxK-TQ"/>
+        <updated>2026-03-10T14:01:27.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LLM Fine-Tuning Course – From Supervised FT to RLHF, LoRA, and Multimodal]]></title>
         <id>https://www.youtube.com/watch?v=CcrC5zSv1iA</id>
@@ -338,15 +347,6 @@
         <id>https://www.youtube.com/watch?v=6rlxrzhLpxM</id>
         <link href="https://www.youtube.com/watch?v=6rlxrzhLpxM"/>
         <updated>2026-02-18T14:00:19.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Crypto Will Keep Collapsing Until...]]></title>
-        <id>https://www.youtube.com/watch?v=pCS-HnV_-oE</id>
-        <link href="https://www.youtube.com/watch?v=pCS-HnV_-oE"/>
-        <updated>2026-02-17T14:01:22.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

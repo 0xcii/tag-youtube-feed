@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-10T11:22:48.319Z</id>
+    <id>urn:2026-03-10T12:31:42.019Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-10T11:22:48.319Z</updated>
+    <updated>2026-03-10T12:31:42.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why JavaScript is a "glue" language]]></title>
+        <id>https://www.youtube.com/shorts/E2oyLZVBcQw</id>
+        <link href="https://www.youtube.com/shorts/E2oyLZVBcQw"/>
+        <updated>2026-03-10T12:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These Altcoins Are PRIMED For BIG MOVES This Week!!]]></title>
         <id>https://www.youtube.com/watch?v=gtkEE1Piypg</id>
@@ -268,16 +278,6 @@
         <updated>2026-02-27T14:01:15.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can a single semicolon break an entire app?]]></title>
-        <id>https://www.youtube.com/shorts/TcZFJrjxOYQ</id>
-        <link href="https://www.youtube.com/shorts/TcZFJrjxOYQ"/>
-        <updated>2026-02-27T13:18:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

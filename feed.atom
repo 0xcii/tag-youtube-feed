@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-11T13:56:17.158Z</id>
+    <id>urn:2026-03-11T14:39:12.763Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-11T13:56:17.158Z</updated>
+    <updated>2026-03-11T14:39:12.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Revolut Currency Exchange Tutorial (How to Swap Currency)]]></title>
+        <id>https://www.youtube.com/watch?v=FJ78ujRrVpE</id>
+        <link href="https://www.youtube.com/watch?v=FJ78ujRrVpE"/>
+        <updated>2026-03-11T14:00:21.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our brains need to relax sometime - so find a way that works for you]]></title>
         <id>https://www.youtube.com/shorts/lnycGFq8JQI</id>
@@ -338,15 +347,6 @@
         <id>https://www.youtube.com/watch?v=fhkgNBMecNc</id>
         <link href="https://www.youtube.com/watch?v=fhkgNBMecNc"/>
         <updated>2026-02-19T14:01:08.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Passive Income on Binance (5 Easy Methods)]]></title>
-        <id>https://www.youtube.com/watch?v=6rlxrzhLpxM</id>
-        <link href="https://www.youtube.com/watch?v=6rlxrzhLpxM"/>
-        <updated>2026-02-18T14:00:19.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

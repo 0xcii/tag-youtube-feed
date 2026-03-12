@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-12T11:23:39.926Z</id>
+    <id>urn:2026-03-12T12:30:10.204Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-12T11:23:39.926Z</updated>
+    <updated>2026-03-12T12:30:10.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to use the .add() method in Three.js]]></title>
+        <id>https://www.youtube.com/shorts/PiflojewvfU</id>
+        <link href="https://www.youtube.com/shorts/PiflojewvfU"/>
+        <updated>2026-03-12T11:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revolut Currency Exchange Tutorial (How to Swap Currency)]]></title>
         <id>https://www.youtube.com/watch?v=FJ78ujRrVpE</id>
@@ -267,16 +277,6 @@
         <updated>2026-03-02T14:01:07.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There's so much to learn - so how do you focus to get you closer to your goals?]]></title>
-        <id>https://www.youtube.com/shorts/E7o_WdfKszU</id>
-        <link href="https://www.youtube.com/shorts/E7o_WdfKszU"/>
-        <updated>2026-03-02T13:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

@@ -28,7 +28,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/PiflojewvfU",
           "publishedOn": "2026-03-12T11:52:20.000Z",
-          "wordCount": 2021,
+          "wordCount": 2060,
           "title": "How to use the .add() method in Three.js",
           "imageUrl": null
         },
@@ -38,7 +38,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lnycGFq8JQI",
           "publishedOn": "2026-03-11T12:29:37.000Z",
-          "wordCount": 2092,
+          "wordCount": 2118,
           "title": "Our brains need to relax sometime - so find a way that works for you",
           "imageUrl": null
         },
@@ -68,7 +68,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/E2oyLZVBcQw",
           "publishedOn": "2026-03-10T12:06:05.000Z",
-          "wordCount": 2040,
+          "wordCount": 2071,
           "title": "Why JavaScript is a \"glue\" language",
           "imageUrl": null
         },
@@ -78,7 +78,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/0XMdbWy2j1w",
           "publishedOn": "2026-03-09T12:17:22.000Z",
-          "wordCount": 2029,
+          "wordCount": 2010,
           "title": "Can you guess what this is? Wrong answers only!",
           "imageUrl": null
         },
@@ -88,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ldkfMvE36FI",
           "publishedOn": "2026-03-08T12:43:26.000Z",
-          "wordCount": 2077,
+          "wordCount": 2108,
           "title": "How to handle being thrown into an existing codebase and being expected to figure it out",
           "imageUrl": null
         },
@@ -98,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jie_039IekA",
           "publishedOn": "2026-03-07T13:32:30.000Z",
-          "wordCount": 2104,
+          "wordCount": 2113,
           "title": "Why you shouldn't chase people to get what you need from them - info, payment, etc.",
           "imageUrl": null
         },
@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/mrRfPVm9nAY",
           "publishedOn": "2026-03-06T13:18:50.000Z",
-          "wordCount": 2041,
+          "wordCount": 2051,
           "title": "Learn the basics of Data Structures in 60 seconds with Beau Carnes.",
           "imageUrl": null
         },
@@ -138,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OGRyln02De4",
           "publishedOn": "2026-03-05T12:52:31.000Z",
-          "wordCount": 2196,
+          "wordCount": 2176,
           "title": "Sometimes breaking your code and figuring out how to fix it is the best way to understand it",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/cw02dMpWStI",
           "publishedOn": "2026-03-04T13:29:25.000Z",
-          "wordCount": 2614,
+          "wordCount": 2075,
           "title": "How to find good open source projects to contribute to - from Tapas Adhikary",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ZldNCx4AvEM",
           "publishedOn": "2026-03-03T13:05:25.000Z",
-          "wordCount": 2580,
+          "wordCount": 2025,
           "title": "Learn the basics of Git in 60 seconds with Beau Carnes",
           "imageUrl": null
         }
@@ -201,7 +201,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1LaHyZBNCC8",
           "publishedOn": "2026-03-06T22:43:26.000Z",
-          "wordCount": 2012,
+          "wordCount": 2094,
           "title": "ELON MUSK must answer this QUESTION!!???",
           "imageUrl": null
         },
@@ -211,7 +211,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/se7slstdhlc",
           "publishedOn": "2026-03-04T00:30:41.000Z",
-          "wordCount": 2128,
+          "wordCount": 2102,
           "title": "WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum",
           "imageUrl": null
         },
@@ -241,7 +241,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z8x942lO9Y8",
           "publishedOn": "2026-03-02T21:43:12.000Z",
-          "wordCount": 2048,
+          "wordCount": 2094,
           "title": "Chico Crypto RETURNS!! Is He SATOSHI NAKAMOTO!?",
           "imageUrl": null
         }
@@ -252,6 +252,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5EoPdrW0_o8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5EoPdrW0_o8",
+          "publishedOn": "2026-03-12T14:00:06.000Z",
+          "wordCount": null,
+          "title": "How to Migrate Crypto From Old Ledger to New Legder Wallet",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FJ78ujRrVpE",
           "author": null,
@@ -390,16 +400,6 @@
           "publishedOn": "2026-02-20T14:00:50.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Everything is Seizing Up...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fhkgNBMecNc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fhkgNBMecNc",
-          "publishedOn": "2026-02-19T14:01:08.000Z",
-          "wordCount": null,
-          "title": "How to Withdraw Money from Revolut to Bank",
           "imageUrl": null
         }
       ]

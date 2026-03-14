@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-14T12:22:49.928Z</id>
+    <id>urn:2026-03-14T13:37:15.976Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-14T12:22:49.928Z</updated>
+    <updated>2026-03-14T13:37:15.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to use the .position() method in Three.js for perfect object placement]]></title>
+        <id>https://www.youtube.com/shorts/zDVWehHdkHE</id>
+        <link href="https://www.youtube.com/shorts/zDVWehHdkHE"/>
+        <updated>2026-03-14T12:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Alert: The Next Few Weeks Are Critical!!]]></title>
         <id>https://www.youtube.com/watch?v=SxnyUUH2kyI</id>
@@ -229,16 +239,6 @@
         <updated>2026-03-04T14:00:23.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to find good open source projects to contribute to - from Tapas Adhikary]]></title>
-        <id>https://www.youtube.com/shorts/cw02dMpWStI</id>
-        <link href="https://www.youtube.com/shorts/cw02dMpWStI"/>
-        <updated>2026-03-04T13:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

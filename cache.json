@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/Fd4XR_EkDHc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Fd4XR_EkDHc",
+          "publishedOn": "2026-03-17T14:57:07.000Z",
+          "wordCount": 2067,
+          "title": "How JavaScript evolved to be able to handle more complexity, explained by Evan You",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/NWONA48L6_w",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -38,7 +48,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/NCfxtLZQSzA",
           "publishedOn": "2026-03-15T12:43:21.000Z",
-          "wordCount": 2109,
+          "wordCount": 2049,
           "title": "As a freelance dev, treat every email or phone call as if it could become 10 more",
           "imageUrl": null
         },
@@ -48,7 +58,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zDVWehHdkHE",
           "publishedOn": "2026-03-14T12:32:34.000Z",
-          "wordCount": 2018,
+          "wordCount": 2135,
           "title": "How to use the .position() method in Three.js for perfect object placement",
           "imageUrl": null
         },
@@ -58,7 +68,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/7yruIW4NvEQ",
           "publishedOn": "2026-03-13T12:18:41.000Z",
-          "wordCount": 2175,
+          "wordCount": 2105,
           "title": "Sometimes you have to re-evaluate decisions you made 5 years (or 5 months!) ago in your codebase",
           "imageUrl": null
         },
@@ -78,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/PiflojewvfU",
           "publishedOn": "2026-03-12T11:52:20.000Z",
-          "wordCount": 2111,
+          "wordCount": 2052,
           "title": "How to use the .add() method in Three.js",
           "imageUrl": null
         },
@@ -88,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lnycGFq8JQI",
           "publishedOn": "2026-03-11T12:29:37.000Z",
-          "wordCount": 2141,
+          "wordCount": 2083,
           "title": "Our brains need to relax sometime - so find a way that works for you",
           "imageUrl": null
         },
@@ -118,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/E2oyLZVBcQw",
           "publishedOn": "2026-03-10T12:06:05.000Z",
-          "wordCount": 2117,
+          "wordCount": 2141,
           "title": "Why JavaScript is a \"glue\" language",
           "imageUrl": null
         },
@@ -128,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/0XMdbWy2j1w",
           "publishedOn": "2026-03-09T12:17:22.000Z",
-          "wordCount": 2367,
+          "wordCount": 2032,
           "title": "Can you guess what this is? Wrong answers only!",
           "imageUrl": null
         },
@@ -138,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ldkfMvE36FI",
           "publishedOn": "2026-03-08T12:43:26.000Z",
-          "wordCount": 2080,
+          "wordCount": 2088,
           "title": "How to handle being thrown into an existing codebase and being expected to figure it out",
           "imageUrl": null
         },
@@ -148,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jie_039IekA",
           "publishedOn": "2026-03-07T13:32:30.000Z",
-          "wordCount": 2136,
+          "wordCount": 2188,
           "title": "Why you shouldn't chase people to get what you need from them - info, payment, etc.",
           "imageUrl": null
         },
@@ -158,18 +168,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/mrRfPVm9nAY",
           "publishedOn": "2026-03-06T13:18:50.000Z",
-          "wordCount": 2047,
+          "wordCount": 2099,
           "title": "Learn the basics of Data Structures in 60 seconds with Beau Carnes.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hP931079TMw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hP931079TMw",
-          "publishedOn": "2026-03-06T11:01:15.000Z",
-          "wordCount": null,
-          "title": "There are 2 kinds of devs. One of them is screwed. Justin Searls interview [Podcast #210]",
           "imageUrl": null
         }
       ]
@@ -201,7 +201,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1LaHyZBNCC8",
           "publishedOn": "2026-03-06T22:43:26.000Z",
-          "wordCount": 2036,
+          "wordCount": 2021,
           "title": "ELON MUSK must answer this QUESTION!!???",
           "imageUrl": null
         },
@@ -211,7 +211,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/se7slstdhlc",
           "publishedOn": "2026-03-04T00:30:41.000Z",
-          "wordCount": 2123,
+          "wordCount": 2136,
           "title": "WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum",
           "imageUrl": null
         },
@@ -241,7 +241,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z8x942lO9Y8",
           "publishedOn": "2026-03-02T21:43:12.000Z",
-          "wordCount": 2096,
+          "wordCount": 2073,
           "title": "Chico Crypto RETURNS!! Is He SATOSHI NAKAMOTO!?",
           "imageUrl": null
         }

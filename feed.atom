@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-17T15:51:23.183Z</id>
+    <id>urn:2026-03-17T16:52:04.455Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-17T15:51:23.183Z</updated>
+    <updated>2026-03-17T16:52:04.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build an E-Commerce Web App with Paystack, NextJS, Supabase]]></title>
+        <id>https://www.youtube.com/watch?v=WTw6NZDZ5mQ</id>
+        <link href="https://www.youtube.com/watch?v=WTw6NZDZ5mQ"/>
+        <updated>2026-03-17T16:00:12.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How JavaScript evolved to be able to handle more complexity, explained by Evan You]]></title>
         <id>https://www.youtube.com/shorts/Fd4XR_EkDHc</id>
@@ -240,16 +249,6 @@
         <updated>2026-03-06T14:01:19.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the basics of Data Structures in 60 seconds with Beau Carnes.]]></title>
-        <id>https://www.youtube.com/shorts/mrRfPVm9nAY</id>
-        <link href="https://www.youtube.com/shorts/mrRfPVm9nAY"/>
-        <updated>2026-03-06T13:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-17T12:38:59.118Z</id>
+    <id>urn:2026-03-17T14:10:03.623Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-17T12:38:59.118Z</updated>
+    <updated>2026-03-17T14:10:03.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Everything Has Totally Changed]]></title>
+        <id>https://www.youtube.com/watch?v=DuJrTGL4efY</id>
+        <link href="https://www.youtube.com/watch?v=DuJrTGL4efY"/>
+        <updated>2026-03-17T14:00:22.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Binance Pay (Send & Receive Crypto)]]></title>
         <id>https://www.youtube.com/watch?v=ARgTODpM27g</id>
@@ -339,15 +348,6 @@
         <id>https://www.youtube.com/watch?v=_n_f4ggum_w</id>
         <link href="https://www.youtube.com/watch?v=_n_f4ggum_w"/>
         <updated>2026-02-25T14:00:55.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: A Huge Problem Right Now!!]]></title>
-        <id>https://www.youtube.com/watch?v=q4x1lpqqpFY</id>
-        <link href="https://www.youtube.com/watch?v=q4x1lpqqpFY"/>
-        <updated>2026-02-24T14:01:19.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

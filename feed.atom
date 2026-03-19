@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T21:23:21.281Z</id>
+    <id>urn:2026-03-19T22:15:17.992Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-19T21:23:21.281Z</updated>
+    <updated>2026-03-19T22:15:17.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -19,7 +19,7 @@
         <id>https://www.youtube.com/shorts/v7Butot2fHY</id>
         <link href="https://www.youtube.com/shorts/v7Butot2fHY"/>
         <updated>2026-03-19T11:52:35.000Z</updated>
-        <summary type="html"><![CDATA[How to get started using Three.js - Ania walks you through the first steps here.]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -56,7 +56,7 @@
         <id>https://www.youtube.com/shorts/VWcCVKaN2vA</id>
         <link href="https://www.youtube.com/shorts/VWcCVKaN2vA"/>
         <updated>2026-03-18T12:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Learn the basics of LLMs in 60 seconds with Beau Carnes]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -84,7 +84,7 @@
         <id>https://www.youtube.com/shorts/Fd4XR_EkDHc</id>
         <link href="https://www.youtube.com/shorts/Fd4XR_EkDHc"/>
         <updated>2026-03-17T14:57:07.000Z</updated>
-        <summary type="html"><![CDATA[How JavaScript evolved to be able to handle more complexity, explained by Evan You]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -112,7 +112,7 @@
         <id>https://www.youtube.com/shorts/NWONA48L6_w</id>
         <link href="https://www.youtube.com/shorts/NWONA48L6_w"/>
         <updated>2026-03-16T12:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Want your 3D object to spin? Ania teaches you how to use the .rotateY() method in Three.js.]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -131,7 +131,7 @@
         <id>https://www.youtube.com/shorts/NCfxtLZQSzA</id>
         <link href="https://www.youtube.com/shorts/NCfxtLZQSzA"/>
         <updated>2026-03-15T12:43:21.000Z</updated>
-        <summary type="html"><![CDATA[As a freelance dev, treat every email or phone call as if it could become 10 more]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -141,7 +141,7 @@
         <id>https://www.youtube.com/shorts/zDVWehHdkHE</id>
         <link href="https://www.youtube.com/shorts/zDVWehHdkHE"/>
         <updated>2026-03-14T12:32:34.000Z</updated>
-        <summary type="html"><![CDATA[How to use the .position() method in Three.js for perfect object placement]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -160,7 +160,7 @@
         <id>https://www.youtube.com/shorts/7yruIW4NvEQ</id>
         <link href="https://www.youtube.com/shorts/7yruIW4NvEQ"/>
         <updated>2026-03-13T12:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you have to re-evaluate decisions you made 5 years (or 5 months!) ago in your codebase. Robby Russell discusses this with Quincy on the freeCodeCam...]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -188,7 +188,7 @@
         <id>https://www.youtube.com/shorts/PiflojewvfU</id>
         <link href="https://www.youtube.com/shorts/PiflojewvfU"/>
         <updated>2026-03-12T11:52:20.000Z</updated>
-        <summary type="html"><![CDATA[How to use the .add() method in Three.js]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -207,7 +207,7 @@
         <id>https://www.youtube.com/shorts/lnycGFq8JQI</id>
         <link href="https://www.youtube.com/shorts/lnycGFq8JQI"/>
         <updated>2026-03-11T12:29:37.000Z</updated>
-        <summary type="html"><![CDATA[Our brains need to relax sometime - so find a way that works for you. For Mike, it's playing a familiar computer game, and he talks about why this is importa...]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -299,7 +299,7 @@
         <id>https://www.youtube.com/shorts/se7slstdhlc</id>
         <link href="https://www.youtube.com/shorts/se7slstdhlc"/>
         <updated>2026-03-04T00:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ethereum are going to pump over the next couple of weeks!! Why!?8 billion in shorts vs 200 million in longs!! Shorts about to get wrecked!! https...]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Chico Crypto</name>
         </author>
@@ -336,7 +336,7 @@
         <id>https://www.youtube.com/shorts/z8x942lO9Y8</id>
         <link href="https://www.youtube.com/shorts/z8x942lO9Y8"/>
         <updated>2026-03-02T21:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Chico Crypto RETURNS!! Is he Satoshi Nakamoto? Stay tuned and find out!!#crypto #satoshi #bitcoin #bullmarket]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Chico Crypto</name>
         </author>

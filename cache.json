@@ -1,33 +1,6 @@
 {
   "sources": [
     {
-      "title": "链求君",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=B-i68pVKLUk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B-i68pVKLUk",
-          "publishedOn": "2026-03-20T04:48:51.000Z",
-          "wordCount": null,
-          "title": "靠出卖时间赚钱的时代结束了 ! AI + Crypto 是普通人最后一次“降维打击”的机会。Nansen 与 Open Claw 的顶级结合 ！别人恐慌我贪婪，不是运气，是数据 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
-          "publishedOn": "2026-03-16T01:54:44.000Z",
-          "wordCount": null,
-          "title": "Polymarket 上的\"内幕交易\"：我是如何用一个工具，捆绑在聪明钱身上的？｜ TradeFox 实战",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -48,7 +21,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/H3i9DGnMxWQ",
           "publishedOn": "2026-03-20T12:18:21.000Z",
-          "wordCount": 2340,
+          "wordCount": 3043,
           "title": "How do you find the balance between too much and too little in code and process reviews?",
           "imageUrl": null
         },
@@ -58,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/v7Butot2fHY",
           "publishedOn": "2026-03-19T11:52:35.000Z",
-          "wordCount": 2048,
+          "wordCount": 2035,
           "title": "How to get started using Three.js",
           "imageUrl": null
         },
@@ -88,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/VWcCVKaN2vA",
           "publishedOn": "2026-03-18T12:29:43.000Z",
-          "wordCount": 2083,
+          "wordCount": 2052,
           "title": "Learn the basics of LLMs in 60 seconds with Beau Carnes",
           "imageUrl": null
         },
@@ -108,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Fd4XR_EkDHc",
           "publishedOn": "2026-03-17T14:57:07.000Z",
-          "wordCount": 2060,
+          "wordCount": 2073,
           "title": "How JavaScript evolved to be able to handle more complexity, explained by Evan You",
           "imageUrl": null
         },
@@ -118,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/NWONA48L6_w",
           "publishedOn": "2026-03-16T12:17:27.000Z",
-          "wordCount": 2088,
+          "wordCount": 2073,
           "title": "How to use the .rotateY() method in Three.js to make your 3D objects spin",
           "imageUrl": null
         },
@@ -128,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/NCfxtLZQSzA",
           "publishedOn": "2026-03-15T12:43:21.000Z",
-          "wordCount": 2080,
+          "wordCount": 2118,
           "title": "As a freelance dev, treat every email or phone call as if it could become 10 more",
           "imageUrl": null
         },
@@ -138,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zDVWehHdkHE",
           "publishedOn": "2026-03-14T12:32:34.000Z",
-          "wordCount": 2030,
+          "wordCount": 2058,
           "title": "How to use the .position() method in Three.js for perfect object placement",
           "imageUrl": null
         },
@@ -148,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/7yruIW4NvEQ",
           "publishedOn": "2026-03-13T12:18:41.000Z",
-          "wordCount": 2128,
+          "wordCount": 2193,
           "title": "Sometimes you have to re-evaluate decisions you made 5 years (or 5 months!) ago in your codebase",
           "imageUrl": null
         },
@@ -168,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/PiflojewvfU",
           "publishedOn": "2026-03-12T11:52:20.000Z",
-          "wordCount": 2050,
+          "wordCount": 2047,
           "title": "How to use the .add() method in Three.js",
           "imageUrl": null
         },
@@ -178,7 +151,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lnycGFq8JQI",
           "publishedOn": "2026-03-11T12:29:37.000Z",
-          "wordCount": 2079,
+          "wordCount": 2130,
           "title": "Our brains need to relax sometime - so find a way that works for you",
           "imageUrl": null
         }
@@ -211,7 +184,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1LaHyZBNCC8",
           "publishedOn": "2026-03-06T22:43:26.000Z",
-          "wordCount": 2040,
+          "wordCount": 1991,
           "title": "ELON MUSK must answer this QUESTION!!???",
           "imageUrl": null
         },
@@ -221,7 +194,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/se7slstdhlc",
           "publishedOn": "2026-03-04T00:30:41.000Z",
-          "wordCount": 2138,
+          "wordCount": 2118,
           "title": "WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum",
           "imageUrl": null
         },
@@ -251,7 +224,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z8x942lO9Y8",
           "publishedOn": "2026-03-02T21:43:12.000Z",
-          "wordCount": 2062,
+          "wordCount": 2026,
           "title": "Chico Crypto RETURNS!! Is He SATOSHI NAKAMOTO!?",
           "imageUrl": null
         }

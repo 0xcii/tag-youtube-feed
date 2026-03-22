@@ -1,4 +1,128 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "链求君",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=B-i68pVKLUk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B-i68pVKLUk",
+          "publishedOn": "2026-03-20T04:48:51.000Z",
+          "wordCount": null,
+          "title": "靠出卖时间赚钱的时代结束了 ! AI + Crypto 是普通人最后一次“降维打击”的机会。Nansen 与 Open Claw 的顶级结合 ！别人恐慌我贪婪，不是运气，是数据 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
+          "publishedOn": "2026-03-16T01:54:44.000Z",
+          "wordCount": null,
+          "title": "Polymarket 上的\"内幕交易\"：我是如何用一个工具，捆绑在聪明钱身上的？｜ TradeFox 实战",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": []
+    },
+    {
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=q33tqja51I4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q33tqja51I4",
+          "publishedOn": "2026-03-07T10:47:24.000Z",
+          "wordCount": null,
+          "title": "This Is Why the Iran WAR Is Distracting You From the Bitcoin RUN to $500k",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/1LaHyZBNCC8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/1LaHyZBNCC8",
+          "publishedOn": "2026-03-06T22:43:26.000Z",
+          "wordCount": 2019,
+          "title": "ELON MUSK must answer this QUESTION!!???",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/se7slstdhlc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/se7slstdhlc",
+          "publishedOn": "2026-03-04T00:30:41.000Z",
+          "wordCount": 2129,
+          "title": "WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cu641hdrcYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cu641hdrcYE",
+          "publishedOn": "2026-03-03T23:43:18.000Z",
+          "wordCount": null,
+          "title": "Chico Crypto is BACK!! The *SECRET* Coins I've Been BUYING!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RmivubKg-zE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RmivubKg-zE",
+          "publishedOn": "2026-03-03T03:56:42.000Z",
+          "wordCount": null,
+          "title": "Chico Crypto Live Stream",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/z8x942lO9Y8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/z8x942lO9Y8",
+          "publishedOn": "2026-03-02T21:43:12.000Z",
+          "wordCount": 2051,
+          "title": "Chico Crypto RETURNS!! Is He SATOSHI NAKAMOTO!?",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
+          "publishedOn": "2026-03-17T18:00:33.000Z",
+          "wordCount": null,
+          "title": "How to Become a 100x Developer with AI Agents",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }

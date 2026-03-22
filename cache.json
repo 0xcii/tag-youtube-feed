@@ -1,124 +1,158 @@
 {
   "sources": [
     {
-      "title": "链求君",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=B-i68pVKLUk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B-i68pVKLUk",
-          "publishedOn": "2026-03-20T04:48:51.000Z",
-          "wordCount": null,
-          "title": "靠出卖时间赚钱的时代结束了 ! AI + Crypto 是普通人最后一次“降维打击”的机会。Nansen 与 Open Claw 的顶级结合 ！别人恐慌我贪婪，不是运气，是数据 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
-          "publishedOn": "2026-03-16T01:54:44.000Z",
-          "wordCount": null,
-          "title": "Polymarket 上的\"内幕交易\"：我是如何用一个工具，捆绑在聪明钱身上的？｜ TradeFox 实战",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Nader Dabit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
-      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": []
-    },
-    {
-      "title": "Chico Crypto",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
-      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=q33tqja51I4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q33tqja51I4",
-          "publishedOn": "2026-03-07T10:47:24.000Z",
-          "wordCount": null,
-          "title": "This Is Why the Iran WAR Is Distracting You From the Bitcoin RUN to $500k",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1LaHyZBNCC8",
+          "id": "https://www.youtube.com/shorts/xtGThMTO9rI",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/1LaHyZBNCC8",
-          "publishedOn": "2026-03-06T22:43:26.000Z",
-          "wordCount": 2019,
-          "title": "ELON MUSK must answer this QUESTION!!???",
+          "link": "https://www.youtube.com/shorts/xtGThMTO9rI",
+          "publishedOn": "2026-03-21T12:32:21.000Z",
+          "wordCount": 2091,
+          "title": "Learning a new skill in your native language can be so powerful - and Sumit explains why",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/shorts/se7slstdhlc",
+          "id": "https://www.youtube.com/watch?v=uJrh9GHrC38",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uJrh9GHrC38",
+          "publishedOn": "2026-03-20T14:36:33.000Z",
+          "wordCount": null,
+          "title": "The world still needs people who care - CodePen founder Chris Coyier interview [Podcast #212]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/H3i9DGnMxWQ",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/se7slstdhlc",
-          "publishedOn": "2026-03-04T00:30:41.000Z",
-          "wordCount": 2129,
-          "title": "WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum",
+          "link": "https://www.youtube.com/shorts/H3i9DGnMxWQ",
+          "publishedOn": "2026-03-20T12:18:21.000Z",
+          "wordCount": 2087,
+          "title": "How do you find the balance between too much and too little in code and process reviews?",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=cu641hdrcYE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cu641hdrcYE",
-          "publishedOn": "2026-03-03T23:43:18.000Z",
-          "wordCount": null,
-          "title": "Chico Crypto is BACK!! The *SECRET* Coins I've Been BUYING!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RmivubKg-zE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RmivubKg-zE",
-          "publishedOn": "2026-03-03T03:56:42.000Z",
-          "wordCount": null,
-          "title": "Chico Crypto Live Stream",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/z8x942lO9Y8",
+          "id": "https://www.youtube.com/shorts/v7Butot2fHY",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/z8x942lO9Y8",
-          "publishedOn": "2026-03-02T21:43:12.000Z",
-          "wordCount": 2051,
-          "title": "Chico Crypto RETURNS!! Is He SATOSHI NAKAMOTO!?",
+          "link": "https://www.youtube.com/shorts/v7Butot2fHY",
+          "publishedOn": "2026-03-19T11:52:35.000Z",
+          "wordCount": 2048,
+          "title": "How to get started using Three.js",
           "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "EatTheBlocks",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
-      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
-    },
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": [
+        },
         {
-          "id": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
+          "id": "https://www.youtube.com/watch?v=jydYq7oAtD8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
-          "publishedOn": "2026-03-17T18:00:33.000Z",
+          "link": "https://www.youtube.com/watch?v=jydYq7oAtD8",
+          "publishedOn": "2026-03-19T10:01:20.000Z",
           "wordCount": null,
-          "title": "How to Become a 100x Developer with AI Agents",
+          "title": "Software Testing Course – Playwright, E2E, and AI Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BiA08jfr4RU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BiA08jfr4RU",
+          "publishedOn": "2026-03-18T13:26:39.000Z",
+          "wordCount": null,
+          "title": "19 Web Dev Projects – HTML, CSS, JavaScript Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/VWcCVKaN2vA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/VWcCVKaN2vA",
+          "publishedOn": "2026-03-18T12:29:43.000Z",
+          "wordCount": 2212,
+          "title": "Learn the basics of LLMs in 60 seconds with Beau Carnes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WTw6NZDZ5mQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WTw6NZDZ5mQ",
+          "publishedOn": "2026-03-17T16:00:12.000Z",
+          "wordCount": null,
+          "title": "Build an E-Commerce Web App with Paystack, NextJS, Supabase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Fd4XR_EkDHc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Fd4XR_EkDHc",
+          "publishedOn": "2026-03-17T14:57:07.000Z",
+          "wordCount": 2048,
+          "title": "How JavaScript evolved to be able to handle more complexity, explained by Evan You",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/NWONA48L6_w",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/NWONA48L6_w",
+          "publishedOn": "2026-03-16T12:17:27.000Z",
+          "wordCount": 2092,
+          "title": "How to use the .rotateY() method in Three.js to make your 3D objects spin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/NCfxtLZQSzA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/NCfxtLZQSzA",
+          "publishedOn": "2026-03-15T12:43:21.000Z",
+          "wordCount": 2183,
+          "title": "As a freelance dev, treat every email or phone call as if it could become 10 more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zDVWehHdkHE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zDVWehHdkHE",
+          "publishedOn": "2026-03-14T12:32:34.000Z",
+          "wordCount": 2050,
+          "title": "How to use the .position() method in Three.js for perfect object placement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/7yruIW4NvEQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/7yruIW4NvEQ",
+          "publishedOn": "2026-03-13T12:18:41.000Z",
+          "wordCount": 2096,
+          "title": "Sometimes you have to re-evaluate decisions you made 5 years (or 5 months!) ago in your codebase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IRcL5as-RaE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IRcL5as-RaE",
+          "publishedOn": "2026-03-13T10:00:27.000Z",
+          "wordCount": null,
+          "title": "How to Land Freelance Clients with Small Business Whisperer Luke Ciciliano [Podcast #211]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/PiflojewvfU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/PiflojewvfU",
+          "publishedOn": "2026-03-12T11:52:20.000Z",
+          "wordCount": 2380,
+          "title": "How to use the .add() method in Three.js",
           "imageUrl": null
         }
       ]

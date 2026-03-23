@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-23T06:02:14.591Z</id>
+    <id>urn:2026-03-23T07:53:14.358Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-23T06:02:14.591Z</updated>
+    <updated>2026-03-23T07:53:14.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -35,6 +35,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crypto Alert: You Might Not Like This]]></title>
+        <id>https://www.youtube.com/watch?v=q5WGL6N_b90</id>
+        <link href="https://www.youtube.com/watch?v=q5WGL6N_b90"/>
+        <updated>2026-03-20T14:01:19.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How do you find the balance between too much and too little in code and process reviews?]]></title>
         <id>https://www.youtube.com/shorts/H3i9DGnMxWQ</id>
         <link href="https://www.youtube.com/shorts/H3i9DGnMxWQ"/>
@@ -51,6 +60,15 @@
         <updated>2026-03-20T04:48:51.000Z</updated>
         <author>
             <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Hyperliquid (Connect, Deposit, Trade, Withdraw)]]></title>
+        <id>https://www.youtube.com/watch?v=3UIADCP8Wys</id>
+        <link href="https://www.youtube.com/watch?v=3UIADCP8Wys"/>
+        <updated>2026-03-19T14:00:07.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -73,6 +91,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wise Money Transfer Tutorial (How to Transfer Money)]]></title>
+        <id>https://www.youtube.com/watch?v=eIKwM3fwFVE</id>
+        <link href="https://www.youtube.com/watch?v=eIKwM3fwFVE"/>
+        <updated>2026-03-18T14:01:05.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[19 Web Dev Projects – HTML, CSS, JavaScript Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=BiA08jfr4RU</id>
         <link href="https://www.youtube.com/watch?v=BiA08jfr4RU"/>
@@ -92,6 +119,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Become a 100x Developer with AI Agents]]></title>
+        <id>https://www.youtube.com/watch?v=MGvDsFnNWJU</id>
+        <link href="https://www.youtube.com/watch?v=MGvDsFnNWJU"/>
+        <updated>2026-03-17T18:00:33.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Build an E-Commerce Web App with Paystack, NextJS, Supabase]]></title>
         <id>https://www.youtube.com/watch?v=WTw6NZDZ5mQ</id>
         <link href="https://www.youtube.com/watch?v=WTw6NZDZ5mQ"/>
@@ -108,6 +144,24 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Everything Has Totally Changed]]></title>
+        <id>https://www.youtube.com/watch?v=DuJrTGL4efY</id>
+        <link href="https://www.youtube.com/watch?v=DuJrTGL4efY"/>
+        <updated>2026-03-17T14:00:22.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Binance Pay (Send & Receive Crypto)]]></title>
+        <id>https://www.youtube.com/watch?v=ARgTODpM27g</id>
+        <link href="https://www.youtube.com/watch?v=ARgTODpM27g"/>
+        <updated>2026-03-16T14:00:15.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -150,6 +204,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crypto Alert: The Next Few Weeks Are Critical!!]]></title>
+        <id>https://www.youtube.com/watch?v=SxnyUUH2kyI</id>
+        <link href="https://www.youtube.com/watch?v=SxnyUUH2kyI"/>
+        <updated>2026-03-13T14:00:45.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sometimes you have to re-evaluate decisions you made 5 years (or 5 months!) ago in your codebase]]></title>
         <id>https://www.youtube.com/shorts/7yruIW4NvEQ</id>
         <link href="https://www.youtube.com/shorts/7yruIW4NvEQ"/>
@@ -166,6 +229,42 @@
         <updated>2026-03-13T10:00:27.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate Crypto From Old Ledger to New Legder Wallet]]></title>
+        <id>https://www.youtube.com/watch?v=5EoPdrW0_o8</id>
+        <link href="https://www.youtube.com/watch?v=5EoPdrW0_o8"/>
+        <updated>2026-03-12T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolut Currency Exchange Tutorial (How to Swap Currency)]]></title>
+        <id>https://www.youtube.com/watch?v=FJ78ujRrVpE</id>
+        <link href="https://www.youtube.com/watch?v=FJ78ujRrVpE"/>
+        <updated>2026-03-11T14:00:21.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Recovery Starting Now!?]]></title>
+        <id>https://www.youtube.com/watch?v=r8E0UAxK-TQ</id>
+        <link href="https://www.youtube.com/watch?v=r8E0UAxK-TQ"/>
+        <updated>2026-03-10T14:01:27.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TradingView RSI Indicator Tutorial (How to Use RSI)]]></title>
+        <id>https://www.youtube.com/watch?v=z3fbVK5e5Io</id>
+        <link href="https://www.youtube.com/watch?v=z3fbVK5e5Io"/>
+        <updated>2026-03-09T14:01:28.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -188,6 +287,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crypto Alert: Start Doing This Now!!]]></title>
+        <id>https://www.youtube.com/watch?v=lMm6oOfCC9g</id>
+        <link href="https://www.youtube.com/watch?v=lMm6oOfCC9g"/>
+        <updated>2026-03-06T14:01:19.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger Secret Passphrase Setup Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=__xUuSl32MY</id>
+        <link href="https://www.youtube.com/watch?v=__xUuSl32MY"/>
+        <updated>2026-03-05T14:00:56.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Transfer Money in Revolut (Domestic & International)]]></title>
+        <id>https://www.youtube.com/watch?v=9ecLBtpSjb8</id>
+        <link href="https://www.youtube.com/watch?v=9ecLBtpSjb8"/>
+        <updated>2026-03-04T14:00:23.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum]]></title>
         <id>https://www.youtube.com/shorts/se7slstdhlc</id>
         <link href="https://www.youtube.com/shorts/se7slstdhlc"/>
@@ -207,6 +333,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Urgent Crypto Alert: This Changes Everything!!]]></title>
+        <id>https://www.youtube.com/watch?v=LONCqCT-0Ls</id>
+        <link href="https://www.youtube.com/watch?v=LONCqCT-0Ls"/>
+        <updated>2026-03-03T14:00:34.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chico Crypto Live Stream]]></title>
         <id>https://www.youtube.com/watch?v=RmivubKg-zE</id>
         <link href="https://www.youtube.com/watch?v=RmivubKg-zE"/>
@@ -223,6 +358,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Chico Crypto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TradingView Supertrend Indicator!]]></title>
+        <id>https://www.youtube.com/watch?v=ltCKTXt-DXo</id>
+        <link href="https://www.youtube.com/watch?v=ltCKTXt-DXo"/>
+        <updated>2026-03-02T14:01:07.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
 </feed>

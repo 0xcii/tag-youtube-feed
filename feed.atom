@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T11:35:54.344Z</id>
+    <id>urn:2026-03-24T12:39:50.164Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-24T11:35:54.344Z</updated>
+    <updated>2026-03-24T12:39:50.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Have you ever heard of G-Code? Here's a quick explainer of what it is.]]></title>
+        <id>https://www.youtube.com/shorts/CkbIIjplUvs</id>
+        <link href="https://www.youtube.com/shorts/CkbIIjplUvs"/>
+        <updated>2026-03-24T12:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ichimoku Cloud Indicator Tutorial for Beginners (Made EASY)]]></title>
         <id>https://www.youtube.com/watch?v=uRSIsUNv1Yg</id>
@@ -216,16 +226,6 @@
         <id>https://www.youtube.com/shorts/NCfxtLZQSzA</id>
         <link href="https://www.youtube.com/shorts/NCfxtLZQSzA"/>
         <updated>2026-03-15T12:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use the .position() method in Three.js for perfect object placement]]></title>
-        <id>https://www.youtube.com/shorts/zDVWehHdkHE</id>
-        <link href="https://www.youtube.com/shorts/zDVWehHdkHE"/>
-        <updated>2026-03-14T12:32:34.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>

@@ -1,32 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "链求君",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=B-i68pVKLUk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B-i68pVKLUk",
-          "publishedOn": "2026-03-20T04:48:51.000Z",
-          "wordCount": null,
-          "title": "靠出卖时间赚钱的时代结束了 ! AI + Crypto 是普通人最后一次“降维打击”的机会。Nansen 与 Open Claw 的顶级结合 ！别人恐慌我贪婪，不是运气，是数据 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
-          "publishedOn": "2026-03-16T01:54:44.000Z",
-          "wordCount": null,
-          "title": "Polymarket 上的\"内幕交易\"：我是如何用一个工具，捆绑在聪明钱身上的？｜ TradeFox 实战",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }

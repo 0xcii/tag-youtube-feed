@@ -1,43 +1,6 @@
 {
   "sources": [
     {
-      "title": "链求君",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=V-SPKPrCL7M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V-SPKPrCL7M",
-          "publishedOn": "2026-03-31T13:58:29.000Z",
-          "wordCount": null,
-          "title": "谁在预测市场狂赚？揭秘复制高手交易路径，用AI系统完成轻松交易 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B-i68pVKLUk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B-i68pVKLUk",
-          "publishedOn": "2026-03-20T04:48:51.000Z",
-          "wordCount": null,
-          "title": "靠出卖时间赚钱的时代结束了 ! AI + Crypto 是普通人最后一次“降维打击”的机会。Nansen 与 Open Claw 的顶级结合 ！别人恐慌我贪婪，不是运气，是数据 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5KPGK2CIBEU",
-          "publishedOn": "2026-03-16T01:54:44.000Z",
-          "wordCount": null,
-          "title": "Polymarket 上的\"内幕交易\"：我是如何用一个工具，捆绑在聪明钱身上的？｜ TradeFox 实战",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -48,7 +11,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ADAtpF-0gTw",
           "publishedOn": "2026-04-01T12:29:21.000Z",
-          "wordCount": 2040,
+          "wordCount": 2055,
           "title": "Joke of the day: Why do programmers prefer dark mode?",
           "imageUrl": null
         },
@@ -58,7 +21,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5e9J47H9EFE",
           "publishedOn": "2026-03-31T12:05:20.000Z",
-          "wordCount": 2121,
+          "wordCount": 2104,
           "title": "If you can contribute to an open source project and collaborate with others, you can work anywhere",
           "imageUrl": null
         },
@@ -78,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1Z-8HxlLAHk",
           "publishedOn": "2026-03-30T12:17:27.000Z",
-          "wordCount": 2131,
+          "wordCount": 2063,
           "title": "Kids and young people: stay curious and be willing to engage with others",
           "imageUrl": null
         },
@@ -88,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ehkDsePv3W8",
           "publishedOn": "2026-03-29T12:43:24.000Z",
-          "wordCount": 2049,
+          "wordCount": 2112,
           "title": "Here's a cool and easy way to work with colors in your Three.js projects",
           "imageUrl": null
         },
@@ -98,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/uWRdzJTpcpI",
           "publishedOn": "2026-03-28T12:32:40.000Z",
-          "wordCount": 2060,
+          "wordCount": 2068,
           "title": "Do web devs NEED to understand low-level programming concepts? Chris doesn't think so...",
           "imageUrl": null
         },
@@ -108,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/GC5CLCgnvm0",
           "publishedOn": "2026-03-27T12:18:22.000Z",
-          "wordCount": 2069,
+          "wordCount": 2107,
           "title": "When things are new and a little scary, embracing a beginner's mindset can help",
           "imageUrl": null
         },
@@ -128,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/GMytb7LNGOI",
           "publishedOn": "2026-03-26T11:52:29.000Z",
-          "wordCount": 2053,
+          "wordCount": 2072,
           "title": "Learn a bit about camera position in Three.js",
           "imageUrl": null
         },
@@ -148,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/x9oi7CG_i7E",
           "publishedOn": "2026-03-25T12:29:28.000Z",
-          "wordCount": 2056,
+          "wordCount": 2141,
           "title": "A great novel can be written in any language - just like great programs.",
           "imageUrl": null
         },
@@ -168,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/CkbIIjplUvs",
           "publishedOn": "2026-03-24T12:05:23.000Z",
-          "wordCount": 2094,
+          "wordCount": 2059,
           "title": "Have you ever heard of G-Code? Here's a quick explainer of what it is.",
           "imageUrl": null
         },
@@ -178,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/H_3sWUR9v7A",
           "publishedOn": "2026-03-23T12:17:34.000Z",
-          "wordCount": 2376,
+          "wordCount": 2148,
           "title": "LLMs haven't really gotten \"smarter\" - but the tools we use with them have",
           "imageUrl": null
         },
@@ -201,231 +164,10 @@
       "articles": []
     },
     {
-      "title": "Chico Crypto",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
-      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=q33tqja51I4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q33tqja51I4",
-          "publishedOn": "2026-03-07T10:47:24.000Z",
-          "wordCount": null,
-          "title": "This Is Why the Iran WAR Is Distracting You From the Bitcoin RUN to $500k",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1LaHyZBNCC8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/1LaHyZBNCC8",
-          "publishedOn": "2026-03-06T22:43:26.000Z",
-          "wordCount": 2058,
-          "title": "ELON MUSK must answer this QUESTION!!???",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/se7slstdhlc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/se7slstdhlc",
-          "publishedOn": "2026-03-04T00:30:41.000Z",
-          "wordCount": 2165,
-          "title": "WHY I’m going LONG on ETH and BTC (2 week pump) #bitcoin #bullmarket #crypto #ethereum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cu641hdrcYE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cu641hdrcYE",
-          "publishedOn": "2026-03-03T23:43:18.000Z",
-          "wordCount": null,
-          "title": "Chico Crypto is BACK!! The *SECRET* Coins I've Been BUYING!!!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "MoneyZG",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
-      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=6l356EKlY5g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6l356EKlY5g",
-          "publishedOn": "2026-04-01T14:01:11.000Z",
-          "wordCount": null,
-          "title": "Coinbase Tutorial for Beginners 2026!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tA9whmclSMU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tA9whmclSMU",
-          "publishedOn": "2026-03-31T14:01:02.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Panic Setting In?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QPWamo_zkXg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QPWamo_zkXg",
-          "publishedOn": "2026-03-30T14:00:26.000Z",
-          "wordCount": null,
-          "title": "TradingView Stochastic RSI Indicator Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pWji3h-3Igw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pWji3h-3Igw",
-          "publishedOn": "2026-03-27T14:01:05.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Just LOOK At This!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u1vE5cxgrqU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u1vE5cxgrqU",
-          "publishedOn": "2026-03-26T14:01:18.000Z",
-          "wordCount": null,
-          "title": "Kraken Pro Take Profit & Stop Loss Order Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mRlfQH8daeQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mRlfQH8daeQ",
-          "publishedOn": "2026-03-25T14:01:20.000Z",
-          "wordCount": null,
-          "title": "Bybit TradFi Tutorial (Trade Stocks, Gold, etc on Bybit)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3x-awAU8pJg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3x-awAU8pJg",
-          "publishedOn": "2026-03-24T14:00:07.000Z",
-          "wordCount": null,
-          "title": "Crypto Update: Make or Break Right Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uRSIsUNv1Yg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uRSIsUNv1Yg",
-          "publishedOn": "2026-03-23T14:01:30.000Z",
-          "wordCount": null,
-          "title": "Ichimoku Cloud Indicator Tutorial for Beginners (Made EASY)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q5WGL6N_b90",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q5WGL6N_b90",
-          "publishedOn": "2026-03-20T14:01:19.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: You Might Not Like This",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3UIADCP8Wys",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3UIADCP8Wys",
-          "publishedOn": "2026-03-19T14:00:07.000Z",
-          "wordCount": null,
-          "title": "How to Use Hyperliquid (Connect, Deposit, Trade, Withdraw)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eIKwM3fwFVE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eIKwM3fwFVE",
-          "publishedOn": "2026-03-18T14:01:05.000Z",
-          "wordCount": null,
-          "title": "Wise Money Transfer Tutorial (How to Transfer Money)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DuJrTGL4efY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DuJrTGL4efY",
-          "publishedOn": "2026-03-17T14:00:22.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Everything Has Totally Changed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ARgTODpM27g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ARgTODpM27g",
-          "publishedOn": "2026-03-16T14:00:15.000Z",
-          "wordCount": null,
-          "title": "How to Use Binance Pay (Send & Receive Crypto)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SxnyUUH2kyI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SxnyUUH2kyI",
-          "publishedOn": "2026-03-13T14:00:45.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: The Next Few Weeks Are Critical!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5EoPdrW0_o8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5EoPdrW0_o8",
-          "publishedOn": "2026-03-12T14:00:06.000Z",
-          "wordCount": null,
-          "title": "How to Migrate Crypto From Old Ledger to New Legder Wallet",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "EatTheBlocks",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": []
-    },
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
-          "publishedOn": "2026-03-17T18:00:33.000Z",
-          "wordCount": null,
-          "title": "How to Become a 100x Developer with AI Agents",
-          "imageUrl": null
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"

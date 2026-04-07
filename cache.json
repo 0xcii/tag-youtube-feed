@@ -58,7 +58,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pRcITcZ4laM",
           "publishedOn": "2026-04-06T12:17:21.000Z",
-          "wordCount": 2142,
+          "wordCount": 2073,
           "title": "If you want to make social media work for you, focus on building true connections",
           "imageUrl": null
         },
@@ -68,7 +68,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/T8PMKaNP_UA",
           "publishedOn": "2026-04-05T12:43:28.000Z",
-          "wordCount": 2101,
+          "wordCount": 2097,
           "title": "To keep clients: Do what you promise, communicate clearly, listen closely, and show you really care",
           "imageUrl": null
         },
@@ -78,7 +78,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gM2Ra8GpGuU",
           "publishedOn": "2026-04-04T12:32:15.000Z",
-          "wordCount": 2064,
+          "wordCount": 2035,
           "title": "Why was the developer unhappy at their job...?",
           "imageUrl": null
         },
@@ -88,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gLm8i6ryFmA",
           "publishedOn": "2026-04-03T12:18:34.000Z",
-          "wordCount": 2207,
+          "wordCount": 2127,
           "title": "When you're trying to learn a new deep skill, a structured approach is everything.",
           "imageUrl": null
         },
@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/zJHXDuUzFkc",
           "publishedOn": "2026-04-02T20:01:46.000Z",
-          "wordCount": 2058,
+          "wordCount": 2189,
           "title": "The Bad Website Club bootcamp is back - and they're going through fCC's RWD cert",
           "imageUrl": null
         },
@@ -118,7 +118,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Q4reYv2-t4g",
           "publishedOn": "2026-04-02T11:52:24.000Z",
-          "wordCount": 2145,
+          "wordCount": 2082,
           "title": "How streaming works in Next.js, explained with a simple example",
           "imageUrl": null
         },
@@ -138,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ADAtpF-0gTw",
           "publishedOn": "2026-04-01T12:29:21.000Z",
-          "wordCount": 2055,
+          "wordCount": 2057,
           "title": "Joke of the day: Why do programmers prefer dark mode?",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5e9J47H9EFE",
           "publishedOn": "2026-03-31T12:05:20.000Z",
-          "wordCount": 2091,
+          "wordCount": 2122,
           "title": "If you can contribute to an open source project and collaborate with others, you can work anywhere",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1Z-8HxlLAHk",
           "publishedOn": "2026-03-30T12:17:27.000Z",
-          "wordCount": 2082,
+          "wordCount": 2092,
           "title": "Kids and young people: stay curious and be willing to engage with others",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ehkDsePv3W8",
           "publishedOn": "2026-03-29T12:43:24.000Z",
-          "wordCount": 2310,
+          "wordCount": 2200,
           "title": "Here's a cool and easy way to work with colors in your Three.js projects",
           "imageUrl": null
         },
@@ -188,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/uWRdzJTpcpI",
           "publishedOn": "2026-03-28T12:32:40.000Z",
-          "wordCount": 2058,
+          "wordCount": 2078,
           "title": "Do web devs NEED to understand low-level programming concepts? Chris doesn't think so...",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/GC5CLCgnvm0",
           "publishedOn": "2026-03-27T12:18:22.000Z",
-          "wordCount": 2093,
+          "wordCount": 2120,
           "title": "When things are new and a little scary, embracing a beginner's mindset can help",
           "imageUrl": null
         }
@@ -208,12 +208,6 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": []
-    },
-    {
-      "title": "Chico Crypto",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
-      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": []
     },
     {
@@ -369,29 +363,6 @@
           "publishedOn": "2026-03-17T14:00:22.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Everything Has Totally Changed",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "EatTheBlocks",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
-      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
-    },
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
-          "publishedOn": "2026-03-17T18:00:33.000Z",
-          "wordCount": null,
-          "title": "How to Become a 100x Developer with AI Agents",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-08T12:50:36.468Z</id>
+    <id>urn:2026-04-08T14:25:28.939Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-08T12:50:36.468Z</updated>
+    <updated>2026-04-08T14:25:28.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Airwallex Tutorial for Beginners (Setup, Deposit, FX, Withdraw)]]></title>
+        <id>https://www.youtube.com/watch?v=puq7nXoiEgE</id>
+        <link href="https://www.youtube.com/watch?v=puq7nXoiEgE"/>
+        <updated>2026-04-08T14:01:22.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The magic of web dev: continuously and quickly improving your project. No waiting required.]]></title>
         <id>https://www.youtube.com/shorts/Dg5KwM2ndMg</id>
@@ -300,15 +309,6 @@
         <id>https://www.youtube.com/watch?v=3UIADCP8Wys</id>
         <link href="https://www.youtube.com/watch?v=3UIADCP8Wys"/>
         <updated>2026-03-19T14:00:07.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wise Money Transfer Tutorial (How to Transfer Money)]]></title>
-        <id>https://www.youtube.com/watch?v=eIKwM3fwFVE</id>
-        <link href="https://www.youtube.com/watch?v=eIKwM3fwFVE"/>
-        <updated>2026-03-18T14:01:05.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

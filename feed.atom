@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-09T11:42:11.458Z</id>
+    <id>urn:2026-04-09T12:53:14.757Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-09T11:42:11.458Z</updated>
+    <updated>2026-04-09T12:53:14.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Git push -f? Uh huh...]]></title>
+        <id>https://www.youtube.com/shorts/TDUrGO9O_ro</id>
+        <link href="https://www.youtube.com/shorts/TDUrGO9O_ro"/>
+        <updated>2026-04-09T11:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CUDA Programming for NVIDIA H100s – Comprehensive Course]]></title>
         <id>https://www.youtube.com/watch?v=SqQUQHdYWyc</id>
@@ -227,15 +237,6 @@
         <link href="https://www.youtube.com/shorts/5e9J47H9EFE"/>
         <updated>2026-03-31T12:05:20.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Assisted Coding Tutorial – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI]]></title>
-        <id>https://www.youtube.com/watch?v=wlpBCazAY9Q</id>
-        <link href="https://www.youtube.com/watch?v=wlpBCazAY9Q"/>
-        <updated>2026-03-31T10:01:00.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

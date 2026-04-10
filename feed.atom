@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-10T14:07:56.034Z</id>
+    <id>urn:2026-04-10T15:38:05.867Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-10T14:07:56.034Z</updated>
+    <updated>2026-04-10T15:38:05.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Update: Everything Is Working Out!]]></title>
+        <id>https://www.youtube.com/watch?v=LGYcl4hwUOI</id>
+        <link href="https://www.youtube.com/watch?v=LGYcl4hwUOI"/>
+        <updated>2026-04-10T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bangladesh's thriving developer scene is full of beginners who are truly passionate about learning]]></title>
         <id>https://www.youtube.com/shorts/XSxRY1666nA</id>
@@ -308,15 +317,6 @@
         <id>https://www.youtube.com/watch?v=uRSIsUNv1Yg</id>
         <link href="https://www.youtube.com/watch?v=uRSIsUNv1Yg"/>
         <updated>2026-03-23T14:01:30.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: You Might Not Like This]]></title>
-        <id>https://www.youtube.com/watch?v=q5WGL6N_b90</id>
-        <link href="https://www.youtube.com/watch?v=q5WGL6N_b90"/>
-        <updated>2026-03-20T14:01:19.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

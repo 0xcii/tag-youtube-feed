@@ -1,32 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=wbTofK6WwtQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wbTofK6WwtQ",
-          "publishedOn": "2026-04-09T19:30:17.000Z",
-          "wordCount": null,
-          "title": "Claude Code Tutorial for Beginners (2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MGvDsFnNWJU",
-          "publishedOn": "2026-03-17T18:00:33.000Z",
-          "wordCount": null,
-          "title": "How to Become a 100x Developer with AI Agents",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }

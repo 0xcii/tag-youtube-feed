@@ -88,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xGW-g1KIU9M",
           "publishedOn": "2026-04-17T12:18:39.000Z",
-          "wordCount": 2132,
+          "wordCount": 2106,
           "title": "If you're job hunting, build software that removes friction from your own work",
           "imageUrl": null
         },
@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-S4uCYU47LA",
           "publishedOn": "2026-04-16T11:52:22.000Z",
-          "wordCount": 2049,
+          "wordCount": 2028,
           "title": "Joke of the day. Do you get it?",
           "imageUrl": null
         },
@@ -128,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/A84bznMx89A",
           "publishedOn": "2026-04-15T12:29:23.000Z",
-          "wordCount": 2045,
+          "wordCount": 2064,
           "title": "Why repeat business is so important for freelancers",
           "imageUrl": null
         },
@@ -138,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6gKAC9cWNZQ",
           "publishedOn": "2026-04-14T12:05:39.000Z",
-          "wordCount": 2116,
+          "wordCount": 2107,
           "title": "When it comes to vibe coding, Chris asks: is it for a program or a product?",
           "imageUrl": null
         },
@@ -158,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-jTrzdO-6i4",
           "publishedOn": "2026-04-13T12:17:26.000Z",
-          "wordCount": 2146,
+          "wordCount": 2215,
           "title": "Recursion is a key concept in coding. Gavin explains it simply here.",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8tkXb5Wj4s0",
           "publishedOn": "2026-04-12T12:43:56.000Z",
-          "wordCount": 2088,
+          "wordCount": 2098,
           "title": "\"Oh, so this is what people mean by 'focus'!\"",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/hmA8gOvH4AY",
           "publishedOn": "2026-04-11T12:32:21.000Z",
-          "wordCount": 2083,
+          "wordCount": 2054,
           "title": "What has learning to code taught you...?",
           "imageUrl": null
         },
@@ -188,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XSxRY1666nA",
           "publishedOn": "2026-04-10T12:18:28.000Z",
-          "wordCount": 2108,
+          "wordCount": 2105,
           "title": "Bangladesh's thriving developer scene is full of beginners who are truly passionate about learning",
           "imageUrl": null
         },
@@ -208,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/TDUrGO9O_ro",
           "publishedOn": "2026-04-09T11:52:20.000Z",
-          "wordCount": 2021,
+          "wordCount": 2085,
           "title": "Git push -f? Uh huh...",
           "imageUrl": null
         },
@@ -228,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Dg5KwM2ndMg",
           "publishedOn": "2026-04-08T12:29:25.000Z",
-          "wordCount": 2082,
+          "wordCount": 2253,
           "title": "The magic of web dev: continuously and quickly improving your project. No waiting required.",
           "imageUrl": null
         }
@@ -251,6 +251,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Jg1yhVVeUCY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jg1yhVVeUCY",
+          "publishedOn": "2026-04-17T14:00:28.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Good Risk Reward Ratio Here!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wnV6FMOyvbo",
           "author": null,
@@ -389,16 +399,6 @@
           "publishedOn": "2026-03-30T14:00:26.000Z",
           "wordCount": null,
           "title": "TradingView Stochastic RSI Indicator Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pWji3h-3Igw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pWji3h-3Igw",
-          "publishedOn": "2026-03-27T14:01:05.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Just LOOK At This!!",
           "imageUrl": null
         }
       ]

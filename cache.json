@@ -78,7 +78,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6XORL8Bsm9w",
           "publishedOn": "2026-04-20T12:17:24.000Z",
-          "wordCount": 2073,
+          "wordCount": 2020,
           "title": "Here's a little Monday Motivation for you.",
           "imageUrl": null
         },
@@ -88,7 +88,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/F-d5DyFo3Cg",
           "publishedOn": "2026-04-19T12:43:30.000Z",
-          "wordCount": 2073,
+          "wordCount": 2185,
           "title": "What motivates people to keep contributing to open source projects?",
           "imageUrl": null
         },
@@ -98,7 +98,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/04LPpj7lQlA",
           "publishedOn": "2026-04-18T12:32:26.000Z",
-          "wordCount": 2132,
+          "wordCount": 2130,
           "title": "Software itself has no value. It's the solutions that are valuable, and that will sell.",
           "imageUrl": null
         },
@@ -108,7 +108,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xGW-g1KIU9M",
           "publishedOn": "2026-04-17T12:18:39.000Z",
-          "wordCount": 2386,
+          "wordCount": 2110,
           "title": "If you're job hunting, build software that removes friction from your own work",
           "imageUrl": null
         },
@@ -128,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-S4uCYU47LA",
           "publishedOn": "2026-04-16T11:52:22.000Z",
-          "wordCount": 2090,
+          "wordCount": 2185,
           "title": "Joke of the day. Do you get it?",
           "imageUrl": null
         },
@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/A84bznMx89A",
           "publishedOn": "2026-04-15T12:29:23.000Z",
-          "wordCount": 2087,
+          "wordCount": 2058,
           "title": "Why repeat business is so important for freelancers",
           "imageUrl": null
         },
@@ -158,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6gKAC9cWNZQ",
           "publishedOn": "2026-04-14T12:05:39.000Z",
-          "wordCount": 2153,
+          "wordCount": 2135,
           "title": "When it comes to vibe coding, Chris asks: is it for a program or a product?",
           "imageUrl": null
         },
@@ -169,7 +169,7 @@
           "link": "https://www.youtube.com/watch?v=u-Jl7bzab8A",
           "publishedOn": "2026-04-14T10:01:34.000Z",
           "wordCount": null,
-          "title": "OpenAI Codex Essentials – AI Assisted Agentic Development Course",
+          "title": "Codex Essentials – AI Assisted Agentic Development Course",
           "imageUrl": null
         },
         {
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-jTrzdO-6i4",
           "publishedOn": "2026-04-13T12:17:26.000Z",
-          "wordCount": 2084,
+          "wordCount": 2099,
           "title": "Recursion is a key concept in coding. Gavin explains it simply here.",
           "imageUrl": null
         },
@@ -188,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8tkXb5Wj4s0",
           "publishedOn": "2026-04-12T12:43:56.000Z",
-          "wordCount": 2108,
+          "wordCount": 2146,
           "title": "\"Oh, so this is what people mean by 'focus'!\"",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/hmA8gOvH4AY",
           "publishedOn": "2026-04-11T12:32:21.000Z",
-          "wordCount": 2033,
+          "wordCount": 2028,
           "title": "What has learning to code taught you...?",
           "imageUrl": null
         },
@@ -208,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XSxRY1666nA",
           "publishedOn": "2026-04-10T12:18:28.000Z",
-          "wordCount": 2123,
+          "wordCount": 2344,
           "title": "Bangladesh's thriving developer scene is full of beginners who are truly passionate about learning",
           "imageUrl": null
         },
@@ -241,6 +241,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=I3Xq9PzXnM8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I3Xq9PzXnM8",
+          "publishedOn": "2026-04-20T14:00:26.000Z",
+          "wordCount": null,
+          "title": "How to Place Trades Directly on TradingView (Connect Brokerage)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Jg1yhVVeUCY",
           "author": null,
@@ -379,16 +389,6 @@
           "publishedOn": "2026-03-31T14:01:02.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Panic Setting In?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QPWamo_zkXg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QPWamo_zkXg",
-          "publishedOn": "2026-03-30T14:00:26.000Z",
-          "wordCount": null,
-          "title": "TradingView Stochastic RSI Indicator Tutorial for Beginners",
           "imageUrl": null
         }
       ]

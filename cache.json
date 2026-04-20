@@ -1,73 +1,6 @@
 {
   "sources": [
     {
-      "title": "链求君",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=t3kOvjpIskc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t3kOvjpIskc",
-          "publishedOn": "2026-04-17T04:48:03.000Z",
-          "wordCount": null,
-          "title": "别买贵价账号了！用 GamsGo 订阅 Claude：不封号、不限流、每月仅需 $5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pCunnOzbR0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pCunnOzbR0Y",
-          "publishedOn": "2026-04-16T02:26:16.000Z",
-          "wordCount": null,
-          "title": "Hermes Agent 安装简易教程 ｜ 跟单交易被禁后，我的账户反而翻了 3 倍？全靠这个“AI 爱马仕”代理 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=77aRiEWRMNk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=77aRiEWRMNk",
-          "publishedOn": "2026-04-14T07:15:53.000Z",
-          "wordCount": null,
-          "title": "打造AI交易员实战：Open Claw玩转Polymarket，龙虾交易如何“秒杀人工”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CEICNShgYwY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CEICNShgYwY",
-          "publishedOn": "2026-04-09T07:06:51.000Z",
-          "wordCount": null,
-          "title": "别被K型经济抛弃！20种AI自动化赚钱法，教你用科技杠杆撬动财富",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PAkwptGhQuo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PAkwptGhQuo",
-          "publishedOn": "2026-04-04T02:44:13.000Z",
-          "wordCount": null,
-          "title": "Claude 4.6 无限用？0封号高稳定｜小白也能丝滑上手（含加密货币支付）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V-SPKPrCL7M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V-SPKPrCL7M",
-          "publishedOn": "2026-03-31T13:58:29.000Z",
-          "wordCount": null,
-          "title": "谁在预测市场狂赚？揭秘复制高手交易路径，用AI系统完成轻松交易 ！",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -78,7 +11,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6XORL8Bsm9w",
           "publishedOn": "2026-04-20T12:17:24.000Z",
-          "wordCount": 2061,
+          "wordCount": 2098,
           "title": "Here's a little Monday Motivation for you.",
           "imageUrl": null
         },
@@ -88,7 +21,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/F-d5DyFo3Cg",
           "publishedOn": "2026-04-19T12:43:30.000Z",
-          "wordCount": 2178,
+          "wordCount": 2070,
           "title": "What motivates people to keep contributing to open source projects?",
           "imageUrl": null
         },
@@ -98,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/04LPpj7lQlA",
           "publishedOn": "2026-04-18T12:32:26.000Z",
-          "wordCount": 2170,
+          "wordCount": 2126,
           "title": "Software itself has no value. It's the solutions that are valuable, and that will sell.",
           "imageUrl": null
         },
@@ -108,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xGW-g1KIU9M",
           "publishedOn": "2026-04-17T12:18:39.000Z",
-          "wordCount": 2452,
+          "wordCount": 2204,
           "title": "If you're job hunting, build software that removes friction from your own work",
           "imageUrl": null
         },
@@ -128,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-S4uCYU47LA",
           "publishedOn": "2026-04-16T11:52:22.000Z",
-          "wordCount": 2126,
+          "wordCount": 2080,
           "title": "Joke of the day. Do you get it?",
           "imageUrl": null
         },
@@ -148,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/A84bznMx89A",
           "publishedOn": "2026-04-15T12:29:23.000Z",
-          "wordCount": 2052,
+          "wordCount": 2035,
           "title": "Why repeat business is so important for freelancers",
           "imageUrl": null
         },
@@ -158,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6gKAC9cWNZQ",
           "publishedOn": "2026-04-14T12:05:39.000Z",
-          "wordCount": 2118,
+          "wordCount": 2178,
           "title": "When it comes to vibe coding, Chris asks: is it for a program or a product?",
           "imageUrl": null
         },
@@ -178,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/-jTrzdO-6i4",
           "publishedOn": "2026-04-13T12:17:26.000Z",
-          "wordCount": 2406,
+          "wordCount": 2153,
           "title": "Recursion is a key concept in coding. Gavin explains it simply here.",
           "imageUrl": null
         },
@@ -188,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8tkXb5Wj4s0",
           "publishedOn": "2026-04-12T12:43:56.000Z",
-          "wordCount": 2457,
+          "wordCount": 2119,
           "title": "\"Oh, so this is what people mean by 'focus'!\"",
           "imageUrl": null
         },
@@ -198,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/hmA8gOvH4AY",
           "publishedOn": "2026-04-11T12:32:21.000Z",
-          "wordCount": 2388,
+          "wordCount": 2028,
           "title": "What has learning to code taught you...?",
           "imageUrl": null
         },
@@ -208,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XSxRY1666nA",
           "publishedOn": "2026-04-10T12:18:28.000Z",
-          "wordCount": 2440,
+          "wordCount": 2262,
           "title": "Bangladesh's thriving developer scene is full of beginners who are truly passionate about learning",
           "imageUrl": null
         },
@@ -389,29 +322,6 @@
           "publishedOn": "2026-03-31T14:01:02.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Panic Setting In?",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "EatTheBlocks",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
-      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
-    },
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=wbTofK6WwtQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wbTofK6WwtQ",
-          "publishedOn": "2026-04-09T19:30:17.000Z",
-          "wordCount": null,
-          "title": "Claude Code Tutorial for Beginners (2026)",
           "imageUrl": null
         }
       ]

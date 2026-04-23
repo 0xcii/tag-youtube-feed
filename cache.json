@@ -1,27 +1,10 @@
 {
   "sources": [
     {
-      "title": "EatTheBlocks",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
-      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
       "articles": []
-    },
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=wbTofK6WwtQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wbTofK6WwtQ",
-          "publishedOn": "2026-04-09T19:30:17.000Z",
-          "wordCount": null,
-          "title": "Claude Code Tutorial for Beginners (2026)",
-          "imageUrl": null
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-24T11:50:21.807Z</id>
+    <id>urn:2026-04-24T12:52:47.073Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-24T11:50:21.807Z</updated>
+    <updated>2026-04-24T12:52:47.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How does an API work? Ania explains it simply here.]]></title>
+        <id>https://www.youtube.com/shorts/SuJOQ_WeGEA</id>
+        <link href="https://www.youtube.com/shorts/SuJOQ_WeGEA"/>
+        <updated>2026-04-24T12:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blofin Trading Bots Tutorial for Beginners (Crypto DCA and Grid Bots)]]></title>
         <id>https://www.youtube.com/watch?v=aqwKql7nb5o</id>
@@ -237,16 +247,6 @@
         <updated>2026-04-14T14:00:13.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When it comes to vibe coding, Chris asks: is it for a program or a product?]]></title>
-        <id>https://www.youtube.com/shorts/6gKAC9cWNZQ</id>
-        <link href="https://www.youtube.com/shorts/6gKAC9cWNZQ"/>
-        <updated>2026-04-14T12:05:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

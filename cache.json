@@ -1,93 +1,6 @@
 {
   "sources": [
     {
-      "title": "链求君",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=-lQn9fkYTPo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-lQn9fkYTPo",
-          "publishedOn": "2026-04-26T01:14:06.000Z",
-          "wordCount": null,
-          "title": "牛回？ 速归 ！ 3 天 200 倍， 链上资金让以太坊再次伟大？ USDT 链上供应链创历史新高 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QTFcGqe-qhI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QTFcGqe-qhI",
-          "publishedOn": "2026-04-21T03:35:09.000Z",
-          "wordCount": null,
-          "title": "【0 系统实践】Web3超级个体系统构建实战 ！独自完成过去需要一个团队才能完成的事。2026年 \"超级个体\"真正的机会窗口 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t3kOvjpIskc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t3kOvjpIskc",
-          "publishedOn": "2026-04-17T04:48:03.000Z",
-          "wordCount": null,
-          "title": "别买贵价账号了！用 GamsGo 订阅 Claude：不封号、不限流、每月仅需 $5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pCunnOzbR0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pCunnOzbR0Y",
-          "publishedOn": "2026-04-16T02:26:16.000Z",
-          "wordCount": null,
-          "title": "Hermes Agent 安装简易教程 ｜ 跟单交易被禁后，我的账户反而翻了 3 倍？全靠这个“AI 爱马仕”代理 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=77aRiEWRMNk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=77aRiEWRMNk",
-          "publishedOn": "2026-04-14T07:15:53.000Z",
-          "wordCount": null,
-          "title": "打造AI交易员实战：Open Claw玩转Polymarket，龙虾交易如何“秒杀人工”？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CEICNShgYwY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CEICNShgYwY",
-          "publishedOn": "2026-04-09T07:06:51.000Z",
-          "wordCount": null,
-          "title": "别被K型经济抛弃！20种AI自动化赚钱法，教你用科技杠杆撬动财富",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PAkwptGhQuo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PAkwptGhQuo",
-          "publishedOn": "2026-04-04T02:44:13.000Z",
-          "wordCount": null,
-          "title": "Claude 4.6 无限用？0封号高稳定｜小白也能丝滑上手（含加密货币支付）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V-SPKPrCL7M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V-SPKPrCL7M",
-          "publishedOn": "2026-03-31T13:58:29.000Z",
-          "wordCount": null,
-          "title": "谁在预测市场狂赚？揭秘复制高手交易路径，用AI系统完成轻松交易 ！",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -98,7 +11,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/38-3cShsQBc",
           "publishedOn": "2026-04-27T12:17:33.000Z",
-          "wordCount": 2306,
+          "wordCount": 2104,
           "title": "We all know AI can be...divisive. Justin lays out a key reason why in his chat with Quincy.",
           "imageUrl": null
         },
@@ -108,7 +21,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/OnLdZrMcgGU",
           "publishedOn": "2026-04-26T12:43:12.000Z",
-          "wordCount": 2053,
+          "wordCount": 2078,
           "title": "Ah, the age-old question. Who can relate?",
           "imageUrl": null
         },
@@ -118,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/udA06kmorT0",
           "publishedOn": "2026-04-25T12:32:23.000Z",
-          "wordCount": 2420,
+          "wordCount": 2370,
           "title": "Test-driven development is helpful, but it misses the mark in certain key areas",
           "imageUrl": null
         },
@@ -138,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/SuJOQ_WeGEA",
           "publishedOn": "2026-04-24T12:18:31.000Z",
-          "wordCount": 2220,
+          "wordCount": 2067,
           "title": "How does an API work? Ania explains it simply here.",
           "imageUrl": null
         },
@@ -158,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8wGw-7yHPl0",
           "publishedOn": "2026-04-23T11:52:23.000Z",
-          "wordCount": 2072,
+          "wordCount": 2149,
           "title": "If you're a junior developer, Swyx explains how you need to step up",
           "imageUrl": null
         },
@@ -168,7 +81,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/KaKcLgj5GCc",
           "publishedOn": "2026-04-22T12:29:27.000Z",
-          "wordCount": 2238,
+          "wordCount": 2476,
           "title": "Tired of switching between C# for the back end and JS for the front end?",
           "imageUrl": null
         },
@@ -188,7 +101,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8j6C-3FooN8",
           "publishedOn": "2026-04-21T12:05:23.000Z",
-          "wordCount": 2112,
+          "wordCount": 2455,
           "title": "In learning, information often isn't the issue. It's knowing what's useful, and what feels wrong.",
           "imageUrl": null
         },
@@ -208,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6XORL8Bsm9w",
           "publishedOn": "2026-04-20T12:17:24.000Z",
-          "wordCount": 2097,
+          "wordCount": 2378,
           "title": "Here's a little Monday Motivation for you.",
           "imageUrl": null
         },
@@ -218,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/F-d5DyFo3Cg",
           "publishedOn": "2026-04-19T12:43:30.000Z",
-          "wordCount": 2090,
+          "wordCount": 2176,
           "title": "What motivates people to keep contributing to open source projects?",
           "imageUrl": null
         },
@@ -228,7 +141,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/04LPpj7lQlA",
           "publishedOn": "2026-04-18T12:32:26.000Z",
-          "wordCount": 2237,
+          "wordCount": 2457,
           "title": "Software itself has no value. It's the solutions that are valuable, and that will sell.",
           "imageUrl": null
         },
@@ -238,7 +151,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/xGW-g1KIU9M",
           "publishedOn": "2026-04-17T12:18:39.000Z",
-          "wordCount": 2329,
+          "wordCount": 2093,
           "title": "If you're job hunting, build software that removes friction from your own work",
           "imageUrl": null
         }
@@ -248,175 +161,6 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": []
-    },
-    {
-      "title": "Chico Crypto",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
-      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
-      "articles": []
-    },
-    {
-      "title": "MoneyZG",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
-      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=a-YiGGja8e8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a-YiGGja8e8",
-          "publishedOn": "2026-04-27T14:00:00.000Z",
-          "wordCount": null,
-          "title": "OKX Futures Trading Tutorial for Beginners (2026 Full Walkthrough)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_FFlnIBuPSs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_FFlnIBuPSs",
-          "publishedOn": "2026-04-24T14:01:04.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Nobody Realises This!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aqwKql7nb5o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aqwKql7nb5o",
-          "publishedOn": "2026-04-23T14:00:04.000Z",
-          "wordCount": null,
-          "title": "Blofin Trading Bots Tutorial for Beginners (Crypto DCA and Grid Bots)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5J0LRX-Ptag",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5J0LRX-Ptag",
-          "publishedOn": "2026-04-22T14:00:14.000Z",
-          "wordCount": null,
-          "title": "How to Sell Crypto & Withdraw Money from Binance App to Bank",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Mwog65OMmLI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Mwog65OMmLI",
-          "publishedOn": "2026-04-21T14:00:41.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Very Very Good!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I3Xq9PzXnM8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I3Xq9PzXnM8",
-          "publishedOn": "2026-04-20T14:00:26.000Z",
-          "wordCount": null,
-          "title": "How to Place Trades Directly on TradingView (Connect Brokerage)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jg1yhVVeUCY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jg1yhVVeUCY",
-          "publishedOn": "2026-04-17T14:00:28.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Good Risk Reward Ratio Here!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wnV6FMOyvbo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wnV6FMOyvbo",
-          "publishedOn": "2026-04-16T14:01:23.000Z",
-          "wordCount": null,
-          "title": "Phemex Trading Bots Tutorial for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OHEGryAkdBM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OHEGryAkdBM",
-          "publishedOn": "2026-04-15T14:00:48.000Z",
-          "wordCount": null,
-          "title": "How to Use Blofin for Beginners in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=31jOXuLc8Dk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=31jOXuLc8Dk",
-          "publishedOn": "2026-04-14T14:00:13.000Z",
-          "wordCount": null,
-          "title": "CRYPTO ALERT: HERE IT COMES!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wwAuAE_EgGA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wwAuAE_EgGA",
-          "publishedOn": "2026-04-13T14:01:32.000Z",
-          "wordCount": null,
-          "title": "TradingView RS Line Indicator Tutorial (How to Use RS Line Indicator)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LGYcl4hwUOI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LGYcl4hwUOI",
-          "publishedOn": "2026-04-10T14:00:30.000Z",
-          "wordCount": null,
-          "title": "Crypto Update: Everything Is Working Out!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Vnay8KDC4ws",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Vnay8KDC4ws",
-          "publishedOn": "2026-04-09T14:00:52.000Z",
-          "wordCount": null,
-          "title": "How to Buy S&P 500 Funds for Beginners in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=puq7nXoiEgE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=puq7nXoiEgE",
-          "publishedOn": "2026-04-08T14:01:22.000Z",
-          "wordCount": null,
-          "title": "Airwallex Tutorial for Beginners (Setup, Deposit, FX, Withdraw)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=icJbUznZ6XI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=icJbUznZ6XI",
-          "publishedOn": "2026-04-07T14:01:15.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Urgent Update!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "EatTheBlocks",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
-      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
       "articles": []
     },
     {

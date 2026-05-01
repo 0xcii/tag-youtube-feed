@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-01T13:00:42.269Z</id>
+    <id>urn:2026-05-01T14:43:47.289Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-01T13:00:42.269Z</updated>
+    <updated>2026-05-01T14:43:47.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Acute Problems!]]></title>
+        <id>https://www.youtube.com/watch?v=hNbEHaBuANk</id>
+        <link href="https://www.youtube.com/watch?v=hNbEHaBuANk"/>
+        <updated>2026-05-01T14:01:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting code to do what you want it to do is only a small fraction of the job]]></title>
         <id>https://www.youtube.com/shorts/4nQt1FHaoqg</id>
@@ -344,15 +353,6 @@
         <id>https://www.youtube.com/watch?v=wwAuAE_EgGA</id>
         <link href="https://www.youtube.com/watch?v=wwAuAE_EgGA"/>
         <updated>2026-04-13T14:01:32.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Update: Everything Is Working Out!]]></title>
-        <id>https://www.youtube.com/watch?v=LGYcl4hwUOI</id>
-        <link href="https://www.youtube.com/watch?v=LGYcl4hwUOI"/>
-        <updated>2026-04-10T14:00:30.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

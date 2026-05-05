@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-05T11:07:25.277Z</id>
+    <id>urn:2026-05-05T13:03:43.526Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-05T11:07:25.277Z</updated>
+    <updated>2026-05-05T13:03:43.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Become the best at what you love doing. That'll get employers to notice you.]]></title>
+        <id>https://www.youtube.com/shorts/9liqUfS69co</id>
+        <link href="https://www.youtube.com/shorts/9liqUfS69co"/>
+        <updated>2026-05-05T12:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Event Loop & Asynchronous Programming]]></title>
         <id>https://www.youtube.com/watch?v=jzOy07fw2vY</id>
@@ -274,15 +284,6 @@
         <updated>2026-04-24T14:01:04.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini CLI Essentials – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=XKOR4h3CrwE</id>
-        <link href="https://www.youtube.com/watch?v=XKOR4h3CrwE"/>
-        <updated>2026-04-24T13:47:49.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

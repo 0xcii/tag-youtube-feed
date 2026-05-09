@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=D0--wj2W9d0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D0--wj2W9d0",
+          "publishedOn": "2026-05-09T09:02:02.000Z",
+          "wordCount": null,
+          "title": "2026 年超级牛市如何上桌吃肉？ 揭秘所有牛市都有的1个特点！！这次也一样 ！隐私抗审查的 Venice AI ，随便创建小姐姐 ！",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=x0EfBcRQfXI",
           "author": null,
           "description": "",
@@ -144,16 +154,6 @@
           "wordCount": null,
           "title": "Hermes Agent 安装简易教程 ｜ 跟单交易被禁后，我的账户反而翻了 3 倍？全靠这个“AI 爱马仕”代理 ！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=77aRiEWRMNk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=77aRiEWRMNk",
-          "publishedOn": "2026-04-14T07:15:53.000Z",
-          "wordCount": null,
-          "title": "打造AI交易员实战：Open Claw玩转Polymarket，龙虾交易如何“秒杀人工”？",
-          "imageUrl": null
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wDLdDaGR8S4",
           "publishedOn": "2026-05-08T12:18:26.000Z",
-          "wordCount": 2113,
+          "wordCount": 2138,
           "title": "Learning \"just in time\" is a lot easier than it used to be. Swyx talks about why.",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oGO7IKO8HNE",
           "publishedOn": "2026-05-07T11:52:36.000Z",
-          "wordCount": 2109,
+          "wordCount": 2137,
           "title": "Spatial computing might seem like something from the future, but it's not really...",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ooYKMPlIlwQ",
           "publishedOn": "2026-05-06T12:29:26.000Z",
-          "wordCount": 2102,
+          "wordCount": 2191,
           "title": "So what's CodePen 2.0? Why is it better? Chris Coyier tells you all about it.",
           "imageUrl": null
         },
@@ -228,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r8k4VI8XZ_k",
           "publishedOn": "2026-05-04T12:17:29.000Z",
-          "wordCount": 2073,
+          "wordCount": 2082,
           "title": "YouTube was almost a very different site...",
           "imageUrl": null
         },
@@ -238,7 +238,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/WKdFAS78sgU",
           "publishedOn": "2026-05-03T12:43:26.000Z",
-          "wordCount": 2280,
+          "wordCount": 2137,
           "title": "Quick tip from Homebrew project leader Mike McQuaid: downtime is important. Simple, right?",
           "imageUrl": null
         },
@@ -248,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/WFxh3ybr-Pc",
           "publishedOn": "2026-05-02T12:32:20.000Z",
-          "wordCount": 2087,
+          "wordCount": 2248,
           "title": "Avoid shortcuts, be honest about where you are, and learn for yourself.",
           "imageUrl": null
         },
@@ -258,7 +258,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/4nQt1FHaoqg",
           "publishedOn": "2026-05-01T12:18:21.000Z",
-          "wordCount": 2134,
+          "wordCount": 2127,
           "title": "Getting code to do what you want it to do is only a small fraction of the job",
           "imageUrl": null
         },
@@ -278,7 +278,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ox-uvxRQXf4",
           "publishedOn": "2026-04-30T11:52:14.000Z",
-          "wordCount": 2113,
+          "wordCount": 2088,
           "title": "What is Agentic AI and how does it work? Ania explains here.",
           "imageUrl": null
         },
@@ -288,7 +288,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yG-bGpD38Rw",
           "publishedOn": "2026-04-29T12:29:23.000Z",
-          "wordCount": 2126,
+          "wordCount": 2152,
           "title": "If you suddenly lost all your programming knowledge, what should you focus on learning today?",
           "imageUrl": null
         },
@@ -493,18 +493,7 @@
       "title": "Dapp University",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
       "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=wbTofK6WwtQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wbTofK6WwtQ",
-          "publishedOn": "2026-04-09T19:30:17.000Z",
-          "wordCount": null,
-          "title": "Claude Code Tutorial for Beginners (2026)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

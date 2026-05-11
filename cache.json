@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Lkyr4k0qmF4",
           "publishedOn": "2026-05-10T12:43:14.000Z",
-          "wordCount": 2639,
+          "wordCount": 2084,
           "title": "Why big apps choose web over native",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UH2XXGPh0N0",
           "publishedOn": "2026-05-09T12:32:50.000Z",
-          "wordCount": 2066,
+          "wordCount": 2081,
           "title": "Apple's first logo was...complicated",
           "imageUrl": null
         },
@@ -188,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wDLdDaGR8S4",
           "publishedOn": "2026-05-08T12:18:26.000Z",
-          "wordCount": 2488,
+          "wordCount": 2128,
           "title": "Learning \"just in time\" is a lot easier than it used to be. Swyx talks about why.",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oGO7IKO8HNE",
           "publishedOn": "2026-05-07T11:52:36.000Z",
-          "wordCount": 2203,
+          "wordCount": 2104,
           "title": "Spatial computing might seem like something from the future, but it's not really...",
           "imageUrl": null
         },
@@ -218,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ooYKMPlIlwQ",
           "publishedOn": "2026-05-06T12:29:26.000Z",
-          "wordCount": 2119,
+          "wordCount": 2113,
           "title": "So what's CodePen 2.0? Why is it better? Chris Coyier tells you all about it.",
           "imageUrl": null
         },
@@ -228,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9liqUfS69co",
           "publishedOn": "2026-05-05T12:05:31.000Z",
-          "wordCount": 2098,
+          "wordCount": 2082,
           "title": "Become the best at what you love doing. That'll get employers to notice you.",
           "imageUrl": null
         },
@@ -248,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r8k4VI8XZ_k",
           "publishedOn": "2026-05-04T12:17:29.000Z",
-          "wordCount": 2077,
+          "wordCount": 2057,
           "title": "YouTube was almost a very different site...",
           "imageUrl": null
         },
@@ -258,7 +258,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/WKdFAS78sgU",
           "publishedOn": "2026-05-03T12:43:26.000Z",
-          "wordCount": 2474,
+          "wordCount": 2131,
           "title": "Quick tip from Homebrew project leader Mike McQuaid: downtime is important. Simple, right?",
           "imageUrl": null
         },
@@ -268,7 +268,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/WFxh3ybr-Pc",
           "publishedOn": "2026-05-02T12:32:20.000Z",
-          "wordCount": 2113,
+          "wordCount": 2241,
           "title": "Avoid shortcuts, be honest about where you are, and learn for yourself.",
           "imageUrl": null
         },
@@ -278,7 +278,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/4nQt1FHaoqg",
           "publishedOn": "2026-05-01T12:18:21.000Z",
-          "wordCount": 2149,
+          "wordCount": 2186,
           "title": "Getting code to do what you want it to do is only a small fraction of the job",
           "imageUrl": null
         },
@@ -298,7 +298,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ox-uvxRQXf4",
           "publishedOn": "2026-04-30T11:52:14.000Z",
-          "wordCount": 2439,
+          "wordCount": 2096,
           "title": "What is Agentic AI and how does it work? Ania explains here.",
           "imageUrl": null
         },
@@ -308,7 +308,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/yG-bGpD38Rw",
           "publishedOn": "2026-04-29T12:29:23.000Z",
-          "wordCount": 2188,
+          "wordCount": 2233,
           "title": "If you suddenly lost all your programming knowledge, what should you focus on learning today?",
           "imageUrl": null
         }
@@ -327,172 +327,9 @@
       "articles": []
     },
     {
-      "title": "MoneyZG",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
-      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=uv2mrSwRUKs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uv2mrSwRUKs",
-          "publishedOn": "2026-05-08T14:01:40.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Bear Market Finished",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4Kw7oLEooQw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4Kw7oLEooQw",
-          "publishedOn": "2026-05-06T14:00:06.000Z",
-          "wordCount": null,
-          "title": "TradingView MACD Indicator Tutorial (MACD Trading Strategy)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X4Z1m9-psJQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X4Z1m9-psJQ",
-          "publishedOn": "2026-05-05T14:00:54.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Bitcoin Starting To Bubble Up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tbAO7_V4-Jo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tbAO7_V4-Jo",
-          "publishedOn": "2026-05-04T14:01:36.000Z",
-          "wordCount": null,
-          "title": "Kraken Post Only Order Type Tutorial (Post Only Explained)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hNbEHaBuANk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hNbEHaBuANk",
-          "publishedOn": "2026-05-01T14:01:12.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Acute Problems!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BOb5alP3jDs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BOb5alP3jDs",
-          "publishedOn": "2026-04-30T14:00:15.000Z",
-          "wordCount": null,
-          "title": "Coinbase Crypto Loans Tutorial (Borrow Against Bitcoin & Crypto)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aNxFP_jp4aw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aNxFP_jp4aw",
-          "publishedOn": "2026-04-29T14:00:01.000Z",
-          "wordCount": null,
-          "title": "How to Receive Money to Wise (Get Wise Banking Details)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U3vdplItQEg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U3vdplItQEg",
-          "publishedOn": "2026-04-28T14:00:47.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Actually Crazy!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a-YiGGja8e8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a-YiGGja8e8",
-          "publishedOn": "2026-04-27T14:00:00.000Z",
-          "wordCount": null,
-          "title": "OKX Futures Trading Tutorial for Beginners (2026 Full Walkthrough)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_FFlnIBuPSs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_FFlnIBuPSs",
-          "publishedOn": "2026-04-24T14:01:04.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Nobody Realises This!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aqwKql7nb5o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aqwKql7nb5o",
-          "publishedOn": "2026-04-23T14:00:04.000Z",
-          "wordCount": null,
-          "title": "Blofin Trading Bots Tutorial for Beginners (Crypto DCA and Grid Bots)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5J0LRX-Ptag",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5J0LRX-Ptag",
-          "publishedOn": "2026-04-22T14:00:14.000Z",
-          "wordCount": null,
-          "title": "How to Sell Crypto & Withdraw Money from Binance App to Bank",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Mwog65OMmLI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Mwog65OMmLI",
-          "publishedOn": "2026-04-21T14:00:41.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Very Very Good!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I3Xq9PzXnM8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I3Xq9PzXnM8",
-          "publishedOn": "2026-04-20T14:00:26.000Z",
-          "wordCount": null,
-          "title": "How to Place Trades Directly on TradingView (Connect Brokerage)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jg1yhVVeUCY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jg1yhVVeUCY",
-          "publishedOn": "2026-04-17T14:00:28.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Good Risk Reward Ratio Here!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "EatTheBlocks",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
       "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
-    },
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
       "articles": []
     }
   ],

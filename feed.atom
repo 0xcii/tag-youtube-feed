@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-11T05:46:55.953Z</id>
+    <id>urn:2026-05-11T08:52:35.391Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-11T05:46:55.953Z</updated>
+    <updated>2026-05-11T08:52:35.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -32,6 +32,15 @@
         <updated>2026-05-09T09:02:02.000Z</updated>
         <author>
             <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Bear Market Finished]]></title>
+        <id>https://www.youtube.com/watch?v=uv2mrSwRUKs</id>
+        <link href="https://www.youtube.com/watch?v=uv2mrSwRUKs"/>
+        <updated>2026-05-08T14:01:40.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -82,6 +91,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TradingView MACD Indicator Tutorial (MACD Trading Strategy)]]></title>
+        <id>https://www.youtube.com/watch?v=4Kw7oLEooQw</id>
+        <link href="https://www.youtube.com/watch?v=4Kw7oLEooQw"/>
+        <updated>2026-05-06T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[So what's CodePen 2.0? Why is it better? Chris Coyier tells you all about it.]]></title>
         <id>https://www.youtube.com/shorts/ooYKMPlIlwQ</id>
         <link href="https://www.youtube.com/shorts/ooYKMPlIlwQ"/>
@@ -98,6 +116,15 @@
         <updated>2026-05-06T02:19:24.000Z</updated>
         <author>
             <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Bitcoin Starting To Bubble Up]]></title>
+        <id>https://www.youtube.com/watch?v=X4Z1m9-psJQ</id>
+        <link href="https://www.youtube.com/watch?v=X4Z1m9-psJQ"/>
+        <updated>2026-05-05T14:00:54.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -126,6 +153,15 @@
         <updated>2026-05-05T09:14:46.000Z</updated>
         <author>
             <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken Post Only Order Type Tutorial (Post Only Explained)]]></title>
+        <id>https://www.youtube.com/watch?v=tbAO7_V4-Jo</id>
+        <link href="https://www.youtube.com/watch?v=tbAO7_V4-Jo"/>
+        <updated>2026-05-04T14:01:36.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -186,6 +222,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crypto Alert: Acute Problems!]]></title>
+        <id>https://www.youtube.com/watch?v=hNbEHaBuANk</id>
+        <link href="https://www.youtube.com/watch?v=hNbEHaBuANk"/>
+        <updated>2026-05-01T14:01:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Getting code to do what you want it to do is only a small fraction of the job]]></title>
         <id>https://www.youtube.com/shorts/4nQt1FHaoqg</id>
         <link href="https://www.youtube.com/shorts/4nQt1FHaoqg"/>
@@ -211,6 +256,15 @@
         <updated>2026-05-01T01:42:23.000Z</updated>
         <author>
             <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Crypto Loans Tutorial (Borrow Against Bitcoin & Crypto)]]></title>
+        <id>https://www.youtube.com/watch?v=BOb5alP3jDs</id>
+        <link href="https://www.youtube.com/watch?v=BOb5alP3jDs"/>
+        <updated>2026-04-30T14:00:15.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -242,6 +296,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Receive Money to Wise (Get Wise Banking Details)]]></title>
+        <id>https://www.youtube.com/watch?v=aNxFP_jp4aw</id>
+        <link href="https://www.youtube.com/watch?v=aNxFP_jp4aw"/>
+        <updated>2026-04-29T14:00:01.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[If you suddenly lost all your programming knowledge, what should you focus on learning today?]]></title>
         <id>https://www.youtube.com/shorts/yG-bGpD38Rw</id>
         <link href="https://www.youtube.com/shorts/yG-bGpD38Rw"/>
@@ -249,6 +312,24 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Actually Crazy!]]></title>
+        <id>https://www.youtube.com/watch?v=U3vdplItQEg</id>
+        <link href="https://www.youtube.com/watch?v=U3vdplItQEg"/>
+        <updated>2026-04-28T14:00:47.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Futures Trading Tutorial for Beginners (2026 Full Walkthrough)]]></title>
+        <id>https://www.youtube.com/watch?v=a-YiGGja8e8</id>
+        <link href="https://www.youtube.com/watch?v=a-YiGGja8e8"/>
+        <updated>2026-04-27T14:00:00.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -261,12 +342,66 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crypto Alert: Nobody Realises This!!]]></title>
+        <id>https://www.youtube.com/watch?v=_FFlnIBuPSs</id>
+        <link href="https://www.youtube.com/watch?v=_FFlnIBuPSs"/>
+        <updated>2026-04-24T14:01:04.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blofin Trading Bots Tutorial for Beginners (Crypto DCA and Grid Bots)]]></title>
+        <id>https://www.youtube.com/watch?v=aqwKql7nb5o</id>
+        <link href="https://www.youtube.com/watch?v=aqwKql7nb5o"/>
+        <updated>2026-04-23T14:00:04.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Sell Crypto & Withdraw Money from Binance App to Bank]]></title>
+        <id>https://www.youtube.com/watch?v=5J0LRX-Ptag</id>
+        <link href="https://www.youtube.com/watch?v=5J0LRX-Ptag"/>
+        <updated>2026-04-22T14:00:14.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Very Very Good!!]]></title>
+        <id>https://www.youtube.com/watch?v=Mwog65OMmLI</id>
+        <link href="https://www.youtube.com/watch?v=Mwog65OMmLI"/>
+        <updated>2026-04-21T14:00:41.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【0 系统实践】Web3超级个体系统构建实战 ！独自完成过去需要一个团队才能完成的事。2026年 "超级个体"真正的机会窗口 ！]]></title>
         <id>https://www.youtube.com/watch?v=QTFcGqe-qhI</id>
         <link href="https://www.youtube.com/watch?v=QTFcGqe-qhI"/>
         <updated>2026-04-21T03:35:09.000Z</updated>
         <author>
             <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Place Trades Directly on TradingView (Connect Brokerage)]]></title>
+        <id>https://www.youtube.com/watch?v=I3Xq9PzXnM8</id>
+        <link href="https://www.youtube.com/watch?v=I3Xq9PzXnM8"/>
+        <updated>2026-04-20T14:00:26.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Good Risk Reward Ratio Here!]]></title>
+        <id>https://www.youtube.com/watch?v=Jg1yhVVeUCY</id>
+        <link href="https://www.youtube.com/watch?v=Jg1yhVVeUCY"/>
+        <updated>2026-04-17T14:00:28.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tAQg9UuhfE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tAQg9UuhfE0",
+          "publishedOn": "2026-05-11T15:45:01.000Z",
+          "wordCount": null,
+          "title": "10 分钟上手量化交易 ，你只负责领取收益 ！ Minara AI  自动交易预测市场 ！ 新手如何让 AI 预判决策， 自动化策略交易 ？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=D0--wj2W9d0",
           "author": null,
           "description": "",
@@ -144,16 +154,6 @@
           "wordCount": null,
           "title": "别买贵价账号了！用 GamsGo 订阅 Claude：不封号、不限流、每月仅需 $5",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pCunnOzbR0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pCunnOzbR0Y",
-          "publishedOn": "2026-04-16T02:26:16.000Z",
-          "wordCount": null,
-          "title": "Hermes Agent 安装简易教程 ｜ 跟单交易被禁后，我的账户反而翻了 3 倍？全靠这个“AI 爱马仕”代理 ！",
-          "imageUrl": null
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/shN9XmVABnY",
           "publishedOn": "2026-05-11T12:17:42.000Z",
-          "wordCount": 2085,
+          "wordCount": 2106,
           "title": "Build something real first, then sell it",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Lkyr4k0qmF4",
           "publishedOn": "2026-05-10T12:43:14.000Z",
-          "wordCount": 2111,
+          "wordCount": 2443,
           "title": "Why big apps choose web over native",
           "imageUrl": null
         },
@@ -188,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UH2XXGPh0N0",
           "publishedOn": "2026-05-09T12:32:50.000Z",
-          "wordCount": 2072,
+          "wordCount": 2230,
           "title": "Apple's first logo was...complicated",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wDLdDaGR8S4",
           "publishedOn": "2026-05-08T12:18:26.000Z",
-          "wordCount": 2125,
+          "wordCount": 2120,
           "title": "Learning \"just in time\" is a lot easier than it used to be. Swyx talks about why.",
           "imageUrl": null
         },
@@ -208,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oGO7IKO8HNE",
           "publishedOn": "2026-05-07T11:52:36.000Z",
-          "wordCount": 2179,
+          "wordCount": 2126,
           "title": "Spatial computing might seem like something from the future, but it's not really...",
           "imageUrl": null
         },
@@ -228,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ooYKMPlIlwQ",
           "publishedOn": "2026-05-06T12:29:26.000Z",
-          "wordCount": 2107,
+          "wordCount": 2136,
           "title": "So what's CodePen 2.0? Why is it better? Chris Coyier tells you all about it.",
           "imageUrl": null
         },
@@ -238,7 +238,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9liqUfS69co",
           "publishedOn": "2026-05-05T12:05:31.000Z",
-          "wordCount": 2147,
+          "wordCount": 2088,
           "title": "Become the best at what you love doing. That'll get employers to notice you.",
           "imageUrl": null
         },
@@ -258,7 +258,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r8k4VI8XZ_k",
           "publishedOn": "2026-05-04T12:17:29.000Z",
-          "wordCount": 2100,
+          "wordCount": 2120,
           "title": "YouTube was almost a very different site...",
           "imageUrl": null
         },
@@ -268,7 +268,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/WKdFAS78sgU",
           "publishedOn": "2026-05-03T12:43:26.000Z",
-          "wordCount": 2110,
+          "wordCount": 2115,
           "title": "Quick tip from Homebrew project leader Mike McQuaid: downtime is important. Simple, right?",
           "imageUrl": null
         },
@@ -278,7 +278,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/WFxh3ybr-Pc",
           "publishedOn": "2026-05-02T12:32:20.000Z",
-          "wordCount": 2101,
+          "wordCount": 2097,
           "title": "Avoid shortcuts, be honest about where you are, and learn for yourself.",
           "imageUrl": null
         },
@@ -288,7 +288,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/4nQt1FHaoqg",
           "publishedOn": "2026-05-01T12:18:21.000Z",
-          "wordCount": 2109,
+          "wordCount": 2182,
           "title": "Getting code to do what you want it to do is only a small fraction of the job",
           "imageUrl": null
         },
@@ -308,7 +308,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Ox-uvxRQXf4",
           "publishedOn": "2026-04-30T11:52:14.000Z",
-          "wordCount": 2088,
+          "wordCount": 2191,
           "title": "What is Agentic AI and how does it work? Ania explains here.",
           "imageUrl": null
         }

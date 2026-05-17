@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-17T17:44:30.530Z</id>
+    <id>urn:2026-05-17T18:48:58.596Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-17T17:44:30.530Z</updated>
+    <updated>2026-05-17T18:48:58.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -205,7 +205,7 @@
         <id>https://www.youtube.com/shorts/shN9XmVABnY</id>
         <link href="https://www.youtube.com/shorts/shN9XmVABnY"/>
         <updated>2026-05-11T12:17:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[If you're job hunting, how can you compete with industry veterans? Well, by building something real and seeing it through to completion. Justin explains why ...]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

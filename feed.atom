@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-19T10:28:12.146Z</id>
+    <id>urn:2026-05-19T13:46:16.720Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-19T10:28:12.146Z</updated>
+    <updated>2026-05-19T13:46:16.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don't try to go it alone - build up a community of supporters. Life will be much easier.]]></title>
+        <id>https://www.youtube.com/shorts/l0fEgTBT50M</id>
+        <link href="https://www.youtube.com/shorts/l0fEgTBT50M"/>
+        <updated>2026-05-19T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何发现下一个10倍币 ！ 1天赚几百万美金的秘密，我今天全部公开 ！ 为什么你买就跌、卖就涨？因为你没看到背后的影子钱包 ！]]></title>
+        <id>https://www.youtube.com/watch?v=Y8RYVtB5Mv8</id>
+        <link href="https://www.youtube.com/watch?v=Y8RYVtB5Mv8"/>
+        <updated>2026-05-19T11:26:37.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Are Crypto Derivatives Explained! (Crypto Perps vs Futures)]]></title>
         <id>https://www.youtube.com/watch?v=BrOQQ5pQBlo</id>
@@ -287,16 +306,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spatial computing might seem like something from the future, but it's not really...]]></title>
-        <id>https://www.youtube.com/shorts/oGO7IKO8HNE</id>
-        <link href="https://www.youtube.com/shorts/oGO7IKO8HNE"/>
-        <updated>2026-05-07T11:52:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[差点忘了 ！这3个空投能领了？加密货币空投依然是最好的赛道 ！ 打工一年，不如动动手指 ！ Ethena 、SOSO Value 、Based 空投领取通知，速来领钱过期无效。]]></title>
         <id>https://www.youtube.com/watch?v=ds0c6IwSFwU</id>
         <link href="https://www.youtube.com/watch?v=ds0c6IwSFwU"/>
@@ -402,15 +411,6 @@
         <updated>2026-04-30T14:00:15.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0滑点+匿名交易：一个被 99% 交易者忽略的链上金矿，省到就是赚到 ！]]></title>
-        <id>https://www.youtube.com/watch?v=RjEiZSaUx8g</id>
-        <link href="https://www.youtube.com/watch?v=RjEiZSaUx8g"/>
-        <updated>2026-04-30T02:15:01.000Z</updated>
-        <author>
-            <name>链求君</name>
         </author>
     </entry>
     <entry>

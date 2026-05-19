@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-19T13:46:16.720Z</id>
+    <id>urn:2026-05-19T16:41:45.019Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-19T13:46:16.720Z</updated>
+    <updated>2026-05-19T16:41:45.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Manus AI – Complete Course for Developers]]></title>
+        <id>https://www.youtube.com/watch?v=2-ZqK1GVQ5U</id>
+        <link href="https://www.youtube.com/watch?v=2-ZqK1GVQ5U"/>
+        <updated>2026-05-19T14:12:02.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Why Is Bitcoin Failing!!?]]></title>
+        <id>https://www.youtube.com/watch?v=QcKG9ushz2A</id>
+        <link href="https://www.youtube.com/watch?v=QcKG9ushz2A"/>
+        <updated>2026-05-19T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don't try to go it alone - build up a community of supporters. Life will be much easier.]]></title>
         <id>https://www.youtube.com/shorts/l0fEgTBT50M</id>
@@ -287,16 +305,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learning "just in time" is a lot easier than it used to be. Swyx talks about why.]]></title>
-        <id>https://www.youtube.com/shorts/wDLdDaGR8S4</id>
-        <link href="https://www.youtube.com/shorts/wDLdDaGR8S4"/>
-        <updated>2026-05-08T12:18:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特朗普也搞中转站了？ World Claw 折扣 Token 价格战。 人人都想做的中转站，到底有多赚 ！ 孙宇晨发家致富全靠它 ！]]></title>
         <id>https://www.youtube.com/watch?v=x0EfBcRQfXI</id>
         <link href="https://www.youtube.com/watch?v=x0EfBcRQfXI"/>
@@ -427,15 +435,6 @@
         <id>https://www.youtube.com/watch?v=U3vdplItQEg</id>
         <link href="https://www.youtube.com/watch?v=U3vdplItQEg"/>
         <updated>2026-04-28T14:00:47.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Futures Trading Tutorial for Beginners (2026 Full Walkthrough)]]></title>
-        <id>https://www.youtube.com/watch?v=a-YiGGja8e8</id>
-        <link href="https://www.youtube.com/watch?v=a-YiGGja8e8"/>
-        <updated>2026-04-27T14:00:00.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

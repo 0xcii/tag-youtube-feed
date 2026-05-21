@@ -1,154 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-21T01:57:18.680Z</id>
+    <id>urn:2026-05-21T06:03:53.267Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-21T01:57:18.680Z</updated>
+    <updated>2026-05-21T06:03:53.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Why did the dev go broke?]]></title>
-        <id>https://www.youtube.com/shorts/1SKV4B_WPkg</id>
-        <link href="https://www.youtube.com/shorts/1SKV4B_WPkg"/>
-        <updated>2026-05-20T12:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[How to create a passive income app with Flash Loans + AI]]></title>
+        <id>https://www.youtube.com/watch?v=Q6spALZlxpM</id>
+        <link href="https://www.youtube.com/watch?v=Q6spALZlxpM"/>
+        <updated>2026-05-14T19:00:32.000Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manus AI – Complete Course for Developers]]></title>
-        <id>https://www.youtube.com/watch?v=2-ZqK1GVQ5U</id>
-        <link href="https://www.youtube.com/watch?v=2-ZqK1GVQ5U"/>
-        <updated>2026-05-19T14:12:02.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't try to go it alone - build up a community of supporters. Life will be much easier.]]></title>
-        <id>https://www.youtube.com/shorts/l0fEgTBT50M</id>
-        <link href="https://www.youtube.com/shorts/l0fEgTBT50M"/>
-        <updated>2026-05-19T12:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't try to learn a new skill in a vacuum - build with a goal in mind]]></title>
-        <id>https://www.youtube.com/shorts/g4Jne1qDDhU</id>
-        <link href="https://www.youtube.com/shorts/g4Jne1qDDhU"/>
-        <updated>2026-05-18T12:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix was created because of a late fee - thanks, Blockbuster!]]></title>
-        <id>https://www.youtube.com/shorts/8C-lYCzCVX4</id>
-        <link href="https://www.youtube.com/shorts/8C-lYCzCVX4"/>
-        <updated>2026-05-17T12:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building trust at a new job is key - and so is being someone people actually want to work with]]></title>
-        <id>https://www.youtube.com/shorts/MxaIP40tPCQ</id>
-        <link href="https://www.youtube.com/shorts/MxaIP40tPCQ"/>
-        <updated>2026-05-16T12:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why companies still need real people responsible for critical work]]></title>
-        <id>https://www.youtube.com/shorts/4uNoRLpLud8</id>
-        <link href="https://www.youtube.com/shorts/4uNoRLpLud8"/>
-        <updated>2026-05-15T12:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think in JavaScript – The Hard & Conceptual Parts (Full Course)]]></title>
-        <id>https://www.youtube.com/watch?v=x7u2c0DhWEU</id>
-        <link href="https://www.youtube.com/watch?v=x7u2c0DhWEU"/>
-        <updated>2026-05-15T10:01:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Certification Course 2026 (CLF-C02) - Pass the Exam!]]></title>
-        <id>https://www.youtube.com/watch?v=7HKot-brXFE</id>
-        <link href="https://www.youtube.com/watch?v=7HKot-brXFE"/>
-        <updated>2026-05-14T14:06:30.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google almost had a very different name (and functionality)...]]></title>
-        <id>https://www.youtube.com/shorts/ETQjANMlkWo</id>
-        <link href="https://www.youtube.com/shorts/ETQjANMlkWo"/>
-        <updated>2026-05-14T11:52:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code for Beginners Tutorial [Full Course]]]></title>
-        <id>https://www.youtube.com/watch?v=gh2_PhgZGsM</id>
-        <link href="https://www.youtube.com/watch?v=gh2_PhgZGsM"/>
-        <updated>2026-05-13T14:05:08.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop choosing between learning coding fundamentals and learning to use AI. Do both.]]></title>
-        <id>https://www.youtube.com/shorts/w_nSaJRzLw4</id>
-        <link href="https://www.youtube.com/shorts/w_nSaJRzLw4"/>
-        <updated>2026-05-13T12:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are you familiar with the Zen of Python? Estefania breaks down the principles here.]]></title>
-        <id>https://www.youtube.com/shorts/SXfDBlyqkNQ</id>
-        <link href="https://www.youtube.com/shorts/SXfDBlyqkNQ"/>
-        <updated>2026-05-12T12:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build something real first, then sell it]]></title>
-        <id>https://www.youtube.com/shorts/shN9XmVABnY</id>
-        <link href="https://www.youtube.com/shorts/shN9XmVABnY"/>
-        <updated>2026-05-11T12:17:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why big apps choose web over native]]></title>
-        <id>https://www.youtube.com/shorts/Lkyr4k0qmF4</id>
-        <link href="https://www.youtube.com/shorts/Lkyr4k0qmF4"/>
-        <updated>2026-05-10T12:43:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
+            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

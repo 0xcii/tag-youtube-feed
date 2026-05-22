@@ -163,6 +163,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/V9q-XvAwJQY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/V9q-XvAwJQY",
+          "publishedOn": "2026-05-22T12:18:22.000Z",
+          "wordCount": 2105,
+          "title": "Why understanding key ML concepts really helps you use LLMs more effectively",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4lKbesI5eLI",
           "author": null,
           "description": "",
@@ -178,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pQMvO_ssdcA",
           "publishedOn": "2026-05-21T11:52:24.000Z",
-          "wordCount": 2157,
+          "wordCount": 2137,
           "title": "How many devs actually use that whole million-token context window...?",
           "imageUrl": null
         },
@@ -188,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1SKV4B_WPkg",
           "publishedOn": "2026-05-20T12:30:07.000Z",
-          "wordCount": 2079,
+          "wordCount": 2092,
           "title": "Why did the dev go broke?",
           "imageUrl": null
         },
@@ -208,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/l0fEgTBT50M",
           "publishedOn": "2026-05-19T12:05:22.000Z",
-          "wordCount": 2171,
+          "wordCount": 2155,
           "title": "Don't try to go it alone - build up a community of supporters. Life will be much easier.",
           "imageUrl": null
         },
@@ -218,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/g4Jne1qDDhU",
           "publishedOn": "2026-05-18T12:17:23.000Z",
-          "wordCount": 2190,
+          "wordCount": 2184,
           "title": "Don't try to learn a new skill in a vacuum - build with a goal in mind",
           "imageUrl": null
         },
@@ -228,7 +238,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8C-lYCzCVX4",
           "publishedOn": "2026-05-17T12:43:25.000Z",
-          "wordCount": 2214,
+          "wordCount": 2101,
           "title": "Netflix was created because of a late fee - thanks, Blockbuster!",
           "imageUrl": null
         },
@@ -238,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MxaIP40tPCQ",
           "publishedOn": "2026-05-16T12:32:22.000Z",
-          "wordCount": 2164,
+          "wordCount": 2172,
           "title": "Building trust at a new job is key - and so is being someone people actually want to work with",
           "imageUrl": null
         },
@@ -278,7 +288,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ETQjANMlkWo",
           "publishedOn": "2026-05-14T11:52:25.000Z",
-          "wordCount": 2107,
+          "wordCount": 2141,
           "title": "Google almost had a very different name (and functionality)...",
           "imageUrl": null
         },
@@ -298,18 +308,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/w_nSaJRzLw4",
           "publishedOn": "2026-05-13T12:29:25.000Z",
-          "wordCount": 2112,
+          "wordCount": 2214,
           "title": "Stop choosing between learning coding fundamentals and learning to use AI. Do both.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/SXfDBlyqkNQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/SXfDBlyqkNQ",
-          "publishedOn": "2026-05-12T12:05:34.000Z",
-          "wordCount": 2137,
-          "title": "Are you familiar with the Zen of Python? Estefania breaks down the principles here.",
           "imageUrl": null
         }
       ]

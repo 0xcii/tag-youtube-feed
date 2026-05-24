@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-24T11:56:03.171Z</id>
+    <id>urn:2026-05-24T12:58:39.107Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-24T11:56:03.171Z</updated>
+    <updated>2026-05-24T12:58:39.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[In the beginning, Amazon sold...1 book. In its first week. What a start.]]></title>
+        <id>https://www.youtube.com/shorts/y-uopI6VtE4</id>
+        <link href="https://www.youtube.com/shorts/y-uopI6VtE4"/>
+        <updated>2026-05-24T12:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In life, things should be important or enjoyable - or ideally both]]></title>
         <id>https://www.youtube.com/shorts/rN4qvA2K8lA</id>
@@ -247,15 +257,6 @@
         <updated>2026-05-14T01:00:32.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code for Beginners Tutorial [Full Course]]]></title>
-        <id>https://www.youtube.com/watch?v=gh2_PhgZGsM</id>
-        <link href="https://www.youtube.com/watch?v=gh2_PhgZGsM"/>
-        <updated>2026-05-13T14:05:08.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

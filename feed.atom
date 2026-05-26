@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-26T10:38:14.449Z</id>
+    <id>urn:2026-05-26T13:42:57.827Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-26T10:38:14.449Z</updated>
+    <updated>2026-05-26T13:42:57.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Get started using Three.js without having to use npm]]></title>
+        <id>https://www.youtube.com/shorts/au7zDlkpOAA</id>
+        <link href="https://www.youtube.com/shorts/au7zDlkpOAA"/>
+        <updated>2026-05-26T12:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production RAG with LangChain & Vector Databases – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=mHxLXzYjQRE</id>
+        <link href="https://www.youtube.com/watch?v=mHxLXzYjQRE"/>
+        <updated>2026-05-26T10:30:31.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Card Tutorial for Beginners (How to Use Binance Card)]]></title>
         <id>https://www.youtube.com/watch?v=Jgo3pTnlPP8</id>
@@ -224,30 +243,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn how to THINK in code – The Hard & Conceptual Parts of JavaScript (Full Course)]]></title>
-        <id>https://www.youtube.com/watch?v=x7u2c0DhWEU</id>
-        <link href="https://www.youtube.com/watch?v=x7u2c0DhWEU"/>
-        <updated>2026-05-15T10:01:28.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to create a passive income app with Flash Loans + AI]]></title>
         <id>https://www.youtube.com/watch?v=Q6spALZlxpM</id>
         <link href="https://www.youtube.com/watch?v=Q6spALZlxpM"/>
         <updated>2026-05-14T19:00:32.000Z</updated>
         <author>
             <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Certification Course 2026 (CLF-C02) - Pass the Exam!]]></title>
-        <id>https://www.youtube.com/watch?v=7HKot-brXFE</id>
-        <link href="https://www.youtube.com/watch?v=7HKot-brXFE"/>
-        <updated>2026-05-14T14:06:30.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

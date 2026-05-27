@@ -163,12 +163,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/z76TrtlL930",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/z76TrtlL930",
+          "publishedOn": "2026-05-27T12:29:41.000Z",
+          "wordCount": 2096,
+          "title": "Here's a fun exercize for ChatGPT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/au7zDlkpOAA",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/au7zDlkpOAA",
           "publishedOn": "2026-05-26T12:05:30.000Z",
-          "wordCount": 2112,
+          "wordCount": 2090,
           "title": "Get started using Three.js without having to use npm",
           "imageUrl": null
         },
@@ -188,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y8aYytIyzqs",
           "publishedOn": "2026-05-25T12:17:24.000Z",
-          "wordCount": 2189,
+          "wordCount": 2166,
           "title": "Is your job costing you your health?",
           "imageUrl": null
         },
@@ -198,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y-uopI6VtE4",
           "publishedOn": "2026-05-24T12:43:24.000Z",
-          "wordCount": 2084,
+          "wordCount": 2125,
           "title": "In the beginning, Amazon sold...1 book. In its first week. What a start.",
           "imageUrl": null
         },
@@ -208,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rN4qvA2K8lA",
           "publishedOn": "2026-05-23T12:32:23.000Z",
-          "wordCount": 2167,
+          "wordCount": 2125,
           "title": "In life, things should be important or enjoyable - or ideally both",
           "imageUrl": null
         },
@@ -218,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V9q-XvAwJQY",
           "publishedOn": "2026-05-22T12:18:22.000Z",
-          "wordCount": 2123,
+          "wordCount": 2179,
           "title": "Why understanding key ML concepts really helps you use LLMs more effectively",
           "imageUrl": null
         },
@@ -238,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pQMvO_ssdcA",
           "publishedOn": "2026-05-21T11:52:24.000Z",
-          "wordCount": 2196,
+          "wordCount": 2236,
           "title": "How many devs actually use that whole million-token context window...?",
           "imageUrl": null
         },
@@ -248,7 +258,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1SKV4B_WPkg",
           "publishedOn": "2026-05-20T12:30:07.000Z",
-          "wordCount": 2078,
+          "wordCount": 2186,
           "title": "Why did the dev go broke?",
           "imageUrl": null
         },
@@ -268,7 +278,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/l0fEgTBT50M",
           "publishedOn": "2026-05-19T12:05:22.000Z",
-          "wordCount": 2158,
+          "wordCount": 2203,
           "title": "Don't try to go it alone - build up a community of supporters. Life will be much easier.",
           "imageUrl": null
         },
@@ -278,7 +288,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/g4Jne1qDDhU",
           "publishedOn": "2026-05-18T12:17:23.000Z",
-          "wordCount": 2208,
+          "wordCount": 2259,
           "title": "Don't try to learn a new skill in a vacuum - build with a goal in mind",
           "imageUrl": null
         },
@@ -288,7 +298,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8C-lYCzCVX4",
           "publishedOn": "2026-05-17T12:43:25.000Z",
-          "wordCount": 2216,
+          "wordCount": 2093,
           "title": "Netflix was created because of a late fee - thanks, Blockbuster!",
           "imageUrl": null
         },
@@ -298,18 +308,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MxaIP40tPCQ",
           "publishedOn": "2026-05-16T12:32:22.000Z",
-          "wordCount": 2275,
+          "wordCount": 2252,
           "title": "Building trust at a new job is key - and so is being someone people actually want to work with",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/4uNoRLpLud8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/4uNoRLpLud8",
-          "publishedOn": "2026-05-15T12:18:33.000Z",
-          "wordCount": 2087,
-          "title": "Why companies still need real people responsible for critical work",
           "imageUrl": null
         }
       ]
@@ -342,6 +342,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZU6QAMIPgzU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZU6QAMIPgzU",
+          "publishedOn": "2026-05-27T14:00:15.000Z",
+          "wordCount": null,
+          "title": "How to Use OKX App for Beginners (OKX Tutorial)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NNbkscSATtE",
           "author": null,
@@ -480,16 +490,6 @@
           "publishedOn": "2026-05-06T14:00:06.000Z",
           "wordCount": null,
           "title": "TradingView MACD Indicator Tutorial (MACD Trading Strategy)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X4Z1m9-psJQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X4Z1m9-psJQ",
-          "publishedOn": "2026-05-05T14:00:54.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Bitcoin Starting To Bubble Up",
           "imageUrl": null
         }
       ]

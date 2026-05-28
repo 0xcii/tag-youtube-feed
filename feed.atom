@@ -1,190 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-27T23:05:53.530Z</id>
+    <id>urn:2026-05-28T01:46:27.482Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-27T23:05:53.530Z</updated>
+    <updated>2026-05-28T01:46:27.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[How to Use OKX App for Beginners (OKX Tutorial)]]></title>
-        <id>https://www.youtube.com/watch?v=ZU6QAMIPgzU</id>
-        <link href="https://www.youtube.com/watch?v=ZU6QAMIPgzU"/>
-        <updated>2026-05-27T14:00:15.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's a fun exercize for ChatGPT]]></title>
-        <id>https://www.youtube.com/shorts/z76TrtlL930</id>
-        <link href="https://www.youtube.com/shorts/z76TrtlL930"/>
-        <updated>2026-05-27T12:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Let's Gooooo!]]></title>
-        <id>https://www.youtube.com/watch?v=NNbkscSATtE</id>
-        <link href="https://www.youtube.com/watch?v=NNbkscSATtE"/>
-        <updated>2026-05-26T14:00:29.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get started using Three.js without having to use npm]]></title>
-        <id>https://www.youtube.com/shorts/au7zDlkpOAA</id>
-        <link href="https://www.youtube.com/shorts/au7zDlkpOAA"/>
-        <updated>2026-05-26T12:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Production RAG with LangChain & Vector Databases – Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=mHxLXzYjQRE</id>
-        <link href="https://www.youtube.com/watch?v=mHxLXzYjQRE"/>
-        <updated>2026-05-26T10:30:31.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Card Tutorial for Beginners (How to Use Binance Card)]]></title>
-        <id>https://www.youtube.com/watch?v=Jgo3pTnlPP8</id>
-        <link href="https://www.youtube.com/watch?v=Jgo3pTnlPP8"/>
-        <updated>2026-05-25T14:00:16.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is your job costing you your health?]]></title>
-        <id>https://www.youtube.com/shorts/y8aYytIyzqs</id>
-        <link href="https://www.youtube.com/shorts/y8aYytIyzqs"/>
-        <updated>2026-05-25T12:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the beginning, Amazon sold...1 book. In its first week. What a start.]]></title>
-        <id>https://www.youtube.com/shorts/y-uopI6VtE4</id>
-        <link href="https://www.youtube.com/shorts/y-uopI6VtE4"/>
-        <updated>2026-05-24T12:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In life, things should be important or enjoyable - or ideally both]]></title>
-        <id>https://www.youtube.com/shorts/rN4qvA2K8lA</id>
-        <link href="https://www.youtube.com/shorts/rN4qvA2K8lA"/>
-        <updated>2026-05-23T12:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: The Tide Is Turning!]]></title>
-        <id>https://www.youtube.com/watch?v=Rg6xvkO8pmE</id>
-        <link href="https://www.youtube.com/watch?v=Rg6xvkO8pmE"/>
-        <updated>2026-05-22T14:00:26.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why understanding key ML concepts really helps you use LLMs more effectively]]></title>
-        <id>https://www.youtube.com/shorts/V9q-XvAwJQY</id>
-        <link href="https://www.youtube.com/shorts/V9q-XvAwJQY"/>
-        <updated>2026-05-22T12:18:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Margin vs Futures Explained (Binance, Bybit etc)]]></title>
-        <id>https://www.youtube.com/watch?v=gvDEkG386dw</id>
-        <link href="https://www.youtube.com/watch?v=gvDEkG386dw"/>
-        <updated>2026-05-21T14:00:55.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LaTeX Course for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=4lKbesI5eLI</id>
-        <link href="https://www.youtube.com/watch?v=4lKbesI5eLI"/>
-        <updated>2026-05-21T13:06:59.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many devs actually use that whole million-token context window...?]]></title>
-        <id>https://www.youtube.com/shorts/pQMvO_ssdcA</id>
-        <link href="https://www.youtube.com/shorts/pQMvO_ssdcA"/>
-        <updated>2026-05-21T11:52:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deposit Crypto To Crypto.com (Crypto.com Wallet Address)]]></title>
-        <id>https://www.youtube.com/watch?v=M0yTt6muCvQ</id>
-        <link href="https://www.youtube.com/watch?v=M0yTt6muCvQ"/>
-        <updated>2026-05-20T14:00:36.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why did the dev go broke?]]></title>
-        <id>https://www.youtube.com/shorts/1SKV4B_WPkg</id>
-        <link href="https://www.youtube.com/shorts/1SKV4B_WPkg"/>
-        <updated>2026-05-20T12:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manus AI – Complete Course for Developers]]></title>
-        <id>https://www.youtube.com/watch?v=2-ZqK1GVQ5U</id>
-        <link href="https://www.youtube.com/watch?v=2-ZqK1GVQ5U"/>
-        <updated>2026-05-19T14:12:02.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Why Is Bitcoin Failing!!?]]></title>
-        <id>https://www.youtube.com/watch?v=QcKG9ushz2A</id>
-        <link href="https://www.youtube.com/watch?v=QcKG9ushz2A"/>
-        <updated>2026-05-19T14:00:30.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't try to go it alone - build up a community of supporters. Life will be much easier.]]></title>
-        <id>https://www.youtube.com/shorts/l0fEgTBT50M</id>
-        <link href="https://www.youtube.com/shorts/l0fEgTBT50M"/>
-        <updated>2026-05-19T12:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[如何发现下一个10倍币 ！ 1天赚几百万美金的秘密，我今天全部公开 ！ 为什么你买就跌、卖就涨？因为你没看到背后的影子钱包 ！]]></title>
         <id>https://www.youtube.com/watch?v=Y8RYVtB5Mv8</id>
@@ -192,45 +12,6 @@
         <updated>2026-05-19T11:26:37.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Crypto Derivatives Explained! (Crypto Perps vs Futures)]]></title>
-        <id>https://www.youtube.com/watch?v=BrOQQ5pQBlo</id>
-        <link href="https://www.youtube.com/watch?v=BrOQQ5pQBlo"/>
-        <updated>2026-05-18T14:00:27.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't try to learn a new skill in a vacuum - build with a goal in mind]]></title>
-        <id>https://www.youtube.com/shorts/g4Jne1qDDhU</id>
-        <link href="https://www.youtube.com/shorts/g4Jne1qDDhU"/>
-        <updated>2026-05-18T12:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix was created because of a late fee - thanks, Blockbuster!]]></title>
-        <id>https://www.youtube.com/shorts/8C-lYCzCVX4</id>
-        <link href="https://www.youtube.com/shorts/8C-lYCzCVX4"/>
-        <updated>2026-05-17T12:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building trust at a new job is key - and so is being someone people actually want to work with]]></title>
-        <id>https://www.youtube.com/shorts/MxaIP40tPCQ</id>
-        <link href="https://www.youtube.com/shorts/MxaIP40tPCQ"/>
-        <updated>2026-05-16T12:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -252,48 +33,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Alert: Bitcoin In A Good Place!]]></title>
-        <id>https://www.youtube.com/watch?v=Jttv_sYUCho</id>
-        <link href="https://www.youtube.com/watch?v=Jttv_sYUCho"/>
-        <updated>2026-05-15T14:00:29.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create a passive income app with Flash Loans + AI]]></title>
-        <id>https://www.youtube.com/watch?v=Q6spALZlxpM</id>
-        <link href="https://www.youtube.com/watch?v=Q6spALZlxpM"/>
-        <updated>2026-05-14T19:00:32.000Z</updated>
-        <author>
-            <name>Dapp University</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Crypto from Coinbase to Coinbase Wallet (Base App)]]></title>
-        <id>https://www.youtube.com/watch?v=H3nbFmWJ3Wk</id>
-        <link href="https://www.youtube.com/watch?v=H3nbFmWJ3Wk"/>
-        <updated>2026-05-14T14:00:32.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monid 给 AI 的专属钱包， 1个 Key 零配置就能使用 200+ 服务 ！ 新用户赠送 $3 额度]]></title>
         <id>https://www.youtube.com/watch?v=fA3MMfkY-Jw</id>
         <link href="https://www.youtube.com/watch?v=fA3MMfkY-Jw"/>
         <updated>2026-05-14T01:00:32.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TradingView Pivot Points Indicator Tutorial for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=AqiWGOmWGwU</id>
-        <link href="https://www.youtube.com/watch?v=AqiWGOmWGwU"/>
-        <updated>2026-05-13T14:00:12.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -306,24 +51,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Alert: *Just About* to Trigger A Large Flood!?]]></title>
-        <id>https://www.youtube.com/watch?v=gomGAjPTnrI</id>
-        <link href="https://www.youtube.com/watch?v=gomGAjPTnrI"/>
-        <updated>2026-05-12T14:01:06.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devin the Autonomous AI Software Engineer - Quick Tutorial for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=X35ZTR92Wcw</id>
-        <link href="https://www.youtube.com/watch?v=X35ZTR92Wcw"/>
-        <updated>2026-05-11T18:57:32.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 分钟上手量化交易 ，你只负责领取收益 ！ Minara AI  自动交易预测市场 ！ 新手如何让 AI 预判决策， 自动化策略交易 ？]]></title>
         <id>https://www.youtube.com/watch?v=tAQg9UuhfE0</id>
         <link href="https://www.youtube.com/watch?v=tAQg9UuhfE0"/>
@@ -333,30 +60,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bybit Post Only Order Type Tutorial (Post Only Explained)]]></title>
-        <id>https://www.youtube.com/watch?v=IzuC3h83CI8</id>
-        <link href="https://www.youtube.com/watch?v=IzuC3h83CI8"/>
-        <updated>2026-05-11T14:00:34.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026 年超级牛市如何上桌吃肉？ 揭秘所有牛市都有的1个特点！！这次也一样 ！隐私抗审查的 Venice AI ，随便创建小姐姐 ！]]></title>
         <id>https://www.youtube.com/watch?v=D0--wj2W9d0</id>
         <link href="https://www.youtube.com/watch?v=D0--wj2W9d0"/>
         <updated>2026-05-09T09:02:02.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Bear Market Finished]]></title>
-        <id>https://www.youtube.com/watch?v=uv2mrSwRUKs</id>
-        <link href="https://www.youtube.com/watch?v=uv2mrSwRUKs"/>
-        <updated>2026-05-08T14:01:40.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -375,15 +84,6 @@
         <updated>2026-05-07T06:46:46.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TradingView MACD Indicator Tutorial (MACD Trading Strategy)]]></title>
-        <id>https://www.youtube.com/watch?v=4Kw7oLEooQw</id>
-        <link href="https://www.youtube.com/watch?v=4Kw7oLEooQw"/>
-        <updated>2026-05-06T14:00:06.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

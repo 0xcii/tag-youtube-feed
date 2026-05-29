@@ -1,4 +1,522 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "链求君",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Y8RYVtB5Mv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y8RYVtB5Mv8",
+          "publishedOn": "2026-05-19T11:26:37.000Z",
+          "wordCount": null,
+          "title": "如何发现下一个10倍币 ！ 1天赚几百万美金的秘密，我今天全部公开 ！ 为什么你买就跌、卖就涨？因为你没看到背后的影子钱包 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=H6C7totKeoQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H6C7totKeoQ",
+          "publishedOn": "2026-05-16T02:00:08.000Z",
+          "wordCount": null,
+          "title": "Versa： 通过欺骗别人的AI赚钱， Agent 越狱攻防赚奖金 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YSqaLFvc5xU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YSqaLFvc5xU",
+          "publishedOn": "2026-05-15T15:34:50.000Z",
+          "wordCount": null,
+          "title": "3个预测市场空投即将结束！  Polymarket 空投规则揭秘 ，  90% 的人漏了 1 条最简单的 ！ 2026 年世界杯前最后窗口期 ， 进入倒计时 ！ Limitless 与 Minara",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fA3MMfkY-Jw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fA3MMfkY-Jw",
+          "publishedOn": "2026-05-14T01:00:32.000Z",
+          "wordCount": null,
+          "title": "Monid 给 AI 的专属钱包， 1个 Key 零配置就能使用 200+ 服务 ！ 新用户赠送 $3 额度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1xlGTbmLGvU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1xlGTbmLGvU",
+          "publishedOn": "2026-05-13T01:00:35.000Z",
+          "wordCount": null,
+          "title": "新手速成开发者，5分钟搞定，Pump新币自动扫链、代币发行、NFT铸造、智能合约部署、链上开发， 一句话搞定！ 如何快速让 AI智能体开发 Solana套利脚本？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tAQg9UuhfE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tAQg9UuhfE0",
+          "publishedOn": "2026-05-11T15:45:01.000Z",
+          "wordCount": null,
+          "title": "10 分钟上手量化交易 ，你只负责领取收益 ！ Minara AI  自动交易预测市场 ！ 新手如何让 AI 预判决策， 自动化策略交易 ？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D0--wj2W9d0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D0--wj2W9d0",
+          "publishedOn": "2026-05-09T09:02:02.000Z",
+          "wordCount": null,
+          "title": "2026 年超级牛市如何上桌吃肉？ 揭秘所有牛市都有的1个特点！！这次也一样 ！隐私抗审查的 Venice AI ，随便创建小姐姐 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=x0EfBcRQfXI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x0EfBcRQfXI",
+          "publishedOn": "2026-05-08T09:25:24.000Z",
+          "wordCount": null,
+          "title": "特朗普也搞中转站了？ World Claw 折扣 Token 价格战。 人人都想做的中转站，到底有多赚 ！ 孙宇晨发家致富全靠它 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ds0c6IwSFwU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ds0c6IwSFwU",
+          "publishedOn": "2026-05-07T06:46:46.000Z",
+          "wordCount": null,
+          "title": "差点忘了 ！这3个空投能领了？加密货币空投依然是最好的赛道 ！ 打工一年，不如动动手指 ！ Ethena 、SOSO Value 、Based 空投领取通知，速来领钱过期无效。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6Ak4r2cmo1w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6Ak4r2cmo1w",
+          "publishedOn": "2026-05-06T02:19:24.000Z",
+          "wordCount": null,
+          "title": "Franklin ： 适合新手的AI投资助手 ！ 高效参与  Polymarket 空投冲刺期 ，  AI分析预测 ， 如何找到内幕地址？ 如何高效的跟单复制？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xLBNFL42k6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xLBNFL42k6M",
+          "publishedOn": "2026-05-05T09:14:46.000Z",
+          "wordCount": null,
+          "title": "1分钟使用有钱包的 AI Agent  ！Franklin 替你交易，替你创作， 替你分析。 无注册， 无订阅，只需一个钱包。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u6jI77BSn6I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u6jI77BSn6I",
+          "publishedOn": "2026-05-04T08:43:23.000Z",
+          "wordCount": null,
+          "title": "提前15天发现 $LAB 庄家钱包在吸筹，我跟进去吃了3天10倍 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=v0fWJvsid3Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v0fWJvsid3Q",
+          "publishedOn": "2026-05-03T09:22:20.000Z",
+          "wordCount": null,
+          "title": "免费使用Deep Seek V4 顶级模型 ！   OpenClaw 拥有加密货币钱包， 自动节省 78% 的 Token 消耗。 ClawRouter  x402 微支付, AI 智能体该有的样子！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RebQUS35nv0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RebQUS35nv0",
+          "publishedOn": "2026-05-02T01:51:46.000Z",
+          "wordCount": null,
+          "title": "拒绝 AI 幻觉！我一次性整理了 10 个真金白银的信息差（新手避坑必看）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MK1AeKaPpgc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MK1AeKaPpgc",
+          "publishedOn": "2026-05-01T01:42:23.000Z",
+          "wordCount": null,
+          "title": "别卷了！靠 AI Agent 赚被动收入 ，方法竟如此简单？ 什么是 x402 ? AI Agent 也能消费了？",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=V1JmI5sUc5E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V1JmI5sUc5E",
+          "publishedOn": "2026-05-29T10:00:31.000Z",
+          "wordCount": null,
+          "title": "Web Scraping with Python & JavaScript – MERN Stack Full Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/r-CKT4J14uM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/r-CKT4J14uM",
+          "publishedOn": "2026-05-28T11:52:27.000Z",
+          "wordCount": 2140,
+          "title": "Why in-person conferences still matter these days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mT_Jjn8RJdo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mT_Jjn8RJdo",
+          "publishedOn": "2026-05-28T10:00:14.000Z",
+          "wordCount": null,
+          "title": "Learn Figma in 6 Hours – Full Course for 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/z76TrtlL930",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/z76TrtlL930",
+          "publishedOn": "2026-05-27T12:29:41.000Z",
+          "wordCount": 2102,
+          "title": "Here's a fun exercize for ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/au7zDlkpOAA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/au7zDlkpOAA",
+          "publishedOn": "2026-05-26T12:05:30.000Z",
+          "wordCount": 2457,
+          "title": "Get started using Three.js without having to use npm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mHxLXzYjQRE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mHxLXzYjQRE",
+          "publishedOn": "2026-05-26T10:30:31.000Z",
+          "wordCount": null,
+          "title": "Production RAG with LangChain & Vector Databases – Full Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/y8aYytIyzqs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/y8aYytIyzqs",
+          "publishedOn": "2026-05-25T12:17:24.000Z",
+          "wordCount": 2136,
+          "title": "Is your job costing you your health?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/y-uopI6VtE4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/y-uopI6VtE4",
+          "publishedOn": "2026-05-24T12:43:24.000Z",
+          "wordCount": 2119,
+          "title": "In the beginning, Amazon sold...1 book. In its first week. What a start.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/rN4qvA2K8lA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/rN4qvA2K8lA",
+          "publishedOn": "2026-05-23T12:32:23.000Z",
+          "wordCount": 2286,
+          "title": "In life, things should be important or enjoyable - or ideally both",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/V9q-XvAwJQY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/V9q-XvAwJQY",
+          "publishedOn": "2026-05-22T12:18:22.000Z",
+          "wordCount": 2146,
+          "title": "Why understanding key ML concepts really helps you use LLMs more effectively",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4lKbesI5eLI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4lKbesI5eLI",
+          "publishedOn": "2026-05-21T13:06:59.000Z",
+          "wordCount": null,
+          "title": "LaTeX Course for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/pQMvO_ssdcA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/pQMvO_ssdcA",
+          "publishedOn": "2026-05-21T11:52:24.000Z",
+          "wordCount": 2163,
+          "title": "How many devs actually use that whole million-token context window...?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/1SKV4B_WPkg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/1SKV4B_WPkg",
+          "publishedOn": "2026-05-20T12:30:07.000Z",
+          "wordCount": 2054,
+          "title": "Why did the dev go broke?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2-ZqK1GVQ5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2-ZqK1GVQ5U",
+          "publishedOn": "2026-05-19T14:12:02.000Z",
+          "wordCount": null,
+          "title": "Manus AI – Complete Course for Developers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/l0fEgTBT50M",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/l0fEgTBT50M",
+          "publishedOn": "2026-05-19T12:05:22.000Z",
+          "wordCount": 2205,
+          "title": "Don't try to go it alone - build up a community of supporters. Life will be much easier.",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=X35ZTR92Wcw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X35ZTR92Wcw",
+          "publishedOn": "2026-05-11T18:57:32.000Z",
+          "wordCount": null,
+          "title": "Devin the Autonomous AI Software Engineer - Quick Tutorial for Beginners",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
+      "articles": []
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DOL8TC-dtw0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DOL8TC-dtw0",
+          "publishedOn": "2026-05-28T14:00:06.000Z",
+          "wordCount": null,
+          "title": "How to Buy Tokenized Stocks on Kraken (Kraken xStocks)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZU6QAMIPgzU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZU6QAMIPgzU",
+          "publishedOn": "2026-05-27T14:00:15.000Z",
+          "wordCount": null,
+          "title": "How to Use OKX App for Beginners (OKX Tutorial)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NNbkscSATtE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NNbkscSATtE",
+          "publishedOn": "2026-05-26T14:00:29.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Let's Gooooo!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Jgo3pTnlPP8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jgo3pTnlPP8",
+          "publishedOn": "2026-05-25T14:00:16.000Z",
+          "wordCount": null,
+          "title": "Binance Card Tutorial for Beginners (How to Use Binance Card)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Rg6xvkO8pmE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rg6xvkO8pmE",
+          "publishedOn": "2026-05-22T14:00:26.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: The Tide Is Turning!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gvDEkG386dw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gvDEkG386dw",
+          "publishedOn": "2026-05-21T14:00:55.000Z",
+          "wordCount": null,
+          "title": "Crypto Margin vs Futures Explained (Binance, Bybit etc)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M0yTt6muCvQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M0yTt6muCvQ",
+          "publishedOn": "2026-05-20T14:00:36.000Z",
+          "wordCount": null,
+          "title": "How to Deposit Crypto To Crypto.com (Crypto.com Wallet Address)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QcKG9ushz2A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QcKG9ushz2A",
+          "publishedOn": "2026-05-19T14:00:30.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Why Is Bitcoin Failing!!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BrOQQ5pQBlo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BrOQQ5pQBlo",
+          "publishedOn": "2026-05-18T14:00:27.000Z",
+          "wordCount": null,
+          "title": "What Are Crypto Derivatives Explained! (Crypto Perps vs Futures)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Jttv_sYUCho",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jttv_sYUCho",
+          "publishedOn": "2026-05-15T14:00:29.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Bitcoin In A Good Place!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=H3nbFmWJ3Wk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H3nbFmWJ3Wk",
+          "publishedOn": "2026-05-14T14:00:32.000Z",
+          "wordCount": null,
+          "title": "How to Send Crypto from Coinbase to Coinbase Wallet (Base App)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AqiWGOmWGwU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AqiWGOmWGwU",
+          "publishedOn": "2026-05-13T14:00:12.000Z",
+          "wordCount": null,
+          "title": "TradingView Pivot Points Indicator Tutorial for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gomGAjPTnrI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gomGAjPTnrI",
+          "publishedOn": "2026-05-12T14:01:06.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: *Just About* to Trigger A Large Flood!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IzuC3h83CI8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IzuC3h83CI8",
+          "publishedOn": "2026-05-11T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Bybit Post Only Order Type Tutorial (Post Only Explained)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uv2mrSwRUKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uv2mrSwRUKs",
+          "publishedOn": "2026-05-08T14:01:40.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Bear Market Finished",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Q6spALZlxpM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q6spALZlxpM",
+          "publishedOn": "2026-05-14T19:00:32.000Z",
+          "wordCount": null,
+          "title": "How to create a passive income app with Flash Loans + AI",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }

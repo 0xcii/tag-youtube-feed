@@ -163,6 +163,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/MrlJQXOmTgo",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/MrlJQXOmTgo",
+          "publishedOn": "2026-05-29T12:18:28.000Z",
+          "wordCount": 2168,
+          "title": "Here's a little programming challenge for you: can you figure out the output of this code?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V1JmI5sUc5E",
           "author": null,
           "description": "",
@@ -178,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r-CKT4J14uM",
           "publishedOn": "2026-05-28T11:52:27.000Z",
-          "wordCount": 2140,
+          "wordCount": 2080,
           "title": "Why in-person conferences still matter these days",
           "imageUrl": null
         },
@@ -198,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z76TrtlL930",
           "publishedOn": "2026-05-27T12:29:41.000Z",
-          "wordCount": 2102,
+          "wordCount": 2155,
           "title": "Here's a fun exercize for ChatGPT",
           "imageUrl": null
         },
@@ -208,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/au7zDlkpOAA",
           "publishedOn": "2026-05-26T12:05:30.000Z",
-          "wordCount": 2457,
+          "wordCount": 2105,
           "title": "Get started using Three.js without having to use npm",
           "imageUrl": null
         },
@@ -228,7 +238,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y8aYytIyzqs",
           "publishedOn": "2026-05-25T12:17:24.000Z",
-          "wordCount": 2136,
+          "wordCount": 2371,
           "title": "Is your job costing you your health?",
           "imageUrl": null
         },
@@ -238,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y-uopI6VtE4",
           "publishedOn": "2026-05-24T12:43:24.000Z",
-          "wordCount": 2119,
+          "wordCount": 2459,
           "title": "In the beginning, Amazon sold...1 book. In its first week. What a start.",
           "imageUrl": null
         },
@@ -248,7 +258,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rN4qvA2K8lA",
           "publishedOn": "2026-05-23T12:32:23.000Z",
-          "wordCount": 2286,
+          "wordCount": 2113,
           "title": "In life, things should be important or enjoyable - or ideally both",
           "imageUrl": null
         },
@@ -258,7 +268,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V9q-XvAwJQY",
           "publishedOn": "2026-05-22T12:18:22.000Z",
-          "wordCount": 2146,
+          "wordCount": 2121,
           "title": "Why understanding key ML concepts really helps you use LLMs more effectively",
           "imageUrl": null
         },
@@ -278,7 +288,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pQMvO_ssdcA",
           "publishedOn": "2026-05-21T11:52:24.000Z",
-          "wordCount": 2163,
+          "wordCount": 2097,
           "title": "How many devs actually use that whole million-token context window...?",
           "imageUrl": null
         },
@@ -288,7 +298,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1SKV4B_WPkg",
           "publishedOn": "2026-05-20T12:30:07.000Z",
-          "wordCount": 2054,
+          "wordCount": 2051,
           "title": "Why did the dev go broke?",
           "imageUrl": null
         },
@@ -300,16 +310,6 @@
           "publishedOn": "2026-05-19T14:12:02.000Z",
           "wordCount": null,
           "title": "Manus AI – Complete Course for Developers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/l0fEgTBT50M",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/l0fEgTBT50M",
-          "publishedOn": "2026-05-19T12:05:22.000Z",
-          "wordCount": 2205,
-          "title": "Don't try to go it alone - build up a community of supporters. Life will be much easier.",
           "imageUrl": null
         }
       ]

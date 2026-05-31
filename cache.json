@@ -134,16 +134,6 @@
           "wordCount": null,
           "title": "免费使用Deep Seek V4 顶级模型 ！   OpenClaw 拥有加密货币钱包， 自动节省 78% 的 Token 消耗。 ClawRouter  x402 微支付, AI 智能体该有的样子！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RebQUS35nv0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RebQUS35nv0",
-          "publishedOn": "2026-05-02T01:51:46.000Z",
-          "wordCount": null,
-          "title": "拒绝 AI 幻觉！我一次性整理了 10 个真金白银的信息差（新手避坑必看）",
-          "imageUrl": null
         }
       ]
     },
@@ -158,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/J6t5ev2Z9yk",
           "publishedOn": "2026-05-31T12:43:26.000Z",
-          "wordCount": 2070,
+          "wordCount": 2252,
           "title": "How Jessica \"accidentally\" became a developer while living and working in Japan",
           "imageUrl": null
         },
@@ -168,7 +158,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5Cm0Lr-HPDk",
           "publishedOn": "2026-05-30T12:32:19.000Z",
-          "wordCount": 2128,
+          "wordCount": 2118,
           "title": "Have you used the has selector in CSS? According to Chris Coyier, it's a game-changer.",
           "imageUrl": null
         },
@@ -178,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MrlJQXOmTgo",
           "publishedOn": "2026-05-29T12:18:28.000Z",
-          "wordCount": 2184,
+          "wordCount": 2115,
           "title": "Here's a little programming challenge for you: can you figure out the output of this code?",
           "imageUrl": null
         },
@@ -198,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/r-CKT4J14uM",
           "publishedOn": "2026-05-28T11:52:27.000Z",
-          "wordCount": 2090,
+          "wordCount": 2077,
           "title": "Why in-person conferences still matter these days",
           "imageUrl": null
         },
@@ -218,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z76TrtlL930",
           "publishedOn": "2026-05-27T12:29:41.000Z",
-          "wordCount": 2196,
+          "wordCount": 2074,
           "title": "Here's a fun exercize for ChatGPT",
           "imageUrl": null
         },
@@ -228,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/au7zDlkpOAA",
           "publishedOn": "2026-05-26T12:05:30.000Z",
-          "wordCount": 2077,
+          "wordCount": 2045,
           "title": "Get started using Three.js without having to use npm",
           "imageUrl": null
         },
@@ -248,7 +238,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y8aYytIyzqs",
           "publishedOn": "2026-05-25T12:17:24.000Z",
-          "wordCount": 2094,
+          "wordCount": 2097,
           "title": "Is your job costing you your health?",
           "imageUrl": null
         },
@@ -258,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/y-uopI6VtE4",
           "publishedOn": "2026-05-24T12:43:24.000Z",
-          "wordCount": 2204,
+          "wordCount": 2088,
           "title": "In the beginning, Amazon sold...1 book. In its first week. What a start.",
           "imageUrl": null
         },
@@ -268,7 +258,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/rN4qvA2K8lA",
           "publishedOn": "2026-05-23T12:32:23.000Z",
-          "wordCount": 2276,
+          "wordCount": 2122,
           "title": "In life, things should be important or enjoyable - or ideally both",
           "imageUrl": null
         },
@@ -278,7 +268,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/V9q-XvAwJQY",
           "publishedOn": "2026-05-22T12:18:22.000Z",
-          "wordCount": 2077,
+          "wordCount": 2268,
           "title": "Why understanding key ML concepts really helps you use LLMs more effectively",
           "imageUrl": null
         },
@@ -298,7 +288,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pQMvO_ssdcA",
           "publishedOn": "2026-05-21T11:52:24.000Z",
-          "wordCount": 2123,
+          "wordCount": 2102,
           "title": "How many devs actually use that whole million-token context window...?",
           "imageUrl": null
         }

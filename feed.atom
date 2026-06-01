@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-01T19:48:10.904Z</id>
+    <id>urn:2026-06-01T22:27:20.760Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-01T19:48:10.904Z</updated>
+    <updated>2026-06-01T22:27:20.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Telegram 赚钱指南， 深度揭秘实战玩法 ！ 靠 TON 获利百万的最佳思路和工具速成教学！ 全网原创【5月4日会员视频公开】]]></title>
+        <id>https://www.youtube.com/watch?v=Ygc3XQapjiI</id>
+        <link href="https://www.youtube.com/watch?v=Ygc3XQapjiI"/>
+        <updated>2026-06-01T22:08:11.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Demo Trading Tutorial for Beginners (Demo Account Paper Trading)]]></title>
         <id>https://www.youtube.com/watch?v=wr7zut2-iNk</id>
@@ -417,15 +426,6 @@
         <id>https://www.youtube.com/watch?v=u6jI77BSn6I</id>
         <link href="https://www.youtube.com/watch?v=u6jI77BSn6I"/>
         <updated>2026-05-04T08:43:23.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费使用Deep Seek V4 顶级模型 ！   OpenClaw 拥有加密货币钱包， 自动节省 78% 的 Token 消耗。 ClawRouter  x402 微支付, AI 智能体该有的样子！]]></title>
-        <id>https://www.youtube.com/watch?v=v0fWJvsid3Q</id>
-        <link href="https://www.youtube.com/watch?v=v0fWJvsid3Q"/>
-        <updated>2026-05-03T09:22:20.000Z</updated>
         <author>
             <name>链求君</name>
         </author>

@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-03T10:27:55.451Z</id>
+    <id>urn:2026-06-03T15:21:51.261Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-03T10:27:55.451Z</updated>
+    <updated>2026-06-03T15:21:51.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Trade Margin on Kraken (Kraken Margin & Leverage Explained)]]></title>
+        <id>https://www.youtube.com/watch?v=3QuvBInuLs8</id>
+        <link href="https://www.youtube.com/watch?v=3QuvBInuLs8"/>
+        <updated>2026-06-03T14:00:01.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Full Course 2026]]></title>
+        <id>https://www.youtube.com/watch?v=rjjES5IsPdg</id>
+        <link href="https://www.youtube.com/watch?v=rjjES5IsPdg"/>
+        <updated>2026-06-03T13:59:13.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you help a company solve a problem - and will they let you in and learn from you?]]></title>
+        <id>https://www.youtube.com/shorts/jNjaBcxaJ7Y</id>
+        <link href="https://www.youtube.com/shorts/jNjaBcxaJ7Y"/>
+        <updated>2026-06-03T12:29:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Alert: Actually Insane!]]></title>
         <id>https://www.youtube.com/watch?v=9WR-4UXn8DE</id>
@@ -222,26 +250,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In the beginning, Amazon sold...1 book. In its first week. What a start.]]></title>
-        <id>https://www.youtube.com/shorts/y-uopI6VtE4</id>
-        <link href="https://www.youtube.com/shorts/y-uopI6VtE4"/>
-        <updated>2026-05-24T12:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In life, things should be important or enjoyable - or ideally both]]></title>
-        <id>https://www.youtube.com/shorts/rN4qvA2K8lA</id>
-        <link href="https://www.youtube.com/shorts/rN4qvA2K8lA"/>
-        <updated>2026-05-23T12:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Alert: The Tide Is Turning!]]></title>
         <id>https://www.youtube.com/watch?v=Rg6xvkO8pmE</id>
         <link href="https://www.youtube.com/watch?v=Rg6xvkO8pmE"/>
@@ -347,15 +355,6 @@
         <updated>2026-05-14T01:00:32.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TradingView Pivot Points Indicator Tutorial for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=AqiWGOmWGwU</id>
-        <link href="https://www.youtube.com/watch?v=AqiWGOmWGwU"/>
-        <updated>2026-05-13T14:00:12.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

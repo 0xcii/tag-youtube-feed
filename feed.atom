@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-13T05:11:39.687Z</id>
+    <id>urn:2026-06-13T08:42:25.143Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-13T05:11:39.687Z</updated>
+    <updated>2026-06-13T08:42:25.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -365,15 +365,6 @@
         <updated>2026-05-15T15:34:50.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create a passive income app with Flash Loans + AI]]></title>
-        <id>https://www.youtube.com/watch?v=Q6spALZlxpM</id>
-        <link href="https://www.youtube.com/watch?v=Q6spALZlxpM"/>
-        <updated>2026-05-14T19:00:32.000Z</updated>
-        <author>
-            <name>Dapp University</name>
         </author>
     </entry>
 </feed>

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-15T09:48:28.338Z</id>
+    <id>urn:2026-06-15T15:33:32.700Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-15T09:48:28.338Z</updated>
+    <updated>2026-06-15T15:33:32.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elliot Wave Trading Tutorial for Beginners (How to Trade Elliot Wave)]]></title>
+        <id>https://www.youtube.com/watch?v=XFo9L86BWZ4</id>
+        <link href="https://www.youtube.com/watch?v=XFo9L86BWZ4"/>
+        <updated>2026-06-15T14:00:07.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Self-Healing CI/CD Pipeline with AI]]></title>
+        <id>https://www.youtube.com/watch?v=vj68el9hRvU</id>
+        <link href="https://www.youtube.com/watch?v=vj68el9hRvU"/>
+        <updated>2026-06-15T11:47:23.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["I just like computers" - sounds like reason enough to work in tech, doesn't it?]]></title>
         <id>https://www.youtube.com/shorts/9z_7WC8n5sY</id>
@@ -269,16 +287,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's a little programming challenge for you: can you figure out the output of this code?]]></title>
-        <id>https://www.youtube.com/shorts/MrlJQXOmTgo</id>
-        <link href="https://www.youtube.com/shorts/MrlJQXOmTgo"/>
-        <updated>2026-05-29T12:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Buy Tokenized Stocks on Kraken (Kraken xStocks)]]></title>
         <id>https://www.youtube.com/watch?v=DOL8TC-dtw0</id>
         <link href="https://www.youtube.com/watch?v=DOL8TC-dtw0"/>
@@ -328,15 +336,6 @@
         <id>https://www.youtube.com/watch?v=gvDEkG386dw</id>
         <link href="https://www.youtube.com/watch?v=gvDEkG386dw"/>
         <updated>2026-05-21T14:00:55.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deposit Crypto To Crypto.com (Crypto.com Wallet Address)]]></title>
-        <id>https://www.youtube.com/watch?v=M0yTt6muCvQ</id>
-        <link href="https://www.youtube.com/watch?v=M0yTt6muCvQ"/>
-        <updated>2026-05-20T14:00:36.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-18T07:22:29.492Z</id>
+    <id>urn:2026-06-18T11:41:28.070Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-18T07:22:29.492Z</updated>
+    <updated>2026-06-18T11:41:28.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Computers Can’t Count Money]]></title>
+        <id>https://www.youtube.com/watch?v=rQxPGqPq8wk</id>
+        <link href="https://www.youtube.com/watch?v=rQxPGqPq8wk"/>
+        <updated>2026-06-18T10:09:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Sell Crypto to Cash in Binance (Cash Out Crypto)]]></title>
         <id>https://www.youtube.com/watch?v=VmU2p9pqtIc</id>
@@ -283,16 +292,6 @@
         <updated>2026-06-01T08:42:33.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Jessica "accidentally" became a developer while living and working in Japan]]></title>
-        <id>https://www.youtube.com/shorts/J6t5ev2Z9yk</id>
-        <link href="https://www.youtube.com/shorts/J6t5ev2Z9yk"/>
-        <updated>2026-05-31T12:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

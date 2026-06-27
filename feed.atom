@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-27T01:55:15.545Z</id>
+    <id>urn:2026-06-27T05:43:12.927Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-27T01:55:15.545Z</updated>
+    <updated>2026-06-27T05:43:12.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BTC波动率暴跌90%！如何靠“波动率迁移”找到下一个百倍币 ， 一个链上信号让我提前捕捉到翻倍机会]]></title>
+        <id>https://www.youtube.com/watch?v=2VMnhaH4vwk</id>
+        <link href="https://www.youtube.com/watch?v=2VMnhaH4vwk"/>
+        <updated>2026-06-27T02:41:38.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Alert: Total Disaster]]></title>
         <id>https://www.youtube.com/watch?v=oO4KySznWt0</id>

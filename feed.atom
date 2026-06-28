@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-28T09:49:48.248Z</id>
+    <id>urn:2026-06-28T11:29:14.818Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-28T09:49:48.248Z</updated>
+    <updated>2026-06-28T11:29:14.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[第0期 | 目标：不用写代码，AI 帮你搭系统：服务器 · 交易机器人 · 产品自动上线]]></title>
+        <id>https://www.youtube.com/watch?v=GEfUsSwyU5E</id>
+        <link href="https://www.youtube.com/watch?v=GEfUsSwyU5E"/>
+        <updated>2026-06-28T09:53:21.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC波动率暴跌90%！如何靠“波动率迁移”找到下一个百倍币 ， 一个链上信号让我提前捕捉到翻倍机会]]></title>
         <id>https://www.youtube.com/watch?v=2VMnhaH4vwk</id>

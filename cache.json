@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GEfUsSwyU5E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GEfUsSwyU5E",
+          "publishedOn": "2026-06-28T09:53:21.000Z",
+          "wordCount": null,
+          "title": "第0期 | 目标：不用写代码，AI 帮你搭系统：服务器 · 交易机器人 · 产品自动上线",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2VMnhaH4vwk",
           "author": null,
           "description": "",
@@ -158,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/JoX93gO6eko",
           "publishedOn": "2026-06-18T11:52:38.000Z",
-          "wordCount": 2169,
+          "wordCount": 2258,
           "title": "Why apps designed by AI look like apps designed by AI - and why skilled designers still matter",
           "imageUrl": null
         },
@@ -178,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tHhiB1kA5Zw",
           "publishedOn": "2026-06-16T12:23:43.000Z",
-          "wordCount": 2151,
+          "wordCount": 2179,
           "title": "Learning a new skill is tough. But as Jessica says, the only way to fail is to stop & not come back.",
           "imageUrl": null
         },
@@ -198,7 +208,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9z_7WC8n5sY",
           "publishedOn": "2026-06-14T12:43:23.000Z",
-          "wordCount": 2126,
+          "wordCount": 2144,
           "title": "\"I just like computers\" - sounds like reason enough to work in tech, doesn't it?",
           "imageUrl": null
         },
@@ -208,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MrnOWLtCLas",
           "publishedOn": "2026-06-12T12:18:36.000Z",
-          "wordCount": 2115,
+          "wordCount": 2131,
           "title": "If you're working on a college or job application, think about this: what makes you uniquely you?",
           "imageUrl": null
         },
@@ -218,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/kEBXszEhC0U",
           "publishedOn": "2026-06-10T12:29:24.000Z",
-          "wordCount": 2108,
+          "wordCount": 2121,
           "title": "CSS logical properties change how you code - and Chris breaks it down here.",
           "imageUrl": null
         },
@@ -238,7 +248,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
           "publishedOn": "2026-06-08T12:17:26.000Z",
-          "wordCount": 2146,
+          "wordCount": 2115,
           "title": "Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...",
           "imageUrl": null
         },
@@ -248,7 +258,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5bL1WhHj668",
           "publishedOn": "2026-06-06T12:32:22.000Z",
-          "wordCount": 2140,
+          "wordCount": 2133,
           "title": "Organizing a huge hackathon like TreeHacks is no small feat...but for Rachel, it was so worth it.",
           "imageUrl": null
         },
@@ -258,7 +268,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FVgbs2wvKmE",
           "publishedOn": "2026-06-04T11:52:40.000Z",
-          "wordCount": 2064,
+          "wordCount": 2040,
           "title": "The first webcam was invented to watch...coffee?",
           "imageUrl": null
         }

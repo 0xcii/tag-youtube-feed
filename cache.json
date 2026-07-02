@@ -1,93 +1,6 @@
 {
   "sources": [
     {
-      "title": "链求君",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=GEfUsSwyU5E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GEfUsSwyU5E",
-          "publishedOn": "2026-06-28T09:53:21.000Z",
-          "wordCount": null,
-          "title": "第0期 | 目标：不用写代码，AI 帮你搭系统：服务器 · 交易机器人 · 产品自动上线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2VMnhaH4vwk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2VMnhaH4vwk",
-          "publishedOn": "2026-06-27T02:41:38.000Z",
-          "wordCount": null,
-          "title": "BTC波动率暴跌90%！如何靠“波动率迁移”找到下一个百倍币 ， 一个链上信号让我提前捕捉到翻倍机会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_xDqL-a8MlI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_xDqL-a8MlI",
-          "publishedOn": "2026-06-26T12:59:13.000Z",
-          "wordCount": null,
-          "title": "别人都月入2万了，你为什么还没用CodeX？ 揭秘！CodeX注册充值背后3个免费坑.  跑通 CodeX 全流程  ！99% 的人不知道的 CodeX 获取方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zdm572I4-J8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zdm572I4-J8",
-          "publishedOn": "2026-06-25T10:39:34.000Z",
-          "wordCount": null,
-          "title": "AI让产品创作0成本， 但是如何快速获客 ？  我给了 Agent 一个真实的邮箱身份， 它帮我一天获客 200人 ， 收益 $300 !",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xhYwjY1I8gM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xhYwjY1I8gM",
-          "publishedOn": "2026-06-21T07:07:12.000Z",
-          "wordCount": null,
-          "title": "Nansen 拿出100万美金做抽奖， 每周送100个 1000 USDC，知道的人还不多！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w5ez0HFDv7s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w5ez0HFDv7s",
-          "publishedOn": "2026-06-20T04:42:49.000Z",
-          "wordCount": null,
-          "title": "【会员专属】用 Mac 跑EIGEN的Darkbloom节点，每月躺赚370美金，  EIGEN 处于爆发前期，而大多数人都不知道 ！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_GSlOlZFW2I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_GSlOlZFW2I",
-          "publishedOn": "2026-06-07T15:34:10.000Z",
-          "wordCount": null,
-          "title": "貔貅盘依然在： 如果 Agent 经济真的爆发，最先重要的可能不是赚钱 ！ 是安全第一。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BKIHGT3m-FE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BKIHGT3m-FE",
-          "publishedOn": "2026-06-04T01:24:53.000Z",
-          "wordCount": null,
-          "title": "5分钟启动你的赚钱机会系统，大多数人还在手动找机会 ！$LAB 提前跑路，拥有信息优势，就能预测涨幅 ！实战效果显著，5月已成功狙击 6 个涨幅榜代币 ！",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -158,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/JoX93gO6eko",
           "publishedOn": "2026-06-18T11:52:38.000Z",
-          "wordCount": 2098,
+          "wordCount": 2272,
           "title": "Why apps designed by AI look like apps designed by AI - and why skilled designers still matter",
           "imageUrl": null
         },
@@ -178,7 +91,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tHhiB1kA5Zw",
           "publishedOn": "2026-06-16T12:23:43.000Z",
-          "wordCount": 2112,
+          "wordCount": 2136,
           "title": "Learning a new skill is tough. But as Jessica says, the only way to fail is to stop & not come back.",
           "imageUrl": null
         },
@@ -198,7 +111,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/9z_7WC8n5sY",
           "publishedOn": "2026-06-14T12:43:23.000Z",
-          "wordCount": 2279,
+          "wordCount": 2270,
           "title": "\"I just like computers\" - sounds like reason enough to work in tech, doesn't it?",
           "imageUrl": null
         },
@@ -208,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MrnOWLtCLas",
           "publishedOn": "2026-06-12T12:18:36.000Z",
-          "wordCount": 2192,
+          "wordCount": 2093,
           "title": "If you're working on a college or job application, think about this: what makes you uniquely you?",
           "imageUrl": null
         },
@@ -218,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/kEBXszEhC0U",
           "publishedOn": "2026-06-10T12:29:24.000Z",
-          "wordCount": 2076,
+          "wordCount": 2045,
           "title": "CSS logical properties change how you code - and Chris breaks it down here.",
           "imageUrl": null
         },
@@ -238,200 +151,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/JZeJc9Z7dOg",
           "publishedOn": "2026-06-08T12:17:26.000Z",
-          "wordCount": 2071,
+          "wordCount": 2100,
           "title": "Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Nader Dabit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
-      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": []
-    },
-    {
-      "title": "Chico Crypto",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
-      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
-      "articles": []
-    },
-    {
-      "title": "MoneyZG",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
-      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=qds_AivzVI0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qds_AivzVI0",
-          "publishedOn": "2026-07-01T14:00:17.000Z",
-          "wordCount": null,
-          "title": "How to Place Limit Orders Using Position Tool on TradingView",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4WA4mNSzD8w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4WA4mNSzD8w",
-          "publishedOn": "2026-06-30T14:00:32.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Time To Move On!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7522ehlNFxo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7522ehlNFxo",
-          "publishedOn": "2026-06-29T14:00:34.000Z",
-          "wordCount": null,
-          "title": "Best ETFs Ranked 2026: What People Actually Buy!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oO4KySznWt0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oO4KySznWt0",
-          "publishedOn": "2026-06-26T14:00:04.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Total Disaster",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Y1rcP0hMUag",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y1rcP0hMUag",
-          "publishedOn": "2026-06-24T14:00:18.000Z",
-          "wordCount": null,
-          "title": "OKX Margin Trading Tutorial for Beginners (Step-By-Step)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7L9iex68Ewk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7L9iex68Ewk",
-          "publishedOn": "2026-06-23T14:00:15.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Final Stages of Collapse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a7Z8MqVFLfc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a7Z8MqVFLfc",
-          "publishedOn": "2026-06-22T14:00:39.000Z",
-          "wordCount": null,
-          "title": "Best Index Funds for Beginners 2026 (How to Buy Vanguard, iShares ETFs)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PpG8dvIsRkQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PpG8dvIsRkQ",
-          "publishedOn": "2026-06-19T14:00:28.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: What A Total Mess",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VmU2p9pqtIc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VmU2p9pqtIc",
-          "publishedOn": "2026-06-17T14:00:13.000Z",
-          "wordCount": null,
-          "title": "How to Sell Crypto to Cash in Binance (Cash Out Crypto)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n2eRF-bWN70",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n2eRF-bWN70",
-          "publishedOn": "2026-06-16T14:00:20.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Now Is The Time To Take Risk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XFo9L86BWZ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XFo9L86BWZ4",
-          "publishedOn": "2026-06-15T14:00:07.000Z",
-          "wordCount": null,
-          "title": "Elliot Wave Trading Tutorial for Beginners (How to Trade Elliot Wave)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4eMOXEOYxYk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4eMOXEOYxYk",
-          "publishedOn": "2026-06-12T14:00:39.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Biggest Buy Signal in History!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mxry_MnuqGw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mxry_MnuqGw",
-          "publishedOn": "2026-06-11T14:00:17.000Z",
-          "wordCount": null,
-          "title": "How to Transfer Crypto from Binance to Binance Wallet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1b1CkN5I80Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1b1CkN5I80Q",
-          "publishedOn": "2026-06-10T14:00:13.000Z",
-          "wordCount": null,
-          "title": "Paper Trading for Beginners (Learn Trading FAST & EASY)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MA0xW8bTeXU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MA0xW8bTeXU",
-          "publishedOn": "2026-06-08T14:00:03.000Z",
-          "wordCount": null,
-          "title": "How to Buy Tokenized Stocks in Trust Wallet Easily! (Ondo, xStocks)",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "EatTheBlocks",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
-      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
-    },
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=lm7g3yrt4Hg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lm7g3yrt4Hg",
-          "publishedOn": "2026-06-09T17:15:31.000Z",
-          "wordCount": null,
-          "title": "After 10 Years Building Dapp University, It’s Time for a New Chapter",
           "imageUrl": null
         }
       ]

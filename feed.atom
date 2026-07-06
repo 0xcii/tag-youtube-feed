@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-06T11:18:51.809Z</id>
+    <id>urn:2026-07-06T14:50:21.473Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-06T11:18:51.809Z</updated>
+    <updated>2026-07-06T14:50:21.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UK ISA Accounts 2026 Tutorial: How to Open an ISA?]]></title>
+        <id>https://www.youtube.com/watch?v=c4v_ap6cuag</id>
+        <link href="https://www.youtube.com/watch?v=c4v_ap6cuag"/>
+        <updated>2026-07-06T14:00:07.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Every Major AWS Outage (And Why They Keep Happening)]]></title>
         <id>https://www.youtube.com/watch?v=6C14E9sQ_-w</id>
@@ -311,15 +320,6 @@
         <id>https://www.youtube.com/watch?v=mxry_MnuqGw</id>
         <link href="https://www.youtube.com/watch?v=mxry_MnuqGw"/>
         <updated>2026-06-11T14:00:17.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper Trading for Beginners (Learn Trading FAST & EASY)]]></title>
-        <id>https://www.youtube.com/watch?v=1b1CkN5I80Q</id>
-        <link href="https://www.youtube.com/watch?v=1b1CkN5I80Q"/>
-        <updated>2026-06-10T14:00:13.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

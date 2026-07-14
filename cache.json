@@ -148,7 +148,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/osOR3nusP2I",
           "publishedOn": "2026-07-09T11:52:21.000Z",
-          "wordCount": 2320,
+          "wordCount": 2056,
           "title": "Learning how to ask good questions is a key skill you should work on",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 3251,
+          "wordCount": 2154,
           "title": "Why problem-solving is key for developers",
           "imageUrl": null
         },
@@ -258,7 +258,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/JoX93gO6eko",
           "publishedOn": "2026-06-18T11:52:38.000Z",
-          "wordCount": 2132,
+          "wordCount": 3300,
           "title": "Why apps designed by AI look like apps designed by AI - and why skilled designers still matter",
           "imageUrl": null
         },
@@ -291,6 +291,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WhlIdh_IXHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WhlIdh_IXHI",
+          "publishedOn": "2026-07-14T14:00:11.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: At Extreme Levels Now!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ozvWRhO7xls",
           "author": null,
@@ -429,16 +439,6 @@
           "publishedOn": "2026-06-19T14:00:28.000Z",
           "wordCount": null,
           "title": "Crypto Alert: What A Total Mess",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VmU2p9pqtIc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VmU2p9pqtIc",
-          "publishedOn": "2026-06-17T14:00:13.000Z",
-          "wordCount": null,
-          "title": "How to Sell Crypto to Cash in Binance (Cash Out Crypto)",
           "imageUrl": null
         }
       ]

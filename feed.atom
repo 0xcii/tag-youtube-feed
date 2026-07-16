@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-16T01:18:29.165Z</id>
+    <id>urn:2026-07-16T04:46:31.038Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-16T01:18:29.165Z</updated>
+    <updated>2026-07-16T04:46:31.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[How to Receive USDT on Tron TRC20 in Trust Wallet]]></title>
-        <id>https://www.youtube.com/watch?v=2dKiat3IED8</id>
-        <link href="https://www.youtube.com/watch?v=2dKiat3IED8"/>
-        <updated>2026-07-15T14:00:05.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Intro to Shaders – JavaScript & p5.js Course for Beginners]]></title>
         <id>https://www.youtube.com/watch?v=YdhXnB5E-4s</id>
@@ -21,24 +12,6 @@
         <updated>2026-07-15T11:17:50.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: At Extreme Levels Now!!]]></title>
-        <id>https://www.youtube.com/watch?v=WhlIdh_IXHI</id>
-        <link href="https://www.youtube.com/watch?v=WhlIdh_IXHI"/>
-        <updated>2026-07-14T14:00:11.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood Wallet Tutorial 2026!! (Deposit, Swap, Perps, Withdraw)]]></title>
-        <id>https://www.youtube.com/watch?v=ozvWRhO7xls</id>
-        <link href="https://www.youtube.com/watch?v=ozvWRhO7xls"/>
-        <updated>2026-07-13T14:00:30.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -57,15 +30,6 @@
         <updated>2026-07-12T00:11:08.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: *MAX PAIN* Then Higher!!]]></title>
-        <id>https://www.youtube.com/watch?v=ao_PAjm10GU</id>
-        <link href="https://www.youtube.com/watch?v=ao_PAjm10GU"/>
-        <updated>2026-07-10T14:00:21.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -115,30 +79,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Find BnB Chain BEP20 Address in Trust Wallet]]></title>
-        <id>https://www.youtube.com/watch?v=3k36W_2wtP0</id>
-        <link href="https://www.youtube.com/watch?v=3k36W_2wtP0"/>
-        <updated>2026-07-08T14:00:35.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TypeScript in React - Full Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=aJP1AbZSqz8</id>
         <link href="https://www.youtube.com/watch?v=aJP1AbZSqz8"/>
         <updated>2026-07-08T13:03:29.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Smart Money Is Stepping In]]></title>
-        <id>https://www.youtube.com/watch?v=7fbxfkOvzYs</id>
-        <link href="https://www.youtube.com/watch?v=7fbxfkOvzYs"/>
-        <updated>2026-07-07T14:00:12.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -161,30 +107,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK ISA Accounts 2026 Tutorial: How to Open an ISA?]]></title>
-        <id>https://www.youtube.com/watch?v=c4v_ap6cuag</id>
-        <link href="https://www.youtube.com/watch?v=c4v_ap6cuag"/>
-        <updated>2026-07-06T14:00:07.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Every Major AWS Outage (And Why They Keep Happening)]]></title>
         <id>https://www.youtube.com/watch?v=6C14E9sQ_-w</id>
         <link href="https://www.youtube.com/watch?v=6C14E9sQ_-w"/>
         <updated>2026-07-03T15:06:01.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: SEE THIS!!!]]></title>
-        <id>https://www.youtube.com/watch?v=Ed0y8pjaFZI</id>
-        <link href="https://www.youtube.com/watch?v=Ed0y8pjaFZI"/>
-        <updated>2026-07-03T14:00:33.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -197,15 +125,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Place Limit Orders Using Position Tool on TradingView]]></title>
-        <id>https://www.youtube.com/watch?v=qds_AivzVI0</id>
-        <link href="https://www.youtube.com/watch?v=qds_AivzVI0"/>
-        <updated>2026-07-01T14:00:17.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mastering JavaScript Dates and Times – Fundamentals to Advanced Techniques]]></title>
         <id>https://www.youtube.com/watch?v=2WJ-ut_XEYQ</id>
         <link href="https://www.youtube.com/watch?v=2WJ-ut_XEYQ"/>
@@ -215,30 +134,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Alert: Time To Move On!!]]></title>
-        <id>https://www.youtube.com/watch?v=4WA4mNSzD8w</id>
-        <link href="https://www.youtube.com/watch?v=4WA4mNSzD8w"/>
-        <updated>2026-06-30T14:00:32.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Command Line Basics for Beginners - Full Course]]></title>
         <id>https://www.youtube.com/watch?v=mABpAI-pCw0</id>
         <link href="https://www.youtube.com/watch?v=mABpAI-pCw0"/>
         <updated>2026-06-30T10:00:23.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best ETFs Ranked 2026: What People Actually Buy!?]]></title>
-        <id>https://www.youtube.com/watch?v=7522ehlNFxo</id>
-        <link href="https://www.youtube.com/watch?v=7522ehlNFxo"/>
-        <updated>2026-06-29T14:00:34.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -257,15 +158,6 @@
         <updated>2026-06-27T02:41:38.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Total Disaster]]></title>
-        <id>https://www.youtube.com/watch?v=oO4KySznWt0</id>
-        <link href="https://www.youtube.com/watch?v=oO4KySznWt0"/>
-        <updated>2026-06-26T14:00:04.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -305,39 +197,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OKX Margin Trading Tutorial for Beginners (Step-By-Step)]]></title>
-        <id>https://www.youtube.com/watch?v=Y1rcP0hMUag</id>
-        <link href="https://www.youtube.com/watch?v=Y1rcP0hMUag"/>
-        <updated>2026-06-24T14:00:18.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Final Stages of Collapse]]></title>
-        <id>https://www.youtube.com/watch?v=7L9iex68Ewk</id>
-        <link href="https://www.youtube.com/watch?v=7L9iex68Ewk"/>
-        <updated>2026-06-23T14:00:15.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Notion Workers – Full Tutorial 2026]]></title>
         <id>https://www.youtube.com/watch?v=SWGFVNQNLm4</id>
         <link href="https://www.youtube.com/watch?v=SWGFVNQNLm4"/>
         <updated>2026-06-23T11:30:11.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Index Funds for Beginners 2026 (How to Buy Vanguard, iShares ETFs)]]></title>
-        <id>https://www.youtube.com/watch?v=a7Z8MqVFLfc</id>
-        <link href="https://www.youtube.com/watch?v=a7Z8MqVFLfc"/>
-        <updated>2026-06-22T14:00:39.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

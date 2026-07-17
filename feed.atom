@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-17T09:42:39.404Z</id>
+    <id>urn:2026-07-17T11:11:25.646Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-17T09:42:39.404Z</updated>
+    <updated>2026-07-17T11:11:25.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How an Apple Engineer Pranked Billion-Dollar Lawyers (and Won)]]></title>
+        <id>https://www.youtube.com/watch?v=PVAstrvWPkQ</id>
+        <link href="https://www.youtube.com/watch?v=PVAstrvWPkQ"/>
+        <updated>2026-07-17T10:00:21.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python for Beginners with Hands-On Projects]]></title>
         <id>https://www.youtube.com/watch?v=oDOw5tB3Udw</id>
@@ -365,15 +374,6 @@
         <updated>2026-06-20T04:42:49.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an AI Agent in Telegram with Vercel, Cursor, Composio]]></title>
-        <id>https://www.youtube.com/watch?v=hIh2O9OL69o</id>
-        <link href="https://www.youtube.com/watch?v=hIh2O9OL69o"/>
-        <updated>2026-06-19T10:39:48.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

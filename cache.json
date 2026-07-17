@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ohFJk-fq2f0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ohFJk-fq2f0",
+          "publishedOn": "2026-07-17T13:29:13.000Z",
+          "wordCount": null,
+          "title": "如何获得你 Robinhood Chain 上第一个空投奖励？ Robinhood 热度持续， 实用型代币开始空投 ！ Grid 实践教程",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kHdIjwQ_Co0",
           "author": null,
           "description": "",
@@ -128,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "publishedOn": "2026-07-17T12:18:36.000Z",
-          "wordCount": 2121,
+          "wordCount": 2094,
           "title": "You've likely heard \"fake it til you make it\"...well, Mark has done that, and talks about it here.",
           "imageUrl": null
         },
@@ -188,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/osOR3nusP2I",
           "publishedOn": "2026-07-09T11:52:21.000Z",
-          "wordCount": 3479,
+          "wordCount": 2113,
           "title": "Learning how to ask good questions is a key skill you should work on",
           "imageUrl": null
         },
@@ -218,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 2127,
+          "wordCount": 2200,
           "title": "Why problem-solving is key for developers",
           "imageUrl": null
         },
@@ -291,6 +301,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1CMGPqYrmSo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1CMGPqYrmSo",
+          "publishedOn": "2026-07-17T14:00:24.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: We're Done",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2dKiat3IED8",
           "author": null,
@@ -429,16 +449,6 @@
           "publishedOn": "2026-06-23T14:00:15.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Final Stages of Collapse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a7Z8MqVFLfc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a7Z8MqVFLfc",
-          "publishedOn": "2026-06-22T14:00:39.000Z",
-          "wordCount": null,
-          "title": "Best Index Funds for Beginners 2026 (How to Buy Vanguard, iShares ETFs)",
           "imageUrl": null
         }
       ]

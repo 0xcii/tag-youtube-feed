@@ -123,12 +123,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=reDRM0tqhNs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=reDRM0tqhNs",
+          "publishedOn": "2026-07-20T10:00:18.000Z",
+          "wordCount": null,
+          "title": "Claude Certified Architect - Foundations – Prepare for and pass the exam!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "publishedOn": "2026-07-17T12:18:36.000Z",
-          "wordCount": 2163,
+          "wordCount": 3360,
           "title": "You've likely heard \"fake it til you make it\"...well, Mark has done that, and talks about it here.",
           "imageUrl": null
         },
@@ -188,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/osOR3nusP2I",
           "publishedOn": "2026-07-09T11:52:21.000Z",
-          "wordCount": 3344,
+          "wordCount": 3346,
           "title": "Learning how to ask good questions is a key skill you should work on",
           "imageUrl": null
         },
@@ -218,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 3307,
+          "wordCount": 3295,
           "title": "Why problem-solving is key for developers",
           "imageUrl": null
         },
@@ -260,16 +270,6 @@
           "publishedOn": "2026-06-26T10:00:07.000Z",
           "wordCount": null,
           "title": "How Hackers Think",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7q4D6_3syuE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7q4D6_3syuE",
-          "publishedOn": "2026-06-25T10:00:35.000Z",
-          "wordCount": null,
-          "title": "Scaling Your AI Models with Micro-DDP – Tutorial",
           "imageUrl": null
         }
       ]

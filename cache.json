@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "AI让产品创作0成本， 但是如何快速获客 ？  我给了 Agent 一个真实的邮箱身份， 它帮我一天获客 200人 ， 收益 $300 !",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xhYwjY1I8gM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xhYwjY1I8gM",
-          "publishedOn": "2026-06-21T07:07:12.000Z",
-          "wordCount": null,
-          "title": "Nansen 拿出100万美金做抽奖， 每周送100个 1000 USDC，知道的人还不多！",
-          "imageUrl": null
         }
       ]
     },
@@ -138,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "publishedOn": "2026-07-17T12:18:36.000Z",
-          "wordCount": 3452,
+          "wordCount": 3357,
           "title": "You've likely heard \"fake it til you make it\"...well, Mark has done that, and talks about it here.",
           "imageUrl": null
         },
@@ -198,7 +188,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/osOR3nusP2I",
           "publishedOn": "2026-07-09T11:52:21.000Z",
-          "wordCount": 3421,
+          "wordCount": 2052,
           "title": "Learning how to ask good questions is a key skill you should work on",
           "imageUrl": null
         },
@@ -228,7 +218,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 3315,
+          "wordCount": 3316,
           "title": "Why problem-solving is key for developers",
           "imageUrl": null
         },

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-20T01:22:52.109Z</id>
+    <id>urn:2026-07-20T05:25:10.133Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-20T01:22:52.109Z</updated>
+    <updated>2026-07-20T05:25:10.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -28,7 +28,7 @@
         <id>https://www.youtube.com/shorts/XgqWCiOVh7A</id>
         <link href="https://www.youtube.com/shorts/XgqWCiOVh7A"/>
         <updated>2026-07-17T12:18:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -137,7 +137,7 @@
         <id>https://www.youtube.com/shorts/osOR3nusP2I</id>
         <link href="https://www.youtube.com/shorts/osOR3nusP2I"/>
         <updated>2026-07-09T11:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -201,7 +201,7 @@
         <id>https://www.youtube.com/shorts/heht1VB09fI</id>
         <link href="https://www.youtube.com/shorts/heht1VB09fI"/>
         <updated>2026-07-07T12:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

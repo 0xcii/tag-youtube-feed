@@ -138,7 +138,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "publishedOn": "2026-07-17T12:18:36.000Z",
-          "wordCount": 2378,
+          "wordCount": 2152,
           "title": "You've likely heard \"fake it til you make it\"...well, Mark has done that, and talks about it here.",
           "imageUrl": null
         },
@@ -198,7 +198,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/osOR3nusP2I",
           "publishedOn": "2026-07-09T11:52:21.000Z",
-          "wordCount": 2211,
+          "wordCount": 2092,
           "title": "Learning how to ask good questions is a key skill you should work on",
           "imageUrl": null
         },
@@ -228,7 +228,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 2085,
+          "wordCount": 2068,
           "title": "Why problem-solving is key for developers",
           "imageUrl": null
         },
@@ -291,6 +291,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rQJurOb0uzY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rQJurOb0uzY",
+          "publishedOn": "2026-07-20T14:00:07.000Z",
+          "wordCount": null,
+          "title": "Best Crypto Trading Platforms 2026 (Ranked)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1CMGPqYrmSo",
           "author": null,
@@ -429,16 +439,6 @@
           "publishedOn": "2026-06-24T14:00:18.000Z",
           "wordCount": null,
           "title": "OKX Margin Trading Tutorial for Beginners (Step-By-Step)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7L9iex68Ewk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7L9iex68Ewk",
-          "publishedOn": "2026-06-23T14:00:15.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Final Stages of Collapse",
           "imageUrl": null
         }
       ]

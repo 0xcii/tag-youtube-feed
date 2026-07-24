@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-24T12:09:33.701Z</id>
+    <id>urn:2026-07-24T14:40:17.020Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-24T12:09:33.701Z</updated>
+    <updated>2026-07-24T14:40:17.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TypeScript in Express – TypeScript Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=bYgphDEWwvs</id>
+        <link href="https://www.youtube.com/watch?v=bYgphDEWwvs"/>
+        <updated>2026-07-24T14:05:02.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: What Happens NOW??]]></title>
+        <id>https://www.youtube.com/watch?v=Q0xKeXmcsk8</id>
+        <link href="https://www.youtube.com/watch?v=Q0xKeXmcsk8"/>
+        <updated>2026-07-24T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Take Bitcoin & Crypto Loans on Coinbase (EASY Guide)]]></title>
         <id>https://www.youtube.com/watch?v=caqtSIEKnFI</id>
@@ -307,28 +325,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering JavaScript Dates and Times – Fundamentals to Advanced Techniques]]></title>
-        <id>https://www.youtube.com/watch?v=2WJ-ut_XEYQ</id>
-        <link href="https://www.youtube.com/watch?v=2WJ-ut_XEYQ"/>
-        <updated>2026-07-01T11:19:43.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Alert: Time To Move On!!]]></title>
         <id>https://www.youtube.com/watch?v=4WA4mNSzD8w</id>
         <link href="https://www.youtube.com/watch?v=4WA4mNSzD8w"/>
         <updated>2026-06-30T14:00:32.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best ETFs Ranked 2026: What People Actually Buy!?]]></title>
-        <id>https://www.youtube.com/watch?v=7522ehlNFxo</id>
-        <link href="https://www.youtube.com/watch?v=7522ehlNFxo"/>
-        <updated>2026-06-29T14:00:34.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

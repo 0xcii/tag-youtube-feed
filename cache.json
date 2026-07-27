@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8_UPeZ_1JUw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8_UPeZ_1JUw",
+          "publishedOn": "2026-07-27T15:52:35.000Z",
+          "wordCount": null,
+          "title": "Robinhood MEME 单币 23 万美元实战复盘！CLARITY Act 即将引爆加密市场？真正的机会才刚开始？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ONw0pFBGrZM",
           "author": null,
           "description": "",
@@ -98,7 +108,7 @@
           "description": "AI won't necessarily displace skilled devs - it'll just move their value up the chain. Zubin discusses this with Quincy on the freeCodeCamp podcast.",
           "link": "https://www.youtube.com/shorts/O3foXkb1Zos",
           "publishedOn": "2026-07-25T12:32:34.000Z",
-          "wordCount": 3647,
+          "wordCount": 3579,
           "title": "AI won't necessarily displace skilled devs - it'll just move their value up the chain",
           "imageUrl": "https://i.ytimg.com/vi/O3foXkb1Zos/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBz1XStIjR48KWLO6jgsB1uOk-bdw&usqp=CCk"
         },
@@ -148,9 +158,9 @@
           "description": "You've probably heard the phrase \"fake it 'til you make it\", right? Well, Mark was once asked to teach a college course...that started the next day. He decid...",
           "link": "https://www.youtube.com/shorts/XgqWCiOVh7A",
           "publishedOn": "2026-07-17T12:18:36.000Z",
-          "wordCount": 3800,
+          "wordCount": 3584,
           "title": "You've likely heard \"fake it til you make it\"...well, Mark has done that, and talks about it here.",
-          "imageUrl": "https://i.ytimg.com/vi/XgqWCiOVh7A/oar2.jpg?sqp=-oaymwEnCJUDENAFSFqQAgHyq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gBuAIX&rs=AOn4CLBTwFWqfcu9ffbzZNUCYCJfNT2FOA&usqp=CBc"
+          "imageUrl": "https://i.ytimg.com/vi/XgqWCiOVh7A/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDKzuUQ83NouskBSHVfUjuWQcb4Pg&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/watch?v=PVAstrvWPkQ",
@@ -208,9 +218,9 @@
           "description": "Learning how to ask good questions is a key skill you should work on. Zubin discusses this with Quincy on the freeCodeCamp podcast.",
           "link": "https://www.youtube.com/shorts/osOR3nusP2I",
           "publishedOn": "2026-07-09T11:52:21.000Z",
-          "wordCount": 3440,
+          "wordCount": 3283,
           "title": "Learning how to ask good questions is a key skill you should work on",
-          "imageUrl": "https://i.ytimg.com/vi/osOR3nusP2I/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCrOkhzapRUsdwSfBLD5s3HFX3HnQ&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/osOR3nusP2I/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC6GHeiYX1ENY0qWTsGanJWs2nM4Q&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/watch?v=aJP1AbZSqz8",
@@ -238,9 +248,9 @@
           "description": "It may sound basic, but problem solving is one of the most important skills you can develop - as a dev, and as a human. Mark talks about what that looks like...",
           "link": "https://www.youtube.com/shorts/heht1VB09fI",
           "publishedOn": "2026-07-07T12:05:27.000Z",
-          "wordCount": 3318,
+          "wordCount": 3447,
           "title": "Why problem-solving is key for developers",
-          "imageUrl": "https://i.ytimg.com/vi/heht1VB09fI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBMY3JXt3D460P1wogX1N4NNNWUvQ&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/heht1VB09fI/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLD_27IRYHdWKFannZlxMugq4nhbIw&usqp=CCk"
         }
       ]
     },

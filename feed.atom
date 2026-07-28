@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-28T10:18:57.883Z</id>
+    <id>urn:2026-07-28T12:27:50.797Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-28T10:18:57.883Z</updated>
+    <updated>2026-07-28T12:27:50.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Behind the popular AI tools lies a crucial bit of tech called a transformer.]]></title>
+        <id>https://www.youtube.com/shorts/lFXt6mBEiTQ</id>
+        <link href="https://www.youtube.com/shorts/lFXt6mBEiTQ"/>
+        <updated>2026-07-28T12:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Behind the popular AI tools lies a crucial bit of tech called a transformer. It's what the "T" stands for in ChatGPT, just FYI. Ania tells you all about it h...]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D Printing & Additive Manufacturing – Full Course]]></title>
         <id>https://www.youtube.com/watch?v=XMnRj4ooYz8</id>
@@ -304,15 +314,6 @@
         <updated>2026-07-07T14:00:12.000Z</updated>
         <author>
             <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents For Beginners – OpenClaw Case Study]]></title>
-        <id>https://www.youtube.com/watch?v=AZDSpS5v57w</id>
-        <link href="https://www.youtube.com/watch?v=AZDSpS5v57w"/>
-        <updated>2026-07-07T12:13:50.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

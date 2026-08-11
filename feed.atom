@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-11T09:46:17.509Z</id>
+    <id>urn:2026-08-11T10:38:59.541Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-11T09:46:17.509Z</updated>
+    <updated>2026-08-11T10:38:59.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python for Engineers & Robotics – Master NumPy, Pandas, and ChatGPT Automation]]></title>
+        <id>https://www.youtube.com/watch?v=eDqVqVyCo6k</id>
+        <link href="https://www.youtube.com/watch?v=eDqVqVyCo6k"/>
+        <updated>2026-08-11T10:15:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Clone any Design System in the World in 5 Minutes with the Figma MCP]]></title>
         <id>https://www.youtube.com/watch?v=ksCF5h3EZjE</id>
@@ -321,15 +330,6 @@
         <id>https://www.youtube.com/watch?v=PVAstrvWPkQ</id>
         <link href="https://www.youtube.com/watch?v=PVAstrvWPkQ"/>
         <updated>2026-07-17T10:00:21.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Beginners with Hands-On Projects]]></title>
-        <id>https://www.youtube.com/watch?v=oDOw5tB3Udw</id>
-        <link href="https://www.youtube.com/watch?v=oDOw5tB3Udw"/>
-        <updated>2026-07-16T11:24:01.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

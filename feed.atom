@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T13:32:43.827Z</id>
+    <id>urn:2026-08-18T14:19:29.144Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-18T13:32:43.827Z</updated>
+    <updated>2026-08-18T14:19:29.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Everything is Blowing OUT!]]></title>
+        <id>https://www.youtube.com/watch?v=wpSMVj2_A0c</id>
+        <link href="https://www.youtube.com/watch?v=wpSMVj2_A0c"/>
+        <updated>2026-08-18T14:00:28.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Deposit Money to Binance (Bank Transfer)]]></title>
         <id>https://www.youtube.com/watch?v=wD2_IVQVCts</id>
@@ -301,15 +310,6 @@
         <id>https://www.youtube.com/watch?v=Q0xKeXmcsk8</id>
         <link href="https://www.youtube.com/watch?v=Q0xKeXmcsk8"/>
         <updated>2026-07-24T14:00:30.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Take Bitcoin & Crypto Loans on Coinbase (EASY Guide)]]></title>
-        <id>https://www.youtube.com/watch?v=caqtSIEKnFI</id>
-        <link href="https://www.youtube.com/watch?v=caqtSIEKnFI"/>
-        <updated>2026-07-22T14:00:31.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T03:33:11.660Z</id>
+    <id>urn:2026-08-18T04:22:08.035Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-18T03:33:11.660Z</updated>
+    <updated>2026-08-18T04:22:08.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deposit Money to Binance (Bank Transfer)]]></title>
+        <id>https://www.youtube.com/watch?v=wD2_IVQVCts</id>
+        <link href="https://www.youtube.com/watch?v=wD2_IVQVCts"/>
+        <updated>2026-08-17T14:00:35.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Seriously Uncomfortable]]></title>
+        <id>https://www.youtube.com/watch?v=ZCQl3Y9cwg0</id>
+        <link href="https://www.youtube.com/watch?v=ZCQl3Y9cwg0"/>
+        <updated>2026-08-14T14:00:05.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System Design for AI Agents – Building a Multi-Agent PR Reviewer]]></title>
         <id>https://www.youtube.com/watch?v=iqRcGCah0Kw</id>
@@ -12,6 +30,24 @@
         <updated>2026-08-14T10:00:24.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bybit Demo Trading Tutorial for Beginners (Demo Account Paper Trading)]]></title>
+        <id>https://www.youtube.com/watch?v=uJ4NlRx2Xe8</id>
+        <link href="https://www.youtube.com/watch?v=uJ4NlRx2Xe8"/>
+        <updated>2026-08-12T14:00:10.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: You NEED to Know This!]]></title>
+        <id>https://www.youtube.com/watch?v=ZUhXVxi22Jc</id>
+        <link href="https://www.youtube.com/watch?v=ZUhXVxi22Jc"/>
+        <updated>2026-08-11T14:00:36.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -24,12 +60,30 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Clone any Design System in the World in 5 Minutes with the Figma MCP]]></title>
-        <id>https://www.youtube.com/watch?v=ksCF5h3EZjE</id>
-        <link href="https://www.youtube.com/watch?v=ksCF5h3EZjE"/>
-        <updated>2026-08-10T20:43:16.000Z</updated>
+        <title type="html"><![CDATA[Robinhood Wallet: How to Withdraw & Cash Out]]></title>
+        <id>https://www.youtube.com/watch?v=GRbKaZ52V-M</id>
+        <link href="https://www.youtube.com/watch?v=GRbKaZ52V-M"/>
+        <updated>2026-08-10T14:00:16.000Z</updated>
         <author>
-            <name>Nader Dabit</name>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Oh No!!]]></title>
+        <id>https://www.youtube.com/watch?v=hmBbWyCE1H4</id>
+        <link href="https://www.youtube.com/watch?v=hmBbWyCE1H4"/>
+        <updated>2026-08-07T14:00:19.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TradingView Fixed Range Volume Profile Tutorial (EASY)]]></title>
+        <id>https://www.youtube.com/watch?v=_TwbyiUbOYE</id>
+        <link href="https://www.youtube.com/watch?v=_TwbyiUbOYE"/>
+        <updated>2026-08-05T14:00:03.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -39,6 +93,24 @@
         <updated>2026-08-05T11:00:27.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Now or Never!?]]></title>
+        <id>https://www.youtube.com/watch?v=qXnEer0McI0</id>
+        <link href="https://www.youtube.com/watch?v=qXnEer0McI0"/>
+        <updated>2026-08-04T14:00:27.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best iShares Index Funds 2026? (BlackRock ETFs Tutorial)]]></title>
+        <id>https://www.youtube.com/watch?v=eSZKVvhJu1w</id>
+        <link href="https://www.youtube.com/watch?v=eSZKVvhJu1w"/>
+        <updated>2026-08-03T14:00:19.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -57,6 +129,15 @@
         <updated>2026-07-31T15:59:06.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Time To Get SERIOUS!!]]></title>
+        <id>https://www.youtube.com/watch?v=PlGbmSlEteU</id>
+        <link href="https://www.youtube.com/watch?v=PlGbmSlEteU"/>
+        <updated>2026-07-31T14:00:12.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>
@@ -79,6 +160,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Swap Crypto in Robinhood Wallet]]></title>
+        <id>https://www.youtube.com/watch?v=oK4KpZ0jpzc</id>
+        <link href="https://www.youtube.com/watch?v=oK4KpZ0jpzc"/>
+        <updated>2026-07-29T14:00:39.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: WTF is Happening?]]></title>
+        <id>https://www.youtube.com/watch?v=v5Zh4x9fFO4</id>
+        <link href="https://www.youtube.com/watch?v=v5Zh4x9fFO4"/>
+        <updated>2026-07-28T14:00:39.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Behind the popular AI tools lies a crucial bit of tech called a transformer.]]></title>
         <id>https://www.youtube.com/shorts/lFXt6mBEiTQ</id>
         <link href="https://www.youtube.com/shorts/lFXt6mBEiTQ"/>
@@ -98,6 +197,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What is A Cash ISA? (Best Cash ISA Accounts Explained)]]></title>
+        <id>https://www.youtube.com/watch?v=gVlBG_rb60U</id>
+        <link href="https://www.youtube.com/watch?v=gVlBG_rb60U"/>
+        <updated>2026-07-27T14:00:10.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI won't necessarily displace skilled devs - it'll just move their value up the chain]]></title>
         <id>https://www.youtube.com/shorts/O3foXkb1Zos</id>
         <link href="https://www.youtube.com/shorts/O3foXkb1Zos"/>
@@ -114,6 +222,24 @@
         <updated>2026-07-24T14:05:02.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: What Happens NOW??]]></title>
+        <id>https://www.youtube.com/watch?v=Q0xKeXmcsk8</id>
+        <link href="https://www.youtube.com/watch?v=Q0xKeXmcsk8"/>
+        <updated>2026-07-24T14:00:30.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Take Bitcoin & Crypto Loans on Coinbase (EASY Guide)]]></title>
+        <id>https://www.youtube.com/watch?v=caqtSIEKnFI</id>
+        <link href="https://www.youtube.com/watch?v=caqtSIEKnFI"/>
+        <updated>2026-07-22T14:00:31.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

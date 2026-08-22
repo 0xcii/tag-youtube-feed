@@ -178,7 +178,7 @@
           "description": "Project-based learning is a popular way to teach these days. Mark tells Quincy about his approach with his students and how he lays out the goals for the class.",
           "link": "https://www.youtube.com/shorts/YHQWuLG78Hw",
           "publishedOn": "2026-07-30T11:52:26.000Z",
-          "wordCount": 3348,
+          "wordCount": 3312,
           "title": "Project-based learning is a popular way to teach these days",
           "imageUrl": "https://i.ytimg.com/vi/YHQWuLG78Hw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDHdE8cnDB0hAB10YtAqNewAJcidA&usqp=CCk"
         },
@@ -188,7 +188,7 @@
           "description": "Behind the popular AI tools lies a crucial bit of tech called a transformer. It's what the \"T\" stands for in ChatGPT, just FYI. Ania tells you all about it h...",
           "link": "https://www.youtube.com/shorts/lFXt6mBEiTQ",
           "publishedOn": "2026-07-28T12:05:32.000Z",
-          "wordCount": 3566,
+          "wordCount": 3349,
           "title": "Behind the popular AI tools lies a crucial bit of tech called a transformer.",
           "imageUrl": "https://i.ytimg.com/vi/lFXt6mBEiTQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDjmoIsuuMf0V2QZJPdUaT0JmctXQ&usqp=CCk"
         },
@@ -208,7 +208,7 @@
           "description": "AI won't necessarily displace skilled devs - it'll just move their value up the chain. Zubin discusses this with Quincy on the freeCodeCamp podcast.",
           "link": "https://www.youtube.com/shorts/O3foXkb1Zos",
           "publishedOn": "2026-07-25T12:32:34.000Z",
-          "wordCount": 3476,
+          "wordCount": 3346,
           "title": "AI won't necessarily displace skilled devs - it'll just move their value up the chain",
           "imageUrl": "https://i.ytimg.com/vi/O3foXkb1Zos/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBz1XStIjR48KWLO6jgsB1uOk-bdw&usqp=CCk"
         },
@@ -223,202 +223,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Nader Dabit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
-      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
-          "author": null,
-          "description": "Slack just introduced Slack Code, a new multiplayer way to collaborate with AI agents on software development directly inside Slack. Watch as I spin up ephem...",
-          "link": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
-          "publishedOn": "2026-08-20T23:12:36.000Z",
-          "wordCount": 3446,
-          "title": "Slack Code First Look: Multiplayer Software Engineering directly in Slack | 2 Minute Guide",
-          "imageUrl": "https://i.ytimg.com/vi/3Qgr8_EbmbI/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCCqPXX-KGaNdeLN2UyGTPBhcLoNA"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
-          "publishedOn": "2026-08-10T20:43:16.000Z",
-          "wordCount": null,
-          "title": "How to Clone any Design System in the World in 5 Minutes with the Figma MCP",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Chico Crypto",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
-      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
-      "articles": []
-    },
-    {
-      "title": "MoneyZG",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
-      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=zQnAs7nn8kw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zQnAs7nn8kw",
-          "publishedOn": "2026-08-21T14:00:39.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Time to Panic!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kdl7qwAAqDU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kdl7qwAAqDU",
-          "publishedOn": "2026-08-19T14:00:37.000Z",
-          "wordCount": null,
-          "title": "Best World Index Fund ETFs To Invest In Forever",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wpSMVj2_A0c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wpSMVj2_A0c",
-          "publishedOn": "2026-08-18T14:00:28.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Everything is Blowing OUT!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wD2_IVQVCts",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wD2_IVQVCts",
-          "publishedOn": "2026-08-17T14:00:35.000Z",
-          "wordCount": null,
-          "title": "How to Deposit Money to Binance (Bank Transfer)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZCQl3Y9cwg0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZCQl3Y9cwg0",
-          "publishedOn": "2026-08-14T14:00:05.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Seriously Uncomfortable",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uJ4NlRx2Xe8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uJ4NlRx2Xe8",
-          "publishedOn": "2026-08-12T14:00:10.000Z",
-          "wordCount": null,
-          "title": "Bybit Demo Trading Tutorial for Beginners (Demo Account Paper Trading)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZUhXVxi22Jc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZUhXVxi22Jc",
-          "publishedOn": "2026-08-11T14:00:36.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: You NEED to Know This!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GRbKaZ52V-M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GRbKaZ52V-M",
-          "publishedOn": "2026-08-10T14:00:16.000Z",
-          "wordCount": null,
-          "title": "Robinhood Wallet: How to Withdraw & Cash Out",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hmBbWyCE1H4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hmBbWyCE1H4",
-          "publishedOn": "2026-08-07T14:00:19.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Oh No!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_TwbyiUbOYE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_TwbyiUbOYE",
-          "publishedOn": "2026-08-05T14:00:03.000Z",
-          "wordCount": null,
-          "title": "TradingView Fixed Range Volume Profile Tutorial (EASY)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qXnEer0McI0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qXnEer0McI0",
-          "publishedOn": "2026-08-04T14:00:27.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Now or Never!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eSZKVvhJu1w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eSZKVvhJu1w",
-          "publishedOn": "2026-08-03T14:00:19.000Z",
-          "wordCount": null,
-          "title": "Best iShares Index Funds 2026? (BlackRock ETFs Tutorial)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PlGbmSlEteU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PlGbmSlEteU",
-          "publishedOn": "2026-07-31T14:00:12.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Time To Get SERIOUS!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oK4KpZ0jpzc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oK4KpZ0jpzc",
-          "publishedOn": "2026-07-29T14:00:39.000Z",
-          "wordCount": null,
-          "title": "How to Swap Crypto in Robinhood Wallet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v5Zh4x9fFO4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v5Zh4x9fFO4",
-          "publishedOn": "2026-07-28T14:00:39.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: WTF is Happening?",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "EatTheBlocks",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
-      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
-      "articles": []
     },
     {
       "title": "Dapp University",

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-23T00:31:58.323Z</id>
+    <id>urn:2026-08-23T02:15:33.809Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-23T00:31:58.323Z</updated>
+    <updated>2026-08-23T02:15:33.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -340,15 +340,6 @@
         <updated>2026-07-25T01:40:37.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript in Express – TypeScript Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=bYgphDEWwvs</id>
-        <link href="https://www.youtube.com/watch?v=bYgphDEWwvs"/>
-        <updated>2026-07-24T14:05:02.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

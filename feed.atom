@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-24T00:30:54.293Z</id>
+    <id>urn:2026-08-24T02:14:05.163Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-24T00:30:54.293Z</updated>
+    <updated>2026-08-24T02:14:05.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -321,16 +321,6 @@
         <updated>2026-07-27T15:52:35.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI won't necessarily displace skilled devs - it'll just move their value up the chain]]></title>
-        <id>https://www.youtube.com/shorts/O3foXkb1Zos</id>
-        <link href="https://www.youtube.com/shorts/O3foXkb1Zos"/>
-        <updated>2026-07-25T12:32:34.000Z</updated>
-        <summary type="html"><![CDATA[AI won't necessarily displace skilled devs - it'll just move their value up the chain. Zubin discusses this with Quincy on the freeCodeCamp podcast.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

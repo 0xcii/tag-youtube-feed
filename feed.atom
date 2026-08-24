@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-24T11:15:43.022Z</id>
+    <id>urn:2026-08-24T12:20:11.797Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-24T11:15:43.022Z</updated>
+    <updated>2026-08-24T12:20:11.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -28,6 +28,7 @@
         <id>https://www.youtube.com/shorts/3Qgr8_EbmbI</id>
         <link href="https://www.youtube.com/shorts/3Qgr8_EbmbI"/>
         <updated>2026-08-20T23:12:36.000Z</updated>
+        <summary type="html"><![CDATA[Slack just introduced Slack Code, a new multiplayer way to collaborate with AI agents on software development directly inside Slack. Watch as I spin up ephem...]]></summary>
         <author>
             <name>Nader Dabit</name>
         </author>
@@ -271,6 +272,7 @@
         <id>https://www.youtube.com/shorts/YHQWuLG78Hw</id>
         <link href="https://www.youtube.com/shorts/YHQWuLG78Hw"/>
         <updated>2026-07-30T11:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Project-based learning is a popular way to teach these days. Mark tells Quincy about his approach with his students and how he lays out the goals for the class.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -298,6 +300,7 @@
         <id>https://www.youtube.com/shorts/lFXt6mBEiTQ</id>
         <link href="https://www.youtube.com/shorts/lFXt6mBEiTQ"/>
         <updated>2026-07-28T12:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Behind the popular AI tools lies a crucial bit of tech called a transformer. It's what the "T" stands for in ChatGPT, just FYI. Ania tells you all about it h...]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>

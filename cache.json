@@ -1,4 +1,11 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }

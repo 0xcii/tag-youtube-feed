@@ -1,4 +1,401 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "链求君",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9cBoUT8svCI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9cBoUT8svCI",
+          "publishedOn": "2026-08-14T00:00:33.000Z",
+          "wordCount": null,
+          "title": "专注于低市值MEME币忽略一个事实：大多数山寨币在下跌90%后，已经处于底部，交易机会也很大！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p7NkaUYSEiA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p7NkaUYSEiA",
+          "publishedOn": "2026-08-12T00:00:31.000Z",
+          "wordCount": null,
+          "title": "让闲置数字资产发挥作用 ， Basis  享受每日套利收益 ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Gu4jF9Oxd3g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gu4jF9Oxd3g",
+          "publishedOn": "2026-08-10T08:35:42.000Z",
+          "wordCount": null,
+          "title": "全网独家： FOMO App 里的高阶用户，2万个私有聪明钱地址数据，提前一步发现机会【专属AI Skills】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SjHzSbW0zWA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SjHzSbW0zWA",
+          "publishedOn": "2026-08-09T15:35:09.000Z",
+          "wordCount": null,
+          "title": "追踪 MEME 币钱包指南：别再只盯着币价，真正该追的是那群最早赚钱的人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mWCJia2hhIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mWCJia2hhIE",
+          "publishedOn": "2026-08-03T17:39:12.000Z",
+          "wordCount": null,
+          "title": "加密草台班子： 3个月 Web3 超过300个项目被盗 ！ 加密新手最全避坑指南 ！保护你的钱袋子 ！ 揭秘币圈潜规则： 你以为的安全全是纸糊的。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8_UPeZ_1JUw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8_UPeZ_1JUw",
+          "publishedOn": "2026-07-27T15:52:35.000Z",
+          "wordCount": null,
+          "title": "Robinhood MEME 单币 23 万美元实战复盘！CLARITY Act 即将引爆加密市场？真正的机会才刚开始？",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jIo2ccqPnLQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jIo2ccqPnLQ",
+          "publishedOn": "2026-08-21T11:00:31.000Z",
+          "wordCount": null,
+          "title": "The Paper That Created Modern AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RpLnQnurpLY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RpLnQnurpLY",
+          "publishedOn": "2026-08-20T10:14:35.000Z",
+          "wordCount": null,
+          "title": "Learn Data Structures and Algorithms Visually – Crash Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=R5fPn6W8m6k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R5fPn6W8m6k",
+          "publishedOn": "2026-08-19T10:00:28.000Z",
+          "wordCount": null,
+          "title": "Code a Reinforcement Learning Library in C from Scratch (Full Course)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iqRcGCah0Kw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iqRcGCah0Kw",
+          "publishedOn": "2026-08-14T10:00:24.000Z",
+          "wordCount": null,
+          "title": "System Design for AI Agents – Building a Multi-Agent PR Reviewer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eDqVqVyCo6k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eDqVqVyCo6k",
+          "publishedOn": "2026-08-11T10:15:25.000Z",
+          "wordCount": null,
+          "title": "Python for Engineers & Robotics – Master NumPy, Pandas, and ChatGPT Automation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7l6bXLAKyEI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7l6bXLAKyEI",
+          "publishedOn": "2026-08-05T11:00:27.000Z",
+          "wordCount": null,
+          "title": "Claude Code Full Course – Autonomous Goals, MCP, and VS Code Setup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wDWKUvTKCaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wDWKUvTKCaw",
+          "publishedOn": "2026-08-03T11:36:12.000Z",
+          "wordCount": null,
+          "title": "Low-Level Graphics in C – Pixel Manipulation and Frame Buffers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hAsz5GAbBQE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hAsz5GAbBQE",
+          "publishedOn": "2026-07-31T15:59:06.000Z",
+          "wordCount": null,
+          "title": "Kubernetes Operator Best Practices – Kubebuilder Deep Dive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Zy7EXDONlTY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zy7EXDONlTY",
+          "publishedOn": "2026-07-30T14:04:08.000Z",
+          "wordCount": null,
+          "title": "Agentic AI – Complete Course for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/YHQWuLG78Hw",
+          "author": null,
+          "description": "Project-based learning is a popular way to teach these days. Mark tells Quincy about his approach with his students and how he lays out the goals for the class.",
+          "link": "https://www.youtube.com/shorts/YHQWuLG78Hw",
+          "publishedOn": "2026-07-30T11:52:26.000Z",
+          "wordCount": 3480,
+          "title": "Project-based learning is a popular way to teach these days",
+          "imageUrl": "https://i.ytimg.com/vi/YHQWuLG78Hw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDHdE8cnDB0hAB10YtAqNewAJcidA&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/lFXt6mBEiTQ",
+          "author": null,
+          "description": "Behind the popular AI tools lies a crucial bit of tech called a transformer. It's what the \"T\" stands for in ChatGPT, just FYI. Ania tells you all about it h...",
+          "link": "https://www.youtube.com/shorts/lFXt6mBEiTQ",
+          "publishedOn": "2026-07-28T12:05:32.000Z",
+          "wordCount": 3601,
+          "title": "Behind the popular AI tools lies a crucial bit of tech called a transformer.",
+          "imageUrl": "https://i.ytimg.com/vi/lFXt6mBEiTQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDjmoIsuuMf0V2QZJPdUaT0JmctXQ&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XMnRj4ooYz8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XMnRj4ooYz8",
+          "publishedOn": "2026-07-28T10:00:06.000Z",
+          "wordCount": null,
+          "title": "3D Printing & Additive Manufacturing – Full Course",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
+          "author": null,
+          "description": "Slack just introduced Slack Code, a new multiplayer way to collaborate with AI agents on software development directly inside Slack. Watch as I spin up ephem...",
+          "link": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
+          "publishedOn": "2026-08-20T23:12:36.000Z",
+          "wordCount": 3451,
+          "title": "Slack Code First Look: Multiplayer Software Engineering directly in Slack | 2 Minute Guide",
+          "imageUrl": "https://i.ytimg.com/vi/3Qgr8_EbmbI/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCCqPXX-KGaNdeLN2UyGTPBhcLoNA"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
+          "publishedOn": "2026-08-10T20:43:16.000Z",
+          "wordCount": null,
+          "title": "How to Clone any Design System in the World in 5 Minutes with the Figma MCP",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
+      "articles": []
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mpolFE_KVdw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mpolFE_KVdw",
+          "publishedOn": "2026-08-24T14:00:35.000Z",
+          "wordCount": null,
+          "title": "Crypto.com Limit Order Tutorial (How to Use Limits Orders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zQnAs7nn8kw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zQnAs7nn8kw",
+          "publishedOn": "2026-08-21T14:00:39.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Time to Panic!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kdl7qwAAqDU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kdl7qwAAqDU",
+          "publishedOn": "2026-08-19T14:00:37.000Z",
+          "wordCount": null,
+          "title": "Best World Index Fund ETFs To Invest In Forever",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wpSMVj2_A0c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wpSMVj2_A0c",
+          "publishedOn": "2026-08-18T14:00:28.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Everything is Blowing OUT!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wD2_IVQVCts",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wD2_IVQVCts",
+          "publishedOn": "2026-08-17T14:00:35.000Z",
+          "wordCount": null,
+          "title": "How to Deposit Money to Binance (Bank Transfer)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZCQl3Y9cwg0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZCQl3Y9cwg0",
+          "publishedOn": "2026-08-14T14:00:05.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Seriously Uncomfortable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uJ4NlRx2Xe8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uJ4NlRx2Xe8",
+          "publishedOn": "2026-08-12T14:00:10.000Z",
+          "wordCount": null,
+          "title": "Bybit Demo Trading Tutorial for Beginners (Demo Account Paper Trading)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZUhXVxi22Jc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZUhXVxi22Jc",
+          "publishedOn": "2026-08-11T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: You NEED to Know This!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GRbKaZ52V-M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GRbKaZ52V-M",
+          "publishedOn": "2026-08-10T14:00:16.000Z",
+          "wordCount": null,
+          "title": "Robinhood Wallet: How to Withdraw & Cash Out",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hmBbWyCE1H4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hmBbWyCE1H4",
+          "publishedOn": "2026-08-07T14:00:19.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Oh No!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_TwbyiUbOYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_TwbyiUbOYE",
+          "publishedOn": "2026-08-05T14:00:03.000Z",
+          "wordCount": null,
+          "title": "TradingView Fixed Range Volume Profile Tutorial (EASY)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qXnEer0McI0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qXnEer0McI0",
+          "publishedOn": "2026-08-04T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Now or Never!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eSZKVvhJu1w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eSZKVvhJu1w",
+          "publishedOn": "2026-08-03T14:00:19.000Z",
+          "wordCount": null,
+          "title": "Best iShares Index Funds 2026? (BlackRock ETFs Tutorial)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PlGbmSlEteU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PlGbmSlEteU",
+          "publishedOn": "2026-07-31T14:00:12.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Time To Get SERIOUS!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oK4KpZ0jpzc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oK4KpZ0jpzc",
+          "publishedOn": "2026-07-29T14:00:39.000Z",
+          "wordCount": null,
+          "title": "How to Swap Crypto in Robinhood Wallet",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }

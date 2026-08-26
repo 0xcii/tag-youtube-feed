@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-26T13:42:35.595Z</id>
+    <id>urn:2026-08-26T14:31:42.731Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-26T13:42:35.595Z</updated>
+    <updated>2026-08-26T14:31:42.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Withdraw Money from Hyperliquid (Cash out)]]></title>
+        <id>https://www.youtube.com/watch?v=7SO9vIKBbzI</id>
+        <link href="https://www.youtube.com/watch?v=7SO9vIKBbzI"/>
+        <updated>2026-08-26T14:00:36.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Alert: A LOT More Coming!!]]></title>
         <id>https://www.youtube.com/watch?v=ZZh9EKwI0QI</id>
@@ -274,15 +283,6 @@
         <updated>2026-07-31T15:59:06.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: Time To Get SERIOUS!!]]></title>
-        <id>https://www.youtube.com/watch?v=PlGbmSlEteU</id>
-        <link href="https://www.youtube.com/watch?v=PlGbmSlEteU"/>
-        <updated>2026-07-31T14:00:12.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

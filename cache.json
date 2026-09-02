@@ -165,7 +165,7 @@
           "description": "Slack just introduced Slack Code, a new multiplayer way to collaborate with AI agents on software development directly inside Slack. Watch as I spin up ephem...",
           "link": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
           "publishedOn": "2026-08-20T23:12:36.000Z",
-          "wordCount": 3473,
+          "wordCount": 3461,
           "title": "Slack Code First Look: Multiplayer Software Engineering directly in Slack | 2 Minute Guide",
           "imageUrl": "https://i.ytimg.com/vi/3Qgr8_EbmbI/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCCqPXX-KGaNdeLN2UyGTPBhcLoNA"
         },
@@ -192,6 +192,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Cpx40qV-_hc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cpx40qV-_hc",
+          "publishedOn": "2026-09-02T14:00:08.000Z",
+          "wordCount": null,
+          "title": "How to Find Crypto.com Onchain Wallet Private Key (Seed Phrase)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=krnrWWspWZc",
           "author": null,
@@ -330,16 +340,6 @@
           "publishedOn": "2026-08-10T14:00:16.000Z",
           "wordCount": null,
           "title": "Robinhood Wallet: How to Withdraw & Cash Out",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hmBbWyCE1H4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hmBbWyCE1H4",
-          "publishedOn": "2026-08-07T14:00:19.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Oh No!!",
           "imageUrl": null
         }
       ]

@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }

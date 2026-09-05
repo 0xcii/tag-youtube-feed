@@ -78,7 +78,7 @@
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3433,
+          "wordCount": 3703,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
           "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
         },
@@ -173,6 +173,208 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
+          "author": null,
+          "description": "Slack just introduced Slack Code, a new multiplayer way to collaborate with AI agents on software development directly inside Slack. Watch as I spin up ephem...",
+          "link": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
+          "publishedOn": "2026-08-20T23:12:36.000Z",
+          "wordCount": 3436,
+          "title": "Slack Code First Look: Multiplayer Software Engineering directly in Slack | 2 Minute Guide",
+          "imageUrl": "https://i.ytimg.com/vi/3Qgr8_EbmbI/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCCqPXX-KGaNdeLN2UyGTPBhcLoNA"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ksCF5h3EZjE",
+          "publishedOn": "2026-08-10T20:43:16.000Z",
+          "wordCount": null,
+          "title": "How to Clone any Design System in the World in 5 Minutes with the Figma MCP",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
+      "articles": []
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=i9O-a8D5Ey4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i9O-a8D5Ey4",
+          "publishedOn": "2026-09-04T14:00:13.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Don't Wait!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Cpx40qV-_hc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cpx40qV-_hc",
+          "publishedOn": "2026-09-02T14:00:08.000Z",
+          "wordCount": null,
+          "title": "How to Find Crypto.com Onchain Wallet Private Key (Seed Phrase)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=krnrWWspWZc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=krnrWWspWZc",
+          "publishedOn": "2026-09-01T14:00:35.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Bitcoin Moved Too Fast!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Pc0hr5RbtlI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pc0hr5RbtlI",
+          "publishedOn": "2026-08-31T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Kraken Pro Limit Order Tutorial (How to Use Limits Orders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YLSYWM_N8M4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YLSYWM_N8M4",
+          "publishedOn": "2026-08-28T14:00:30.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Don't Miss This!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7SO9vIKBbzI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7SO9vIKBbzI",
+          "publishedOn": "2026-08-26T14:00:36.000Z",
+          "wordCount": null,
+          "title": "How to Withdraw Money from Hyperliquid (Cash out)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZZh9EKwI0QI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZZh9EKwI0QI",
+          "publishedOn": "2026-08-25T14:00:38.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: A LOT More Coming!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mpolFE_KVdw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mpolFE_KVdw",
+          "publishedOn": "2026-08-24T14:00:35.000Z",
+          "wordCount": null,
+          "title": "Crypto.com Limit Order Tutorial (How to Use Limits Orders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zQnAs7nn8kw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zQnAs7nn8kw",
+          "publishedOn": "2026-08-21T14:00:39.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Time to Panic!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kdl7qwAAqDU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kdl7qwAAqDU",
+          "publishedOn": "2026-08-19T14:00:37.000Z",
+          "wordCount": null,
+          "title": "Best World Index Fund ETFs To Invest In Forever",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wpSMVj2_A0c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wpSMVj2_A0c",
+          "publishedOn": "2026-08-18T14:00:28.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Everything is Blowing OUT!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wD2_IVQVCts",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wD2_IVQVCts",
+          "publishedOn": "2026-08-17T14:00:35.000Z",
+          "wordCount": null,
+          "title": "How to Deposit Money to Binance (Bank Transfer)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZCQl3Y9cwg0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZCQl3Y9cwg0",
+          "publishedOn": "2026-08-14T14:00:05.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Seriously Uncomfortable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uJ4NlRx2Xe8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uJ4NlRx2Xe8",
+          "publishedOn": "2026-08-12T14:00:10.000Z",
+          "wordCount": null,
+          "title": "Bybit Demo Trading Tutorial for Beginners (Demo Account Paper Trading)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZUhXVxi22Jc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZUhXVxi22Jc",
+          "publishedOn": "2026-08-11T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: You NEED to Know This!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

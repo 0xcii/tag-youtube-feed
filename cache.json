@@ -78,7 +78,7 @@
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3671,
+          "wordCount": 3433,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
           "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
         },
@@ -173,18 +173,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Chico Crypto",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
-      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
-      "articles": []
-    },
-    {
-      "title": "Dapp University",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
-      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

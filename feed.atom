@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-08T11:49:02.302Z</id>
+    <id>urn:2026-09-08T15:28:43.622Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-08T11:49:02.302Z</updated>
+    <updated>2026-09-08T15:28:43.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Absolute Shambles]]></title>
+        <id>https://www.youtube.com/watch?v=pFBXL-GtlRI</id>
+        <link href="https://www.youtube.com/watch?v=pFBXL-GtlRI"/>
+        <updated>2026-09-08T14:00:09.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bybit Limit Order Tutorial (How to Use Limit Orders)]]></title>
         <id>https://www.youtube.com/watch?v=esH_VbcJX48</id>
@@ -248,15 +257,6 @@
         <updated>2026-08-14T00:00:33.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit Demo Trading Tutorial for Beginners (Demo Account Paper Trading)]]></title>
-        <id>https://www.youtube.com/watch?v=uJ4NlRx2Xe8</id>
-        <link href="https://www.youtube.com/watch?v=uJ4NlRx2Xe8"/>
-        <updated>2026-08-12T14:00:10.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

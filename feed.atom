@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-12T06:36:27.213Z</id>
+    <id>urn:2026-09-12T11:19:55.405Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-12T06:36:27.213Z</updated>
+    <updated>2026-09-12T11:19:55.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,12 +24,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenAI Codex Crash Course – Build & Deploy Apps with Autonomous AI]]></title>
+        <id>https://www.youtube.com/watch?v=o3CX_Y59_74</id>
+        <link href="https://www.youtube.com/watch?v=o3CX_Y59_74"/>
+        <updated>2026-09-10T15:04:22.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Connect Crypto.com to Onchain Wallet]]></title>
         <id>https://www.youtube.com/watch?v=l2hhKlIikAM</id>
         <link href="https://www.youtube.com/watch?v=l2hhKlIikAM"/>
         <updated>2026-09-09T14:00:33.000Z</updated>
         <author>
             <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python – Interactive Course 2026]]></title>
+        <id>https://www.youtube.com/watch?v=kLZgQWjnUz0</id>
+        <link href="https://www.youtube.com/watch?v=kLZgQWjnUz0"/>
+        <updated>2026-09-09T13:46:04.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -51,6 +69,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why Your Web Scraper Gets Blocked (And How to Fix It)]]></title>
+        <id>https://www.youtube.com/shorts/yWp_p6YYzt8</id>
+        <link href="https://www.youtube.com/shorts/yWp_p6YYzt8"/>
+        <updated>2026-09-04T14:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Crypto Alert: Don't Wait!!]]></title>
         <id>https://www.youtube.com/watch?v=i9O-a8D5Ey4</id>
         <link href="https://www.youtube.com/watch?v=i9O-a8D5Ey4"/>
@@ -69,6 +97,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inside the AI Hardware Engine – Full Semiconductor Supply Chain Course]]></title>
+        <id>https://www.youtube.com/watch?v=FGT7LZbZe-g</id>
+        <link href="https://www.youtube.com/watch?v=FGT7LZbZe-g"/>
+        <updated>2026-09-03T13:38:43.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Find Crypto.com Onchain Wallet Private Key (Seed Phrase)]]></title>
         <id>https://www.youtube.com/watch?v=Cpx40qV-_hc</id>
         <link href="https://www.youtube.com/watch?v=Cpx40qV-_hc"/>
@@ -84,6 +121,15 @@
         <updated>2026-09-01T15:50:17.000Z</updated>
         <author>
             <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel Formulas & Functions – Full Course]]></title>
+        <id>https://www.youtube.com/watch?v=gvhsKtjAmgc</id>
+        <link href="https://www.youtube.com/watch?v=gvhsKtjAmgc"/>
+        <updated>2026-09-01T14:57:53.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -114,6 +160,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps]]></title>
+        <id>https://www.youtube.com/watch?v=b-P5ZQ1NxxE</id>
+        <link href="https://www.youtube.com/watch?v=b-P5ZQ1NxxE"/>
+        <updated>2026-08-26T15:08:03.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Withdraw Money from Hyperliquid (Cash out)]]></title>
         <id>https://www.youtube.com/watch?v=7SO9vIKBbzI</id>
         <link href="https://www.youtube.com/watch?v=7SO9vIKBbzI"/>
@@ -129,6 +184,15 @@
         <updated>2026-08-25T14:00:38.000Z</updated>
         <author>
             <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Building AI Slop – Build High-End Web Apps with AI]]></title>
+        <id>https://www.youtube.com/watch?v=g3X8JauSWTM</id>
+        <link href="https://www.youtube.com/watch?v=g3X8JauSWTM"/>
+        <updated>2026-08-25T12:14:06.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -150,6 +214,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Paper That Created Modern AI]]></title>
+        <id>https://www.youtube.com/watch?v=jIo2ccqPnLQ</id>
+        <link href="https://www.youtube.com/watch?v=jIo2ccqPnLQ"/>
+        <updated>2026-08-21T11:00:31.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Slack Code First Look: Multiplayer Software Engineering directly in Slack | 2 Minute Guide]]></title>
         <id>https://www.youtube.com/shorts/3Qgr8_EbmbI</id>
         <link href="https://www.youtube.com/shorts/3Qgr8_EbmbI"/>
@@ -157,6 +230,15 @@
         <summary type="html"><![CDATA[Slack just introduced Slack Code, a new multiplayer way to collaborate with AI agents on software development directly inside Slack. Watch as I spin up ephem...]]></summary>
         <author>
             <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Data Structures and Algorithms Visually – Crash Course]]></title>
+        <id>https://www.youtube.com/watch?v=RpLnQnurpLY</id>
+        <link href="https://www.youtube.com/watch?v=RpLnQnurpLY"/>
+        <updated>2026-08-20T10:14:35.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -169,12 +251,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Code a Reinforcement Learning Library in C from Scratch (Full Course)]]></title>
+        <id>https://www.youtube.com/watch?v=R5fPn6W8m6k</id>
+        <link href="https://www.youtube.com/watch?v=R5fPn6W8m6k"/>
+        <updated>2026-08-19T10:00:28.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Crypto Alert: Everything is Blowing OUT!]]></title>
         <id>https://www.youtube.com/watch?v=wpSMVj2_A0c</id>
         <link href="https://www.youtube.com/watch?v=wpSMVj2_A0c"/>
         <updated>2026-08-18T14:00:28.000Z</updated>
         <author>
             <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Design for AI Agents – Building a Multi-Agent PR Reviewer]]></title>
+        <id>https://www.youtube.com/watch?v=iqRcGCah0Kw</id>
+        <link href="https://www.youtube.com/watch?v=iqRcGCah0Kw"/>
+        <updated>2026-08-14T10:00:24.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

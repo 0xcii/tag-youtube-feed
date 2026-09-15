@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wY5pQOTsGaA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wY5pQOTsGaA",
+          "publishedOn": "2026-09-15T12:41:24.000Z",
+          "wordCount": null,
+          "title": "How to Deploy, Secure, and Automate Full-Stack Web Apps – Course for Beginners",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=o3CX_Y59_74",
           "author": null,
           "description": "",
@@ -88,7 +98,7 @@
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3641,
+          "wordCount": 3536,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
           "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
         },
@@ -175,7 +185,7 @@
           "description": "Slack just introduced Slack Code, a new multiplayer way to collaborate with AI agents on software development directly inside Slack. Watch as I spin up ephem...",
           "link": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
           "publishedOn": "2026-08-20T23:12:36.000Z",
-          "wordCount": 3552,
+          "wordCount": 3440,
           "title": "Slack Code First Look: Multiplayer Software Engineering directly in Slack | 2 Minute Guide",
           "imageUrl": "https://i.ytimg.com/vi/3Qgr8_EbmbI/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCCqPXX-KGaNdeLN2UyGTPBhcLoNA"
         }
@@ -192,6 +202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xZ8yc-vZz10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xZ8yc-vZz10",
+          "publishedOn": "2026-09-15T14:00:12.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Evertything is About to Change",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=v39fUFyJAxg",
           "author": null,
@@ -330,16 +350,6 @@
           "publishedOn": "2026-08-21T14:00:39.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Time to Panic!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kdl7qwAAqDU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kdl7qwAAqDU",
-          "publishedOn": "2026-08-19T14:00:37.000Z",
-          "wordCount": null,
-          "title": "Best World Index Fund ETFs To Invest In Forever",
           "imageUrl": null
         }
       ]

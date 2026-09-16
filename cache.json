@@ -108,7 +108,7 @@
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3983,
+          "wordCount": 4124,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
           "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
         },
@@ -195,9 +195,9 @@
           "description": "Slack just introduced Slack Code, a new multiplayer way to collaborate with AI agents on software development directly inside Slack. Watch as I spin up ephem...",
           "link": "https://www.youtube.com/shorts/3Qgr8_EbmbI",
           "publishedOn": "2026-08-20T23:12:36.000Z",
-          "wordCount": 3385,
+          "wordCount": 4022,
           "title": "Slack Code First Look: Multiplayer Software Engineering directly in Slack | 2 Minute Guide",
-          "imageUrl": "https://i.ytimg.com/vi/3Qgr8_EbmbI/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCCqPXX-KGaNdeLN2UyGTPBhcLoNA"
+          "imageUrl": "https://i.ytimg.com/vi/3Qgr8_EbmbI/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&rs=AOn4CLCUuyb9dU11V9NOzPqtQ08ROixKGQ"
         }
       ]
     },
@@ -212,6 +212,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3S1pAN9rVFo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3S1pAN9rVFo",
+          "publishedOn": "2026-09-16T14:00:38.000Z",
+          "wordCount": null,
+          "title": "How Much $ Invested to Retire Off Dividends?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xZ8yc-vZz10",
           "author": null,
@@ -350,16 +360,6 @@
           "publishedOn": "2026-08-24T14:00:35.000Z",
           "wordCount": null,
           "title": "Crypto.com Limit Order Tutorial (How to Use Limits Orders)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zQnAs7nn8kw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zQnAs7nn8kw",
-          "publishedOn": "2026-08-21T14:00:39.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Time to Panic!!",
           "imageUrl": null
         }
       ]

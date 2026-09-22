@@ -138,7 +138,7 @@
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3641,
+          "wordCount": 3591,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
           "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
         },
@@ -201,6 +201,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=z2oqr9XfYSQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z2oqr9XfYSQ",
+          "publishedOn": "2026-09-22T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: We're Back!!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ta1euSQuJ1Y",
           "author": null,
@@ -339,16 +349,6 @@
           "publishedOn": "2026-08-28T14:00:30.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Don't Miss This!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7SO9vIKBbzI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7SO9vIKBbzI",
-          "publishedOn": "2026-08-26T14:00:36.000Z",
-          "wordCount": null,
-          "title": "How to Withdraw Money from Hyperliquid (Cash out)",
           "imageUrl": null
         }
       ]

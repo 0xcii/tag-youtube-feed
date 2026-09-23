@@ -148,9 +148,9 @@
           "description": "Tired of having your web scraper get blocked after only a few requests? In this tutorial, we build a Node.js scraper to track multi-region storefront prices ...",
           "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
           "publishedOn": "2026-09-04T14:13:27.000Z",
-          "wordCount": 3614,
+          "wordCount": 3586,
           "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
-          "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCX0srsCBWs85YCusIRQBJ-z3IhXQ"
+          "imageUrl": "https://i.ytimg.com/vi/yWp_p6YYzt8/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&rs=AOn4CLAGvyz-MaNRtCnHj-D7_tJuBnzD_g"
         },
         {
           "id": "https://www.youtube.com/watch?v=FGT7LZbZe-g",
@@ -211,6 +211,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5jz4yN42KNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5jz4yN42KNY",
+          "publishedOn": "2026-09-23T14:00:01.000Z",
+          "wordCount": null,
+          "title": "TradingView Chart Trading Tutorial for Beginners (How to Place Orders)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=z2oqr9XfYSQ",
           "author": null,
@@ -349,16 +359,6 @@
           "publishedOn": "2026-08-31T14:00:36.000Z",
           "wordCount": null,
           "title": "Kraken Pro Limit Order Tutorial (How to Use Limits Orders)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YLSYWM_N8M4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YLSYWM_N8M4",
-          "publishedOn": "2026-08-28T14:00:30.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: Don't Miss This!!!",
           "imageUrl": null
         }
       ]

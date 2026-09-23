@@ -78,10 +78,280 @@
       ]
     },
     {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=C_1QKZAcJjk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C_1QKZAcJjk",
+          "publishedOn": "2026-09-21T12:12:42.000Z",
+          "wordCount": null,
+          "title": "Claude Certified Developer Foundations (CCDV-F) Certification Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
+          "publishedOn": "2026-09-17T13:32:11.000Z",
+          "wordCount": null,
+          "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wY5pQOTsGaA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wY5pQOTsGaA",
+          "publishedOn": "2026-09-15T12:41:24.000Z",
+          "wordCount": null,
+          "title": "How to Deploy, Secure, and Automate Full-Stack Web Apps – Course for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o3CX_Y59_74",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o3CX_Y59_74",
+          "publishedOn": "2026-09-10T15:04:22.000Z",
+          "wordCount": null,
+          "title": "OpenAI Codex Crash Course – Build & Deploy Apps with Autonomous AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kLZgQWjnUz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kLZgQWjnUz0",
+          "publishedOn": "2026-09-09T13:46:04.000Z",
+          "wordCount": null,
+          "title": "Learn Python – Interactive Course 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/yWp_p6YYzt8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/shorts/yWp_p6YYzt8",
+          "publishedOn": "2026-09-04T14:13:27.000Z",
+          "wordCount": null,
+          "title": "Why Your Web Scraper Gets Blocked (And How to Fix It)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FGT7LZbZe-g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FGT7LZbZe-g",
+          "publishedOn": "2026-09-03T13:38:43.000Z",
+          "wordCount": null,
+          "title": "Inside the AI Hardware Engine – Full Semiconductor Supply Chain Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gvhsKtjAmgc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gvhsKtjAmgc",
+          "publishedOn": "2026-09-01T14:57:53.000Z",
+          "wordCount": null,
+          "title": "Excel Formulas & Functions – Full Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE",
+          "publishedOn": "2026-08-26T15:08:03.000Z",
+          "wordCount": null,
+          "title": "Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=g3X8JauSWTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g3X8JauSWTM",
+          "publishedOn": "2026-08-25T12:14:06.000Z",
+          "wordCount": null,
+          "title": "Stop Building AI Slop – Build High-End Web Apps with AI",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": []
+    },
+    {
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
+      "articles": []
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=z2oqr9XfYSQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z2oqr9XfYSQ",
+          "publishedOn": "2026-09-22T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: We're Back!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ta1euSQuJ1Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ta1euSQuJ1Y",
+          "publishedOn": "2026-09-21T14:00:15.000Z",
+          "wordCount": null,
+          "title": "xStocks Tutorial (How to Buy, Sell, Withdraw xStocks)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KnpnuFiMPSw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KnpnuFiMPSw",
+          "publishedOn": "2026-09-18T14:00:31.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: My Simple Bitcoin Plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3S1pAN9rVFo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3S1pAN9rVFo",
+          "publishedOn": "2026-09-16T14:00:38.000Z",
+          "wordCount": null,
+          "title": "How Much $ Invested to Retire Off Dividends?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xZ8yc-vZz10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xZ8yc-vZz10",
+          "publishedOn": "2026-09-15T14:00:12.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Evertything is About to Change",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=v39fUFyJAxg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v39fUFyJAxg",
+          "publishedOn": "2026-09-14T14:00:22.000Z",
+          "wordCount": null,
+          "title": "OKX Limit Order Tutorial (How to Use Limit Orders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JhSdtivXCYA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JhSdtivXCYA",
+          "publishedOn": "2026-09-11T14:00:25.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: A Disaster Unfolding!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l2hhKlIikAM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l2hhKlIikAM",
+          "publishedOn": "2026-09-09T14:00:33.000Z",
+          "wordCount": null,
+          "title": "How to Connect Crypto.com to Onchain Wallet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pFBXL-GtlRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pFBXL-GtlRI",
+          "publishedOn": "2026-09-08T14:00:09.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Absolute Shambles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=esH_VbcJX48",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=esH_VbcJX48",
+          "publishedOn": "2026-09-07T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Bybit Limit Order Tutorial (How to Use Limit Orders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=i9O-a8D5Ey4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i9O-a8D5Ey4",
+          "publishedOn": "2026-09-04T14:00:13.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Don't Wait!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Cpx40qV-_hc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cpx40qV-_hc",
+          "publishedOn": "2026-09-02T14:00:08.000Z",
+          "wordCount": null,
+          "title": "How to Find Crypto.com Onchain Wallet Private Key (Seed Phrase)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=krnrWWspWZc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=krnrWWspWZc",
+          "publishedOn": "2026-09-01T14:00:35.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Bitcoin Moved Too Fast!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Pc0hr5RbtlI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pc0hr5RbtlI",
+          "publishedOn": "2026-08-31T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Kraken Pro Limit Order Tutorial (How to Use Limits Orders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YLSYWM_N8M4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YLSYWM_N8M4",
+          "publishedOn": "2026-08-28T14:00:30.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Don't Miss This!!!",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "EatTheBlocks",

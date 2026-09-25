@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-25T10:40:27.301Z</id>
+    <id>urn:2026-09-25T15:36:47.093Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-25T10:40:27.301Z</updated>
+    <updated>2026-09-25T15:36:47.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: They’re WRONG About This Bull Market]]></title>
+        <id>https://www.youtube.com/watch?v=JKqzNU5Le9M</id>
+        <link href="https://www.youtube.com/watch?v=JKqzNU5Le9M"/>
+        <updated>2026-09-25T14:00:09.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside a Hong Kong Hackathon [Full Documentary]]]></title>
         <id>https://www.youtube.com/watch?v=FVN0t1vb7k8</id>
@@ -290,15 +299,6 @@
         <id>https://www.youtube.com/watch?v=krnrWWspWZc</id>
         <link href="https://www.youtube.com/watch?v=krnrWWspWZc"/>
         <updated>2026-09-01T14:00:35.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Pro Limit Order Tutorial (How to Use Limits Orders)]]></title>
-        <id>https://www.youtube.com/watch?v=Pc0hr5RbtlI</id>
-        <link href="https://www.youtube.com/watch?v=Pc0hr5RbtlI"/>
-        <updated>2026-08-31T14:00:36.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

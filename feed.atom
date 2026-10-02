@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-02T07:37:53.398Z</id>
+    <id>urn:2026-10-02T14:13:12.614Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-02T07:37:53.398Z</updated>
+    <updated>2026-10-02T14:13:12.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Alert: Starting to Get SERIOUS!!]]></title>
+        <id>https://www.youtube.com/watch?v=cGyMS5lAoN0</id>
+        <link href="https://www.youtube.com/watch?v=cGyMS5lAoN0"/>
+        <updated>2026-10-02T14:00:03.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotlin Course For Beginners – Full Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=nqK3oJ682mQ</id>
+        <link href="https://www.youtube.com/watch?v=nqK3oJ682mQ"/>
+        <updated>2026-10-02T13:05:36.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build your own Mobile App with Codex GPT-6 Astra - Full iOS and Android Course]]></title>
         <id>https://www.youtube.com/watch?v=bGALxRWI10A</id>
@@ -271,15 +289,6 @@
         <id>https://www.youtube.com/watch?v=pFBXL-GtlRI</id>
         <link href="https://www.youtube.com/watch?v=pFBXL-GtlRI"/>
         <updated>2026-09-08T14:00:09.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit Limit Order Tutorial (How to Use Limit Orders)]]></title>
-        <id>https://www.youtube.com/watch?v=esH_VbcJX48</id>
-        <link href="https://www.youtube.com/watch?v=esH_VbcJX48"/>
-        <updated>2026-09-07T14:00:34.000Z</updated>
         <author>
             <name>MoneyZG</name>
         </author>

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-07T09:32:15.957Z</id>
+    <id>urn:2026-10-07T17:02:39.571Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-07T09:32:15.957Z</updated>
+    <updated>2026-10-07T17:02:39.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Earn Tutorial (How to Borrow & Lend on Hyperliquid)]]></title>
+        <id>https://www.youtube.com/watch?v=60UFzNsZh_g</id>
+        <link href="https://www.youtube.com/watch?v=60UFzNsZh_g"/>
+        <updated>2026-10-07T14:00:07.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build & Train a GLM-5.3-Flash Model From Scratch with Python]]></title>
         <id>https://www.youtube.com/watch?v=-gfgQfw2g_E</id>
@@ -273,15 +282,6 @@
         <updated>2026-09-11T15:32:26.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Alert: A Disaster Unfolding!?]]></title>
-        <id>https://www.youtube.com/watch?v=JhSdtivXCYA</id>
-        <link href="https://www.youtube.com/watch?v=JhSdtivXCYA"/>
-        <updated>2026-09-11T14:00:25.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
         </author>
     </entry>
     <entry>

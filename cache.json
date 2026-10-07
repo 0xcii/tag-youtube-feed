@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=60UFzNsZh_g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=60UFzNsZh_g",
+          "publishedOn": "2026-10-07T14:00:07.000Z",
+          "wordCount": null,
+          "title": "Hyperliquid Earn Tutorial (How to Borrow & Lend on Hyperliquid)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XnP1ZoITNFc",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2026-09-14T14:00:22.000Z",
           "wordCount": null,
           "title": "OKX Limit Order Tutorial (How to Use Limit Orders)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JhSdtivXCYA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JhSdtivXCYA",
-          "publishedOn": "2026-09-11T14:00:25.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: A Disaster Unfolding!?",
           "imageUrl": null
         }
       ]

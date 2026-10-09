@@ -192,6 +192,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ui_4wnC13w8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ui_4wnC13w8",
+          "publishedOn": "2026-10-09T14:00:15.000Z",
+          "wordCount": null,
+          "title": "Crypto Can't Get Rid of This PROBLEM.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=60UFzNsZh_g",
           "author": null,
           "description": "",
@@ -329,16 +339,6 @@
           "publishedOn": "2026-09-15T14:00:12.000Z",
           "wordCount": null,
           "title": "Crypto Alert: Evertything is About to Change",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v39fUFyJAxg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v39fUFyJAxg",
-          "publishedOn": "2026-09-14T14:00:22.000Z",
-          "wordCount": null,
-          "title": "OKX Limit Order Tutorial (How to Use Limit Orders)",
           "imageUrl": null
         }
       ]

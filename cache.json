@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YY-egxTQirA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YY-egxTQirA",
+          "publishedOn": "2026-10-09T17:00:19.000Z",
+          "wordCount": null,
+          "title": "n8n Full Course – Architect Scalable AI Automations from Scratch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=P-UIf7V7gV0",
           "author": null,
           "description": "",

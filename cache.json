@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=n2QHY30DgtI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n2QHY30DgtI",
+          "publishedOn": "2026-10-10T05:56:58.000Z",
+          "wordCount": null,
+          "title": "钱包被盗 9000 万美元：你以为安全的地方，可能最危险！ 多签钱包是什么？大额 Crypto 资产如何避免一夜归零 ｜ Safe 使用教程",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NqxLTCdYCIw",
           "author": null,
           "description": "",
@@ -171,18 +181,14 @@
           "wordCount": null,
           "title": "How to Deploy, Secure, and Automate Full-Stack Web Apps – Course for Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o3CX_Y59_74",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o3CX_Y59_74",
-          "publishedOn": "2026-09-10T15:04:22.000Z",
-          "wordCount": null,
-          "title": "OpenAI Codex Crash Course – Build & Deploy Apps with Autonomous AI",
-          "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": []
     },
     {
       "title": "Chico Crypto",

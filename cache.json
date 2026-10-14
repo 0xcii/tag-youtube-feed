@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WjuOTGnTYog",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WjuOTGnTYog",
+          "publishedOn": "2026-10-14T14:00:24.000Z",
+          "wordCount": null,
+          "title": "TxFlow Tutorial for Beginners (Trade on TxFlow Crypto Perp DeX)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MWdv2UdPbeQ",
           "author": null,
           "description": "",
@@ -369,16 +379,6 @@
           "publishedOn": "2026-09-21T14:00:15.000Z",
           "wordCount": null,
           "title": "xStocks Tutorial (How to Buy, Sell, Withdraw xStocks)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KnpnuFiMPSw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KnpnuFiMPSw",
-          "publishedOn": "2026-09-18T14:00:31.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: My Simple Bitcoin Plan",
           "imageUrl": null
         }
       ]

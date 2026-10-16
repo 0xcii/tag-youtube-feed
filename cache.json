@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kWpHjQ5huOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kWpHjQ5huOc",
+          "publishedOn": "2026-10-16T14:00:39.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: We Are Trapped",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WjuOTGnTYog",
           "author": null,
           "description": "",
@@ -369,16 +379,6 @@
           "publishedOn": "2026-09-22T14:00:27.000Z",
           "wordCount": null,
           "title": "Crypto Alert: We're Back!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ta1euSQuJ1Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ta1euSQuJ1Y",
-          "publishedOn": "2026-09-21T14:00:15.000Z",
-          "wordCount": null,
-          "title": "xStocks Tutorial (How to Buy, Sell, Withdraw xStocks)",
           "imageUrl": null
         }
       ]

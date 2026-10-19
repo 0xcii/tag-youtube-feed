@@ -222,6 +222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AezNAfsZnZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AezNAfsZnZQ",
+          "publishedOn": "2026-10-19T14:00:27.000Z",
+          "wordCount": null,
+          "title": "How to Trade on Aster Dex 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kWpHjQ5huOc",
           "author": null,
           "description": "",
@@ -359,16 +369,6 @@
           "publishedOn": "2026-09-23T14:00:01.000Z",
           "wordCount": null,
           "title": "TradingView Chart Trading Tutorial for Beginners (How to Place Orders)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z2oqr9XfYSQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z2oqr9XfYSQ",
-          "publishedOn": "2026-09-22T14:00:27.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: We're Back!!!",
           "imageUrl": null
         }
       ]

@@ -1,6 +1,93 @@
 {
   "sources": [
     {
+      "title": "链求君",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XN5LFDu3BGc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XN5LFDu3BGc",
+          "publishedOn": "2026-10-19T02:38:41.000Z",
+          "wordCount": null,
+          "title": "【会员实战课预告】链上分析师实战： 看透交易背后秘密",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OinQ0dTghv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OinQ0dTghv8",
+          "publishedOn": "2026-10-16T11:20:48.000Z",
+          "wordCount": null,
+          "title": "比特币将会涨到30万美金 ？ 超级牛市刚开始， 美债、RWA、稳定币、比特币：一条正在重塑加密市场的资金链。 贝莱德、Circle、Coinbase：谁在决定下一轮加密市场的流动性？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oJHzLE8XPu0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oJHzLE8XPu0",
+          "publishedOn": "2026-10-15T13:00:58.000Z",
+          "wordCount": null,
+          "title": "Papertrade × ONDO 中性对冲策略实战：1000 倍杠杆如何做对冲刷奖励？PAPER、USDC、积分三重激励 ， 交易亏损也能赚钱？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oyHZCvqdhJg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oyHZCvqdhJg",
+          "publishedOn": "2026-10-14T10:42:51.000Z",
+          "wordCount": null,
+          "title": "Minara AI 是什么？把你的交易流程全部自动化！ 一个 AI 搞定整个交易？专为交易打造的 AI 助手",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_En_ECD_z2M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_En_ECD_z2M",
+          "publishedOn": "2026-10-13T09:45:55.000Z",
+          "wordCount": null,
+          "title": "新手也能上手的 Crypto 获利方式： 不交易也能赚？ 用 ChatGPT 做任务，还能赚 USDC？AI 赏金实操教学 ！  Slop Cash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=K10DmME1fpk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K10DmME1fpk",
+          "publishedOn": "2026-10-12T09:00:19.000Z",
+          "wordCount": null,
+          "title": "加密叙事线索：量子技术、OUSD 稳定币、Telegram、RWA 、 Ledger 安全事件。 新闻发生前，机会已经出现了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lAdHEdb6ukY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lAdHEdb6ukY",
+          "publishedOn": "2026-10-11T11:25:24.000Z",
+          "wordCount": null,
+          "title": "1inch Aqua 新玩法：本金不进池，也能做 LP ？  DeFi 流动性挖矿教学：别只会交易，手续费也能赚。 资金不离开钱包，还能提供流动性？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n2QHY30DgtI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n2QHY30DgtI",
+          "publishedOn": "2026-10-10T05:56:58.000Z",
+          "wordCount": null,
+          "title": "钱包被盗 9000 万美元：你以为安全的地方，可能最危险！ 多签钱包是什么？大额 Crypto 资产如何避免一夜归零 ｜ Safe 使用教程",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
@@ -122,6 +209,192 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": []
+    },
+    {
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
+      "articles": []
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kWpHjQ5huOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kWpHjQ5huOc",
+          "publishedOn": "2026-10-16T14:00:39.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: We Are Trapped",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WjuOTGnTYog",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WjuOTGnTYog",
+          "publishedOn": "2026-10-14T14:00:24.000Z",
+          "wordCount": null,
+          "title": "TxFlow Tutorial for Beginners (Trade on TxFlow Crypto Perp DeX)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MWdv2UdPbeQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MWdv2UdPbeQ",
+          "publishedOn": "2026-10-13T14:00:33.000Z",
+          "wordCount": null,
+          "title": "Crypto Update: It's NOT Time to Give Up!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BEIgGkH5bc8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BEIgGkH5bc8",
+          "publishedOn": "2026-10-12T14:00:18.000Z",
+          "wordCount": null,
+          "title": "How to Send Crypto from OKX to OKX Wallet EASILY",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ui_4wnC13w8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ui_4wnC13w8",
+          "publishedOn": "2026-10-09T14:00:15.000Z",
+          "wordCount": null,
+          "title": "Crypto Can't Get Rid of This PROBLEM.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=60UFzNsZh_g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=60UFzNsZh_g",
+          "publishedOn": "2026-10-07T14:00:07.000Z",
+          "wordCount": null,
+          "title": "Hyperliquid Earn Tutorial (How to Borrow & Lend on Hyperliquid)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XnP1ZoITNFc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XnP1ZoITNFc",
+          "publishedOn": "2026-10-06T14:00:23.000Z",
+          "wordCount": null,
+          "title": "Crypto Update: Giving Up?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3E4_fNyn2ck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3E4_fNyn2ck",
+          "publishedOn": "2026-10-05T14:00:15.000Z",
+          "wordCount": null,
+          "title": "How to Find Robinhood Wallet Private Key (Find, Save, Restore Seed Phrase)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cGyMS5lAoN0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cGyMS5lAoN0",
+          "publishedOn": "2026-10-02T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Starting to Get SERIOUS!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7e0ayMGECZ8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7e0ayMGECZ8",
+          "publishedOn": "2026-09-30T14:00:35.000Z",
+          "wordCount": null,
+          "title": "Kraken Prop Tutorial (Prop Trading Worth It?)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oanrLoLHXJY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oanrLoLHXJY",
+          "publishedOn": "2026-09-29T14:00:30.000Z",
+          "wordCount": null,
+          "title": "Crypto: We're About to Find Out",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lWV6YLhsN_c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lWV6YLhsN_c",
+          "publishedOn": "2026-09-28T14:00:06.000Z",
+          "wordCount": null,
+          "title": "Trust Wallet Perps Trading Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JKqzNU5Le9M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JKqzNU5Le9M",
+          "publishedOn": "2026-09-25T14:00:09.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: They’re WRONG About This Bull Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5jz4yN42KNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5jz4yN42KNY",
+          "publishedOn": "2026-09-23T14:00:01.000Z",
+          "wordCount": null,
+          "title": "TradingView Chart Trading Tutorial for Beginners (How to Place Orders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=z2oqr9XfYSQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z2oqr9XfYSQ",
+          "publishedOn": "2026-09-22T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: We're Back!!!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=T0489G7vgUQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T0489G7vgUQ",
+          "publishedOn": "2026-09-30T17:15:06.000Z",
+          "wordCount": null,
+          "title": "How to create a profitable crypto arbitrage bot for beginners",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

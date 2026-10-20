@@ -232,6 +232,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=X_GjgBa5qek",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X_GjgBa5qek",
+          "publishedOn": "2026-10-20T14:00:17.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: I Saw Something Incredible!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AezNAfsZnZQ",
           "author": null,
           "description": "",
@@ -369,16 +379,6 @@
           "publishedOn": "2026-09-25T14:00:09.000Z",
           "wordCount": null,
           "title": "Crypto Alert: They’re WRONG About This Bull Market",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5jz4yN42KNY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5jz4yN42KNY",
-          "publishedOn": "2026-09-23T14:00:01.000Z",
-          "wordCount": null,
-          "title": "TradingView Chart Trading Tutorial for Beginners (How to Place Orders)",
           "imageUrl": null
         }
       ]

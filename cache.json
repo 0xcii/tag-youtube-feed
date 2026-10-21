@@ -242,6 +242,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lhhHRVHQCZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lhhHRVHQCZQ",
+          "publishedOn": "2026-10-21T14:00:04.000Z",
+          "wordCount": null,
+          "title": "How to Find Crypto.com Wallet Address (Deposit Crypto)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X_GjgBa5qek",
           "author": null,
           "description": "",
@@ -379,16 +389,6 @@
           "publishedOn": "2026-09-28T14:00:06.000Z",
           "wordCount": null,
           "title": "Trust Wallet Perps Trading Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JKqzNU5Le9M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JKqzNU5Le9M",
-          "publishedOn": "2026-09-25T14:00:09.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: They’re WRONG About This Bull Market",
           "imageUrl": null
         }
       ]

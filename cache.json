@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Z8XNQovdvTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z8XNQovdvTk",
+          "publishedOn": "2026-10-20T23:00:25.000Z",
+          "wordCount": null,
+          "title": "手把手搭建 AI 链上数据分析系统!  从数据到决策：实战课带你搭建可复用的 AI 系统",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xdx2tSExBOk",
           "author": null,
           "description": "",
@@ -200,16 +210,6 @@
           "publishedOn": "2026-09-23T10:30:04.000Z",
           "wordCount": null,
           "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C_1QKZAcJjk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C_1QKZAcJjk",
-          "publishedOn": "2026-09-21T12:12:42.000Z",
-          "wordCount": null,
-          "title": "Claude Certified Developer Foundations (CCDV-F) Certification Course",
           "imageUrl": null
         }
       ]

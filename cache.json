@@ -113,6 +113,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JGly6PSK5iw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JGly6PSK5iw",
+          "publishedOn": "2026-10-23T14:10:25.000Z",
+          "wordCount": null,
+          "title": "Gemini 4 Argon API Crash Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gYXLRMycVMk",
           "author": null,
           "description": "",
@@ -241,6 +251,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JUoIdzRmJpk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JUoIdzRmJpk",
+          "publishedOn": "2026-10-23T14:00:05.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: It's Time to Tell the Truth!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lhhHRVHQCZQ",
           "author": null,
@@ -379,16 +399,6 @@
           "publishedOn": "2026-09-29T14:00:30.000Z",
           "wordCount": null,
           "title": "Crypto: We're About to Find Out",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lWV6YLhsN_c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lWV6YLhsN_c",
-          "publishedOn": "2026-09-28T14:00:06.000Z",
-          "wordCount": null,
-          "title": "Trust Wallet Perps Trading Tutorial",
           "imageUrl": null
         }
       ]

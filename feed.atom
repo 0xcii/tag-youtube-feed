@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-27T12:48:38.533Z</id>
+    <id>urn:2026-10-27T18:25:34.325Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-27T12:48:38.533Z</updated>
+    <updated>2026-10-27T18:25:34.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jev Course – Prefill-Only Inference & Decision Models from Scratch]]></title>
+        <id>https://www.youtube.com/watch?v=aZglGvBPQGs</id>
+        <link href="https://www.youtube.com/watch?v=aZglGvBPQGs"/>
+        <updated>2026-10-27T13:05:25.000Z</updated>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不用传统券商就能买美股？MSX 实测：注册、入金、下单全流程! 从苹果、英伟达到链上股票代币的入门指南]]></title>
         <id>https://www.youtube.com/watch?v=gRTGcSXoAcI</id>

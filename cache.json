@@ -143,6 +143,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cqfl38Ip1ho",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cqfl38Ip1ho",
+          "publishedOn": "2026-10-28T16:45:00.000Z",
+          "wordCount": null,
+          "title": "How Ethical Hackers Actually Break Into Systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aZglGvBPQGs",
           "author": null,
           "description": "",

@@ -272,6 +272,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WRi-iMN0Ras",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WRi-iMN0Ras",
+          "publishedOn": "2026-11-02T14:00:06.000Z",
+          "wordCount": null,
+          "title": "Crypto.com Recurring Buy Tutorial (How to Setup Recurring Buy)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h-B2JCjpgVI",
           "author": null,
           "description": "",

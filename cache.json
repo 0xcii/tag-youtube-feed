@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ibg0L3hPMi0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ibg0L3hPMi0",
+          "publishedOn": "2026-11-03T08:48:39.000Z",
+          "wordCount": null,
+          "title": "Polymarket 散户怎么找优势？不拼速度，拼认知：我如何用 Polymarket 公开数据筛选高质量钱包",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6d_LHcgWHqU",
           "author": null,
           "description": "",
@@ -153,6 +163,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lR931Iz8Z6U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lR931Iz8Z6U",
+          "publishedOn": "2026-11-03T12:52:54.000Z",
+          "wordCount": null,
+          "title": "Vector Databases Full Course for Beginners – Embeddings, Similarity Search & ChromaDB",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cqfl38Ip1ho",
           "author": null,
           "description": "",
@@ -271,6 +291,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DU5cJfGWP0Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DU5cJfGWP0Q",
+          "publishedOn": "2026-11-03T14:00:23.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Worst Case Scenario!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WRi-iMN0Ras",
           "author": null,
@@ -409,16 +439,6 @@
           "publishedOn": "2026-10-06T14:00:23.000Z",
           "wordCount": null,
           "title": "Crypto Update: Giving Up?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3E4_fNyn2ck",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3E4_fNyn2ck",
-          "publishedOn": "2026-10-05T14:00:15.000Z",
-          "wordCount": null,
-          "title": "How to Find Robinhood Wallet Private Key (Find, Save, Restore Seed Phrase)",
           "imageUrl": null
         }
       ]

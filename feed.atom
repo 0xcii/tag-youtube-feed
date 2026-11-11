@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-11T16:41:58.220Z</id>
+    <id>urn:2026-11-11T23:09:28.929Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-11T16:41:58.220Z</updated>
+    <updated>2026-11-11T23:09:28.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -354,15 +354,6 @@
         <updated>2026-10-13T15:08:21.000Z</updated>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手也能上手的 Crypto 获利方式： 不交易也能赚？ 用 ChatGPT 做任务，还能赚 USDC？AI 赏金实操教学 ！  Slop Cash]]></title>
-        <id>https://www.youtube.com/watch?v=_En_ECD_z2M</id>
-        <link href="https://www.youtube.com/watch?v=_En_ECD_z2M"/>
-        <updated>2026-10-13T09:45:55.000Z</updated>
-        <author>
-            <name>链求君</name>
         </author>
     </entry>
 </feed>

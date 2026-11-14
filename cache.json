@@ -1,4 +1,420 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "链求君",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "siteUrl": "https://www.youtube.com/channel/UCDrmDcLjnmIQk-xtNuJ42Sw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UITy2wrimcI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UITy2wrimcI",
+          "publishedOn": "2026-11-13T03:59:14.000Z",
+          "wordCount": null,
+          "title": "黑U如何触发交易所风控？看懂资金来源、地址标签与冻结机制。加密资产被盗后还能追回吗？ 链上洗钱肆无忌惮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_sdTYhvxRIg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_sdTYhvxRIg",
+          "publishedOn": "2026-11-11T03:15:02.000Z",
+          "wordCount": null,
+          "title": "链上混币器实战教程： 链上交易公开，为什么追查资金仍然困难？从钱包地址到真实身份。 币安 63 亿美元事件后，链上资金还能追踪吗？看懂钱包地址与资金流向",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nOk5PNijeF0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nOk5PNijeF0",
+          "publishedOn": "2026-11-08T07:55:53.000Z",
+          "wordCount": null,
+          "title": "Elysium 主网明日上线：HYPE 如何跨到 Elysium？从注意力迁移到价值捕获，KNTQ 叙事的开始。从交易所购入 HYPE、跨链到生态交易的全流程演示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CD10PiUNvSs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CD10PiUNvSs",
+          "publishedOn": "2026-11-07T04:49:48.000Z",
+          "wordCount": null,
+          "title": "不用券商账户？RWA 链上交易的 2 个平台实测 !  黄金、美股、石油真的能在链上交易？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ibg0L3hPMi0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ibg0L3hPMi0",
+          "publishedOn": "2026-11-03T08:48:39.000Z",
+          "wordCount": null,
+          "title": "Polymarket 散户怎么找优势？不拼速度，拼认知：我如何用 Polymarket 公开数据筛选高质量钱包",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6d_LHcgWHqU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6d_LHcgWHqU",
+          "publishedOn": "2026-10-29T04:11:41.000Z",
+          "wordCount": null,
+          "title": "让美股上链交易的 6 个顶级平台！  BNB 新链不是只拼性能：为什么合规才是链上美股的真正门槛？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0-3U2BhRaLo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0-3U2BhRaLo",
+          "publishedOn": "2026-10-28T04:44:16.000Z",
+          "wordCount": null,
+          "title": "PHP严重漏洞！ 逆向工程 + 社会工程学：加密资产安全的下一个风险点！ 提前做好加密资产隔离！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gRTGcSXoAcI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gRTGcSXoAcI",
+          "publishedOn": "2026-10-27T08:21:40.000Z",
+          "wordCount": null,
+          "title": "不用传统券商就能买美股？MSX 实测：注册、入金、下单全流程! 从苹果、英伟达到链上股票代币的入门指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dbndQigtSo8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dbndQigtSo8",
+          "publishedOn": "2026-10-26T16:29:23.000Z",
+          "wordCount": null,
+          "title": "10 美元也能获利百倍 ！   Polymarket 新手入门：认知如何变现？10 分钟看懂预测市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Z8XNQovdvTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z8XNQovdvTk",
+          "publishedOn": "2026-10-20T23:00:25.000Z",
+          "wordCount": null,
+          "title": "手把手搭建 AI 链上数据分析系统!  从数据到决策：实战课带你搭建可复用的 AI 系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xdx2tSExBOk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xdx2tSExBOk",
+          "publishedOn": "2026-10-20T06:00:20.000Z",
+          "wordCount": null,
+          "title": "资金要反转？USDG 新线索：Robinhood Chain 与 Arbitrum 值得盯紧的原因",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XN5LFDu3BGc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XN5LFDu3BGc",
+          "publishedOn": "2026-10-19T02:38:41.000Z",
+          "wordCount": null,
+          "title": "【会员实战课预告】链上分析师实战： 看透交易背后秘密",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OinQ0dTghv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OinQ0dTghv8",
+          "publishedOn": "2026-10-16T11:20:48.000Z",
+          "wordCount": null,
+          "title": "比特币将会涨到30万美金 ？ 超级牛市刚开始， 美债、RWA、稳定币、比特币：一条正在重塑加密市场的资金链。 贝莱德、Circle、Coinbase：谁在决定下一轮加密市场的流动性？",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+      "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ajfQWhGQGLE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ajfQWhGQGLE",
+          "publishedOn": "2026-11-10T12:00:39.000Z",
+          "wordCount": null,
+          "title": "Codex & AI Coding Agents - Learn Agentic Coding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eHHxRJulX74",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eHHxRJulX74",
+          "publishedOn": "2026-11-06T15:22:02.000Z",
+          "wordCount": null,
+          "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lR931Iz8Z6U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lR931Iz8Z6U",
+          "publishedOn": "2026-11-03T12:52:54.000Z",
+          "wordCount": null,
+          "title": "Vector Databases Full Course for Beginners – Embeddings, Similarity Search & ChromaDB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cqfl38Ip1ho",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cqfl38Ip1ho",
+          "publishedOn": "2026-10-28T16:45:00.000Z",
+          "wordCount": null,
+          "title": "How Ethical Hackers Actually Break Into Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aZglGvBPQGs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aZglGvBPQGs",
+          "publishedOn": "2026-10-27T13:05:25.000Z",
+          "wordCount": null,
+          "title": "Jev Course – Prefill-Only Inference & Decision Models from Scratch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JGly6PSK5iw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JGly6PSK5iw",
+          "publishedOn": "2026-10-23T14:10:25.000Z",
+          "wordCount": null,
+          "title": "Gemini 4 Argon API Crash Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gYXLRMycVMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gYXLRMycVMk",
+          "publishedOn": "2026-10-22T12:08:35.000Z",
+          "wordCount": null,
+          "title": "MCP Security Fundamentals Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kT7nXO32L-Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kT7nXO32L-Q",
+          "publishedOn": "2026-10-21T10:30:36.000Z",
+          "wordCount": null,
+          "title": "PostgreSQL Hybrid Search Course – Keyword (BM25) + Vector Retrieval",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QKNsHZatiWU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QKNsHZatiWU",
+          "publishedOn": "2026-10-16T11:53:48.000Z",
+          "wordCount": null,
+          "title": "Inside an AI Factory – Power, Cooling, and GPUs Explained",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nader Dabit",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
+      "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
+      "articles": []
+    },
+    {
+      "title": "Chico Crypto",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+      "siteUrl": "https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw",
+      "articles": []
+    },
+    {
+      "title": "MoneyZG",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
+      "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Zko5kP2bH3A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zko5kP2bH3A",
+          "publishedOn": "2026-11-13T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Crypto: We Have a PROBLEM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vwed56oCEYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vwed56oCEYE",
+          "publishedOn": "2026-11-11T14:00:23.000Z",
+          "wordCount": null,
+          "title": "Crypto.com: How to Sell Crypto to Cash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KTzZBRpS2hU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KTzZBRpS2hU",
+          "publishedOn": "2026-11-10T14:00:25.000Z",
+          "wordCount": null,
+          "title": "Crypto: This Crash is IRRELEVANT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ORiKX3No2WA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ORiKX3No2WA",
+          "publishedOn": "2026-11-09T14:00:09.000Z",
+          "wordCount": null,
+          "title": "Kraken Dual Investment Tutorial (Easy Guide)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eBjb3TiazJ8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eBjb3TiazJ8",
+          "publishedOn": "2026-11-06T14:00:31.000Z",
+          "wordCount": null,
+          "title": "Crypto: Starting to Panic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6e8Ku_KeDzs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6e8Ku_KeDzs",
+          "publishedOn": "2026-11-04T14:00:29.000Z",
+          "wordCount": null,
+          "title": "How to TRADE on Apex Exchange (Apex Crypto Perps DeX)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DU5cJfGWP0Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DU5cJfGWP0Q",
+          "publishedOn": "2026-11-03T14:00:23.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: Worst Case Scenario!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WRi-iMN0Ras",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WRi-iMN0Ras",
+          "publishedOn": "2026-11-02T14:00:06.000Z",
+          "wordCount": null,
+          "title": "Crypto.com Recurring Buy Tutorial (How to Setup Recurring Buy)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h-B2JCjpgVI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h-B2JCjpgVI",
+          "publishedOn": "2026-10-28T14:00:10.000Z",
+          "wordCount": null,
+          "title": "How to TRADE on Bitunix 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HcudYO89n2Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HcudYO89n2Q",
+          "publishedOn": "2026-10-26T14:00:10.000Z",
+          "wordCount": null,
+          "title": "Binance bStocks Tutorial (bStocks Explained)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JUoIdzRmJpk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JUoIdzRmJpk",
+          "publishedOn": "2026-10-23T14:00:05.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: It's Time to Tell the Truth!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lhhHRVHQCZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lhhHRVHQCZQ",
+          "publishedOn": "2026-10-21T14:00:04.000Z",
+          "wordCount": null,
+          "title": "How to Find Crypto.com Wallet Address (Deposit Crypto)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=X_GjgBa5qek",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X_GjgBa5qek",
+          "publishedOn": "2026-10-20T14:00:17.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: I Saw Something Incredible!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AezNAfsZnZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AezNAfsZnZQ",
+          "publishedOn": "2026-10-19T14:00:27.000Z",
+          "wordCount": null,
+          "title": "How to Trade on Aster Dex 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kWpHjQ5huOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kWpHjQ5huOc",
+          "publishedOn": "2026-10-16T14:00:39.000Z",
+          "wordCount": null,
+          "title": "Crypto Alert: We Are Trapped",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "EatTheBlocks",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+      "siteUrl": "https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA",
+      "articles": []
+    },
+    {
+      "title": "Dapp University",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+      "siteUrl": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }

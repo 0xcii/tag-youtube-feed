@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "资金要反转？USDG 新线索：Robinhood Chain 与 Arbitrum 值得盯紧的原因",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XN5LFDu3BGc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XN5LFDu3BGc",
-          "publishedOn": "2026-10-19T02:38:41.000Z",
-          "wordCount": null,
-          "title": "【会员实战课预告】链上分析师实战： 看透交易背后秘密",
-          "imageUrl": null
         }
       ]
     },
@@ -231,6 +221,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LTJVleoQ1p4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LTJVleoQ1p4",
+          "publishedOn": "2026-11-17T14:00:34.000Z",
+          "wordCount": null,
+          "title": "Crypto: Absolutely Huge Selling",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BFaDjomv6zs",
           "author": null,
@@ -369,16 +369,6 @@
           "publishedOn": "2026-10-20T14:00:17.000Z",
           "wordCount": null,
           "title": "Crypto Alert: I Saw Something Incredible!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AezNAfsZnZQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AezNAfsZnZQ",
-          "publishedOn": "2026-10-19T14:00:27.000Z",
-          "wordCount": null,
-          "title": "How to Trade on Aster Dex 2026",
           "imageUrl": null
         }
       ]

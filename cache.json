@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "手把手搭建 AI 链上数据分析系统!  从数据到决策：实战课带你搭建可复用的 AI 系统",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xdx2tSExBOk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xdx2tSExBOk",
-          "publishedOn": "2026-10-20T06:00:20.000Z",
-          "wordCount": null,
-          "title": "资金要反转？USDG 新线索：Robinhood Chain 与 Arbitrum 值得盯紧的原因",
-          "imageUrl": null
         }
       ]
     },
@@ -132,6 +122,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ybe6EGe_wjo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ybe6EGe_wjo",
+          "publishedOn": "2026-11-18T12:37:46.000Z",
+          "wordCount": null,
+          "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ajfQWhGQGLE",
           "author": null,
@@ -231,6 +231,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yEbgMXiSpg0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yEbgMXiSpg0",
+          "publishedOn": "2026-11-18T14:00:16.000Z",
+          "wordCount": null,
+          "title": "How to TRADE on Kraken Pro (Spot, Margin & Futures Tutorial)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LTJVleoQ1p4",
           "author": null,
@@ -369,16 +379,6 @@
           "publishedOn": "2026-10-21T14:00:04.000Z",
           "wordCount": null,
           "title": "How to Find Crypto.com Wallet Address (Deposit Crypto)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X_GjgBa5qek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X_GjgBa5qek",
-          "publishedOn": "2026-10-20T14:00:17.000Z",
-          "wordCount": null,
-          "title": "Crypto Alert: I Saw Something Incredible!",
           "imageUrl": null
         }
       ]

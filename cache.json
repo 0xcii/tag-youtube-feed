@@ -212,6 +212,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0iTmIYc_kEo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0iTmIYc_kEo",
+          "publishedOn": "2026-11-20T14:00:25.000Z",
+          "wordCount": null,
+          "title": "Crypto: Just Awful",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yEbgMXiSpg0",
           "author": null,
           "description": "",

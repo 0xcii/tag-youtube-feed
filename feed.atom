@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-23T04:23:06.555Z</id>
+    <id>urn:2026-11-23T15:28:35.470Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-23T04:23:06.555Z</updated>
+    <updated>2026-11-23T15:28:35.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wise Business Tutorial (How to Setup & Use Wise Business)]]></title>
+        <id>https://www.youtube.com/watch?v=FMRmrCMXXzI</id>
+        <link href="https://www.youtube.com/watch?v=FMRmrCMXXzI"/>
+        <updated>2026-11-23T14:00:06.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto: Just Awful]]></title>
         <id>https://www.youtube.com/watch?v=0iTmIYc_kEo</id>

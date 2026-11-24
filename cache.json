@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rCx4SCd4N-s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rCx4SCd4N-s",
+          "publishedOn": "2026-11-24T15:35:26.000Z",
+          "wordCount": null,
+          "title": "Microsoft Azure AI Fundamentals (AI-901) Certification Course",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ybe6EGe_wjo",
           "author": null,
           "description": "",
@@ -201,6 +211,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEvlRpHBVFthrF6pZzBEXw",
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8zlhvJp_2HI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8zlhvJp_2HI",
+          "publishedOn": "2026-11-24T14:00:18.000Z",
+          "wordCount": null,
+          "title": "Crypto: Just Hopeless",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FMRmrCMXXzI",
           "author": null,
@@ -339,16 +359,6 @@
           "publishedOn": "2026-10-28T14:00:10.000Z",
           "wordCount": null,
           "title": "How to TRADE on Bitunix 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HcudYO89n2Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HcudYO89n2Q",
-          "publishedOn": "2026-10-26T14:00:10.000Z",
-          "wordCount": null,
-          "title": "Binance bStocks Tutorial (bStocks Explained)",
           "imageUrl": null
         }
       ]

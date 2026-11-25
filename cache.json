@@ -202,6 +202,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIEvlRpHBVFthrF6pZzBEXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LJQKfLki_Bo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LJQKfLki_Bo",
+          "publishedOn": "2026-11-25T14:00:32.000Z",
+          "wordCount": null,
+          "title": "How to Use Fibonacci Extensions Tool (Easy Guide)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8zlhvJp_2HI",
           "author": null,
           "description": "",
@@ -339,16 +349,6 @@
           "publishedOn": "2026-11-02T14:00:06.000Z",
           "wordCount": null,
           "title": "Crypto.com Recurring Buy Tutorial (How to Setup Recurring Buy)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h-B2JCjpgVI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h-B2JCjpgVI",
-          "publishedOn": "2026-10-28T14:00:10.000Z",
-          "wordCount": null,
-          "title": "How to TRADE on Bitunix 2026",
           "imageUrl": null
         }
       ]

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-26T00:44:26.521Z</id>
+    <id>urn:2026-11-26T08:58:40.718Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-26T00:44:26.521Z</updated>
+    <updated>2026-11-26T08:58:40.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -282,15 +282,6 @@
         <updated>2026-10-28T04:44:16.000Z</updated>
         <author>
             <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jev Course – Prefill-Only Inference & Decision Models from Scratch]]></title>
-        <id>https://www.youtube.com/watch?v=aZglGvBPQGs</id>
-        <link href="https://www.youtube.com/watch?v=aZglGvBPQGs"/>
-        <updated>2026-10-27T13:05:25.000Z</updated>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

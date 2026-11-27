@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-27T10:29:56.031Z</id>
+    <id>urn:2026-11-27T19:42:30.331Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-27T10:29:56.031Z</updated>
+    <updated>2026-11-27T19:42:30.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Urgent message to everyone in crypto]]></title>
+        <id>https://www.youtube.com/watch?v=ojVrwXsnyRI</id>
+        <link href="https://www.youtube.com/watch?v=ojVrwXsnyRI"/>
+        <updated>2026-11-27T16:00:37.000Z</updated>
+        <author>
+            <name>Dapp University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[破甲 DeepSeek 随便用：Venice AI 如何通过双代币模型无限量使用 Claude ？]]></title>
+        <id>https://www.youtube.com/watch?v=_Jwk-9Z2Fck</id>
+        <link href="https://www.youtube.com/watch?v=_Jwk-9Z2Fck"/>
+        <updated>2026-11-27T15:42:49.000Z</updated>
+        <author>
+            <name>链求君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto: Completely Washed Out]]></title>
+        <id>https://www.youtube.com/watch?v=CBVV9ikpKDg</id>
+        <link href="https://www.youtube.com/watch?v=CBVV9ikpKDg"/>
+        <updated>2026-11-27T14:00:32.000Z</updated>
+        <author>
+            <name>MoneyZG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Fibonacci Extensions Tool (Easy Guide)]]></title>
         <id>https://www.youtube.com/watch?v=LJQKfLki_Bo</id>
@@ -244,24 +271,6 @@
         <id>https://www.youtube.com/watch?v=ibg0L3hPMi0</id>
         <link href="https://www.youtube.com/watch?v=ibg0L3hPMi0"/>
         <updated>2026-11-03T08:48:39.000Z</updated>
-        <author>
-            <name>链求君</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto.com Recurring Buy Tutorial (How to Setup Recurring Buy)]]></title>
-        <id>https://www.youtube.com/watch?v=WRi-iMN0Ras</id>
-        <link href="https://www.youtube.com/watch?v=WRi-iMN0Ras"/>
-        <updated>2026-11-02T14:00:06.000Z</updated>
-        <author>
-            <name>MoneyZG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让美股上链交易的 6 个顶级平台！  BNB 新链不是只拼性能：为什么合规才是链上美股的真正门槛？]]></title>
-        <id>https://www.youtube.com/watch?v=6d_LHcgWHqU</id>
-        <link href="https://www.youtube.com/watch?v=6d_LHcgWHqU"/>
-        <updated>2026-10-29T04:11:41.000Z</updated>
         <author>
             <name>链求君</name>
         </author>
